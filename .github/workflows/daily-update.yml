@@ -1,0 +1,31 @@
+name: Daily CBB results
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 10 * 11,12,1,2,3,4 *' # 5:15 EST, 6:15 EDT
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests
+      - name: Sync recent games
+        run: |
+          python - <<'PY'
+          from datetime import datetime,timedelta,timezone
+          import subprocess
+          today=datetime.now(timezone.utc).date()
+          start=today-timedelta(days=5)
+          subprocess.check_call(['python','scripts/sync_espn.py','--start',str(start),'--end',str(today)])
+          PY
+      - name: Commit results if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/games_live.csv
+          if ! git diff --cached --quiet; then git commit -m "Update college basketball results" && git push; fi
