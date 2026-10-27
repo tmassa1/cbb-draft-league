@@ -1,0 +1,6 @@
+{
+  "regular": {"win": 2, "loss": -1},
+  "conference": {"win": 2, "loss": -1},
+  "ncaa": {"win": 3, "loss": 0},
+  "final_four": {"win": 5, "loss": 0}
+}
