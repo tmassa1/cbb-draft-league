@@ -67,13 +67,13 @@ if page.startswith('🏆'):
     if not daily.empty:
         st.subheader('Points race')
         top = managers.head(6).manager.tolist()
-points = daily.pivot(
-    index='date', columns='manager', values='points'
-).reindex(columns=top, fill_value=0).fillna(0).sort_index().cumsum().reset_index()
-chart_data = points.melt(
-    id_vars='date', value_vars=top,
-    var_name='Manager', value_name='Points'
-)
+        points = daily.pivot(
+            index='date', columns='manager', values='points'
+        ).reindex(columns=top, fill_value=0).fillna(0).sort_index().cumsum().reset_index()
+        chart_data = points.melt(
+            id_vars='date', value_vars=top,
+            var_name='Manager', value_name='Points'
+        )
         st.altair_chart(alt.Chart(chart_data).mark_line(strokeWidth=3).encode(x=alt.X('date:T',title='Date'),y=alt.Y('Points:Q'),color='Manager:N',tooltip=['date:T','Manager:N','Points:Q']).properties(height=300).interactive(),use_container_width=True)
     st.subheader('Latest scoring activity')
     if detail.empty:
