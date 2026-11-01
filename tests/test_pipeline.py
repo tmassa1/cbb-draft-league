@@ -16,7 +16,7 @@ class PipelineTests(unittest.TestCase):
         self.assertEqual(score_games(pd.DataFrame([{'game_id':'game1','team':'Duke','date':'2026-11-20','result':'L','phase':'regular'}])).points.tolist(),[-1])
 
     def test_draft_rejects_duplicate_school(self):
-        rows=[{'manager':f'Manager {i//6+1}','pick':str(i+1),'team':f'School {i}','espn_id':str(i+1)} for i in range(108)]
+        rows=[{'manager':f'Manager {i//6+1}','pick':str(i+1),'team':f'School {i}','espn_id':str(i+1),'conference':'ACC'} for i in range(78)]
         self.assertEqual(validate(rows,require_ids=True),[])
         rows[1]['team']=rows[0]['team']
         self.assertTrue(any('team' in e.lower() for e in validate(rows,require_ids=True)))

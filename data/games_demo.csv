@@ -1,1217 +1,781 @@
 game_id,date,team,opponent,result,phase,source
-MOCK-000-00,2026-11-06,Stanford,Demo Opponent,W,regular,demo
-MOCK-000-01,2026-11-07,Stanford,Demo Opponent,W,regular,demo
-MOCK-000-02,2026-11-10,Stanford,Demo Opponent,W,regular,demo
-MOCK-000-03,2026-11-15,Stanford,Demo Opponent,W,regular,demo
-MOCK-000-04,2026-11-20,Stanford,Demo Opponent,W,regular,demo
-MOCK-000-05,2026-11-23,Stanford,Demo Opponent,W,regular,demo
-MOCK-000-06,2026-11-27,Stanford,Demo Opponent,W,regular,demo
-MOCK-000-07,2026-12-02,Stanford,Demo Opponent,W,regular,demo
-MOCK-000-08,2026-12-03,Stanford,Demo Opponent,W,regular,demo
-MOCK-000-09,2026-12-05,Stanford,Demo Opponent,L,regular,demo
-MOCK-000-10,2026-12-07,Stanford,Demo Opponent,W,regular,demo
-MOCK-000-11,2026-12-11,Stanford,Demo Opponent,W,regular,demo
-MOCK-000-12,2026-12-14,Stanford,Demo Opponent,W,regular,demo
-MOCK-000-13,2026-12-15,Stanford,Demo Opponent,W,regular,demo
-MOCK-001-00,2026-11-08,Davidson,Demo Opponent,W,regular,demo
-MOCK-001-01,2026-11-16,Davidson,Demo Opponent,W,regular,demo
-MOCK-001-02,2026-11-20,Davidson,Demo Opponent,L,regular,demo
-MOCK-001-03,2026-11-24,Davidson,Demo Opponent,W,regular,demo
-MOCK-001-04,2026-12-02,Davidson,Demo Opponent,W,regular,demo
-MOCK-001-05,2026-12-03,Davidson,Demo Opponent,L,regular,demo
-MOCK-001-06,2026-12-06,Davidson,Demo Opponent,W,regular,demo
-MOCK-001-07,2026-12-08,Davidson,Demo Opponent,W,regular,demo
-MOCK-001-08,2026-12-09,Davidson,Demo Opponent,W,regular,demo
-MOCK-001-09,2026-12-11,Davidson,Demo Opponent,L,regular,demo
-MOCK-001-10,2026-12-14,Davidson,Demo Opponent,L,regular,demo
-MOCK-002-00,2026-11-04,George Mason,Demo Opponent,W,regular,demo
-MOCK-002-01,2026-11-08,George Mason,Demo Opponent,W,regular,demo
-MOCK-002-02,2026-11-15,George Mason,Demo Opponent,L,regular,demo
-MOCK-002-03,2026-11-20,George Mason,Demo Opponent,W,regular,demo
-MOCK-002-04,2026-11-21,George Mason,Demo Opponent,W,regular,demo
-MOCK-002-05,2026-11-28,George Mason,Demo Opponent,W,regular,demo
-MOCK-002-06,2026-12-04,George Mason,Demo Opponent,W,regular,demo
-MOCK-002-07,2026-12-07,George Mason,Demo Opponent,W,regular,demo
-MOCK-002-08,2026-12-10,George Mason,Demo Opponent,W,regular,demo
-MOCK-002-09,2026-12-13,George Mason,Demo Opponent,W,regular,demo
-MOCK-003-00,2026-11-03,Clemson,Demo Opponent,W,regular,demo
-MOCK-003-01,2026-11-10,Clemson,Demo Opponent,W,regular,demo
-MOCK-003-02,2026-11-27,Clemson,Demo Opponent,W,regular,demo
-MOCK-003-03,2026-11-28,Clemson,Demo Opponent,W,regular,demo
-MOCK-003-04,2026-12-03,Clemson,Demo Opponent,L,regular,demo
-MOCK-003-05,2026-12-05,Clemson,Demo Opponent,L,regular,demo
-MOCK-003-06,2026-12-06,Clemson,Demo Opponent,L,regular,demo
-MOCK-003-07,2026-12-08,Clemson,Demo Opponent,W,regular,demo
-MOCK-003-08,2026-12-10,Clemson,Demo Opponent,W,regular,demo
-MOCK-004-00,2026-11-06,Virginia Tech,Demo Opponent,W,regular,demo
-MOCK-004-01,2026-11-10,Virginia Tech,Demo Opponent,L,regular,demo
-MOCK-004-02,2026-11-11,Virginia Tech,Demo Opponent,W,regular,demo
-MOCK-004-03,2026-11-15,Virginia Tech,Demo Opponent,W,regular,demo
-MOCK-004-04,2026-11-19,Virginia Tech,Demo Opponent,W,regular,demo
-MOCK-004-05,2026-11-23,Virginia Tech,Demo Opponent,L,regular,demo
-MOCK-004-06,2026-11-24,Virginia Tech,Demo Opponent,W,regular,demo
-MOCK-004-07,2026-11-27,Virginia Tech,Demo Opponent,W,regular,demo
-MOCK-004-08,2026-11-28,Virginia Tech,Demo Opponent,W,regular,demo
-MOCK-004-09,2026-12-06,Virginia Tech,Demo Opponent,W,regular,demo
-MOCK-004-10,2026-12-09,Virginia Tech,Demo Opponent,W,regular,demo
-MOCK-004-11,2026-12-11,Virginia Tech,Demo Opponent,L,regular,demo
-MOCK-004-12,2026-12-15,Virginia Tech,Demo Opponent,W,regular,demo
-MOCK-005-00,2026-11-04,Virginia,Demo Opponent,W,regular,demo
-MOCK-005-01,2026-11-11,Virginia,Demo Opponent,W,regular,demo
-MOCK-005-02,2026-11-15,Virginia,Demo Opponent,W,regular,demo
-MOCK-005-03,2026-11-22,Virginia,Demo Opponent,W,regular,demo
-MOCK-005-04,2026-11-25,Virginia,Demo Opponent,L,regular,demo
-MOCK-005-05,2026-11-26,Virginia,Demo Opponent,W,regular,demo
-MOCK-005-06,2026-11-27,Virginia,Demo Opponent,W,regular,demo
-MOCK-005-07,2026-11-28,Virginia,Demo Opponent,W,regular,demo
-MOCK-005-08,2026-12-09,Virginia,Demo Opponent,W,regular,demo
-MOCK-005-09,2026-12-10,Virginia,Demo Opponent,W,regular,demo
-MOCK-005-10,2026-12-11,Virginia,Demo Opponent,W,regular,demo
-MOCK-005-11,2026-12-13,Virginia,Demo Opponent,W,regular,demo
-MOCK-005-12,2026-12-14,Virginia,Demo Opponent,W,regular,demo
-MOCK-005-13,2026-12-15,Virginia,Demo Opponent,W,regular,demo
-MOCK-006-00,2026-11-04,Saint Joseph's,Demo Opponent,W,regular,demo
-MOCK-006-01,2026-11-09,Saint Joseph's,Demo Opponent,W,regular,demo
-MOCK-006-02,2026-11-10,Saint Joseph's,Demo Opponent,L,regular,demo
-MOCK-006-03,2026-11-11,Saint Joseph's,Demo Opponent,L,regular,demo
-MOCK-006-04,2026-11-22,Saint Joseph's,Demo Opponent,W,regular,demo
-MOCK-006-05,2026-11-25,Saint Joseph's,Demo Opponent,W,regular,demo
-MOCK-006-06,2026-12-09,Saint Joseph's,Demo Opponent,W,regular,demo
-MOCK-006-07,2026-12-11,Saint Joseph's,Demo Opponent,L,regular,demo
-MOCK-006-08,2026-12-15,Saint Joseph's,Demo Opponent,W,regular,demo
-MOCK-007-00,2026-11-05,Rhode Island,Demo Opponent,W,regular,demo
-MOCK-007-01,2026-11-09,Rhode Island,Demo Opponent,L,regular,demo
-MOCK-007-02,2026-11-22,Rhode Island,Demo Opponent,W,regular,demo
-MOCK-007-03,2026-11-25,Rhode Island,Demo Opponent,W,regular,demo
-MOCK-007-04,2026-11-28,Rhode Island,Demo Opponent,W,regular,demo
-MOCK-007-05,2026-12-02,Rhode Island,Demo Opponent,W,regular,demo
-MOCK-007-06,2026-12-04,Rhode Island,Demo Opponent,L,regular,demo
-MOCK-007-07,2026-12-05,Rhode Island,Demo Opponent,W,regular,demo
-MOCK-007-08,2026-12-08,Rhode Island,Demo Opponent,W,regular,demo
-MOCK-007-09,2026-12-11,Rhode Island,Demo Opponent,L,regular,demo
-MOCK-007-10,2026-12-14,Rhode Island,Demo Opponent,W,regular,demo
-MOCK-007-11,2026-12-15,Rhode Island,Demo Opponent,W,regular,demo
-MOCK-008-00,2026-11-06,Richmond,Demo Opponent,W,regular,demo
-MOCK-008-01,2026-11-08,Richmond,Demo Opponent,W,regular,demo
-MOCK-008-02,2026-11-09,Richmond,Demo Opponent,W,regular,demo
-MOCK-008-03,2026-11-16,Richmond,Demo Opponent,W,regular,demo
-MOCK-008-04,2026-11-23,Richmond,Demo Opponent,W,regular,demo
-MOCK-008-05,2026-11-24,Richmond,Demo Opponent,W,regular,demo
-MOCK-008-06,2026-11-25,Richmond,Demo Opponent,W,regular,demo
-MOCK-008-07,2026-12-01,Richmond,Demo Opponent,W,regular,demo
-MOCK-008-08,2026-12-02,Richmond,Demo Opponent,W,regular,demo
-MOCK-008-09,2026-12-04,Richmond,Demo Opponent,W,regular,demo
-MOCK-008-10,2026-12-06,Richmond,Demo Opponent,W,regular,demo
-MOCK-008-11,2026-12-07,Richmond,Demo Opponent,W,regular,demo
-MOCK-008-12,2026-12-12,Richmond,Demo Opponent,W,regular,demo
-MOCK-009-00,2026-11-04,La Salle,Demo Opponent,W,regular,demo
-MOCK-009-01,2026-11-07,La Salle,Demo Opponent,W,regular,demo
-MOCK-009-02,2026-11-12,La Salle,Demo Opponent,W,regular,demo
-MOCK-009-03,2026-11-16,La Salle,Demo Opponent,W,regular,demo
-MOCK-009-04,2026-11-17,La Salle,Demo Opponent,W,regular,demo
-MOCK-009-05,2026-11-18,La Salle,Demo Opponent,W,regular,demo
-MOCK-009-06,2026-11-24,La Salle,Demo Opponent,W,regular,demo
-MOCK-009-07,2026-11-28,La Salle,Demo Opponent,W,regular,demo
-MOCK-009-08,2026-11-29,La Salle,Demo Opponent,W,regular,demo
-MOCK-009-09,2026-11-30,La Salle,Demo Opponent,W,regular,demo
-MOCK-009-10,2026-12-12,La Salle,Demo Opponent,W,regular,demo
-MOCK-010-00,2026-11-04,Tulane,Demo Opponent,L,regular,demo
-MOCK-010-01,2026-11-08,Tulane,Demo Opponent,W,regular,demo
-MOCK-010-02,2026-11-16,Tulane,Demo Opponent,L,regular,demo
-MOCK-010-03,2026-11-18,Tulane,Demo Opponent,W,regular,demo
-MOCK-010-04,2026-11-25,Tulane,Demo Opponent,W,regular,demo
-MOCK-010-05,2026-12-02,Tulane,Demo Opponent,L,regular,demo
-MOCK-010-06,2026-12-06,Tulane,Demo Opponent,W,regular,demo
-MOCK-010-07,2026-12-10,Tulane,Demo Opponent,L,regular,demo
-MOCK-010-08,2026-12-13,Tulane,Demo Opponent,W,regular,demo
-MOCK-011-00,2026-11-04,George Washington,Demo Opponent,W,regular,demo
-MOCK-011-01,2026-11-06,George Washington,Demo Opponent,W,regular,demo
-MOCK-011-02,2026-11-18,George Washington,Demo Opponent,W,regular,demo
-MOCK-011-03,2026-11-20,George Washington,Demo Opponent,W,regular,demo
-MOCK-011-04,2026-11-21,George Washington,Demo Opponent,L,regular,demo
-MOCK-011-05,2026-11-27,George Washington,Demo Opponent,W,regular,demo
-MOCK-011-06,2026-12-02,George Washington,Demo Opponent,W,regular,demo
-MOCK-011-07,2026-12-03,George Washington,Demo Opponent,L,regular,demo
-MOCK-011-08,2026-12-09,George Washington,Demo Opponent,W,regular,demo
-MOCK-011-09,2026-12-10,George Washington,Demo Opponent,W,regular,demo
-MOCK-011-10,2026-12-12,George Washington,Demo Opponent,W,regular,demo
-MOCK-011-11,2026-12-13,George Washington,Demo Opponent,W,regular,demo
-MOCK-011-12,2026-12-14,George Washington,Demo Opponent,W,regular,demo
-MOCK-012-00,2026-11-03,Pacific,Demo Opponent,W,regular,demo
-MOCK-012-01,2026-11-06,Pacific,Demo Opponent,W,regular,demo
-MOCK-012-02,2026-11-11,Pacific,Demo Opponent,W,regular,demo
-MOCK-012-03,2026-11-12,Pacific,Demo Opponent,W,regular,demo
-MOCK-012-04,2026-11-18,Pacific,Demo Opponent,W,regular,demo
-MOCK-012-05,2026-11-20,Pacific,Demo Opponent,W,regular,demo
-MOCK-012-06,2026-11-23,Pacific,Demo Opponent,W,regular,demo
-MOCK-012-07,2026-11-27,Pacific,Demo Opponent,W,regular,demo
-MOCK-012-08,2026-11-29,Pacific,Demo Opponent,W,regular,demo
-MOCK-012-09,2026-12-03,Pacific,Demo Opponent,W,regular,demo
-MOCK-012-10,2026-12-08,Pacific,Demo Opponent,W,regular,demo
-MOCK-012-11,2026-12-09,Pacific,Demo Opponent,L,regular,demo
-MOCK-013-00,2026-11-04,Miami,Demo Opponent,L,regular,demo
-MOCK-013-01,2026-11-05,Miami,Demo Opponent,W,regular,demo
-MOCK-013-02,2026-11-07,Miami,Demo Opponent,L,regular,demo
-MOCK-013-03,2026-11-10,Miami,Demo Opponent,W,regular,demo
-MOCK-013-04,2026-11-15,Miami,Demo Opponent,W,regular,demo
-MOCK-013-05,2026-11-25,Miami,Demo Opponent,W,regular,demo
-MOCK-013-06,2026-11-28,Miami,Demo Opponent,W,regular,demo
-MOCK-013-07,2026-12-04,Miami,Demo Opponent,W,regular,demo
-MOCK-013-08,2026-12-06,Miami,Demo Opponent,W,regular,demo
-MOCK-013-09,2026-12-12,Miami,Demo Opponent,W,regular,demo
-MOCK-013-10,2026-12-15,Miami,Demo Opponent,L,regular,demo
-MOCK-014-00,2026-11-04,Oklahoma State,Demo Opponent,W,regular,demo
-MOCK-014-01,2026-11-05,Oklahoma State,Demo Opponent,W,regular,demo
-MOCK-014-02,2026-11-09,Oklahoma State,Demo Opponent,W,regular,demo
-MOCK-014-03,2026-11-18,Oklahoma State,Demo Opponent,W,regular,demo
-MOCK-014-04,2026-11-19,Oklahoma State,Demo Opponent,L,regular,demo
-MOCK-014-05,2026-11-24,Oklahoma State,Demo Opponent,W,regular,demo
-MOCK-014-06,2026-12-05,Oklahoma State,Demo Opponent,L,regular,demo
-MOCK-014-07,2026-12-06,Oklahoma State,Demo Opponent,W,regular,demo
-MOCK-014-08,2026-12-09,Oklahoma State,Demo Opponent,W,regular,demo
-MOCK-015-00,2026-11-05,St. Bonaventure,Demo Opponent,W,regular,demo
-MOCK-015-01,2026-11-07,St. Bonaventure,Demo Opponent,W,regular,demo
-MOCK-015-02,2026-11-08,St. Bonaventure,Demo Opponent,W,regular,demo
-MOCK-015-03,2026-11-09,St. Bonaventure,Demo Opponent,W,regular,demo
-MOCK-015-04,2026-11-25,St. Bonaventure,Demo Opponent,W,regular,demo
-MOCK-015-05,2026-12-02,St. Bonaventure,Demo Opponent,W,regular,demo
-MOCK-015-06,2026-12-09,St. Bonaventure,Demo Opponent,W,regular,demo
-MOCK-015-07,2026-12-14,St. Bonaventure,Demo Opponent,W,regular,demo
-MOCK-015-08,2026-12-15,St. Bonaventure,Demo Opponent,L,regular,demo
-MOCK-016-00,2026-11-05,Iowa,Demo Opponent,W,regular,demo
-MOCK-016-01,2026-11-06,Iowa,Demo Opponent,W,regular,demo
-MOCK-016-02,2026-11-07,Iowa,Demo Opponent,W,regular,demo
-MOCK-016-03,2026-11-10,Iowa,Demo Opponent,W,regular,demo
-MOCK-016-04,2026-11-15,Iowa,Demo Opponent,W,regular,demo
-MOCK-016-05,2026-11-16,Iowa,Demo Opponent,W,regular,demo
-MOCK-016-06,2026-11-18,Iowa,Demo Opponent,W,regular,demo
-MOCK-016-07,2026-11-22,Iowa,Demo Opponent,L,regular,demo
-MOCK-016-08,2026-11-29,Iowa,Demo Opponent,W,regular,demo
-MOCK-016-09,2026-11-30,Iowa,Demo Opponent,W,regular,demo
-MOCK-016-10,2026-12-01,Iowa,Demo Opponent,W,regular,demo
-MOCK-016-11,2026-12-05,Iowa,Demo Opponent,W,regular,demo
-MOCK-016-12,2026-12-06,Iowa,Demo Opponent,L,regular,demo
-MOCK-016-13,2026-12-12,Iowa,Demo Opponent,W,regular,demo
-MOCK-017-00,2026-11-06,South Florida,Demo Opponent,W,regular,demo
-MOCK-017-01,2026-11-11,South Florida,Demo Opponent,W,regular,demo
-MOCK-017-02,2026-11-13,South Florida,Demo Opponent,W,regular,demo
-MOCK-017-03,2026-11-14,South Florida,Demo Opponent,W,regular,demo
-MOCK-017-04,2026-11-16,South Florida,Demo Opponent,W,regular,demo
-MOCK-017-05,2026-11-24,South Florida,Demo Opponent,W,regular,demo
-MOCK-017-06,2026-11-27,South Florida,Demo Opponent,W,regular,demo
-MOCK-017-07,2026-12-05,South Florida,Demo Opponent,W,regular,demo
-MOCK-017-08,2026-12-12,South Florida,Demo Opponent,W,regular,demo
-MOCK-018-00,2026-11-03,San Francisco,Demo Opponent,W,regular,demo
-MOCK-018-01,2026-11-04,San Francisco,Demo Opponent,W,regular,demo
-MOCK-018-02,2026-11-09,San Francisco,Demo Opponent,W,regular,demo
-MOCK-018-03,2026-11-19,San Francisco,Demo Opponent,W,regular,demo
-MOCK-018-04,2026-11-21,San Francisco,Demo Opponent,W,regular,demo
-MOCK-018-05,2026-12-06,San Francisco,Demo Opponent,W,regular,demo
-MOCK-018-06,2026-12-07,San Francisco,Demo Opponent,W,regular,demo
-MOCK-018-07,2026-12-08,San Francisco,Demo Opponent,L,regular,demo
-MOCK-018-08,2026-12-13,San Francisco,Demo Opponent,L,regular,demo
-MOCK-019-00,2026-11-05,Boise State,Demo Opponent,W,regular,demo
-MOCK-019-01,2026-11-10,Boise State,Demo Opponent,W,regular,demo
-MOCK-019-02,2026-11-11,Boise State,Demo Opponent,W,regular,demo
-MOCK-019-03,2026-11-17,Boise State,Demo Opponent,W,regular,demo
-MOCK-019-04,2026-11-20,Boise State,Demo Opponent,W,regular,demo
-MOCK-019-05,2026-11-22,Boise State,Demo Opponent,W,regular,demo
-MOCK-019-06,2026-11-27,Boise State,Demo Opponent,W,regular,demo
-MOCK-019-07,2026-11-28,Boise State,Demo Opponent,W,regular,demo
-MOCK-019-08,2026-11-30,Boise State,Demo Opponent,W,regular,demo
-MOCK-019-09,2026-12-03,Boise State,Demo Opponent,W,regular,demo
-MOCK-019-10,2026-12-05,Boise State,Demo Opponent,W,regular,demo
-MOCK-019-11,2026-12-15,Boise State,Demo Opponent,W,regular,demo
-MOCK-020-00,2026-11-05,Boston College,Demo Opponent,W,regular,demo
-MOCK-020-01,2026-11-06,Boston College,Demo Opponent,W,regular,demo
-MOCK-020-02,2026-11-10,Boston College,Demo Opponent,W,regular,demo
-MOCK-020-03,2026-11-16,Boston College,Demo Opponent,W,regular,demo
-MOCK-020-04,2026-11-18,Boston College,Demo Opponent,W,regular,demo
-MOCK-020-05,2026-11-23,Boston College,Demo Opponent,L,regular,demo
-MOCK-020-06,2026-11-26,Boston College,Demo Opponent,L,regular,demo
-MOCK-020-07,2026-11-27,Boston College,Demo Opponent,W,regular,demo
-MOCK-020-08,2026-11-28,Boston College,Demo Opponent,W,regular,demo
-MOCK-020-09,2026-12-04,Boston College,Demo Opponent,W,regular,demo
-MOCK-020-10,2026-12-13,Boston College,Demo Opponent,W,regular,demo
-MOCK-021-00,2026-11-09,Charlotte,Demo Opponent,W,regular,demo
-MOCK-021-01,2026-11-11,Charlotte,Demo Opponent,W,regular,demo
-MOCK-021-02,2026-11-13,Charlotte,Demo Opponent,L,regular,demo
-MOCK-021-03,2026-11-18,Charlotte,Demo Opponent,L,regular,demo
-MOCK-021-04,2026-11-22,Charlotte,Demo Opponent,W,regular,demo
-MOCK-021-05,2026-11-23,Charlotte,Demo Opponent,W,regular,demo
-MOCK-021-06,2026-11-27,Charlotte,Demo Opponent,W,regular,demo
-MOCK-021-07,2026-12-01,Charlotte,Demo Opponent,W,regular,demo
-MOCK-021-08,2026-12-13,Charlotte,Demo Opponent,W,regular,demo
-MOCK-022-00,2026-11-05,Pepperdine,Demo Opponent,W,regular,demo
-MOCK-022-01,2026-11-08,Pepperdine,Demo Opponent,L,regular,demo
-MOCK-022-02,2026-11-13,Pepperdine,Demo Opponent,W,regular,demo
-MOCK-022-03,2026-11-17,Pepperdine,Demo Opponent,W,regular,demo
-MOCK-022-04,2026-11-19,Pepperdine,Demo Opponent,W,regular,demo
-MOCK-022-05,2026-12-04,Pepperdine,Demo Opponent,W,regular,demo
-MOCK-022-06,2026-12-10,Pepperdine,Demo Opponent,L,regular,demo
-MOCK-022-07,2026-12-11,Pepperdine,Demo Opponent,W,regular,demo
-MOCK-022-08,2026-12-12,Pepperdine,Demo Opponent,W,regular,demo
-MOCK-022-09,2026-12-14,Pepperdine,Demo Opponent,W,regular,demo
-MOCK-022-10,2026-12-15,Pepperdine,Demo Opponent,W,regular,demo
-MOCK-023-00,2026-11-15,Michigan,Demo Opponent,W,regular,demo
-MOCK-023-01,2026-11-17,Michigan,Demo Opponent,L,regular,demo
-MOCK-023-02,2026-11-18,Michigan,Demo Opponent,L,regular,demo
-MOCK-023-03,2026-11-19,Michigan,Demo Opponent,W,regular,demo
-MOCK-023-04,2026-11-23,Michigan,Demo Opponent,W,regular,demo
-MOCK-023-05,2026-11-29,Michigan,Demo Opponent,W,regular,demo
-MOCK-023-06,2026-12-07,Michigan,Demo Opponent,W,regular,demo
-MOCK-023-07,2026-12-10,Michigan,Demo Opponent,W,regular,demo
-MOCK-023-08,2026-12-11,Michigan,Demo Opponent,L,regular,demo
-MOCK-024-00,2026-11-03,UConn,Demo Opponent,W,regular,demo
-MOCK-024-01,2026-11-04,UConn,Demo Opponent,W,regular,demo
-MOCK-024-02,2026-11-07,UConn,Demo Opponent,W,regular,demo
-MOCK-024-03,2026-11-15,UConn,Demo Opponent,W,regular,demo
-MOCK-024-04,2026-11-17,UConn,Demo Opponent,W,regular,demo
-MOCK-024-05,2026-11-19,UConn,Demo Opponent,W,regular,demo
-MOCK-024-06,2026-11-23,UConn,Demo Opponent,W,regular,demo
-MOCK-024-07,2026-11-27,UConn,Demo Opponent,W,regular,demo
-MOCK-024-08,2026-11-30,UConn,Demo Opponent,W,regular,demo
-MOCK-024-09,2026-12-02,UConn,Demo Opponent,W,regular,demo
-MOCK-024-10,2026-12-03,UConn,Demo Opponent,L,regular,demo
-MOCK-024-11,2026-12-04,UConn,Demo Opponent,L,regular,demo
-MOCK-024-12,2026-12-09,UConn,Demo Opponent,W,regular,demo
-MOCK-024-13,2026-12-10,UConn,Demo Opponent,L,regular,demo
-MOCK-025-00,2026-11-05,UCF,Demo Opponent,W,regular,demo
-MOCK-025-01,2026-11-06,UCF,Demo Opponent,W,regular,demo
-MOCK-025-02,2026-11-07,UCF,Demo Opponent,W,regular,demo
-MOCK-025-03,2026-11-08,UCF,Demo Opponent,W,regular,demo
-MOCK-025-04,2026-11-10,UCF,Demo Opponent,W,regular,demo
-MOCK-025-05,2026-11-15,UCF,Demo Opponent,W,regular,demo
-MOCK-025-06,2026-11-20,UCF,Demo Opponent,W,regular,demo
-MOCK-025-07,2026-11-23,UCF,Demo Opponent,W,regular,demo
-MOCK-025-08,2026-12-02,UCF,Demo Opponent,W,regular,demo
-MOCK-025-09,2026-12-08,UCF,Demo Opponent,W,regular,demo
-MOCK-025-10,2026-12-14,UCF,Demo Opponent,W,regular,demo
-MOCK-026-00,2026-11-08,Arkansas,Demo Opponent,W,regular,demo
-MOCK-026-01,2026-11-12,Arkansas,Demo Opponent,W,regular,demo
-MOCK-026-02,2026-11-16,Arkansas,Demo Opponent,W,regular,demo
-MOCK-026-03,2026-11-19,Arkansas,Demo Opponent,W,regular,demo
-MOCK-026-04,2026-11-23,Arkansas,Demo Opponent,W,regular,demo
-MOCK-026-05,2026-11-26,Arkansas,Demo Opponent,W,regular,demo
-MOCK-026-06,2026-11-27,Arkansas,Demo Opponent,W,regular,demo
-MOCK-026-07,2026-11-29,Arkansas,Demo Opponent,W,regular,demo
-MOCK-026-08,2026-12-01,Arkansas,Demo Opponent,W,regular,demo
-MOCK-026-09,2026-12-02,Arkansas,Demo Opponent,L,regular,demo
-MOCK-026-10,2026-12-10,Arkansas,Demo Opponent,W,regular,demo
-MOCK-027-00,2026-11-04,SMU,Demo Opponent,L,regular,demo
-MOCK-027-01,2026-11-06,SMU,Demo Opponent,W,regular,demo
-MOCK-027-02,2026-11-07,SMU,Demo Opponent,W,regular,demo
-MOCK-027-03,2026-11-08,SMU,Demo Opponent,W,regular,demo
-MOCK-027-04,2026-11-14,SMU,Demo Opponent,W,regular,demo
-MOCK-027-05,2026-11-15,SMU,Demo Opponent,L,regular,demo
-MOCK-027-06,2026-11-17,SMU,Demo Opponent,W,regular,demo
-MOCK-027-07,2026-11-25,SMU,Demo Opponent,W,regular,demo
-MOCK-027-08,2026-11-28,SMU,Demo Opponent,W,regular,demo
-MOCK-027-09,2026-12-01,SMU,Demo Opponent,W,regular,demo
-MOCK-027-10,2026-12-07,SMU,Demo Opponent,L,regular,demo
-MOCK-027-11,2026-12-10,SMU,Demo Opponent,W,regular,demo
-MOCK-027-12,2026-12-15,SMU,Demo Opponent,W,regular,demo
-MOCK-028-00,2026-11-04,Wichita State,Demo Opponent,W,regular,demo
-MOCK-028-01,2026-11-05,Wichita State,Demo Opponent,L,regular,demo
-MOCK-028-02,2026-11-12,Wichita State,Demo Opponent,L,regular,demo
-MOCK-028-03,2026-11-13,Wichita State,Demo Opponent,W,regular,demo
-MOCK-028-04,2026-11-22,Wichita State,Demo Opponent,W,regular,demo
-MOCK-028-05,2026-11-25,Wichita State,Demo Opponent,L,regular,demo
-MOCK-028-06,2026-12-01,Wichita State,Demo Opponent,W,regular,demo
-MOCK-028-07,2026-12-03,Wichita State,Demo Opponent,W,regular,demo
-MOCK-028-08,2026-12-07,Wichita State,Demo Opponent,W,regular,demo
-MOCK-028-09,2026-12-08,Wichita State,Demo Opponent,L,regular,demo
-MOCK-028-10,2026-12-12,Wichita State,Demo Opponent,W,regular,demo
-MOCK-028-11,2026-12-13,Wichita State,Demo Opponent,L,regular,demo
-MOCK-028-12,2026-12-14,Wichita State,Demo Opponent,L,regular,demo
-MOCK-029-00,2026-11-03,Georgia,Demo Opponent,L,regular,demo
-MOCK-029-01,2026-11-07,Georgia,Demo Opponent,W,regular,demo
-MOCK-029-02,2026-11-13,Georgia,Demo Opponent,W,regular,demo
-MOCK-029-03,2026-11-21,Georgia,Demo Opponent,L,regular,demo
-MOCK-029-04,2026-11-24,Georgia,Demo Opponent,L,regular,demo
-MOCK-029-05,2026-11-26,Georgia,Demo Opponent,W,regular,demo
-MOCK-029-06,2026-11-27,Georgia,Demo Opponent,L,regular,demo
-MOCK-029-07,2026-11-28,Georgia,Demo Opponent,W,regular,demo
-MOCK-029-08,2026-11-29,Georgia,Demo Opponent,W,regular,demo
-MOCK-029-09,2026-11-30,Georgia,Demo Opponent,L,regular,demo
-MOCK-029-10,2026-12-01,Georgia,Demo Opponent,W,regular,demo
-MOCK-029-11,2026-12-02,Georgia,Demo Opponent,L,regular,demo
-MOCK-029-12,2026-12-09,Georgia,Demo Opponent,W,regular,demo
-MOCK-029-13,2026-12-14,Georgia,Demo Opponent,W,regular,demo
-MOCK-030-00,2026-11-12,Alabama,Demo Opponent,L,regular,demo
-MOCK-030-01,2026-11-14,Alabama,Demo Opponent,W,regular,demo
-MOCK-030-02,2026-11-25,Alabama,Demo Opponent,L,regular,demo
-MOCK-030-03,2026-11-27,Alabama,Demo Opponent,L,regular,demo
-MOCK-030-04,2026-11-28,Alabama,Demo Opponent,W,regular,demo
-MOCK-030-05,2026-12-02,Alabama,Demo Opponent,L,regular,demo
-MOCK-030-06,2026-12-03,Alabama,Demo Opponent,W,regular,demo
-MOCK-030-07,2026-12-09,Alabama,Demo Opponent,W,regular,demo
-MOCK-030-08,2026-12-10,Alabama,Demo Opponent,W,regular,demo
-MOCK-031-00,2026-11-06,FAU,Demo Opponent,W,regular,demo
-MOCK-031-01,2026-11-18,FAU,Demo Opponent,W,regular,demo
-MOCK-031-02,2026-11-25,FAU,Demo Opponent,W,regular,demo
-MOCK-031-03,2026-11-27,FAU,Demo Opponent,W,regular,demo
-MOCK-031-04,2026-11-30,FAU,Demo Opponent,W,regular,demo
-MOCK-031-05,2026-12-02,FAU,Demo Opponent,W,regular,demo
-MOCK-031-06,2026-12-03,FAU,Demo Opponent,W,regular,demo
-MOCK-031-07,2026-12-06,FAU,Demo Opponent,L,regular,demo
-MOCK-031-08,2026-12-07,FAU,Demo Opponent,W,regular,demo
-MOCK-031-09,2026-12-10,FAU,Demo Opponent,L,regular,demo
-MOCK-031-10,2026-12-12,FAU,Demo Opponent,W,regular,demo
-MOCK-031-11,2026-12-15,FAU,Demo Opponent,L,regular,demo
-MOCK-032-00,2026-11-03,Oregon,Demo Opponent,W,regular,demo
-MOCK-032-01,2026-11-09,Oregon,Demo Opponent,W,regular,demo
-MOCK-032-02,2026-11-10,Oregon,Demo Opponent,W,regular,demo
-MOCK-032-03,2026-11-12,Oregon,Demo Opponent,L,regular,demo
-MOCK-032-04,2026-11-16,Oregon,Demo Opponent,W,regular,demo
-MOCK-032-05,2026-11-20,Oregon,Demo Opponent,L,regular,demo
-MOCK-032-06,2026-11-21,Oregon,Demo Opponent,L,regular,demo
-MOCK-032-07,2026-11-22,Oregon,Demo Opponent,L,regular,demo
-MOCK-032-08,2026-12-04,Oregon,Demo Opponent,L,regular,demo
-MOCK-032-09,2026-12-11,Oregon,Demo Opponent,W,regular,demo
-MOCK-032-10,2026-12-14,Oregon,Demo Opponent,W,regular,demo
-MOCK-032-11,2026-12-15,Oregon,Demo Opponent,L,regular,demo
-MOCK-033-00,2026-11-05,Loyola Marymount,Demo Opponent,W,regular,demo
-MOCK-033-01,2026-11-06,Loyola Marymount,Demo Opponent,W,regular,demo
-MOCK-033-02,2026-11-17,Loyola Marymount,Demo Opponent,L,regular,demo
-MOCK-033-03,2026-11-18,Loyola Marymount,Demo Opponent,W,regular,demo
-MOCK-033-04,2026-11-25,Loyola Marymount,Demo Opponent,W,regular,demo
-MOCK-033-05,2026-11-27,Loyola Marymount,Demo Opponent,L,regular,demo
-MOCK-033-06,2026-12-01,Loyola Marymount,Demo Opponent,W,regular,demo
-MOCK-033-07,2026-12-02,Loyola Marymount,Demo Opponent,W,regular,demo
-MOCK-033-08,2026-12-03,Loyola Marymount,Demo Opponent,W,regular,demo
-MOCK-033-09,2026-12-10,Loyola Marymount,Demo Opponent,L,regular,demo
-MOCK-033-10,2026-12-12,Loyola Marymount,Demo Opponent,W,regular,demo
-MOCK-033-11,2026-12-13,Loyola Marymount,Demo Opponent,L,regular,demo
-MOCK-033-12,2026-12-15,Loyola Marymount,Demo Opponent,L,regular,demo
-MOCK-034-00,2026-11-07,UAB,Demo Opponent,W,regular,demo
-MOCK-034-01,2026-11-09,UAB,Demo Opponent,L,regular,demo
-MOCK-034-02,2026-11-10,UAB,Demo Opponent,L,regular,demo
-MOCK-034-03,2026-11-11,UAB,Demo Opponent,L,regular,demo
-MOCK-034-04,2026-11-14,UAB,Demo Opponent,L,regular,demo
-MOCK-034-05,2026-11-18,UAB,Demo Opponent,W,regular,demo
-MOCK-034-06,2026-11-27,UAB,Demo Opponent,L,regular,demo
-MOCK-034-07,2026-11-30,UAB,Demo Opponent,L,regular,demo
-MOCK-034-08,2026-12-08,UAB,Demo Opponent,L,regular,demo
-MOCK-034-09,2026-12-15,UAB,Demo Opponent,W,regular,demo
-MOCK-035-00,2026-11-05,VCU,Demo Opponent,L,regular,demo
-MOCK-035-01,2026-11-07,VCU,Demo Opponent,L,regular,demo
-MOCK-035-02,2026-11-10,VCU,Demo Opponent,W,regular,demo
-MOCK-035-03,2026-11-23,VCU,Demo Opponent,W,regular,demo
-MOCK-035-04,2026-11-24,VCU,Demo Opponent,L,regular,demo
-MOCK-035-05,2026-11-26,VCU,Demo Opponent,L,regular,demo
-MOCK-035-06,2026-11-28,VCU,Demo Opponent,L,regular,demo
-MOCK-035-07,2026-12-04,VCU,Demo Opponent,W,regular,demo
-MOCK-035-08,2026-12-05,VCU,Demo Opponent,L,regular,demo
-MOCK-035-09,2026-12-10,VCU,Demo Opponent,W,regular,demo
-MOCK-035-10,2026-12-12,VCU,Demo Opponent,W,regular,demo
-MOCK-035-11,2026-12-14,VCU,Demo Opponent,L,regular,demo
-MOCK-036-00,2026-11-07,Pittsburgh,Demo Opponent,L,regular,demo
-MOCK-036-01,2026-11-10,Pittsburgh,Demo Opponent,L,regular,demo
-MOCK-036-02,2026-11-16,Pittsburgh,Demo Opponent,W,regular,demo
-MOCK-036-03,2026-11-20,Pittsburgh,Demo Opponent,L,regular,demo
-MOCK-036-04,2026-11-24,Pittsburgh,Demo Opponent,W,regular,demo
-MOCK-036-05,2026-11-26,Pittsburgh,Demo Opponent,W,regular,demo
-MOCK-036-06,2026-11-27,Pittsburgh,Demo Opponent,L,regular,demo
-MOCK-036-07,2026-12-04,Pittsburgh,Demo Opponent,L,regular,demo
-MOCK-036-08,2026-12-05,Pittsburgh,Demo Opponent,L,regular,demo
-MOCK-036-09,2026-12-07,Pittsburgh,Demo Opponent,L,regular,demo
-MOCK-036-10,2026-12-12,Pittsburgh,Demo Opponent,L,regular,demo
-MOCK-036-11,2026-12-13,Pittsburgh,Demo Opponent,W,regular,demo
-MOCK-036-12,2026-12-15,Pittsburgh,Demo Opponent,W,regular,demo
-MOCK-037-00,2026-11-06,Illinois,Demo Opponent,L,regular,demo
-MOCK-037-01,2026-11-07,Illinois,Demo Opponent,W,regular,demo
-MOCK-037-02,2026-11-09,Illinois,Demo Opponent,W,regular,demo
-MOCK-037-03,2026-11-13,Illinois,Demo Opponent,L,regular,demo
-MOCK-037-04,2026-11-16,Illinois,Demo Opponent,L,regular,demo
-MOCK-037-05,2026-11-17,Illinois,Demo Opponent,W,regular,demo
-MOCK-037-06,2026-11-20,Illinois,Demo Opponent,L,regular,demo
-MOCK-037-07,2026-11-22,Illinois,Demo Opponent,L,regular,demo
-MOCK-037-08,2026-11-28,Illinois,Demo Opponent,W,regular,demo
-MOCK-037-09,2026-12-03,Illinois,Demo Opponent,L,regular,demo
-MOCK-037-10,2026-12-06,Illinois,Demo Opponent,W,regular,demo
-MOCK-037-11,2026-12-11,Illinois,Demo Opponent,W,regular,demo
-MOCK-037-12,2026-12-13,Illinois,Demo Opponent,W,regular,demo
-MOCK-037-13,2026-12-15,Illinois,Demo Opponent,W,regular,demo
-MOCK-038-00,2026-11-03,San Diego State,Demo Opponent,W,regular,demo
-MOCK-038-01,2026-11-04,San Diego State,Demo Opponent,L,regular,demo
-MOCK-038-02,2026-11-10,San Diego State,Demo Opponent,L,regular,demo
-MOCK-038-03,2026-11-26,San Diego State,Demo Opponent,L,regular,demo
-MOCK-038-04,2026-11-27,San Diego State,Demo Opponent,L,regular,demo
-MOCK-038-05,2026-11-28,San Diego State,Demo Opponent,W,regular,demo
-MOCK-038-06,2026-12-06,San Diego State,Demo Opponent,W,regular,demo
-MOCK-038-07,2026-12-11,San Diego State,Demo Opponent,L,regular,demo
-MOCK-038-08,2026-12-13,San Diego State,Demo Opponent,W,regular,demo
-MOCK-039-00,2026-11-09,Mississippi State,Demo Opponent,L,regular,demo
-MOCK-039-01,2026-11-15,Mississippi State,Demo Opponent,L,regular,demo
-MOCK-039-02,2026-11-16,Mississippi State,Demo Opponent,L,regular,demo
-MOCK-039-03,2026-11-19,Mississippi State,Demo Opponent,W,regular,demo
-MOCK-039-04,2026-11-25,Mississippi State,Demo Opponent,L,regular,demo
-MOCK-039-05,2026-11-26,Mississippi State,Demo Opponent,L,regular,demo
-MOCK-039-06,2026-11-27,Mississippi State,Demo Opponent,W,regular,demo
-MOCK-039-07,2026-11-28,Mississippi State,Demo Opponent,W,regular,demo
-MOCK-039-08,2026-11-30,Mississippi State,Demo Opponent,L,regular,demo
-MOCK-039-09,2026-12-02,Mississippi State,Demo Opponent,W,regular,demo
-MOCK-039-10,2026-12-03,Mississippi State,Demo Opponent,L,regular,demo
-MOCK-039-11,2026-12-06,Mississippi State,Demo Opponent,W,regular,demo
-MOCK-039-12,2026-12-08,Mississippi State,Demo Opponent,L,regular,demo
-MOCK-039-13,2026-12-12,Mississippi State,Demo Opponent,W,regular,demo
-MOCK-040-00,2026-11-05,Loyola Chicago,Demo Opponent,L,regular,demo
-MOCK-040-01,2026-11-13,Loyola Chicago,Demo Opponent,W,regular,demo
-MOCK-040-02,2026-11-15,Loyola Chicago,Demo Opponent,L,regular,demo
-MOCK-040-03,2026-11-20,Loyola Chicago,Demo Opponent,L,regular,demo
-MOCK-040-04,2026-11-24,Loyola Chicago,Demo Opponent,L,regular,demo
-MOCK-040-05,2026-11-26,Loyola Chicago,Demo Opponent,W,regular,demo
-MOCK-040-06,2026-12-02,Loyola Chicago,Demo Opponent,L,regular,demo
-MOCK-040-07,2026-12-07,Loyola Chicago,Demo Opponent,L,regular,demo
-MOCK-040-08,2026-12-09,Loyola Chicago,Demo Opponent,L,regular,demo
-MOCK-040-09,2026-12-10,Loyola Chicago,Demo Opponent,W,regular,demo
-MOCK-040-10,2026-12-12,Loyola Chicago,Demo Opponent,L,regular,demo
-MOCK-040-11,2026-12-15,Loyola Chicago,Demo Opponent,W,regular,demo
-MOCK-041-00,2026-11-06,Nebraska,Demo Opponent,W,regular,demo
-MOCK-041-01,2026-11-13,Nebraska,Demo Opponent,W,regular,demo
-MOCK-041-02,2026-11-16,Nebraska,Demo Opponent,L,regular,demo
-MOCK-041-03,2026-11-24,Nebraska,Demo Opponent,W,regular,demo
-MOCK-041-04,2026-11-25,Nebraska,Demo Opponent,W,regular,demo
-MOCK-041-05,2026-11-27,Nebraska,Demo Opponent,L,regular,demo
-MOCK-041-06,2026-11-28,Nebraska,Demo Opponent,L,regular,demo
-MOCK-041-07,2026-11-29,Nebraska,Demo Opponent,W,regular,demo
-MOCK-041-08,2026-12-02,Nebraska,Demo Opponent,L,regular,demo
-MOCK-041-09,2026-12-03,Nebraska,Demo Opponent,W,regular,demo
-MOCK-041-10,2026-12-07,Nebraska,Demo Opponent,W,regular,demo
-MOCK-041-11,2026-12-11,Nebraska,Demo Opponent,W,regular,demo
-MOCK-041-12,2026-12-13,Nebraska,Demo Opponent,W,regular,demo
-MOCK-041-13,2026-12-14,Nebraska,Demo Opponent,L,regular,demo
-MOCK-042-00,2026-11-05,Penn State,Demo Opponent,L,regular,demo
-MOCK-042-01,2026-11-09,Penn State,Demo Opponent,W,regular,demo
-MOCK-042-02,2026-11-16,Penn State,Demo Opponent,L,regular,demo
-MOCK-042-03,2026-11-26,Penn State,Demo Opponent,L,regular,demo
-MOCK-042-04,2026-11-29,Penn State,Demo Opponent,W,regular,demo
-MOCK-042-05,2026-11-30,Penn State,Demo Opponent,W,regular,demo
-MOCK-042-06,2026-12-01,Penn State,Demo Opponent,W,regular,demo
-MOCK-042-07,2026-12-05,Penn State,Demo Opponent,W,regular,demo
-MOCK-042-08,2026-12-07,Penn State,Demo Opponent,L,regular,demo
-MOCK-042-09,2026-12-12,Penn State,Demo Opponent,W,regular,demo
-MOCK-043-00,2026-11-05,Gonzaga,Demo Opponent,W,regular,demo
-MOCK-043-01,2026-11-06,Gonzaga,Demo Opponent,L,regular,demo
-MOCK-043-02,2026-11-09,Gonzaga,Demo Opponent,W,regular,demo
-MOCK-043-03,2026-11-13,Gonzaga,Demo Opponent,L,regular,demo
-MOCK-043-04,2026-11-17,Gonzaga,Demo Opponent,L,regular,demo
-MOCK-043-05,2026-11-25,Gonzaga,Demo Opponent,W,regular,demo
-MOCK-043-06,2026-11-30,Gonzaga,Demo Opponent,W,regular,demo
-MOCK-043-07,2026-12-02,Gonzaga,Demo Opponent,W,regular,demo
-MOCK-043-08,2026-12-04,Gonzaga,Demo Opponent,W,regular,demo
-MOCK-043-09,2026-12-09,Gonzaga,Demo Opponent,L,regular,demo
-MOCK-043-10,2026-12-14,Gonzaga,Demo Opponent,W,regular,demo
-MOCK-043-11,2026-12-15,Gonzaga,Demo Opponent,W,regular,demo
-MOCK-044-00,2026-11-06,Colorado,Demo Opponent,L,regular,demo
-MOCK-044-01,2026-11-08,Colorado,Demo Opponent,L,regular,demo
-MOCK-044-02,2026-11-11,Colorado,Demo Opponent,W,regular,demo
-MOCK-044-03,2026-11-16,Colorado,Demo Opponent,W,regular,demo
-MOCK-044-04,2026-11-20,Colorado,Demo Opponent,L,regular,demo
-MOCK-044-05,2026-11-27,Colorado,Demo Opponent,W,regular,demo
-MOCK-044-06,2026-11-28,Colorado,Demo Opponent,W,regular,demo
-MOCK-044-07,2026-11-29,Colorado,Demo Opponent,W,regular,demo
-MOCK-044-08,2026-12-04,Colorado,Demo Opponent,W,regular,demo
-MOCK-044-09,2026-12-05,Colorado,Demo Opponent,L,regular,demo
-MOCK-044-10,2026-12-06,Colorado,Demo Opponent,W,regular,demo
-MOCK-044-11,2026-12-12,Colorado,Demo Opponent,W,regular,demo
-MOCK-044-12,2026-12-13,Colorado,Demo Opponent,W,regular,demo
-MOCK-044-13,2026-12-15,Colorado,Demo Opponent,W,regular,demo
-MOCK-045-00,2026-11-07,Kansas,Demo Opponent,W,regular,demo
-MOCK-045-01,2026-11-08,Kansas,Demo Opponent,L,regular,demo
-MOCK-045-02,2026-11-11,Kansas,Demo Opponent,W,regular,demo
-MOCK-045-03,2026-11-12,Kansas,Demo Opponent,L,regular,demo
-MOCK-045-04,2026-11-16,Kansas,Demo Opponent,L,regular,demo
-MOCK-045-05,2026-11-17,Kansas,Demo Opponent,W,regular,demo
-MOCK-045-06,2026-11-24,Kansas,Demo Opponent,L,regular,demo
-MOCK-045-07,2026-11-26,Kansas,Demo Opponent,W,regular,demo
-MOCK-045-08,2026-12-02,Kansas,Demo Opponent,L,regular,demo
-MOCK-045-09,2026-12-10,Kansas,Demo Opponent,L,regular,demo
-MOCK-045-10,2026-12-11,Kansas,Demo Opponent,W,regular,demo
-MOCK-045-11,2026-12-12,Kansas,Demo Opponent,W,regular,demo
-MOCK-045-12,2026-12-14,Kansas,Demo Opponent,W,regular,demo
-MOCK-046-00,2026-11-05,Dayton,Demo Opponent,W,regular,demo
-MOCK-046-01,2026-11-10,Dayton,Demo Opponent,L,regular,demo
-MOCK-046-02,2026-11-11,Dayton,Demo Opponent,W,regular,demo
-MOCK-046-03,2026-11-13,Dayton,Demo Opponent,W,regular,demo
-MOCK-046-04,2026-11-18,Dayton,Demo Opponent,W,regular,demo
-MOCK-046-05,2026-11-27,Dayton,Demo Opponent,W,regular,demo
-MOCK-046-06,2026-11-30,Dayton,Demo Opponent,W,regular,demo
-MOCK-046-07,2026-12-09,Dayton,Demo Opponent,W,regular,demo
-MOCK-046-08,2026-12-12,Dayton,Demo Opponent,W,regular,demo
-MOCK-046-09,2026-12-13,Dayton,Demo Opponent,L,regular,demo
-MOCK-046-10,2026-12-15,Dayton,Demo Opponent,W,regular,demo
-MOCK-047-00,2026-11-11,USC,Demo Opponent,W,regular,demo
-MOCK-047-01,2026-11-16,USC,Demo Opponent,W,regular,demo
-MOCK-047-02,2026-11-17,USC,Demo Opponent,W,regular,demo
-MOCK-047-03,2026-11-27,USC,Demo Opponent,L,regular,demo
-MOCK-047-04,2026-11-28,USC,Demo Opponent,W,regular,demo
-MOCK-047-05,2026-12-01,USC,Demo Opponent,L,regular,demo
-MOCK-047-06,2026-12-10,USC,Demo Opponent,L,regular,demo
-MOCK-047-07,2026-12-12,USC,Demo Opponent,W,regular,demo
-MOCK-047-08,2026-12-14,USC,Demo Opponent,W,regular,demo
-MOCK-048-00,2026-11-04,Memphis,Demo Opponent,W,regular,demo
-MOCK-048-01,2026-11-08,Memphis,Demo Opponent,L,regular,demo
-MOCK-048-02,2026-11-12,Memphis,Demo Opponent,W,regular,demo
-MOCK-048-03,2026-11-13,Memphis,Demo Opponent,L,regular,demo
-MOCK-048-04,2026-11-18,Memphis,Demo Opponent,W,regular,demo
-MOCK-048-05,2026-11-25,Memphis,Demo Opponent,L,regular,demo
-MOCK-048-06,2026-11-27,Memphis,Demo Opponent,W,regular,demo
-MOCK-048-07,2026-12-02,Memphis,Demo Opponent,W,regular,demo
-MOCK-048-08,2026-12-03,Memphis,Demo Opponent,W,regular,demo
-MOCK-048-09,2026-12-04,Memphis,Demo Opponent,W,regular,demo
-MOCK-048-10,2026-12-08,Memphis,Demo Opponent,W,regular,demo
-MOCK-048-11,2026-12-10,Memphis,Demo Opponent,L,regular,demo
-MOCK-048-12,2026-12-11,Memphis,Demo Opponent,W,regular,demo
-MOCK-049-00,2026-11-06,Marquette,Demo Opponent,W,regular,demo
-MOCK-049-01,2026-11-12,Marquette,Demo Opponent,W,regular,demo
-MOCK-049-02,2026-11-26,Marquette,Demo Opponent,W,regular,demo
-MOCK-049-03,2026-11-28,Marquette,Demo Opponent,L,regular,demo
-MOCK-049-04,2026-12-01,Marquette,Demo Opponent,W,regular,demo
-MOCK-049-05,2026-12-04,Marquette,Demo Opponent,W,regular,demo
-MOCK-049-06,2026-12-08,Marquette,Demo Opponent,W,regular,demo
-MOCK-049-07,2026-12-09,Marquette,Demo Opponent,L,regular,demo
-MOCK-049-08,2026-12-10,Marquette,Demo Opponent,L,regular,demo
-MOCK-049-09,2026-12-11,Marquette,Demo Opponent,L,regular,demo
-MOCK-049-10,2026-12-13,Marquette,Demo Opponent,L,regular,demo
-MOCK-049-11,2026-12-15,Marquette,Demo Opponent,L,regular,demo
-MOCK-050-00,2026-11-03,Michigan State,Demo Opponent,L,regular,demo
-MOCK-050-01,2026-11-06,Michigan State,Demo Opponent,W,regular,demo
-MOCK-050-02,2026-11-12,Michigan State,Demo Opponent,L,regular,demo
-MOCK-050-03,2026-11-14,Michigan State,Demo Opponent,W,regular,demo
-MOCK-050-04,2026-11-16,Michigan State,Demo Opponent,W,regular,demo
-MOCK-050-05,2026-11-21,Michigan State,Demo Opponent,W,regular,demo
-MOCK-050-06,2026-11-24,Michigan State,Demo Opponent,W,regular,demo
-MOCK-050-07,2026-11-25,Michigan State,Demo Opponent,L,regular,demo
-MOCK-050-08,2026-12-02,Michigan State,Demo Opponent,L,regular,demo
-MOCK-050-09,2026-12-04,Michigan State,Demo Opponent,W,regular,demo
-MOCK-050-10,2026-12-10,Michigan State,Demo Opponent,L,regular,demo
-MOCK-050-11,2026-12-11,Michigan State,Demo Opponent,W,regular,demo
-MOCK-050-12,2026-12-12,Michigan State,Demo Opponent,L,regular,demo
-MOCK-051-00,2026-11-07,Ole Miss,Demo Opponent,W,regular,demo
-MOCK-051-01,2026-11-13,Ole Miss,Demo Opponent,L,regular,demo
-MOCK-051-02,2026-11-15,Ole Miss,Demo Opponent,L,regular,demo
-MOCK-051-03,2026-11-16,Ole Miss,Demo Opponent,W,regular,demo
-MOCK-051-04,2026-11-23,Ole Miss,Demo Opponent,L,regular,demo
-MOCK-051-05,2026-11-27,Ole Miss,Demo Opponent,W,regular,demo
-MOCK-051-06,2026-11-30,Ole Miss,Demo Opponent,W,regular,demo
-MOCK-051-07,2026-12-01,Ole Miss,Demo Opponent,W,regular,demo
-MOCK-051-08,2026-12-03,Ole Miss,Demo Opponent,L,regular,demo
-MOCK-051-09,2026-12-11,Ole Miss,Demo Opponent,L,regular,demo
-MOCK-051-10,2026-12-13,Ole Miss,Demo Opponent,W,regular,demo
-MOCK-052-00,2026-11-06,Rutgers,Demo Opponent,W,regular,demo
-MOCK-052-01,2026-11-10,Rutgers,Demo Opponent,W,regular,demo
-MOCK-052-02,2026-11-12,Rutgers,Demo Opponent,W,regular,demo
-MOCK-052-03,2026-11-22,Rutgers,Demo Opponent,L,regular,demo
-MOCK-052-04,2026-11-27,Rutgers,Demo Opponent,W,regular,demo
-MOCK-052-05,2026-11-29,Rutgers,Demo Opponent,L,regular,demo
-MOCK-052-06,2026-11-30,Rutgers,Demo Opponent,L,regular,demo
-MOCK-052-07,2026-12-09,Rutgers,Demo Opponent,W,regular,demo
-MOCK-052-08,2026-12-10,Rutgers,Demo Opponent,W,regular,demo
-MOCK-052-09,2026-12-11,Rutgers,Demo Opponent,W,regular,demo
-MOCK-052-10,2026-12-12,Rutgers,Demo Opponent,L,regular,demo
-MOCK-053-00,2026-11-04,Maryland,Demo Opponent,W,regular,demo
-MOCK-053-01,2026-11-05,Maryland,Demo Opponent,L,regular,demo
-MOCK-053-02,2026-11-13,Maryland,Demo Opponent,L,regular,demo
-MOCK-053-03,2026-11-14,Maryland,Demo Opponent,W,regular,demo
-MOCK-053-04,2026-11-20,Maryland,Demo Opponent,L,regular,demo
-MOCK-053-05,2026-11-29,Maryland,Demo Opponent,L,regular,demo
-MOCK-053-06,2026-12-01,Maryland,Demo Opponent,L,regular,demo
-MOCK-053-07,2026-12-04,Maryland,Demo Opponent,W,regular,demo
-MOCK-053-08,2026-12-06,Maryland,Demo Opponent,L,regular,demo
-MOCK-053-09,2026-12-11,Maryland,Demo Opponent,W,regular,demo
-MOCK-053-10,2026-12-13,Maryland,Demo Opponent,W,regular,demo
-MOCK-053-11,2026-12-15,Maryland,Demo Opponent,W,regular,demo
-MOCK-054-00,2026-11-03,Texas Tech,Demo Opponent,W,regular,demo
-MOCK-054-01,2026-11-12,Texas Tech,Demo Opponent,L,regular,demo
-MOCK-054-02,2026-11-14,Texas Tech,Demo Opponent,W,regular,demo
-MOCK-054-03,2026-11-15,Texas Tech,Demo Opponent,W,regular,demo
-MOCK-054-04,2026-11-17,Texas Tech,Demo Opponent,L,regular,demo
-MOCK-054-05,2026-11-20,Texas Tech,Demo Opponent,W,regular,demo
-MOCK-054-06,2026-11-22,Texas Tech,Demo Opponent,L,regular,demo
-MOCK-054-07,2026-11-27,Texas Tech,Demo Opponent,L,regular,demo
-MOCK-054-08,2026-11-30,Texas Tech,Demo Opponent,L,regular,demo
-MOCK-054-09,2026-12-01,Texas Tech,Demo Opponent,W,regular,demo
-MOCK-054-10,2026-12-13,Texas Tech,Demo Opponent,W,regular,demo
-MOCK-055-00,2026-11-03,Saint Louis,Demo Opponent,L,regular,demo
-MOCK-055-01,2026-11-05,Saint Louis,Demo Opponent,W,regular,demo
-MOCK-055-02,2026-11-06,Saint Louis,Demo Opponent,L,regular,demo
-MOCK-055-03,2026-11-11,Saint Louis,Demo Opponent,W,regular,demo
-MOCK-055-04,2026-11-14,Saint Louis,Demo Opponent,W,regular,demo
-MOCK-055-05,2026-11-17,Saint Louis,Demo Opponent,L,regular,demo
-MOCK-055-06,2026-11-18,Saint Louis,Demo Opponent,W,regular,demo
-MOCK-055-07,2026-11-22,Saint Louis,Demo Opponent,L,regular,demo
-MOCK-055-08,2026-11-28,Saint Louis,Demo Opponent,W,regular,demo
-MOCK-055-09,2026-12-02,Saint Louis,Demo Opponent,L,regular,demo
-MOCK-055-10,2026-12-03,Saint Louis,Demo Opponent,L,regular,demo
-MOCK-055-11,2026-12-05,Saint Louis,Demo Opponent,W,regular,demo
-MOCK-055-12,2026-12-08,Saint Louis,Demo Opponent,L,regular,demo
-MOCK-055-13,2026-12-15,Saint Louis,Demo Opponent,W,regular,demo
-MOCK-056-00,2026-11-06,Saint Mary's,Demo Opponent,W,regular,demo
-MOCK-056-01,2026-11-07,Saint Mary's,Demo Opponent,W,regular,demo
-MOCK-056-02,2026-11-13,Saint Mary's,Demo Opponent,L,regular,demo
-MOCK-056-03,2026-11-15,Saint Mary's,Demo Opponent,W,regular,demo
-MOCK-056-04,2026-11-23,Saint Mary's,Demo Opponent,W,regular,demo
-MOCK-056-05,2026-11-24,Saint Mary's,Demo Opponent,L,regular,demo
-MOCK-056-06,2026-11-25,Saint Mary's,Demo Opponent,L,regular,demo
-MOCK-056-07,2026-12-01,Saint Mary's,Demo Opponent,L,regular,demo
-MOCK-056-08,2026-12-05,Saint Mary's,Demo Opponent,W,regular,demo
-MOCK-056-09,2026-12-13,Saint Mary's,Demo Opponent,W,regular,demo
-MOCK-057-00,2026-11-05,Colorado State,Demo Opponent,L,regular,demo
-MOCK-057-01,2026-11-15,Colorado State,Demo Opponent,W,regular,demo
-MOCK-057-02,2026-11-16,Colorado State,Demo Opponent,W,regular,demo
-MOCK-057-03,2026-11-25,Colorado State,Demo Opponent,L,regular,demo
-MOCK-057-04,2026-11-27,Colorado State,Demo Opponent,W,regular,demo
-MOCK-057-05,2026-11-30,Colorado State,Demo Opponent,L,regular,demo
-MOCK-057-06,2026-12-03,Colorado State,Demo Opponent,L,regular,demo
-MOCK-057-07,2026-12-10,Colorado State,Demo Opponent,W,regular,demo
-MOCK-057-08,2026-12-13,Colorado State,Demo Opponent,L,regular,demo
-MOCK-058-00,2026-11-06,North Texas,Demo Opponent,L,regular,demo
-MOCK-058-01,2026-11-08,North Texas,Demo Opponent,W,regular,demo
-MOCK-058-02,2026-11-09,North Texas,Demo Opponent,L,regular,demo
-MOCK-058-03,2026-11-11,North Texas,Demo Opponent,L,regular,demo
-MOCK-058-04,2026-11-14,North Texas,Demo Opponent,W,regular,demo
-MOCK-058-05,2026-11-15,North Texas,Demo Opponent,W,regular,demo
-MOCK-058-06,2026-11-16,North Texas,Demo Opponent,W,regular,demo
-MOCK-058-07,2026-11-19,North Texas,Demo Opponent,L,regular,demo
-MOCK-058-08,2026-11-21,North Texas,Demo Opponent,W,regular,demo
-MOCK-058-09,2026-11-24,North Texas,Demo Opponent,W,regular,demo
-MOCK-058-10,2026-12-01,North Texas,Demo Opponent,L,regular,demo
-MOCK-058-11,2026-12-05,North Texas,Demo Opponent,W,regular,demo
-MOCK-058-12,2026-12-08,North Texas,Demo Opponent,W,regular,demo
-MOCK-058-13,2026-12-11,North Texas,Demo Opponent,L,regular,demo
-MOCK-059-00,2026-11-05,New Mexico,Demo Opponent,W,regular,demo
-MOCK-059-01,2026-11-07,New Mexico,Demo Opponent,W,regular,demo
-MOCK-059-02,2026-11-08,New Mexico,Demo Opponent,L,regular,demo
-MOCK-059-03,2026-11-10,New Mexico,Demo Opponent,W,regular,demo
-MOCK-059-04,2026-11-12,New Mexico,Demo Opponent,W,regular,demo
-MOCK-059-05,2026-11-14,New Mexico,Demo Opponent,L,regular,demo
-MOCK-059-06,2026-11-15,New Mexico,Demo Opponent,W,regular,demo
-MOCK-059-07,2026-11-21,New Mexico,Demo Opponent,L,regular,demo
-MOCK-059-08,2026-11-25,New Mexico,Demo Opponent,W,regular,demo
-MOCK-059-09,2026-11-27,New Mexico,Demo Opponent,W,regular,demo
-MOCK-059-10,2026-12-05,New Mexico,Demo Opponent,W,regular,demo
-MOCK-059-11,2026-12-09,New Mexico,Demo Opponent,L,regular,demo
-MOCK-060-00,2026-11-08,Wake Forest,Demo Opponent,W,regular,demo
-MOCK-060-01,2026-11-17,Wake Forest,Demo Opponent,L,regular,demo
-MOCK-060-02,2026-11-21,Wake Forest,Demo Opponent,W,regular,demo
-MOCK-060-03,2026-11-26,Wake Forest,Demo Opponent,L,regular,demo
-MOCK-060-04,2026-11-30,Wake Forest,Demo Opponent,W,regular,demo
-MOCK-060-05,2026-12-05,Wake Forest,Demo Opponent,W,regular,demo
-MOCK-060-06,2026-12-07,Wake Forest,Demo Opponent,L,regular,demo
-MOCK-060-07,2026-12-08,Wake Forest,Demo Opponent,L,regular,demo
-MOCK-060-08,2026-12-13,Wake Forest,Demo Opponent,W,regular,demo
-MOCK-061-00,2026-11-12,TCU,Demo Opponent,L,regular,demo
-MOCK-061-01,2026-11-19,TCU,Demo Opponent,L,regular,demo
-MOCK-061-02,2026-11-22,TCU,Demo Opponent,W,regular,demo
-MOCK-061-03,2026-11-23,TCU,Demo Opponent,W,regular,demo
-MOCK-061-04,2026-11-24,TCU,Demo Opponent,L,regular,demo
-MOCK-061-05,2026-11-30,TCU,Demo Opponent,W,regular,demo
-MOCK-061-06,2026-12-06,TCU,Demo Opponent,W,regular,demo
-MOCK-061-07,2026-12-09,TCU,Demo Opponent,W,regular,demo
-MOCK-061-08,2026-12-14,TCU,Demo Opponent,W,regular,demo
-MOCK-062-00,2026-11-03,Duke,Demo Opponent,L,regular,demo
-MOCK-062-01,2026-11-06,Duke,Demo Opponent,W,regular,demo
-MOCK-062-02,2026-11-07,Duke,Demo Opponent,L,regular,demo
-MOCK-062-03,2026-11-09,Duke,Demo Opponent,W,regular,demo
-MOCK-062-04,2026-11-10,Duke,Demo Opponent,L,regular,demo
-MOCK-062-05,2026-11-12,Duke,Demo Opponent,L,regular,demo
-MOCK-062-06,2026-11-13,Duke,Demo Opponent,L,regular,demo
-MOCK-062-07,2026-11-15,Duke,Demo Opponent,W,regular,demo
-MOCK-062-08,2026-11-27,Duke,Demo Opponent,L,regular,demo
-MOCK-062-09,2026-12-04,Duke,Demo Opponent,L,regular,demo
-MOCK-062-10,2026-12-08,Duke,Demo Opponent,L,regular,demo
-MOCK-062-11,2026-12-12,Duke,Demo Opponent,L,regular,demo
-MOCK-062-12,2026-12-14,Duke,Demo Opponent,L,regular,demo
-MOCK-063-00,2026-11-03,UCLA,Demo Opponent,W,regular,demo
-MOCK-063-01,2026-11-08,UCLA,Demo Opponent,W,regular,demo
-MOCK-063-02,2026-11-12,UCLA,Demo Opponent,L,regular,demo
-MOCK-063-03,2026-11-13,UCLA,Demo Opponent,L,regular,demo
-MOCK-063-04,2026-11-24,UCLA,Demo Opponent,W,regular,demo
-MOCK-063-05,2026-11-29,UCLA,Demo Opponent,L,regular,demo
-MOCK-063-06,2026-12-04,UCLA,Demo Opponent,L,regular,demo
-MOCK-063-07,2026-12-14,UCLA,Demo Opponent,L,regular,demo
-MOCK-063-08,2026-12-15,UCLA,Demo Opponent,L,regular,demo
-MOCK-064-00,2026-11-03,LSU,Demo Opponent,W,regular,demo
-MOCK-064-01,2026-11-04,LSU,Demo Opponent,W,regular,demo
-MOCK-064-02,2026-11-05,LSU,Demo Opponent,L,regular,demo
-MOCK-064-03,2026-11-07,LSU,Demo Opponent,L,regular,demo
-MOCK-064-04,2026-11-16,LSU,Demo Opponent,W,regular,demo
-MOCK-064-05,2026-11-17,LSU,Demo Opponent,L,regular,demo
-MOCK-064-06,2026-11-19,LSU,Demo Opponent,W,regular,demo
-MOCK-064-07,2026-11-22,LSU,Demo Opponent,L,regular,demo
-MOCK-064-08,2026-11-27,LSU,Demo Opponent,W,regular,demo
-MOCK-064-09,2026-12-01,LSU,Demo Opponent,W,regular,demo
-MOCK-064-10,2026-12-06,LSU,Demo Opponent,L,regular,demo
-MOCK-064-11,2026-12-10,LSU,Demo Opponent,L,regular,demo
-MOCK-064-12,2026-12-12,LSU,Demo Opponent,W,regular,demo
-MOCK-064-13,2026-12-14,LSU,Demo Opponent,W,regular,demo
-MOCK-065-00,2026-11-03,North Carolina,Demo Opponent,W,regular,demo
-MOCK-065-01,2026-11-05,North Carolina,Demo Opponent,L,regular,demo
-MOCK-065-02,2026-11-07,North Carolina,Demo Opponent,L,regular,demo
-MOCK-065-03,2026-11-12,North Carolina,Demo Opponent,W,regular,demo
-MOCK-065-04,2026-11-18,North Carolina,Demo Opponent,L,regular,demo
-MOCK-065-05,2026-11-28,North Carolina,Demo Opponent,W,regular,demo
-MOCK-065-06,2026-12-01,North Carolina,Demo Opponent,W,regular,demo
-MOCK-065-07,2026-12-03,North Carolina,Demo Opponent,W,regular,demo
-MOCK-065-08,2026-12-14,North Carolina,Demo Opponent,L,regular,demo
-MOCK-066-00,2026-11-05,Purdue,Demo Opponent,L,regular,demo
-MOCK-066-01,2026-11-15,Purdue,Demo Opponent,W,regular,demo
-MOCK-066-02,2026-11-19,Purdue,Demo Opponent,W,regular,demo
-MOCK-066-03,2026-11-23,Purdue,Demo Opponent,L,regular,demo
-MOCK-066-04,2026-11-27,Purdue,Demo Opponent,W,regular,demo
-MOCK-066-05,2026-11-28,Purdue,Demo Opponent,L,regular,demo
-MOCK-066-06,2026-12-05,Purdue,Demo Opponent,W,regular,demo
-MOCK-066-07,2026-12-10,Purdue,Demo Opponent,W,regular,demo
-MOCK-066-08,2026-12-11,Purdue,Demo Opponent,W,regular,demo
-MOCK-066-09,2026-12-14,Purdue,Demo Opponent,L,regular,demo
-MOCK-067-00,2026-11-03,Kentucky,Demo Opponent,W,regular,demo
-MOCK-067-01,2026-11-17,Kentucky,Demo Opponent,L,regular,demo
-MOCK-067-02,2026-11-21,Kentucky,Demo Opponent,W,regular,demo
-MOCK-067-03,2026-11-22,Kentucky,Demo Opponent,W,regular,demo
-MOCK-067-04,2026-11-23,Kentucky,Demo Opponent,W,regular,demo
-MOCK-067-05,2026-11-25,Kentucky,Demo Opponent,W,regular,demo
-MOCK-067-06,2026-11-28,Kentucky,Demo Opponent,L,regular,demo
-MOCK-067-07,2026-12-01,Kentucky,Demo Opponent,W,regular,demo
-MOCK-067-08,2026-12-04,Kentucky,Demo Opponent,L,regular,demo
-MOCK-067-09,2026-12-05,Kentucky,Demo Opponent,W,regular,demo
-MOCK-067-10,2026-12-06,Kentucky,Demo Opponent,W,regular,demo
-MOCK-068-00,2026-11-13,NC State,Demo Opponent,W,regular,demo
-MOCK-068-01,2026-11-19,NC State,Demo Opponent,W,regular,demo
-MOCK-068-02,2026-11-27,NC State,Demo Opponent,W,regular,demo
-MOCK-068-03,2026-11-28,NC State,Demo Opponent,W,regular,demo
-MOCK-068-04,2026-11-29,NC State,Demo Opponent,W,regular,demo
-MOCK-068-05,2026-11-30,NC State,Demo Opponent,L,regular,demo
-MOCK-068-06,2026-12-02,NC State,Demo Opponent,W,regular,demo
-MOCK-068-07,2026-12-07,NC State,Demo Opponent,L,regular,demo
-MOCK-068-08,2026-12-08,NC State,Demo Opponent,W,regular,demo
-MOCK-068-09,2026-12-14,NC State,Demo Opponent,L,regular,demo
-MOCK-069-00,2026-11-07,Tennessee,Demo Opponent,W,regular,demo
-MOCK-069-01,2026-11-13,Tennessee,Demo Opponent,W,regular,demo
-MOCK-069-02,2026-11-14,Tennessee,Demo Opponent,W,regular,demo
-MOCK-069-03,2026-11-21,Tennessee,Demo Opponent,L,regular,demo
-MOCK-069-04,2026-11-27,Tennessee,Demo Opponent,W,regular,demo
-MOCK-069-05,2026-11-29,Tennessee,Demo Opponent,W,regular,demo
-MOCK-069-06,2026-12-01,Tennessee,Demo Opponent,W,regular,demo
-MOCK-069-07,2026-12-03,Tennessee,Demo Opponent,L,regular,demo
-MOCK-069-08,2026-12-09,Tennessee,Demo Opponent,W,regular,demo
-MOCK-069-09,2026-12-11,Tennessee,Demo Opponent,W,regular,demo
-MOCK-070-00,2026-11-04,Utah State,Demo Opponent,W,regular,demo
-MOCK-070-01,2026-11-05,Utah State,Demo Opponent,L,regular,demo
-MOCK-070-02,2026-11-08,Utah State,Demo Opponent,W,regular,demo
-MOCK-070-03,2026-11-11,Utah State,Demo Opponent,L,regular,demo
-MOCK-070-04,2026-11-12,Utah State,Demo Opponent,L,regular,demo
-MOCK-070-05,2026-11-19,Utah State,Demo Opponent,W,regular,demo
-MOCK-070-06,2026-11-26,Utah State,Demo Opponent,L,regular,demo
-MOCK-070-07,2026-11-27,Utah State,Demo Opponent,L,regular,demo
-MOCK-070-08,2026-11-28,Utah State,Demo Opponent,W,regular,demo
-MOCK-070-09,2026-12-02,Utah State,Demo Opponent,W,regular,demo
-MOCK-070-10,2026-12-04,Utah State,Demo Opponent,W,regular,demo
-MOCK-070-11,2026-12-05,Utah State,Demo Opponent,W,regular,demo
-MOCK-070-12,2026-12-06,Utah State,Demo Opponent,W,regular,demo
-MOCK-071-00,2026-11-06,Portland,Demo Opponent,W,regular,demo
-MOCK-071-01,2026-11-10,Portland,Demo Opponent,L,regular,demo
-MOCK-071-02,2026-11-18,Portland,Demo Opponent,W,regular,demo
-MOCK-071-03,2026-11-19,Portland,Demo Opponent,L,regular,demo
-MOCK-071-04,2026-11-23,Portland,Demo Opponent,W,regular,demo
-MOCK-071-05,2026-11-25,Portland,Demo Opponent,W,regular,demo
-MOCK-071-06,2026-12-02,Portland,Demo Opponent,W,regular,demo
-MOCK-071-07,2026-12-05,Portland,Demo Opponent,W,regular,demo
-MOCK-071-08,2026-12-09,Portland,Demo Opponent,W,regular,demo
-MOCK-072-00,2026-11-03,Louisville,Demo Opponent,L,regular,demo
-MOCK-072-01,2026-11-12,Louisville,Demo Opponent,L,regular,demo
-MOCK-072-02,2026-11-14,Louisville,Demo Opponent,L,regular,demo
-MOCK-072-03,2026-11-16,Louisville,Demo Opponent,W,regular,demo
-MOCK-072-04,2026-11-17,Louisville,Demo Opponent,W,regular,demo
-MOCK-072-05,2026-11-18,Louisville,Demo Opponent,W,regular,demo
-MOCK-072-06,2026-11-21,Louisville,Demo Opponent,W,regular,demo
-MOCK-072-07,2026-12-04,Louisville,Demo Opponent,L,regular,demo
-MOCK-072-08,2026-12-14,Louisville,Demo Opponent,L,regular,demo
-MOCK-073-00,2026-11-04,BYU,Demo Opponent,L,regular,demo
-MOCK-073-01,2026-11-13,BYU,Demo Opponent,W,regular,demo
-MOCK-073-02,2026-11-19,BYU,Demo Opponent,L,regular,demo
-MOCK-073-03,2026-11-27,BYU,Demo Opponent,W,regular,demo
-MOCK-073-04,2026-12-01,BYU,Demo Opponent,W,regular,demo
-MOCK-073-05,2026-12-02,BYU,Demo Opponent,L,regular,demo
-MOCK-073-06,2026-12-06,BYU,Demo Opponent,L,regular,demo
-MOCK-073-07,2026-12-08,BYU,Demo Opponent,W,regular,demo
-MOCK-073-08,2026-12-09,BYU,Demo Opponent,L,regular,demo
-MOCK-073-09,2026-12-11,BYU,Demo Opponent,W,regular,demo
-MOCK-073-10,2026-12-12,BYU,Demo Opponent,L,regular,demo
-MOCK-074-00,2026-11-04,Missouri,Demo Opponent,L,regular,demo
-MOCK-074-01,2026-11-05,Missouri,Demo Opponent,W,regular,demo
-MOCK-074-02,2026-11-07,Missouri,Demo Opponent,W,regular,demo
-MOCK-074-03,2026-11-14,Missouri,Demo Opponent,W,regular,demo
-MOCK-074-04,2026-11-15,Missouri,Demo Opponent,W,regular,demo
-MOCK-074-05,2026-11-18,Missouri,Demo Opponent,W,regular,demo
-MOCK-074-06,2026-11-22,Missouri,Demo Opponent,W,regular,demo
-MOCK-074-07,2026-11-23,Missouri,Demo Opponent,L,regular,demo
-MOCK-074-08,2026-11-25,Missouri,Demo Opponent,W,regular,demo
-MOCK-074-09,2026-12-03,Missouri,Demo Opponent,W,regular,demo
-MOCK-074-10,2026-12-06,Missouri,Demo Opponent,W,regular,demo
-MOCK-074-11,2026-12-08,Missouri,Demo Opponent,L,regular,demo
-MOCK-075-00,2026-11-12,Georgia Tech,Demo Opponent,L,regular,demo
-MOCK-075-01,2026-11-14,Georgia Tech,Demo Opponent,W,regular,demo
-MOCK-075-02,2026-11-22,Georgia Tech,Demo Opponent,L,regular,demo
-MOCK-075-03,2026-11-24,Georgia Tech,Demo Opponent,L,regular,demo
-MOCK-075-04,2026-11-28,Georgia Tech,Demo Opponent,W,regular,demo
-MOCK-075-05,2026-12-02,Georgia Tech,Demo Opponent,L,regular,demo
-MOCK-075-06,2026-12-10,Georgia Tech,Demo Opponent,L,regular,demo
-MOCK-075-07,2026-12-14,Georgia Tech,Demo Opponent,W,regular,demo
-MOCK-075-08,2026-12-15,Georgia Tech,Demo Opponent,L,regular,demo
-MOCK-076-00,2026-11-03,Fordham,Demo Opponent,W,regular,demo
-MOCK-076-01,2026-11-11,Fordham,Demo Opponent,L,regular,demo
-MOCK-076-02,2026-11-15,Fordham,Demo Opponent,L,regular,demo
-MOCK-076-03,2026-11-18,Fordham,Demo Opponent,L,regular,demo
-MOCK-076-04,2026-11-20,Fordham,Demo Opponent,L,regular,demo
-MOCK-076-05,2026-11-23,Fordham,Demo Opponent,L,regular,demo
-MOCK-076-06,2026-11-26,Fordham,Demo Opponent,L,regular,demo
-MOCK-076-07,2026-12-02,Fordham,Demo Opponent,L,regular,demo
-MOCK-076-08,2026-12-03,Fordham,Demo Opponent,L,regular,demo
-MOCK-076-09,2026-12-05,Fordham,Demo Opponent,L,regular,demo
-MOCK-076-10,2026-12-07,Fordham,Demo Opponent,W,regular,demo
-MOCK-076-11,2026-12-11,Fordham,Demo Opponent,W,regular,demo
-MOCK-076-12,2026-12-13,Fordham,Demo Opponent,L,regular,demo
-MOCK-076-13,2026-12-15,Fordham,Demo Opponent,L,regular,demo
-MOCK-077-00,2026-11-05,Washington,Demo Opponent,L,regular,demo
-MOCK-077-01,2026-11-06,Washington,Demo Opponent,L,regular,demo
-MOCK-077-02,2026-11-08,Washington,Demo Opponent,W,regular,demo
-MOCK-077-03,2026-11-13,Washington,Demo Opponent,L,regular,demo
-MOCK-077-04,2026-11-14,Washington,Demo Opponent,L,regular,demo
-MOCK-077-05,2026-11-17,Washington,Demo Opponent,L,regular,demo
-MOCK-077-06,2026-11-20,Washington,Demo Opponent,W,regular,demo
-MOCK-077-07,2026-12-06,Washington,Demo Opponent,W,regular,demo
-MOCK-077-08,2026-12-07,Washington,Demo Opponent,L,regular,demo
-MOCK-078-00,2026-11-13,Baylor,Demo Opponent,W,regular,demo
-MOCK-078-01,2026-11-15,Baylor,Demo Opponent,W,regular,demo
-MOCK-078-02,2026-11-19,Baylor,Demo Opponent,L,regular,demo
-MOCK-078-03,2026-11-21,Baylor,Demo Opponent,L,regular,demo
-MOCK-078-04,2026-12-01,Baylor,Demo Opponent,W,regular,demo
-MOCK-078-05,2026-12-05,Baylor,Demo Opponent,L,regular,demo
-MOCK-078-06,2026-12-10,Baylor,Demo Opponent,L,regular,demo
-MOCK-078-07,2026-12-12,Baylor,Demo Opponent,W,regular,demo
-MOCK-078-08,2026-12-14,Baylor,Demo Opponent,W,regular,demo
-MOCK-079-00,2026-11-07,San Diego,Demo Opponent,L,regular,demo
-MOCK-079-01,2026-11-10,San Diego,Demo Opponent,W,regular,demo
-MOCK-079-02,2026-11-11,San Diego,Demo Opponent,L,regular,demo
-MOCK-079-03,2026-11-13,San Diego,Demo Opponent,W,regular,demo
-MOCK-079-04,2026-11-15,San Diego,Demo Opponent,L,regular,demo
-MOCK-079-05,2026-11-19,San Diego,Demo Opponent,W,regular,demo
-MOCK-079-06,2026-11-20,San Diego,Demo Opponent,W,regular,demo
-MOCK-079-07,2026-11-25,San Diego,Demo Opponent,L,regular,demo
-MOCK-079-08,2026-11-27,San Diego,Demo Opponent,L,regular,demo
-MOCK-079-09,2026-12-05,San Diego,Demo Opponent,L,regular,demo
-MOCK-079-10,2026-12-07,San Diego,Demo Opponent,W,regular,demo
-MOCK-079-11,2026-12-10,San Diego,Demo Opponent,L,regular,demo
-MOCK-079-12,2026-12-13,San Diego,Demo Opponent,L,regular,demo
-MOCK-080-00,2026-11-04,Minnesota,Demo Opponent,L,regular,demo
-MOCK-080-01,2026-11-06,Minnesota,Demo Opponent,L,regular,demo
-MOCK-080-02,2026-11-10,Minnesota,Demo Opponent,L,regular,demo
-MOCK-080-03,2026-11-13,Minnesota,Demo Opponent,L,regular,demo
-MOCK-080-04,2026-11-14,Minnesota,Demo Opponent,L,regular,demo
-MOCK-080-05,2026-11-15,Minnesota,Demo Opponent,W,regular,demo
-MOCK-080-06,2026-11-20,Minnesota,Demo Opponent,L,regular,demo
-MOCK-080-07,2026-11-21,Minnesota,Demo Opponent,W,regular,demo
-MOCK-080-08,2026-11-25,Minnesota,Demo Opponent,W,regular,demo
-MOCK-080-09,2026-12-02,Minnesota,Demo Opponent,L,regular,demo
-MOCK-080-10,2026-12-04,Minnesota,Demo Opponent,L,regular,demo
-MOCK-080-11,2026-12-06,Minnesota,Demo Opponent,L,regular,demo
-MOCK-080-12,2026-12-13,Minnesota,Demo Opponent,L,regular,demo
-MOCK-081-00,2026-11-03,Indiana,Demo Opponent,L,regular,demo
-MOCK-081-01,2026-11-04,Indiana,Demo Opponent,W,regular,demo
-MOCK-081-02,2026-11-13,Indiana,Demo Opponent,W,regular,demo
-MOCK-081-03,2026-11-15,Indiana,Demo Opponent,L,regular,demo
-MOCK-081-04,2026-11-17,Indiana,Demo Opponent,L,regular,demo
-MOCK-081-05,2026-11-21,Indiana,Demo Opponent,L,regular,demo
-MOCK-081-06,2026-11-28,Indiana,Demo Opponent,L,regular,demo
-MOCK-081-07,2026-11-30,Indiana,Demo Opponent,W,regular,demo
-MOCK-081-08,2026-12-09,Indiana,Demo Opponent,L,regular,demo
-MOCK-082-00,2026-11-03,Northwestern,Demo Opponent,L,regular,demo
-MOCK-082-01,2026-11-04,Northwestern,Demo Opponent,L,regular,demo
-MOCK-082-02,2026-11-06,Northwestern,Demo Opponent,W,regular,demo
-MOCK-082-03,2026-11-09,Northwestern,Demo Opponent,L,regular,demo
-MOCK-082-04,2026-11-10,Northwestern,Demo Opponent,L,regular,demo
-MOCK-082-05,2026-11-11,Northwestern,Demo Opponent,L,regular,demo
-MOCK-082-06,2026-11-14,Northwestern,Demo Opponent,L,regular,demo
-MOCK-082-07,2026-11-19,Northwestern,Demo Opponent,L,regular,demo
-MOCK-082-08,2026-11-26,Northwestern,Demo Opponent,L,regular,demo
-MOCK-082-09,2026-11-30,Northwestern,Demo Opponent,L,regular,demo
-MOCK-082-10,2026-12-03,Northwestern,Demo Opponent,W,regular,demo
-MOCK-082-11,2026-12-06,Northwestern,Demo Opponent,L,regular,demo
-MOCK-082-12,2026-12-07,Northwestern,Demo Opponent,W,regular,demo
-MOCK-083-00,2026-11-08,California,Demo Opponent,L,regular,demo
-MOCK-083-01,2026-11-10,California,Demo Opponent,L,regular,demo
-MOCK-083-02,2026-11-11,California,Demo Opponent,L,regular,demo
-MOCK-083-03,2026-11-12,California,Demo Opponent,L,regular,demo
-MOCK-083-04,2026-11-13,California,Demo Opponent,L,regular,demo
-MOCK-083-05,2026-11-16,California,Demo Opponent,W,regular,demo
-MOCK-083-06,2026-11-25,California,Demo Opponent,L,regular,demo
-MOCK-083-07,2026-11-27,California,Demo Opponent,L,regular,demo
-MOCK-083-08,2026-11-29,California,Demo Opponent,W,regular,demo
-MOCK-083-09,2026-11-30,California,Demo Opponent,L,regular,demo
-MOCK-083-10,2026-12-01,California,Demo Opponent,W,regular,demo
-MOCK-083-11,2026-12-11,California,Demo Opponent,W,regular,demo
-MOCK-083-12,2026-12-14,California,Demo Opponent,L,regular,demo
-MOCK-084-00,2026-11-03,Florida,Demo Opponent,L,regular,demo
-MOCK-084-01,2026-11-08,Florida,Demo Opponent,L,regular,demo
-MOCK-084-02,2026-11-10,Florida,Demo Opponent,L,regular,demo
-MOCK-084-03,2026-11-13,Florida,Demo Opponent,W,regular,demo
-MOCK-084-04,2026-11-18,Florida,Demo Opponent,L,regular,demo
-MOCK-084-05,2026-11-20,Florida,Demo Opponent,W,regular,demo
-MOCK-084-06,2026-11-26,Florida,Demo Opponent,W,regular,demo
-MOCK-084-07,2026-11-28,Florida,Demo Opponent,L,regular,demo
-MOCK-084-08,2026-12-02,Florida,Demo Opponent,W,regular,demo
-MOCK-084-09,2026-12-03,Florida,Demo Opponent,W,regular,demo
-MOCK-084-10,2026-12-09,Florida,Demo Opponent,L,regular,demo
-MOCK-084-11,2026-12-11,Florida,Demo Opponent,L,regular,demo
-MOCK-085-00,2026-11-07,Iowa State,Demo Opponent,L,regular,demo
-MOCK-085-01,2026-11-15,Iowa State,Demo Opponent,L,regular,demo
-MOCK-085-02,2026-11-20,Iowa State,Demo Opponent,L,regular,demo
-MOCK-085-03,2026-11-23,Iowa State,Demo Opponent,W,regular,demo
-MOCK-085-04,2026-11-25,Iowa State,Demo Opponent,L,regular,demo
-MOCK-085-05,2026-11-27,Iowa State,Demo Opponent,W,regular,demo
-MOCK-085-06,2026-11-30,Iowa State,Demo Opponent,W,regular,demo
-MOCK-085-07,2026-12-03,Iowa State,Demo Opponent,L,regular,demo
-MOCK-085-08,2026-12-15,Iowa State,Demo Opponent,L,regular,demo
-MOCK-086-00,2026-11-04,Arizona,Demo Opponent,L,regular,demo
-MOCK-086-01,2026-11-07,Arizona,Demo Opponent,L,regular,demo
-MOCK-086-02,2026-11-11,Arizona,Demo Opponent,L,regular,demo
-MOCK-086-03,2026-11-16,Arizona,Demo Opponent,L,regular,demo
-MOCK-086-04,2026-11-18,Arizona,Demo Opponent,W,regular,demo
-MOCK-086-05,2026-11-24,Arizona,Demo Opponent,L,regular,demo
-MOCK-086-06,2026-11-28,Arizona,Demo Opponent,L,regular,demo
-MOCK-086-07,2026-11-29,Arizona,Demo Opponent,L,regular,demo
-MOCK-086-08,2026-11-30,Arizona,Demo Opponent,W,regular,demo
-MOCK-086-09,2026-12-04,Arizona,Demo Opponent,W,regular,demo
-MOCK-086-10,2026-12-14,Arizona,Demo Opponent,L,regular,demo
-MOCK-087-00,2026-11-04,Oklahoma,Demo Opponent,W,regular,demo
-MOCK-087-01,2026-11-07,Oklahoma,Demo Opponent,W,regular,demo
-MOCK-087-02,2026-11-10,Oklahoma,Demo Opponent,L,regular,demo
-MOCK-087-03,2026-11-11,Oklahoma,Demo Opponent,L,regular,demo
-MOCK-087-04,2026-11-12,Oklahoma,Demo Opponent,L,regular,demo
-MOCK-087-05,2026-11-14,Oklahoma,Demo Opponent,L,regular,demo
-MOCK-087-06,2026-11-17,Oklahoma,Demo Opponent,L,regular,demo
-MOCK-087-07,2026-11-19,Oklahoma,Demo Opponent,L,regular,demo
-MOCK-087-08,2026-11-24,Oklahoma,Demo Opponent,L,regular,demo
-MOCK-087-09,2026-11-30,Oklahoma,Demo Opponent,L,regular,demo
-MOCK-087-10,2026-12-03,Oklahoma,Demo Opponent,W,regular,demo
-MOCK-087-11,2026-12-06,Oklahoma,Demo Opponent,L,regular,demo
-MOCK-088-00,2026-11-08,Ohio State,Demo Opponent,L,regular,demo
-MOCK-088-01,2026-11-10,Ohio State,Demo Opponent,W,regular,demo
-MOCK-088-02,2026-11-12,Ohio State,Demo Opponent,L,regular,demo
-MOCK-088-03,2026-11-14,Ohio State,Demo Opponent,L,regular,demo
-MOCK-088-04,2026-11-16,Ohio State,Demo Opponent,L,regular,demo
-MOCK-088-05,2026-11-17,Ohio State,Demo Opponent,L,regular,demo
-MOCK-088-06,2026-11-20,Ohio State,Demo Opponent,L,regular,demo
-MOCK-088-07,2026-11-25,Ohio State,Demo Opponent,L,regular,demo
-MOCK-088-08,2026-11-30,Ohio State,Demo Opponent,L,regular,demo
-MOCK-088-09,2026-12-10,Ohio State,Demo Opponent,L,regular,demo
-MOCK-088-10,2026-12-11,Ohio State,Demo Opponent,W,regular,demo
-MOCK-089-00,2026-11-03,Nevada,Demo Opponent,L,regular,demo
-MOCK-089-01,2026-11-05,Nevada,Demo Opponent,W,regular,demo
-MOCK-089-02,2026-11-10,Nevada,Demo Opponent,W,regular,demo
-MOCK-089-03,2026-11-12,Nevada,Demo Opponent,W,regular,demo
-MOCK-089-04,2026-11-26,Nevada,Demo Opponent,W,regular,demo
-MOCK-089-05,2026-11-30,Nevada,Demo Opponent,L,regular,demo
-MOCK-089-06,2026-12-09,Nevada,Demo Opponent,L,regular,demo
-MOCK-089-07,2026-12-11,Nevada,Demo Opponent,L,regular,demo
-MOCK-089-08,2026-12-13,Nevada,Demo Opponent,L,regular,demo
-MOCK-090-00,2026-11-08,Duquesne,Demo Opponent,L,regular,demo
-MOCK-090-01,2026-11-11,Duquesne,Demo Opponent,L,regular,demo
-MOCK-090-02,2026-11-12,Duquesne,Demo Opponent,L,regular,demo
-MOCK-090-03,2026-11-15,Duquesne,Demo Opponent,L,regular,demo
-MOCK-090-04,2026-11-18,Duquesne,Demo Opponent,W,regular,demo
-MOCK-090-05,2026-11-25,Duquesne,Demo Opponent,L,regular,demo
-MOCK-090-06,2026-11-26,Duquesne,Demo Opponent,W,regular,demo
-MOCK-090-07,2026-11-29,Duquesne,Demo Opponent,W,regular,demo
-MOCK-090-08,2026-12-07,Duquesne,Demo Opponent,L,regular,demo
-MOCK-090-09,2026-12-12,Duquesne,Demo Opponent,L,regular,demo
-MOCK-090-10,2026-12-15,Duquesne,Demo Opponent,L,regular,demo
-MOCK-091-00,2026-11-12,Wisconsin,Demo Opponent,L,regular,demo
-MOCK-091-01,2026-11-13,Wisconsin,Demo Opponent,L,regular,demo
-MOCK-091-02,2026-11-20,Wisconsin,Demo Opponent,L,regular,demo
-MOCK-091-03,2026-11-21,Wisconsin,Demo Opponent,W,regular,demo
-MOCK-091-04,2026-11-22,Wisconsin,Demo Opponent,W,regular,demo
-MOCK-091-05,2026-12-01,Wisconsin,Demo Opponent,W,regular,demo
-MOCK-091-06,2026-12-03,Wisconsin,Demo Opponent,L,regular,demo
-MOCK-091-07,2026-12-10,Wisconsin,Demo Opponent,W,regular,demo
-MOCK-091-08,2026-12-11,Wisconsin,Demo Opponent,L,regular,demo
-MOCK-092-00,2026-11-11,Kansas State,Demo Opponent,W,regular,demo
-MOCK-092-01,2026-11-13,Kansas State,Demo Opponent,L,regular,demo
-MOCK-092-02,2026-11-14,Kansas State,Demo Opponent,W,regular,demo
-MOCK-092-03,2026-11-15,Kansas State,Demo Opponent,L,regular,demo
-MOCK-092-04,2026-11-19,Kansas State,Demo Opponent,L,regular,demo
-MOCK-092-05,2026-11-30,Kansas State,Demo Opponent,W,regular,demo
-MOCK-092-06,2026-12-03,Kansas State,Demo Opponent,L,regular,demo
-MOCK-092-07,2026-12-07,Kansas State,Demo Opponent,L,regular,demo
-MOCK-092-08,2026-12-12,Kansas State,Demo Opponent,L,regular,demo
-MOCK-092-09,2026-12-14,Kansas State,Demo Opponent,L,regular,demo
-MOCK-093-00,2026-11-04,Santa Clara,Demo Opponent,W,regular,demo
-MOCK-093-01,2026-11-07,Santa Clara,Demo Opponent,L,regular,demo
-MOCK-093-02,2026-11-08,Santa Clara,Demo Opponent,L,regular,demo
-MOCK-093-03,2026-11-12,Santa Clara,Demo Opponent,L,regular,demo
-MOCK-093-04,2026-11-17,Santa Clara,Demo Opponent,W,regular,demo
-MOCK-093-05,2026-11-20,Santa Clara,Demo Opponent,W,regular,demo
-MOCK-093-06,2026-11-21,Santa Clara,Demo Opponent,L,regular,demo
-MOCK-093-07,2026-11-23,Santa Clara,Demo Opponent,L,regular,demo
-MOCK-093-08,2026-12-01,Santa Clara,Demo Opponent,L,regular,demo
-MOCK-093-09,2026-12-04,Santa Clara,Demo Opponent,W,regular,demo
-MOCK-093-10,2026-12-15,Santa Clara,Demo Opponent,L,regular,demo
-MOCK-094-00,2026-11-12,Texas A&M,Demo Opponent,L,regular,demo
-MOCK-094-01,2026-11-14,Texas A&M,Demo Opponent,L,regular,demo
-MOCK-094-02,2026-11-19,Texas A&M,Demo Opponent,L,regular,demo
-MOCK-094-03,2026-11-20,Texas A&M,Demo Opponent,W,regular,demo
-MOCK-094-04,2026-11-21,Texas A&M,Demo Opponent,W,regular,demo
-MOCK-094-05,2026-11-22,Texas A&M,Demo Opponent,W,regular,demo
-MOCK-094-06,2026-11-24,Texas A&M,Demo Opponent,W,regular,demo
-MOCK-094-07,2026-11-28,Texas A&M,Demo Opponent,W,regular,demo
-MOCK-094-08,2026-12-02,Texas A&M,Demo Opponent,L,regular,demo
-MOCK-094-09,2026-12-03,Texas A&M,Demo Opponent,W,regular,demo
-MOCK-094-10,2026-12-09,Texas A&M,Demo Opponent,W,regular,demo
-MOCK-094-11,2026-12-10,Texas A&M,Demo Opponent,L,regular,demo
-MOCK-095-00,2026-11-07,Cincinnati,Demo Opponent,L,regular,demo
-MOCK-095-01,2026-11-08,Cincinnati,Demo Opponent,L,regular,demo
-MOCK-095-02,2026-11-09,Cincinnati,Demo Opponent,L,regular,demo
-MOCK-095-03,2026-11-10,Cincinnati,Demo Opponent,L,regular,demo
-MOCK-095-04,2026-11-11,Cincinnati,Demo Opponent,L,regular,demo
-MOCK-095-05,2026-11-12,Cincinnati,Demo Opponent,W,regular,demo
-MOCK-095-06,2026-11-16,Cincinnati,Demo Opponent,L,regular,demo
-MOCK-095-07,2026-11-20,Cincinnati,Demo Opponent,W,regular,demo
-MOCK-095-08,2026-11-23,Cincinnati,Demo Opponent,W,regular,demo
-MOCK-095-09,2026-11-26,Cincinnati,Demo Opponent,L,regular,demo
-MOCK-095-10,2026-12-04,Cincinnati,Demo Opponent,L,regular,demo
-MOCK-095-11,2026-12-05,Cincinnati,Demo Opponent,W,regular,demo
-MOCK-095-12,2026-12-09,Cincinnati,Demo Opponent,W,regular,demo
-MOCK-096-00,2026-11-07,South Carolina,Demo Opponent,W,regular,demo
-MOCK-096-01,2026-11-12,South Carolina,Demo Opponent,W,regular,demo
-MOCK-096-02,2026-11-19,South Carolina,Demo Opponent,L,regular,demo
-MOCK-096-03,2026-11-23,South Carolina,Demo Opponent,L,regular,demo
-MOCK-096-04,2026-11-26,South Carolina,Demo Opponent,W,regular,demo
-MOCK-096-05,2026-11-28,South Carolina,Demo Opponent,L,regular,demo
-MOCK-096-06,2026-12-02,South Carolina,Demo Opponent,W,regular,demo
-MOCK-096-07,2026-12-11,South Carolina,Demo Opponent,L,regular,demo
-MOCK-096-08,2026-12-14,South Carolina,Demo Opponent,W,regular,demo
-MOCK-097-00,2026-11-03,Florida State,Demo Opponent,L,regular,demo
-MOCK-097-01,2026-11-06,Florida State,Demo Opponent,L,regular,demo
-MOCK-097-02,2026-11-08,Florida State,Demo Opponent,L,regular,demo
-MOCK-097-03,2026-11-11,Florida State,Demo Opponent,L,regular,demo
-MOCK-097-04,2026-11-12,Florida State,Demo Opponent,L,regular,demo
-MOCK-097-05,2026-11-14,Florida State,Demo Opponent,L,regular,demo
-MOCK-097-06,2026-11-19,Florida State,Demo Opponent,L,regular,demo
-MOCK-097-07,2026-11-25,Florida State,Demo Opponent,W,regular,demo
-MOCK-097-08,2026-11-26,Florida State,Demo Opponent,L,regular,demo
-MOCK-097-09,2026-11-29,Florida State,Demo Opponent,W,regular,demo
-MOCK-097-10,2026-12-07,Florida State,Demo Opponent,L,regular,demo
-MOCK-097-11,2026-12-11,Florida State,Demo Opponent,L,regular,demo
-MOCK-097-12,2026-12-14,Florida State,Demo Opponent,W,regular,demo
-MOCK-098-00,2026-11-03,Arizona State,Demo Opponent,L,regular,demo
-MOCK-098-01,2026-11-12,Arizona State,Demo Opponent,L,regular,demo
-MOCK-098-02,2026-11-16,Arizona State,Demo Opponent,L,regular,demo
-MOCK-098-03,2026-11-18,Arizona State,Demo Opponent,L,regular,demo
-MOCK-098-04,2026-11-20,Arizona State,Demo Opponent,W,regular,demo
-MOCK-098-05,2026-11-24,Arizona State,Demo Opponent,W,regular,demo
-MOCK-098-06,2026-12-03,Arizona State,Demo Opponent,W,regular,demo
-MOCK-098-07,2026-12-12,Arizona State,Demo Opponent,W,regular,demo
-MOCK-098-08,2026-12-13,Arizona State,Demo Opponent,L,regular,demo
-MOCK-098-09,2026-12-15,Arizona State,Demo Opponent,L,regular,demo
-MOCK-099-00,2026-11-06,Utah,Demo Opponent,L,regular,demo
-MOCK-099-01,2026-11-07,Utah,Demo Opponent,W,regular,demo
-MOCK-099-02,2026-11-09,Utah,Demo Opponent,L,regular,demo
-MOCK-099-03,2026-11-13,Utah,Demo Opponent,W,regular,demo
-MOCK-099-04,2026-11-17,Utah,Demo Opponent,L,regular,demo
-MOCK-099-05,2026-11-19,Utah,Demo Opponent,L,regular,demo
-MOCK-099-06,2026-11-28,Utah,Demo Opponent,L,regular,demo
-MOCK-099-07,2026-11-29,Utah,Demo Opponent,L,regular,demo
-MOCK-099-08,2026-11-30,Utah,Demo Opponent,L,regular,demo
-MOCK-099-09,2026-12-09,Utah,Demo Opponent,L,regular,demo
-MOCK-100-00,2026-11-06,Auburn,Demo Opponent,L,regular,demo
-MOCK-100-01,2026-11-08,Auburn,Demo Opponent,L,regular,demo
-MOCK-100-02,2026-11-13,Auburn,Demo Opponent,W,regular,demo
-MOCK-100-03,2026-11-17,Auburn,Demo Opponent,L,regular,demo
-MOCK-100-04,2026-11-24,Auburn,Demo Opponent,L,regular,demo
-MOCK-100-05,2026-11-26,Auburn,Demo Opponent,L,regular,demo
-MOCK-100-06,2026-11-28,Auburn,Demo Opponent,L,regular,demo
-MOCK-100-07,2026-12-10,Auburn,Demo Opponent,L,regular,demo
-MOCK-100-08,2026-12-15,Auburn,Demo Opponent,L,regular,demo
-MOCK-101-00,2026-11-06,Temple,Demo Opponent,W,regular,demo
-MOCK-101-01,2026-11-07,Temple,Demo Opponent,L,regular,demo
-MOCK-101-02,2026-11-11,Temple,Demo Opponent,L,regular,demo
-MOCK-101-03,2026-11-12,Temple,Demo Opponent,W,regular,demo
-MOCK-101-04,2026-11-15,Temple,Demo Opponent,W,regular,demo
-MOCK-101-05,2026-11-23,Temple,Demo Opponent,W,regular,demo
-MOCK-101-06,2026-11-24,Temple,Demo Opponent,L,regular,demo
-MOCK-101-07,2026-11-27,Temple,Demo Opponent,W,regular,demo
-MOCK-101-08,2026-12-01,Temple,Demo Opponent,L,regular,demo
-MOCK-101-09,2026-12-05,Temple,Demo Opponent,L,regular,demo
-MOCK-101-10,2026-12-08,Temple,Demo Opponent,L,regular,demo
-MOCK-101-11,2026-12-14,Temple,Demo Opponent,W,regular,demo
-MOCK-102-00,2026-11-03,Vanderbilt,Demo Opponent,L,regular,demo
-MOCK-102-01,2026-11-06,Vanderbilt,Demo Opponent,L,regular,demo
-MOCK-102-02,2026-11-08,Vanderbilt,Demo Opponent,L,regular,demo
-MOCK-102-03,2026-11-14,Vanderbilt,Demo Opponent,L,regular,demo
-MOCK-102-04,2026-11-17,Vanderbilt,Demo Opponent,L,regular,demo
-MOCK-102-05,2026-11-19,Vanderbilt,Demo Opponent,W,regular,demo
-MOCK-102-06,2026-11-21,Vanderbilt,Demo Opponent,W,regular,demo
-MOCK-102-07,2026-11-23,Vanderbilt,Demo Opponent,L,regular,demo
-MOCK-102-08,2026-12-01,Vanderbilt,Demo Opponent,L,regular,demo
-MOCK-102-09,2026-12-04,Vanderbilt,Demo Opponent,L,regular,demo
-MOCK-102-10,2026-12-07,Vanderbilt,Demo Opponent,L,regular,demo
-MOCK-102-11,2026-12-08,Vanderbilt,Demo Opponent,L,regular,demo
-MOCK-102-12,2026-12-11,Vanderbilt,Demo Opponent,W,regular,demo
-MOCK-102-13,2026-12-14,Vanderbilt,Demo Opponent,W,regular,demo
-MOCK-103-00,2026-11-13,Texas,Demo Opponent,L,regular,demo
-MOCK-103-01,2026-11-14,Texas,Demo Opponent,L,regular,demo
-MOCK-103-02,2026-11-15,Texas,Demo Opponent,L,regular,demo
-MOCK-103-03,2026-11-21,Texas,Demo Opponent,L,regular,demo
-MOCK-103-04,2026-11-24,Texas,Demo Opponent,L,regular,demo
-MOCK-103-05,2026-11-26,Texas,Demo Opponent,L,regular,demo
-MOCK-103-06,2026-11-28,Texas,Demo Opponent,W,regular,demo
-MOCK-103-07,2026-11-30,Texas,Demo Opponent,L,regular,demo
-MOCK-103-08,2026-12-04,Texas,Demo Opponent,L,regular,demo
-MOCK-103-09,2026-12-05,Texas,Demo Opponent,W,regular,demo
-MOCK-103-10,2026-12-08,Texas,Demo Opponent,L,regular,demo
-MOCK-103-11,2026-12-09,Texas,Demo Opponent,L,regular,demo
-MOCK-103-12,2026-12-13,Texas,Demo Opponent,W,regular,demo
-MOCK-104-00,2026-11-03,Houston,Demo Opponent,W,regular,demo
-MOCK-104-01,2026-11-04,Houston,Demo Opponent,L,regular,demo
-MOCK-104-02,2026-11-06,Houston,Demo Opponent,L,regular,demo
-MOCK-104-03,2026-11-09,Houston,Demo Opponent,L,regular,demo
-MOCK-104-04,2026-11-12,Houston,Demo Opponent,W,regular,demo
-MOCK-104-05,2026-11-14,Houston,Demo Opponent,L,regular,demo
-MOCK-104-06,2026-11-21,Houston,Demo Opponent,L,regular,demo
-MOCK-104-07,2026-11-23,Houston,Demo Opponent,L,regular,demo
-MOCK-104-08,2026-11-29,Houston,Demo Opponent,L,regular,demo
-MOCK-104-09,2026-11-30,Houston,Demo Opponent,L,regular,demo
-MOCK-104-10,2026-12-05,Houston,Demo Opponent,L,regular,demo
-MOCK-104-11,2026-12-07,Houston,Demo Opponent,L,regular,demo
-MOCK-105-00,2026-11-07,Syracuse,Demo Opponent,L,regular,demo
-MOCK-105-01,2026-11-10,Syracuse,Demo Opponent,W,regular,demo
-MOCK-105-02,2026-11-13,Syracuse,Demo Opponent,L,regular,demo
-MOCK-105-03,2026-11-17,Syracuse,Demo Opponent,L,regular,demo
-MOCK-105-04,2026-11-18,Syracuse,Demo Opponent,L,regular,demo
-MOCK-105-05,2026-11-20,Syracuse,Demo Opponent,L,regular,demo
-MOCK-105-06,2026-11-23,Syracuse,Demo Opponent,L,regular,demo
-MOCK-105-07,2026-11-24,Syracuse,Demo Opponent,L,regular,demo
-MOCK-105-08,2026-11-28,Syracuse,Demo Opponent,L,regular,demo
-MOCK-105-09,2026-11-29,Syracuse,Demo Opponent,L,regular,demo
-MOCK-105-10,2026-11-30,Syracuse,Demo Opponent,L,regular,demo
-MOCK-105-11,2026-12-15,Syracuse,Demo Opponent,L,regular,demo
-MOCK-106-00,2026-11-06,West Virginia,Demo Opponent,L,regular,demo
-MOCK-106-01,2026-11-07,West Virginia,Demo Opponent,L,regular,demo
-MOCK-106-02,2026-11-12,West Virginia,Demo Opponent,W,regular,demo
-MOCK-106-03,2026-11-15,West Virginia,Demo Opponent,W,regular,demo
-MOCK-106-04,2026-12-01,West Virginia,Demo Opponent,W,regular,demo
-MOCK-106-05,2026-12-02,West Virginia,Demo Opponent,W,regular,demo
-MOCK-106-06,2026-12-03,West Virginia,Demo Opponent,L,regular,demo
-MOCK-106-07,2026-12-07,West Virginia,Demo Opponent,L,regular,demo
-MOCK-106-08,2026-12-12,West Virginia,Demo Opponent,L,regular,demo
-MOCK-107-00,2026-11-05,Notre Dame,Demo Opponent,L,regular,demo
-MOCK-107-01,2026-11-09,Notre Dame,Demo Opponent,W,regular,demo
-MOCK-107-02,2026-11-11,Notre Dame,Demo Opponent,W,regular,demo
-MOCK-107-03,2026-11-19,Notre Dame,Demo Opponent,L,regular,demo
-MOCK-107-04,2026-11-24,Notre Dame,Demo Opponent,W,regular,demo
-MOCK-107-05,2026-11-25,Notre Dame,Demo Opponent,L,regular,demo
-MOCK-107-06,2026-11-30,Notre Dame,Demo Opponent,L,regular,demo
-MOCK-107-07,2026-12-09,Notre Dame,Demo Opponent,L,regular,demo
-MOCK-107-08,2026-12-15,Notre Dame,Demo Opponent,L,regular,demo
+MOCK-0-0,2026-11-07,Duke,Demo Opponent,L,regular,demo
+MOCK-0-1,2026-11-08,Duke,Demo Opponent,W,regular,demo
+MOCK-0-2,2026-11-15,Duke,Demo Opponent,W,regular,demo
+MOCK-0-3,2026-11-20,Duke,Demo Opponent,L,regular,demo
+MOCK-0-4,2026-11-21,Duke,Demo Opponent,W,regular,demo
+MOCK-0-5,2026-11-26,Duke,Demo Opponent,W,regular,demo
+MOCK-0-6,2026-11-29,Duke,Demo Opponent,W,regular,demo
+MOCK-0-7,2026-11-30,Duke,Demo Opponent,W,regular,demo
+MOCK-0-8,2026-12-05,Duke,Demo Opponent,W,regular,demo
+MOCK-0-9,2026-12-09,Duke,Demo Opponent,L,regular,demo
+MOCK-1-0,2026-11-11,Florida,Demo Opponent,L,regular,demo
+MOCK-1-1,2026-11-12,Florida,Demo Opponent,W,regular,demo
+MOCK-1-2,2026-11-14,Florida,Demo Opponent,W,regular,demo
+MOCK-1-3,2026-11-16,Florida,Demo Opponent,L,regular,demo
+MOCK-1-4,2026-11-18,Florida,Demo Opponent,L,regular,demo
+MOCK-1-5,2026-11-20,Florida,Demo Opponent,W,regular,demo
+MOCK-1-6,2026-12-03,Florida,Demo Opponent,W,regular,demo
+MOCK-1-7,2026-12-04,Florida,Demo Opponent,W,regular,demo
+MOCK-1-8,2026-12-07,Florida,Demo Opponent,W,regular,demo
+MOCK-1-9,2026-12-09,Florida,Demo Opponent,W,regular,demo
+MOCK-2-0,2026-11-05,Illinois,Demo Opponent,L,regular,demo
+MOCK-2-1,2026-11-10,Illinois,Demo Opponent,W,regular,demo
+MOCK-2-2,2026-11-13,Illinois,Demo Opponent,L,regular,demo
+MOCK-2-3,2026-11-15,Illinois,Demo Opponent,W,regular,demo
+MOCK-2-4,2026-11-17,Illinois,Demo Opponent,W,regular,demo
+MOCK-2-5,2026-11-21,Illinois,Demo Opponent,W,regular,demo
+MOCK-2-6,2026-11-26,Illinois,Demo Opponent,L,regular,demo
+MOCK-2-7,2026-11-28,Illinois,Demo Opponent,W,regular,demo
+MOCK-2-8,2026-12-07,Illinois,Demo Opponent,L,regular,demo
+MOCK-2-9,2026-12-09,Illinois,Demo Opponent,W,regular,demo
+MOCK-3-0,2026-11-05,UConn,Demo Opponent,W,regular,demo
+MOCK-3-1,2026-11-06,UConn,Demo Opponent,W,regular,demo
+MOCK-3-2,2026-11-08,UConn,Demo Opponent,L,regular,demo
+MOCK-3-3,2026-11-10,UConn,Demo Opponent,W,regular,demo
+MOCK-3-4,2026-11-16,UConn,Demo Opponent,W,regular,demo
+MOCK-3-5,2026-11-18,UConn,Demo Opponent,W,regular,demo
+MOCK-3-6,2026-11-28,UConn,Demo Opponent,L,regular,demo
+MOCK-3-7,2026-12-01,UConn,Demo Opponent,W,regular,demo
+MOCK-3-8,2026-12-03,UConn,Demo Opponent,W,regular,demo
+MOCK-3-9,2026-12-07,UConn,Demo Opponent,W,regular,demo
+MOCK-4-0,2026-11-06,Michigan,Demo Opponent,W,regular,demo
+MOCK-4-1,2026-11-08,Michigan,Demo Opponent,L,regular,demo
+MOCK-4-2,2026-11-10,Michigan,Demo Opponent,L,regular,demo
+MOCK-4-3,2026-11-12,Michigan,Demo Opponent,W,regular,demo
+MOCK-4-4,2026-11-15,Michigan,Demo Opponent,W,regular,demo
+MOCK-4-5,2026-11-17,Michigan,Demo Opponent,W,regular,demo
+MOCK-4-6,2026-11-24,Michigan,Demo Opponent,W,regular,demo
+MOCK-4-7,2026-11-26,Michigan,Demo Opponent,W,regular,demo
+MOCK-4-8,2026-12-03,Michigan,Demo Opponent,W,regular,demo
+MOCK-4-9,2026-12-06,Michigan,Demo Opponent,W,regular,demo
+MOCK-5-0,2026-11-05,Louisville,Demo Opponent,W,regular,demo
+MOCK-5-1,2026-11-16,Louisville,Demo Opponent,W,regular,demo
+MOCK-5-2,2026-11-19,Louisville,Demo Opponent,W,regular,demo
+MOCK-5-3,2026-11-21,Louisville,Demo Opponent,W,regular,demo
+MOCK-5-4,2026-11-22,Louisville,Demo Opponent,L,regular,demo
+MOCK-5-5,2026-11-25,Louisville,Demo Opponent,W,regular,demo
+MOCK-5-6,2026-11-28,Louisville,Demo Opponent,W,regular,demo
+MOCK-5-7,2026-12-02,Louisville,Demo Opponent,W,regular,demo
+MOCK-5-8,2026-12-08,Louisville,Demo Opponent,W,regular,demo
+MOCK-5-9,2026-12-09,Louisville,Demo Opponent,W,regular,demo
+MOCK-6-0,2026-11-07,Gonzaga,Demo Opponent,W,regular,demo
+MOCK-6-1,2026-11-10,Gonzaga,Demo Opponent,W,regular,demo
+MOCK-6-2,2026-11-11,Gonzaga,Demo Opponent,L,regular,demo
+MOCK-6-3,2026-11-22,Gonzaga,Demo Opponent,W,regular,demo
+MOCK-6-4,2026-11-28,Gonzaga,Demo Opponent,W,regular,demo
+MOCK-6-5,2026-12-01,Gonzaga,Demo Opponent,W,regular,demo
+MOCK-6-6,2026-12-04,Gonzaga,Demo Opponent,W,regular,demo
+MOCK-6-7,2026-12-05,Gonzaga,Demo Opponent,W,regular,demo
+MOCK-6-8,2026-12-07,Gonzaga,Demo Opponent,W,regular,demo
+MOCK-6-9,2026-12-08,Gonzaga,Demo Opponent,W,regular,demo
+MOCK-7-0,2026-11-05,Houston,Demo Opponent,W,regular,demo
+MOCK-7-1,2026-11-07,Houston,Demo Opponent,W,regular,demo
+MOCK-7-2,2026-11-14,Houston,Demo Opponent,W,regular,demo
+MOCK-7-3,2026-11-15,Houston,Demo Opponent,L,regular,demo
+MOCK-7-4,2026-11-17,Houston,Demo Opponent,W,regular,demo
+MOCK-7-5,2026-11-22,Houston,Demo Opponent,L,regular,demo
+MOCK-7-6,2026-11-23,Houston,Demo Opponent,L,regular,demo
+MOCK-7-7,2026-11-26,Houston,Demo Opponent,W,regular,demo
+MOCK-7-8,2026-11-27,Houston,Demo Opponent,W,regular,demo
+MOCK-7-9,2026-12-06,Houston,Demo Opponent,L,regular,demo
+MOCK-8-0,2026-11-08,Arizona,Demo Opponent,W,regular,demo
+MOCK-8-1,2026-11-17,Arizona,Demo Opponent,W,regular,demo
+MOCK-8-2,2026-11-20,Arizona,Demo Opponent,L,regular,demo
+MOCK-8-3,2026-11-21,Arizona,Demo Opponent,L,regular,demo
+MOCK-8-4,2026-11-22,Arizona,Demo Opponent,W,regular,demo
+MOCK-8-5,2026-11-23,Arizona,Demo Opponent,W,regular,demo
+MOCK-8-6,2026-11-29,Arizona,Demo Opponent,W,regular,demo
+MOCK-8-7,2026-12-01,Arizona,Demo Opponent,W,regular,demo
+MOCK-8-8,2026-12-06,Arizona,Demo Opponent,L,regular,demo
+MOCK-8-9,2026-12-09,Arizona,Demo Opponent,L,regular,demo
+MOCK-9-0,2026-11-08,Michigan State,Demo Opponent,W,regular,demo
+MOCK-9-1,2026-11-11,Michigan State,Demo Opponent,L,regular,demo
+MOCK-9-2,2026-11-12,Michigan State,Demo Opponent,W,regular,demo
+MOCK-9-3,2026-11-13,Michigan State,Demo Opponent,W,regular,demo
+MOCK-9-4,2026-11-15,Michigan State,Demo Opponent,L,regular,demo
+MOCK-9-5,2026-11-23,Michigan State,Demo Opponent,W,regular,demo
+MOCK-9-6,2026-11-25,Michigan State,Demo Opponent,W,regular,demo
+MOCK-9-7,2026-11-30,Michigan State,Demo Opponent,W,regular,demo
+MOCK-9-8,2026-12-05,Michigan State,Demo Opponent,L,regular,demo
+MOCK-9-9,2026-12-07,Michigan State,Demo Opponent,L,regular,demo
+MOCK-10-0,2026-11-09,Arkansas,Demo Opponent,L,regular,demo
+MOCK-10-1,2026-11-14,Arkansas,Demo Opponent,L,regular,demo
+MOCK-10-2,2026-11-15,Arkansas,Demo Opponent,L,regular,demo
+MOCK-10-3,2026-11-18,Arkansas,Demo Opponent,W,regular,demo
+MOCK-10-4,2026-11-22,Arkansas,Demo Opponent,W,regular,demo
+MOCK-10-5,2026-11-24,Arkansas,Demo Opponent,W,regular,demo
+MOCK-10-6,2026-11-30,Arkansas,Demo Opponent,L,regular,demo
+MOCK-10-7,2026-12-02,Arkansas,Demo Opponent,W,regular,demo
+MOCK-10-8,2026-12-04,Arkansas,Demo Opponent,L,regular,demo
+MOCK-10-9,2026-12-07,Arkansas,Demo Opponent,L,regular,demo
+MOCK-11-0,2026-11-05,Virginia,Demo Opponent,L,regular,demo
+MOCK-11-1,2026-11-06,Virginia,Demo Opponent,W,regular,demo
+MOCK-11-2,2026-11-13,Virginia,Demo Opponent,L,regular,demo
+MOCK-11-3,2026-11-17,Virginia,Demo Opponent,W,regular,demo
+MOCK-11-4,2026-11-22,Virginia,Demo Opponent,W,regular,demo
+MOCK-11-5,2026-11-23,Virginia,Demo Opponent,W,regular,demo
+MOCK-11-6,2026-11-27,Virginia,Demo Opponent,W,regular,demo
+MOCK-11-7,2026-11-28,Virginia,Demo Opponent,W,regular,demo
+MOCK-11-8,2026-11-29,Virginia,Demo Opponent,W,regular,demo
+MOCK-11-9,2026-12-03,Virginia,Demo Opponent,W,regular,demo
+MOCK-12-0,2026-11-08,St. John's,Demo Opponent,W,regular,demo
+MOCK-12-1,2026-11-09,St. John's,Demo Opponent,W,regular,demo
+MOCK-12-2,2026-11-12,St. John's,Demo Opponent,L,regular,demo
+MOCK-12-3,2026-11-13,St. John's,Demo Opponent,W,regular,demo
+MOCK-12-4,2026-11-14,St. John's,Demo Opponent,W,regular,demo
+MOCK-12-5,2026-11-16,St. John's,Demo Opponent,L,regular,demo
+MOCK-12-6,2026-11-27,St. John's,Demo Opponent,W,regular,demo
+MOCK-12-7,2026-12-03,St. John's,Demo Opponent,W,regular,demo
+MOCK-12-8,2026-12-07,St. John's,Demo Opponent,W,regular,demo
+MOCK-12-9,2026-12-09,St. John's,Demo Opponent,W,regular,demo
+MOCK-13-0,2026-11-07,Kansas,Demo Opponent,W,regular,demo
+MOCK-13-1,2026-11-20,Kansas,Demo Opponent,W,regular,demo
+MOCK-13-2,2026-11-22,Kansas,Demo Opponent,L,regular,demo
+MOCK-13-3,2026-11-26,Kansas,Demo Opponent,L,regular,demo
+MOCK-13-4,2026-11-27,Kansas,Demo Opponent,L,regular,demo
+MOCK-13-5,2026-11-28,Kansas,Demo Opponent,L,regular,demo
+MOCK-13-6,2026-11-30,Kansas,Demo Opponent,W,regular,demo
+MOCK-13-7,2026-12-01,Kansas,Demo Opponent,W,regular,demo
+MOCK-13-8,2026-12-03,Kansas,Demo Opponent,L,regular,demo
+MOCK-13-9,2026-12-04,Kansas,Demo Opponent,L,regular,demo
+MOCK-14-0,2026-11-07,Iowa State,Demo Opponent,W,regular,demo
+MOCK-14-1,2026-11-08,Iowa State,Demo Opponent,W,regular,demo
+MOCK-14-2,2026-11-11,Iowa State,Demo Opponent,W,regular,demo
+MOCK-14-3,2026-11-15,Iowa State,Demo Opponent,L,regular,demo
+MOCK-14-4,2026-11-17,Iowa State,Demo Opponent,L,regular,demo
+MOCK-14-5,2026-11-22,Iowa State,Demo Opponent,W,regular,demo
+MOCK-14-6,2026-11-26,Iowa State,Demo Opponent,W,regular,demo
+MOCK-14-7,2026-12-02,Iowa State,Demo Opponent,L,regular,demo
+MOCK-14-8,2026-12-05,Iowa State,Demo Opponent,W,regular,demo
+MOCK-14-9,2026-12-07,Iowa State,Demo Opponent,W,regular,demo
+MOCK-15-0,2026-11-08,Tennessee,Demo Opponent,L,regular,demo
+MOCK-15-1,2026-11-10,Tennessee,Demo Opponent,W,regular,demo
+MOCK-15-2,2026-11-19,Tennessee,Demo Opponent,L,regular,demo
+MOCK-15-3,2026-11-25,Tennessee,Demo Opponent,L,regular,demo
+MOCK-15-4,2026-11-26,Tennessee,Demo Opponent,L,regular,demo
+MOCK-15-5,2026-11-27,Tennessee,Demo Opponent,W,regular,demo
+MOCK-15-6,2026-12-03,Tennessee,Demo Opponent,W,regular,demo
+MOCK-15-7,2026-12-05,Tennessee,Demo Opponent,L,regular,demo
+MOCK-15-8,2026-12-06,Tennessee,Demo Opponent,W,regular,demo
+MOCK-15-9,2026-12-07,Tennessee,Demo Opponent,W,regular,demo
+MOCK-16-0,2026-11-06,Texas Tech,Demo Opponent,L,regular,demo
+MOCK-16-1,2026-11-07,Texas Tech,Demo Opponent,W,regular,demo
+MOCK-16-2,2026-11-16,Texas Tech,Demo Opponent,L,regular,demo
+MOCK-16-3,2026-11-17,Texas Tech,Demo Opponent,W,regular,demo
+MOCK-16-4,2026-11-24,Texas Tech,Demo Opponent,W,regular,demo
+MOCK-16-5,2026-11-25,Texas Tech,Demo Opponent,W,regular,demo
+MOCK-16-6,2026-11-29,Texas Tech,Demo Opponent,W,regular,demo
+MOCK-16-7,2026-11-30,Texas Tech,Demo Opponent,W,regular,demo
+MOCK-16-8,2026-12-04,Texas Tech,Demo Opponent,W,regular,demo
+MOCK-16-9,2026-12-05,Texas Tech,Demo Opponent,L,regular,demo
+MOCK-17-0,2026-11-15,Saint Louis,Demo Opponent,W,regular,demo
+MOCK-17-1,2026-11-18,Saint Louis,Demo Opponent,W,regular,demo
+MOCK-17-2,2026-11-19,Saint Louis,Demo Opponent,W,regular,demo
+MOCK-17-3,2026-11-21,Saint Louis,Demo Opponent,W,regular,demo
+MOCK-17-4,2026-11-25,Saint Louis,Demo Opponent,W,regular,demo
+MOCK-17-5,2026-11-26,Saint Louis,Demo Opponent,W,regular,demo
+MOCK-17-6,2026-12-01,Saint Louis,Demo Opponent,L,regular,demo
+MOCK-17-7,2026-12-04,Saint Louis,Demo Opponent,L,regular,demo
+MOCK-17-8,2026-12-05,Saint Louis,Demo Opponent,L,regular,demo
+MOCK-17-9,2026-12-09,Saint Louis,Demo Opponent,W,regular,demo
+MOCK-18-0,2026-11-06,Alabama,Demo Opponent,W,regular,demo
+MOCK-18-1,2026-11-07,Alabama,Demo Opponent,W,regular,demo
+MOCK-18-2,2026-11-08,Alabama,Demo Opponent,L,regular,demo
+MOCK-18-3,2026-11-12,Alabama,Demo Opponent,W,regular,demo
+MOCK-18-4,2026-11-20,Alabama,Demo Opponent,L,regular,demo
+MOCK-18-5,2026-11-21,Alabama,Demo Opponent,W,regular,demo
+MOCK-18-6,2026-11-27,Alabama,Demo Opponent,L,regular,demo
+MOCK-18-7,2026-12-01,Alabama,Demo Opponent,W,regular,demo
+MOCK-18-8,2026-12-06,Alabama,Demo Opponent,W,regular,demo
+MOCK-18-9,2026-12-08,Alabama,Demo Opponent,L,regular,demo
+MOCK-19-0,2026-11-05,Texas,Demo Opponent,W,regular,demo
+MOCK-19-1,2026-11-08,Texas,Demo Opponent,W,regular,demo
+MOCK-19-2,2026-11-14,Texas,Demo Opponent,L,regular,demo
+MOCK-19-3,2026-11-19,Texas,Demo Opponent,L,regular,demo
+MOCK-19-4,2026-11-20,Texas,Demo Opponent,W,regular,demo
+MOCK-19-5,2026-11-22,Texas,Demo Opponent,W,regular,demo
+MOCK-19-6,2026-11-23,Texas,Demo Opponent,L,regular,demo
+MOCK-19-7,2026-11-24,Texas,Demo Opponent,W,regular,demo
+MOCK-19-8,2026-12-03,Texas,Demo Opponent,W,regular,demo
+MOCK-19-9,2026-12-05,Texas,Demo Opponent,L,regular,demo
+MOCK-20-0,2026-11-11,Vanderbilt,Demo Opponent,W,regular,demo
+MOCK-20-1,2026-11-12,Vanderbilt,Demo Opponent,W,regular,demo
+MOCK-20-2,2026-11-17,Vanderbilt,Demo Opponent,W,regular,demo
+MOCK-20-3,2026-11-20,Vanderbilt,Demo Opponent,W,regular,demo
+MOCK-20-4,2026-11-25,Vanderbilt,Demo Opponent,W,regular,demo
+MOCK-20-5,2026-11-28,Vanderbilt,Demo Opponent,W,regular,demo
+MOCK-20-6,2026-12-02,Vanderbilt,Demo Opponent,W,regular,demo
+MOCK-20-7,2026-12-05,Vanderbilt,Demo Opponent,W,regular,demo
+MOCK-20-8,2026-12-07,Vanderbilt,Demo Opponent,W,regular,demo
+MOCK-20-9,2026-12-08,Vanderbilt,Demo Opponent,W,regular,demo
+MOCK-21-0,2026-11-12,Purdue,Demo Opponent,L,regular,demo
+MOCK-21-1,2026-11-13,Purdue,Demo Opponent,L,regular,demo
+MOCK-21-2,2026-11-16,Purdue,Demo Opponent,W,regular,demo
+MOCK-21-3,2026-11-19,Purdue,Demo Opponent,L,regular,demo
+MOCK-21-4,2026-11-22,Purdue,Demo Opponent,W,regular,demo
+MOCK-21-5,2026-11-25,Purdue,Demo Opponent,W,regular,demo
+MOCK-21-6,2026-11-27,Purdue,Demo Opponent,L,regular,demo
+MOCK-21-7,2026-11-28,Purdue,Demo Opponent,W,regular,demo
+MOCK-21-8,2026-12-07,Purdue,Demo Opponent,L,regular,demo
+MOCK-21-9,2026-12-08,Purdue,Demo Opponent,W,regular,demo
+MOCK-22-0,2026-11-05,High Point,Demo Opponent,W,regular,demo
+MOCK-22-1,2026-11-06,High Point,Demo Opponent,L,regular,demo
+MOCK-22-2,2026-11-08,High Point,Demo Opponent,L,regular,demo
+MOCK-22-3,2026-11-10,High Point,Demo Opponent,L,regular,demo
+MOCK-22-4,2026-11-11,High Point,Demo Opponent,W,regular,demo
+MOCK-22-5,2026-11-12,High Point,Demo Opponent,W,regular,demo
+MOCK-22-6,2026-11-21,High Point,Demo Opponent,W,regular,demo
+MOCK-22-7,2026-11-23,High Point,Demo Opponent,W,regular,demo
+MOCK-22-8,2026-11-26,High Point,Demo Opponent,W,regular,demo
+MOCK-22-9,2026-12-01,High Point,Demo Opponent,W,regular,demo
+MOCK-23-0,2026-11-07,Miami (FL),Demo Opponent,W,regular,demo
+MOCK-23-1,2026-11-08,Miami (FL),Demo Opponent,W,regular,demo
+MOCK-23-2,2026-11-19,Miami (FL),Demo Opponent,L,regular,demo
+MOCK-23-3,2026-11-26,Miami (FL),Demo Opponent,W,regular,demo
+MOCK-23-4,2026-11-28,Miami (FL),Demo Opponent,W,regular,demo
+MOCK-23-5,2026-12-01,Miami (FL),Demo Opponent,W,regular,demo
+MOCK-23-6,2026-12-04,Miami (FL),Demo Opponent,W,regular,demo
+MOCK-23-7,2026-12-06,Miami (FL),Demo Opponent,L,regular,demo
+MOCK-23-8,2026-12-07,Miami (FL),Demo Opponent,L,regular,demo
+MOCK-23-9,2026-12-08,Miami (FL),Demo Opponent,L,regular,demo
+MOCK-24-0,2026-11-08,Wisconsin,Demo Opponent,L,regular,demo
+MOCK-24-1,2026-11-12,Wisconsin,Demo Opponent,W,regular,demo
+MOCK-24-2,2026-11-14,Wisconsin,Demo Opponent,L,regular,demo
+MOCK-24-3,2026-11-16,Wisconsin,Demo Opponent,L,regular,demo
+MOCK-24-4,2026-11-18,Wisconsin,Demo Opponent,L,regular,demo
+MOCK-24-5,2026-11-24,Wisconsin,Demo Opponent,W,regular,demo
+MOCK-24-6,2026-11-25,Wisconsin,Demo Opponent,L,regular,demo
+MOCK-24-7,2026-11-27,Wisconsin,Demo Opponent,L,regular,demo
+MOCK-24-8,2026-12-03,Wisconsin,Demo Opponent,L,regular,demo
+MOCK-24-9,2026-12-05,Wisconsin,Demo Opponent,W,regular,demo
+MOCK-25-0,2026-11-06,Grand Canyon,Demo Opponent,W,regular,demo
+MOCK-25-1,2026-11-08,Grand Canyon,Demo Opponent,W,regular,demo
+MOCK-25-2,2026-11-13,Grand Canyon,Demo Opponent,W,regular,demo
+MOCK-25-3,2026-11-14,Grand Canyon,Demo Opponent,W,regular,demo
+MOCK-25-4,2026-11-18,Grand Canyon,Demo Opponent,L,regular,demo
+MOCK-25-5,2026-11-29,Grand Canyon,Demo Opponent,W,regular,demo
+MOCK-25-6,2026-11-30,Grand Canyon,Demo Opponent,W,regular,demo
+MOCK-25-7,2026-12-04,Grand Canyon,Demo Opponent,W,regular,demo
+MOCK-25-8,2026-12-08,Grand Canyon,Demo Opponent,L,regular,demo
+MOCK-25-9,2026-12-09,Grand Canyon,Demo Opponent,W,regular,demo
+MOCK-26-0,2026-11-06,UNC Wilmington,Demo Opponent,W,regular,demo
+MOCK-26-1,2026-11-07,UNC Wilmington,Demo Opponent,W,regular,demo
+MOCK-26-2,2026-11-11,UNC Wilmington,Demo Opponent,W,regular,demo
+MOCK-26-3,2026-11-15,UNC Wilmington,Demo Opponent,W,regular,demo
+MOCK-26-4,2026-11-24,UNC Wilmington,Demo Opponent,L,regular,demo
+MOCK-26-5,2026-11-28,UNC Wilmington,Demo Opponent,W,regular,demo
+MOCK-26-6,2026-12-02,UNC Wilmington,Demo Opponent,L,regular,demo
+MOCK-26-7,2026-12-03,UNC Wilmington,Demo Opponent,L,regular,demo
+MOCK-26-8,2026-12-07,UNC Wilmington,Demo Opponent,L,regular,demo
+MOCK-26-9,2026-12-08,UNC Wilmington,Demo Opponent,W,regular,demo
+MOCK-27-0,2026-11-05,Villanova,Demo Opponent,W,regular,demo
+MOCK-27-1,2026-11-13,Villanova,Demo Opponent,L,regular,demo
+MOCK-27-2,2026-11-14,Villanova,Demo Opponent,L,regular,demo
+MOCK-27-3,2026-11-20,Villanova,Demo Opponent,W,regular,demo
+MOCK-27-4,2026-11-21,Villanova,Demo Opponent,W,regular,demo
+MOCK-27-5,2026-11-25,Villanova,Demo Opponent,W,regular,demo
+MOCK-27-6,2026-11-28,Villanova,Demo Opponent,W,regular,demo
+MOCK-27-7,2026-11-29,Villanova,Demo Opponent,L,regular,demo
+MOCK-27-8,2026-12-04,Villanova,Demo Opponent,L,regular,demo
+MOCK-27-9,2026-12-07,Villanova,Demo Opponent,L,regular,demo
+MOCK-28-0,2026-11-07,McNeese,Demo Opponent,L,regular,demo
+MOCK-28-1,2026-11-08,McNeese,Demo Opponent,W,regular,demo
+MOCK-28-2,2026-11-13,McNeese,Demo Opponent,W,regular,demo
+MOCK-28-3,2026-11-14,McNeese,Demo Opponent,W,regular,demo
+MOCK-28-4,2026-11-18,McNeese,Demo Opponent,W,regular,demo
+MOCK-28-5,2026-11-28,McNeese,Demo Opponent,W,regular,demo
+MOCK-28-6,2026-11-29,McNeese,Demo Opponent,L,regular,demo
+MOCK-28-7,2026-12-01,McNeese,Demo Opponent,W,regular,demo
+MOCK-28-8,2026-12-07,McNeese,Demo Opponent,L,regular,demo
+MOCK-28-9,2026-12-09,McNeese,Demo Opponent,W,regular,demo
+MOCK-29-0,2026-11-05,North Carolina,Demo Opponent,L,regular,demo
+MOCK-29-1,2026-11-08,North Carolina,Demo Opponent,W,regular,demo
+MOCK-29-2,2026-11-18,North Carolina,Demo Opponent,L,regular,demo
+MOCK-29-3,2026-11-20,North Carolina,Demo Opponent,W,regular,demo
+MOCK-29-4,2026-11-23,North Carolina,Demo Opponent,W,regular,demo
+MOCK-29-5,2026-11-24,North Carolina,Demo Opponent,W,regular,demo
+MOCK-29-6,2026-11-26,North Carolina,Demo Opponent,L,regular,demo
+MOCK-29-7,2026-12-06,North Carolina,Demo Opponent,W,regular,demo
+MOCK-29-8,2026-12-07,North Carolina,Demo Opponent,W,regular,demo
+MOCK-29-9,2026-12-09,North Carolina,Demo Opponent,W,regular,demo
+MOCK-30-0,2026-11-07,Utah State,Demo Opponent,L,regular,demo
+MOCK-30-1,2026-11-09,Utah State,Demo Opponent,W,regular,demo
+MOCK-30-2,2026-11-11,Utah State,Demo Opponent,W,regular,demo
+MOCK-30-3,2026-11-12,Utah State,Demo Opponent,L,regular,demo
+MOCK-30-4,2026-11-15,Utah State,Demo Opponent,W,regular,demo
+MOCK-30-5,2026-11-18,Utah State,Demo Opponent,W,regular,demo
+MOCK-30-6,2026-11-23,Utah State,Demo Opponent,W,regular,demo
+MOCK-30-7,2026-11-30,Utah State,Demo Opponent,W,regular,demo
+MOCK-30-8,2026-12-01,Utah State,Demo Opponent,W,regular,demo
+MOCK-30-9,2026-12-09,Utah State,Demo Opponent,W,regular,demo
+MOCK-31-0,2026-11-06,Miami (OH),Demo Opponent,L,regular,demo
+MOCK-31-1,2026-11-07,Miami (OH),Demo Opponent,W,regular,demo
+MOCK-31-2,2026-11-12,Miami (OH),Demo Opponent,L,regular,demo
+MOCK-31-3,2026-11-13,Miami (OH),Demo Opponent,L,regular,demo
+MOCK-31-4,2026-11-15,Miami (OH),Demo Opponent,W,regular,demo
+MOCK-31-5,2026-11-18,Miami (OH),Demo Opponent,L,regular,demo
+MOCK-31-6,2026-11-21,Miami (OH),Demo Opponent,L,regular,demo
+MOCK-31-7,2026-11-24,Miami (OH),Demo Opponent,L,regular,demo
+MOCK-31-8,2026-11-30,Miami (OH),Demo Opponent,W,regular,demo
+MOCK-31-9,2026-12-02,Miami (OH),Demo Opponent,L,regular,demo
+MOCK-32-0,2026-11-07,Saint Mary's,Demo Opponent,L,regular,demo
+MOCK-32-1,2026-11-10,Saint Mary's,Demo Opponent,L,regular,demo
+MOCK-32-2,2026-11-19,Saint Mary's,Demo Opponent,L,regular,demo
+MOCK-32-3,2026-11-20,Saint Mary's,Demo Opponent,W,regular,demo
+MOCK-32-4,2026-11-21,Saint Mary's,Demo Opponent,W,regular,demo
+MOCK-32-5,2026-11-24,Saint Mary's,Demo Opponent,W,regular,demo
+MOCK-32-6,2026-11-30,Saint Mary's,Demo Opponent,L,regular,demo
+MOCK-32-7,2026-12-05,Saint Mary's,Demo Opponent,W,regular,demo
+MOCK-32-8,2026-12-08,Saint Mary's,Demo Opponent,W,regular,demo
+MOCK-32-9,2026-12-09,Saint Mary's,Demo Opponent,L,regular,demo
+MOCK-33-0,2026-11-08,VCU,Demo Opponent,W,regular,demo
+MOCK-33-1,2026-11-12,VCU,Demo Opponent,W,regular,demo
+MOCK-33-2,2026-11-13,VCU,Demo Opponent,L,regular,demo
+MOCK-33-3,2026-11-14,VCU,Demo Opponent,L,regular,demo
+MOCK-33-4,2026-11-15,VCU,Demo Opponent,L,regular,demo
+MOCK-33-5,2026-11-23,VCU,Demo Opponent,W,regular,demo
+MOCK-33-6,2026-11-25,VCU,Demo Opponent,W,regular,demo
+MOCK-33-7,2026-12-01,VCU,Demo Opponent,W,regular,demo
+MOCK-33-8,2026-12-04,VCU,Demo Opponent,L,regular,demo
+MOCK-33-9,2026-12-09,VCU,Demo Opponent,W,regular,demo
+MOCK-34-0,2026-11-05,Wichita State,Demo Opponent,W,regular,demo
+MOCK-34-1,2026-11-07,Wichita State,Demo Opponent,W,regular,demo
+MOCK-34-2,2026-11-11,Wichita State,Demo Opponent,L,regular,demo
+MOCK-34-3,2026-11-15,Wichita State,Demo Opponent,W,regular,demo
+MOCK-34-4,2026-11-17,Wichita State,Demo Opponent,L,regular,demo
+MOCK-34-5,2026-11-20,Wichita State,Demo Opponent,W,regular,demo
+MOCK-34-6,2026-11-23,Wichita State,Demo Opponent,W,regular,demo
+MOCK-34-7,2026-11-24,Wichita State,Demo Opponent,W,regular,demo
+MOCK-34-8,2026-12-02,Wichita State,Demo Opponent,W,regular,demo
+MOCK-34-9,2026-12-05,Wichita State,Demo Opponent,W,regular,demo
+MOCK-35-0,2026-11-05,NC State,Demo Opponent,W,regular,demo
+MOCK-35-1,2026-11-06,NC State,Demo Opponent,W,regular,demo
+MOCK-35-2,2026-11-10,NC State,Demo Opponent,W,regular,demo
+MOCK-35-3,2026-11-12,NC State,Demo Opponent,L,regular,demo
+MOCK-35-4,2026-11-13,NC State,Demo Opponent,W,regular,demo
+MOCK-35-5,2026-11-14,NC State,Demo Opponent,L,regular,demo
+MOCK-35-6,2026-11-20,NC State,Demo Opponent,L,regular,demo
+MOCK-35-7,2026-11-23,NC State,Demo Opponent,L,regular,demo
+MOCK-35-8,2026-12-02,NC State,Demo Opponent,W,regular,demo
+MOCK-35-9,2026-12-04,NC State,Demo Opponent,W,regular,demo
+MOCK-36-0,2026-11-06,Baylor,Demo Opponent,W,regular,demo
+MOCK-36-1,2026-11-07,Baylor,Demo Opponent,W,regular,demo
+MOCK-36-2,2026-11-09,Baylor,Demo Opponent,W,regular,demo
+MOCK-36-3,2026-11-10,Baylor,Demo Opponent,L,regular,demo
+MOCK-36-4,2026-11-11,Baylor,Demo Opponent,W,regular,demo
+MOCK-36-5,2026-11-19,Baylor,Demo Opponent,L,regular,demo
+MOCK-36-6,2026-11-23,Baylor,Demo Opponent,W,regular,demo
+MOCK-36-7,2026-11-25,Baylor,Demo Opponent,W,regular,demo
+MOCK-36-8,2026-12-04,Baylor,Demo Opponent,W,regular,demo
+MOCK-36-9,2026-12-05,Baylor,Demo Opponent,W,regular,demo
+MOCK-37-0,2026-11-07,UCLA,Demo Opponent,W,regular,demo
+MOCK-37-1,2026-11-14,UCLA,Demo Opponent,L,regular,demo
+MOCK-37-2,2026-11-19,UCLA,Demo Opponent,W,regular,demo
+MOCK-37-3,2026-11-21,UCLA,Demo Opponent,W,regular,demo
+MOCK-37-4,2026-11-25,UCLA,Demo Opponent,W,regular,demo
+MOCK-37-5,2026-11-30,UCLA,Demo Opponent,W,regular,demo
+MOCK-37-6,2026-12-01,UCLA,Demo Opponent,W,regular,demo
+MOCK-37-7,2026-12-02,UCLA,Demo Opponent,W,regular,demo
+MOCK-37-8,2026-12-03,UCLA,Demo Opponent,L,regular,demo
+MOCK-37-9,2026-12-04,UCLA,Demo Opponent,W,regular,demo
+MOCK-38-0,2026-11-06,Drake,Demo Opponent,W,regular,demo
+MOCK-38-1,2026-11-09,Drake,Demo Opponent,W,regular,demo
+MOCK-38-2,2026-11-13,Drake,Demo Opponent,L,regular,demo
+MOCK-38-3,2026-11-19,Drake,Demo Opponent,L,regular,demo
+MOCK-38-4,2026-11-23,Drake,Demo Opponent,W,regular,demo
+MOCK-38-5,2026-11-24,Drake,Demo Opponent,L,regular,demo
+MOCK-38-6,2026-11-26,Drake,Demo Opponent,L,regular,demo
+MOCK-38-7,2026-12-01,Drake,Demo Opponent,W,regular,demo
+MOCK-38-8,2026-12-06,Drake,Demo Opponent,L,regular,demo
+MOCK-38-9,2026-12-08,Drake,Demo Opponent,W,regular,demo
+MOCK-39-0,2026-11-09,BYU,Demo Opponent,L,regular,demo
+MOCK-39-1,2026-11-11,BYU,Demo Opponent,L,regular,demo
+MOCK-39-2,2026-11-15,BYU,Demo Opponent,W,regular,demo
+MOCK-39-3,2026-11-17,BYU,Demo Opponent,W,regular,demo
+MOCK-39-4,2026-11-19,BYU,Demo Opponent,L,regular,demo
+MOCK-39-5,2026-11-21,BYU,Demo Opponent,L,regular,demo
+MOCK-39-6,2026-11-26,BYU,Demo Opponent,L,regular,demo
+MOCK-39-7,2026-11-30,BYU,Demo Opponent,W,regular,demo
+MOCK-39-8,2026-12-03,BYU,Demo Opponent,W,regular,demo
+MOCK-39-9,2026-12-09,BYU,Demo Opponent,W,regular,demo
+MOCK-40-0,2026-11-07,UC San Diego,Demo Opponent,L,regular,demo
+MOCK-40-1,2026-11-09,UC San Diego,Demo Opponent,L,regular,demo
+MOCK-40-2,2026-11-14,UC San Diego,Demo Opponent,W,regular,demo
+MOCK-40-3,2026-11-15,UC San Diego,Demo Opponent,W,regular,demo
+MOCK-40-4,2026-11-19,UC San Diego,Demo Opponent,W,regular,demo
+MOCK-40-5,2026-12-01,UC San Diego,Demo Opponent,W,regular,demo
+MOCK-40-6,2026-12-02,UC San Diego,Demo Opponent,W,regular,demo
+MOCK-40-7,2026-12-03,UC San Diego,Demo Opponent,W,regular,demo
+MOCK-40-8,2026-12-05,UC San Diego,Demo Opponent,W,regular,demo
+MOCK-40-9,2026-12-08,UC San Diego,Demo Opponent,W,regular,demo
+MOCK-41-0,2026-11-06,San Diego State,Demo Opponent,L,regular,demo
+MOCK-41-1,2026-11-07,San Diego State,Demo Opponent,L,regular,demo
+MOCK-41-2,2026-11-18,San Diego State,Demo Opponent,W,regular,demo
+MOCK-41-3,2026-11-19,San Diego State,Demo Opponent,L,regular,demo
+MOCK-41-4,2026-11-21,San Diego State,Demo Opponent,L,regular,demo
+MOCK-41-5,2026-11-28,San Diego State,Demo Opponent,L,regular,demo
+MOCK-41-6,2026-12-01,San Diego State,Demo Opponent,W,regular,demo
+MOCK-41-7,2026-12-02,San Diego State,Demo Opponent,L,regular,demo
+MOCK-41-8,2026-12-06,San Diego State,Demo Opponent,W,regular,demo
+MOCK-41-9,2026-12-08,San Diego State,Demo Opponent,W,regular,demo
+MOCK-42-0,2026-11-09,Marquette,Demo Opponent,W,regular,demo
+MOCK-42-1,2026-11-13,Marquette,Demo Opponent,L,regular,demo
+MOCK-42-2,2026-11-18,Marquette,Demo Opponent,W,regular,demo
+MOCK-42-3,2026-11-22,Marquette,Demo Opponent,W,regular,demo
+MOCK-42-4,2026-11-23,Marquette,Demo Opponent,L,regular,demo
+MOCK-42-5,2026-11-27,Marquette,Demo Opponent,W,regular,demo
+MOCK-42-6,2026-11-28,Marquette,Demo Opponent,L,regular,demo
+MOCK-42-7,2026-11-30,Marquette,Demo Opponent,W,regular,demo
+MOCK-42-8,2026-12-03,Marquette,Demo Opponent,W,regular,demo
+MOCK-42-9,2026-12-04,Marquette,Demo Opponent,W,regular,demo
+MOCK-43-0,2026-11-09,Nebraska,Demo Opponent,W,regular,demo
+MOCK-43-1,2026-11-13,Nebraska,Demo Opponent,W,regular,demo
+MOCK-43-2,2026-11-16,Nebraska,Demo Opponent,L,regular,demo
+MOCK-43-3,2026-11-26,Nebraska,Demo Opponent,W,regular,demo
+MOCK-43-4,2026-11-29,Nebraska,Demo Opponent,W,regular,demo
+MOCK-43-5,2026-12-02,Nebraska,Demo Opponent,W,regular,demo
+MOCK-43-6,2026-12-03,Nebraska,Demo Opponent,W,regular,demo
+MOCK-43-7,2026-12-04,Nebraska,Demo Opponent,W,regular,demo
+MOCK-43-8,2026-12-05,Nebraska,Demo Opponent,W,regular,demo
+MOCK-43-9,2026-12-07,Nebraska,Demo Opponent,W,regular,demo
+MOCK-44-0,2026-11-18,Auburn,Demo Opponent,W,regular,demo
+MOCK-44-1,2026-11-19,Auburn,Demo Opponent,W,regular,demo
+MOCK-44-2,2026-11-22,Auburn,Demo Opponent,L,regular,demo
+MOCK-44-3,2026-11-27,Auburn,Demo Opponent,W,regular,demo
+MOCK-44-4,2026-11-29,Auburn,Demo Opponent,L,regular,demo
+MOCK-44-5,2026-12-02,Auburn,Demo Opponent,W,regular,demo
+MOCK-44-6,2026-12-03,Auburn,Demo Opponent,L,regular,demo
+MOCK-44-7,2026-12-04,Auburn,Demo Opponent,W,regular,demo
+MOCK-44-8,2026-12-05,Auburn,Demo Opponent,L,regular,demo
+MOCK-44-9,2026-12-06,Auburn,Demo Opponent,W,regular,demo
+MOCK-45-0,2026-11-08,Kentucky,Demo Opponent,L,regular,demo
+MOCK-45-1,2026-11-09,Kentucky,Demo Opponent,W,regular,demo
+MOCK-45-2,2026-11-11,Kentucky,Demo Opponent,L,regular,demo
+MOCK-45-3,2026-11-13,Kentucky,Demo Opponent,W,regular,demo
+MOCK-45-4,2026-11-20,Kentucky,Demo Opponent,W,regular,demo
+MOCK-45-5,2026-11-23,Kentucky,Demo Opponent,W,regular,demo
+MOCK-45-6,2026-11-24,Kentucky,Demo Opponent,W,regular,demo
+MOCK-45-7,2026-11-28,Kentucky,Demo Opponent,W,regular,demo
+MOCK-45-8,2026-12-05,Kentucky,Demo Opponent,W,regular,demo
+MOCK-45-9,2026-12-07,Kentucky,Demo Opponent,L,regular,demo
+MOCK-46-0,2026-11-10,Iowa,Demo Opponent,W,regular,demo
+MOCK-46-1,2026-11-11,Iowa,Demo Opponent,W,regular,demo
+MOCK-46-2,2026-11-17,Iowa,Demo Opponent,W,regular,demo
+MOCK-46-3,2026-11-22,Iowa,Demo Opponent,W,regular,demo
+MOCK-46-4,2026-11-26,Iowa,Demo Opponent,W,regular,demo
+MOCK-46-5,2026-11-27,Iowa,Demo Opponent,W,regular,demo
+MOCK-46-6,2026-11-30,Iowa,Demo Opponent,W,regular,demo
+MOCK-46-7,2026-12-01,Iowa,Demo Opponent,W,regular,demo
+MOCK-46-8,2026-12-05,Iowa,Demo Opponent,W,regular,demo
+MOCK-46-9,2026-12-08,Iowa,Demo Opponent,L,regular,demo
+MOCK-47-0,2026-11-07,North Dakota State,Demo Opponent,L,regular,demo
+MOCK-47-1,2026-11-10,North Dakota State,Demo Opponent,W,regular,demo
+MOCK-47-2,2026-11-13,North Dakota State,Demo Opponent,L,regular,demo
+MOCK-47-3,2026-11-14,North Dakota State,Demo Opponent,W,regular,demo
+MOCK-47-4,2026-11-16,North Dakota State,Demo Opponent,L,regular,demo
+MOCK-47-5,2026-11-17,North Dakota State,Demo Opponent,W,regular,demo
+MOCK-47-6,2026-11-18,North Dakota State,Demo Opponent,W,regular,demo
+MOCK-47-7,2026-11-19,North Dakota State,Demo Opponent,L,regular,demo
+MOCK-47-8,2026-12-05,North Dakota State,Demo Opponent,W,regular,demo
+MOCK-47-9,2026-12-08,North Dakota State,Demo Opponent,W,regular,demo
+MOCK-48-0,2026-11-09,USC,Demo Opponent,W,regular,demo
+MOCK-48-1,2026-11-10,USC,Demo Opponent,W,regular,demo
+MOCK-48-2,2026-11-11,USC,Demo Opponent,L,regular,demo
+MOCK-48-3,2026-11-17,USC,Demo Opponent,W,regular,demo
+MOCK-48-4,2026-11-24,USC,Demo Opponent,L,regular,demo
+MOCK-48-5,2026-11-27,USC,Demo Opponent,W,regular,demo
+MOCK-48-6,2026-11-28,USC,Demo Opponent,L,regular,demo
+MOCK-48-7,2026-11-29,USC,Demo Opponent,W,regular,demo
+MOCK-48-8,2026-12-02,USC,Demo Opponent,W,regular,demo
+MOCK-48-9,2026-12-03,USC,Demo Opponent,L,regular,demo
+MOCK-49-0,2026-11-06,Indiana,Demo Opponent,L,regular,demo
+MOCK-49-1,2026-11-07,Indiana,Demo Opponent,W,regular,demo
+MOCK-49-2,2026-11-16,Indiana,Demo Opponent,W,regular,demo
+MOCK-49-3,2026-11-20,Indiana,Demo Opponent,W,regular,demo
+MOCK-49-4,2026-11-23,Indiana,Demo Opponent,W,regular,demo
+MOCK-49-5,2026-11-25,Indiana,Demo Opponent,L,regular,demo
+MOCK-49-6,2026-11-26,Indiana,Demo Opponent,L,regular,demo
+MOCK-49-7,2026-11-30,Indiana,Demo Opponent,L,regular,demo
+MOCK-49-8,2026-12-07,Indiana,Demo Opponent,W,regular,demo
+MOCK-49-9,2026-12-09,Indiana,Demo Opponent,L,regular,demo
+MOCK-50-0,2026-11-05,New Mexico,Demo Opponent,L,regular,demo
+MOCK-50-1,2026-11-07,New Mexico,Demo Opponent,L,regular,demo
+MOCK-50-2,2026-11-08,New Mexico,Demo Opponent,W,regular,demo
+MOCK-50-3,2026-11-11,New Mexico,Demo Opponent,W,regular,demo
+MOCK-50-4,2026-11-15,New Mexico,Demo Opponent,W,regular,demo
+MOCK-50-5,2026-11-26,New Mexico,Demo Opponent,L,regular,demo
+MOCK-50-6,2026-11-28,New Mexico,Demo Opponent,W,regular,demo
+MOCK-50-7,2026-11-29,New Mexico,Demo Opponent,L,regular,demo
+MOCK-50-8,2026-12-04,New Mexico,Demo Opponent,W,regular,demo
+MOCK-50-9,2026-12-09,New Mexico,Demo Opponent,W,regular,demo
+MOCK-51-0,2026-11-06,Cincinnati,Demo Opponent,W,regular,demo
+MOCK-51-1,2026-11-08,Cincinnati,Demo Opponent,L,regular,demo
+MOCK-51-2,2026-11-14,Cincinnati,Demo Opponent,L,regular,demo
+MOCK-51-3,2026-11-19,Cincinnati,Demo Opponent,W,regular,demo
+MOCK-51-4,2026-11-22,Cincinnati,Demo Opponent,W,regular,demo
+MOCK-51-5,2026-11-26,Cincinnati,Demo Opponent,W,regular,demo
+MOCK-51-6,2026-11-27,Cincinnati,Demo Opponent,W,regular,demo
+MOCK-51-7,2026-12-03,Cincinnati,Demo Opponent,W,regular,demo
+MOCK-51-8,2026-12-04,Cincinnati,Demo Opponent,L,regular,demo
+MOCK-51-9,2026-12-05,Cincinnati,Demo Opponent,W,regular,demo
+MOCK-52-0,2026-11-06,Missouri,Demo Opponent,L,regular,demo
+MOCK-52-1,2026-11-07,Missouri,Demo Opponent,L,regular,demo
+MOCK-52-2,2026-11-09,Missouri,Demo Opponent,W,regular,demo
+MOCK-52-3,2026-11-12,Missouri,Demo Opponent,W,regular,demo
+MOCK-52-4,2026-11-22,Missouri,Demo Opponent,L,regular,demo
+MOCK-52-5,2026-11-26,Missouri,Demo Opponent,W,regular,demo
+MOCK-52-6,2026-12-01,Missouri,Demo Opponent,W,regular,demo
+MOCK-52-7,2026-12-02,Missouri,Demo Opponent,W,regular,demo
+MOCK-52-8,2026-12-04,Missouri,Demo Opponent,W,regular,demo
+MOCK-52-9,2026-12-08,Missouri,Demo Opponent,W,regular,demo
+MOCK-53-0,2026-11-05,Yale,Demo Opponent,L,regular,demo
+MOCK-53-1,2026-11-07,Yale,Demo Opponent,W,regular,demo
+MOCK-53-2,2026-11-12,Yale,Demo Opponent,L,regular,demo
+MOCK-53-3,2026-11-16,Yale,Demo Opponent,W,regular,demo
+MOCK-53-4,2026-11-17,Yale,Demo Opponent,W,regular,demo
+MOCK-53-5,2026-11-21,Yale,Demo Opponent,W,regular,demo
+MOCK-53-6,2026-11-27,Yale,Demo Opponent,W,regular,demo
+MOCK-53-7,2026-11-29,Yale,Demo Opponent,W,regular,demo
+MOCK-53-8,2026-11-30,Yale,Demo Opponent,L,regular,demo
+MOCK-53-9,2026-12-04,Yale,Demo Opponent,L,regular,demo
+MOCK-54-0,2026-11-07,Penn,Demo Opponent,W,regular,demo
+MOCK-54-1,2026-11-18,Penn,Demo Opponent,L,regular,demo
+MOCK-54-2,2026-11-19,Penn,Demo Opponent,L,regular,demo
+MOCK-54-3,2026-11-20,Penn,Demo Opponent,L,regular,demo
+MOCK-54-4,2026-11-21,Penn,Demo Opponent,W,regular,demo
+MOCK-54-5,2026-11-23,Penn,Demo Opponent,L,regular,demo
+MOCK-54-6,2026-11-26,Penn,Demo Opponent,W,regular,demo
+MOCK-54-7,2026-11-27,Penn,Demo Opponent,W,regular,demo
+MOCK-54-8,2026-12-02,Penn,Demo Opponent,W,regular,demo
+MOCK-54-9,2026-12-09,Penn,Demo Opponent,L,regular,demo
+MOCK-55-0,2026-11-06,Dayton,Demo Opponent,L,regular,demo
+MOCK-55-1,2026-11-07,Dayton,Demo Opponent,W,regular,demo
+MOCK-55-2,2026-11-12,Dayton,Demo Opponent,W,regular,demo
+MOCK-55-3,2026-11-19,Dayton,Demo Opponent,W,regular,demo
+MOCK-55-4,2026-11-22,Dayton,Demo Opponent,L,regular,demo
+MOCK-55-5,2026-11-25,Dayton,Demo Opponent,W,regular,demo
+MOCK-55-6,2026-11-30,Dayton,Demo Opponent,W,regular,demo
+MOCK-55-7,2026-12-02,Dayton,Demo Opponent,W,regular,demo
+MOCK-55-8,2026-12-08,Dayton,Demo Opponent,W,regular,demo
+MOCK-55-9,2026-12-09,Dayton,Demo Opponent,L,regular,demo
+MOCK-56-0,2026-11-06,Furman,Demo Opponent,W,regular,demo
+MOCK-56-1,2026-11-11,Furman,Demo Opponent,L,regular,demo
+MOCK-56-2,2026-11-22,Furman,Demo Opponent,L,regular,demo
+MOCK-56-3,2026-11-26,Furman,Demo Opponent,L,regular,demo
+MOCK-56-4,2026-12-01,Furman,Demo Opponent,W,regular,demo
+MOCK-56-5,2026-12-03,Furman,Demo Opponent,L,regular,demo
+MOCK-56-6,2026-12-04,Furman,Demo Opponent,W,regular,demo
+MOCK-56-7,2026-12-05,Furman,Demo Opponent,L,regular,demo
+MOCK-56-8,2026-12-08,Furman,Demo Opponent,W,regular,demo
+MOCK-56-9,2026-12-09,Furman,Demo Opponent,L,regular,demo
+MOCK-57-0,2026-11-06,Belmont,Demo Opponent,L,regular,demo
+MOCK-57-1,2026-11-11,Belmont,Demo Opponent,L,regular,demo
+MOCK-57-2,2026-11-15,Belmont,Demo Opponent,W,regular,demo
+MOCK-57-3,2026-11-18,Belmont,Demo Opponent,W,regular,demo
+MOCK-57-4,2026-11-19,Belmont,Demo Opponent,L,regular,demo
+MOCK-57-5,2026-11-23,Belmont,Demo Opponent,W,regular,demo
+MOCK-57-6,2026-12-05,Belmont,Demo Opponent,W,regular,demo
+MOCK-57-7,2026-12-06,Belmont,Demo Opponent,L,regular,demo
+MOCK-57-8,2026-12-07,Belmont,Demo Opponent,W,regular,demo
+MOCK-57-9,2026-12-08,Belmont,Demo Opponent,L,regular,demo
+MOCK-58-0,2026-11-05,Xavier,Demo Opponent,L,regular,demo
+MOCK-58-1,2026-11-07,Xavier,Demo Opponent,L,regular,demo
+MOCK-58-2,2026-11-13,Xavier,Demo Opponent,W,regular,demo
+MOCK-58-3,2026-11-14,Xavier,Demo Opponent,L,regular,demo
+MOCK-58-4,2026-11-18,Xavier,Demo Opponent,W,regular,demo
+MOCK-58-5,2026-11-21,Xavier,Demo Opponent,W,regular,demo
+MOCK-58-6,2026-11-24,Xavier,Demo Opponent,W,regular,demo
+MOCK-58-7,2026-11-27,Xavier,Demo Opponent,W,regular,demo
+MOCK-58-8,2026-11-28,Xavier,Demo Opponent,W,regular,demo
+MOCK-58-9,2026-11-29,Xavier,Demo Opponent,L,regular,demo
+MOCK-59-0,2026-11-05,UC Irvine,Demo Opponent,W,regular,demo
+MOCK-59-1,2026-11-06,UC Irvine,Demo Opponent,W,regular,demo
+MOCK-59-2,2026-11-08,UC Irvine,Demo Opponent,L,regular,demo
+MOCK-59-3,2026-11-12,UC Irvine,Demo Opponent,W,regular,demo
+MOCK-59-4,2026-11-16,UC Irvine,Demo Opponent,W,regular,demo
+MOCK-59-5,2026-11-19,UC Irvine,Demo Opponent,L,regular,demo
+MOCK-59-6,2026-12-02,UC Irvine,Demo Opponent,L,regular,demo
+MOCK-59-7,2026-12-03,UC Irvine,Demo Opponent,L,regular,demo
+MOCK-59-8,2026-12-05,UC Irvine,Demo Opponent,W,regular,demo
+MOCK-59-9,2026-12-06,UC Irvine,Demo Opponent,L,regular,demo
+MOCK-60-0,2026-11-09,Liberty,Demo Opponent,W,regular,demo
+MOCK-60-1,2026-11-11,Liberty,Demo Opponent,L,regular,demo
+MOCK-60-2,2026-11-17,Liberty,Demo Opponent,W,regular,demo
+MOCK-60-3,2026-11-18,Liberty,Demo Opponent,W,regular,demo
+MOCK-60-4,2026-11-19,Liberty,Demo Opponent,W,regular,demo
+MOCK-60-5,2026-11-26,Liberty,Demo Opponent,L,regular,demo
+MOCK-60-6,2026-11-28,Liberty,Demo Opponent,W,regular,demo
+MOCK-60-7,2026-11-29,Liberty,Demo Opponent,L,regular,demo
+MOCK-60-8,2026-12-02,Liberty,Demo Opponent,W,regular,demo
+MOCK-60-9,2026-12-09,Liberty,Demo Opponent,L,regular,demo
+MOCK-61-0,2026-11-06,Akron,Demo Opponent,W,regular,demo
+MOCK-61-1,2026-11-09,Akron,Demo Opponent,W,regular,demo
+MOCK-61-2,2026-11-11,Akron,Demo Opponent,L,regular,demo
+MOCK-61-3,2026-11-25,Akron,Demo Opponent,L,regular,demo
+MOCK-61-4,2026-11-29,Akron,Demo Opponent,W,regular,demo
+MOCK-61-5,2026-11-30,Akron,Demo Opponent,W,regular,demo
+MOCK-61-6,2026-12-02,Akron,Demo Opponent,L,regular,demo
+MOCK-61-7,2026-12-06,Akron,Demo Opponent,W,regular,demo
+MOCK-61-8,2026-12-08,Akron,Demo Opponent,L,regular,demo
+MOCK-61-9,2026-12-09,Akron,Demo Opponent,L,regular,demo
+MOCK-62-0,2026-11-05,East Tennessee State,Demo Opponent,W,regular,demo
+MOCK-62-1,2026-11-07,East Tennessee State,Demo Opponent,W,regular,demo
+MOCK-62-2,2026-11-11,East Tennessee State,Demo Opponent,L,regular,demo
+MOCK-62-3,2026-11-25,East Tennessee State,Demo Opponent,W,regular,demo
+MOCK-62-4,2026-11-28,East Tennessee State,Demo Opponent,W,regular,demo
+MOCK-62-5,2026-11-29,East Tennessee State,Demo Opponent,W,regular,demo
+MOCK-62-6,2026-11-30,East Tennessee State,Demo Opponent,W,regular,demo
+MOCK-62-7,2026-12-02,East Tennessee State,Demo Opponent,W,regular,demo
+MOCK-62-8,2026-12-04,East Tennessee State,Demo Opponent,W,regular,demo
+MOCK-62-9,2026-12-07,East Tennessee State,Demo Opponent,W,regular,demo
+MOCK-63-0,2026-11-06,Nevada,Demo Opponent,L,regular,demo
+MOCK-63-1,2026-11-09,Nevada,Demo Opponent,W,regular,demo
+MOCK-63-2,2026-11-20,Nevada,Demo Opponent,W,regular,demo
+MOCK-63-3,2026-11-21,Nevada,Demo Opponent,W,regular,demo
+MOCK-63-4,2026-11-23,Nevada,Demo Opponent,W,regular,demo
+MOCK-63-5,2026-11-25,Nevada,Demo Opponent,L,regular,demo
+MOCK-63-6,2026-11-27,Nevada,Demo Opponent,W,regular,demo
+MOCK-63-7,2026-12-04,Nevada,Demo Opponent,W,regular,demo
+MOCK-63-8,2026-12-05,Nevada,Demo Opponent,W,regular,demo
+MOCK-63-9,2026-12-07,Nevada,Demo Opponent,W,regular,demo
+MOCK-64-0,2026-11-06,Santa Clara,Demo Opponent,W,regular,demo
+MOCK-64-1,2026-11-10,Santa Clara,Demo Opponent,W,regular,demo
+MOCK-64-2,2026-11-13,Santa Clara,Demo Opponent,W,regular,demo
+MOCK-64-3,2026-11-20,Santa Clara,Demo Opponent,W,regular,demo
+MOCK-64-4,2026-11-23,Santa Clara,Demo Opponent,W,regular,demo
+MOCK-64-5,2026-11-24,Santa Clara,Demo Opponent,W,regular,demo
+MOCK-64-6,2026-11-25,Santa Clara,Demo Opponent,W,regular,demo
+MOCK-64-7,2026-12-02,Santa Clara,Demo Opponent,W,regular,demo
+MOCK-64-8,2026-12-07,Santa Clara,Demo Opponent,W,regular,demo
+MOCK-64-9,2026-12-08,Santa Clara,Demo Opponent,L,regular,demo
+MOCK-65-0,2026-11-09,Charleston,Demo Opponent,W,regular,demo
+MOCK-65-1,2026-11-11,Charleston,Demo Opponent,W,regular,demo
+MOCK-65-2,2026-11-12,Charleston,Demo Opponent,W,regular,demo
+MOCK-65-3,2026-11-17,Charleston,Demo Opponent,W,regular,demo
+MOCK-65-4,2026-11-18,Charleston,Demo Opponent,L,regular,demo
+MOCK-65-5,2026-11-29,Charleston,Demo Opponent,W,regular,demo
+MOCK-65-6,2026-12-03,Charleston,Demo Opponent,W,regular,demo
+MOCK-65-7,2026-12-04,Charleston,Demo Opponent,L,regular,demo
+MOCK-65-8,2026-12-06,Charleston,Demo Opponent,L,regular,demo
+MOCK-65-9,2026-12-08,Charleston,Demo Opponent,W,regular,demo
+MOCK-66-0,2026-11-05,Oklahoma,Demo Opponent,W,regular,demo
+MOCK-66-1,2026-11-07,Oklahoma,Demo Opponent,L,regular,demo
+MOCK-66-2,2026-11-09,Oklahoma,Demo Opponent,W,regular,demo
+MOCK-66-3,2026-11-10,Oklahoma,Demo Opponent,W,regular,demo
+MOCK-66-4,2026-11-15,Oklahoma,Demo Opponent,W,regular,demo
+MOCK-66-5,2026-11-19,Oklahoma,Demo Opponent,W,regular,demo
+MOCK-66-6,2026-11-20,Oklahoma,Demo Opponent,W,regular,demo
+MOCK-66-7,2026-11-27,Oklahoma,Demo Opponent,W,regular,demo
+MOCK-66-8,2026-12-06,Oklahoma,Demo Opponent,W,regular,demo
+MOCK-66-9,2026-12-09,Oklahoma,Demo Opponent,L,regular,demo
+MOCK-67-0,2026-11-14,Samford,Demo Opponent,L,regular,demo
+MOCK-67-1,2026-11-15,Samford,Demo Opponent,W,regular,demo
+MOCK-67-2,2026-11-19,Samford,Demo Opponent,W,regular,demo
+MOCK-67-3,2026-11-20,Samford,Demo Opponent,W,regular,demo
+MOCK-67-4,2026-11-23,Samford,Demo Opponent,L,regular,demo
+MOCK-67-5,2026-11-25,Samford,Demo Opponent,W,regular,demo
+MOCK-67-6,2026-11-26,Samford,Demo Opponent,W,regular,demo
+MOCK-67-7,2026-11-30,Samford,Demo Opponent,L,regular,demo
+MOCK-67-8,2026-12-04,Samford,Demo Opponent,W,regular,demo
+MOCK-67-9,2026-12-05,Samford,Demo Opponent,W,regular,demo
+MOCK-68-0,2026-11-07,Murray State,Demo Opponent,L,regular,demo
+MOCK-68-1,2026-11-19,Murray State,Demo Opponent,L,regular,demo
+MOCK-68-2,2026-11-21,Murray State,Demo Opponent,L,regular,demo
+MOCK-68-3,2026-11-24,Murray State,Demo Opponent,W,regular,demo
+MOCK-68-4,2026-11-25,Murray State,Demo Opponent,W,regular,demo
+MOCK-68-5,2026-11-27,Murray State,Demo Opponent,W,regular,demo
+MOCK-68-6,2026-11-28,Murray State,Demo Opponent,W,regular,demo
+MOCK-68-7,2026-12-02,Murray State,Demo Opponent,W,regular,demo
+MOCK-68-8,2026-12-05,Murray State,Demo Opponent,W,regular,demo
+MOCK-68-9,2026-12-08,Murray State,Demo Opponent,L,regular,demo
+MOCK-69-0,2026-11-05,South Florida,Demo Opponent,L,regular,demo
+MOCK-69-1,2026-11-06,South Florida,Demo Opponent,W,regular,demo
+MOCK-69-2,2026-11-09,South Florida,Demo Opponent,W,regular,demo
+MOCK-69-3,2026-11-10,South Florida,Demo Opponent,L,regular,demo
+MOCK-69-4,2026-11-13,South Florida,Demo Opponent,W,regular,demo
+MOCK-69-5,2026-11-14,South Florida,Demo Opponent,W,regular,demo
+MOCK-69-6,2026-11-15,South Florida,Demo Opponent,L,regular,demo
+MOCK-69-7,2026-11-18,South Florida,Demo Opponent,W,regular,demo
+MOCK-69-8,2026-11-27,South Florida,Demo Opponent,W,regular,demo
+MOCK-69-9,2026-11-30,South Florida,Demo Opponent,W,regular,demo
+MOCK-70-0,2026-11-11,Western Kentucky,Demo Opponent,L,regular,demo
+MOCK-70-1,2026-11-19,Western Kentucky,Demo Opponent,W,regular,demo
+MOCK-70-2,2026-11-24,Western Kentucky,Demo Opponent,W,regular,demo
+MOCK-70-3,2026-11-25,Western Kentucky,Demo Opponent,L,regular,demo
+MOCK-70-4,2026-12-02,Western Kentucky,Demo Opponent,L,regular,demo
+MOCK-70-5,2026-12-03,Western Kentucky,Demo Opponent,W,regular,demo
+MOCK-70-6,2026-12-04,Western Kentucky,Demo Opponent,W,regular,demo
+MOCK-70-7,2026-12-06,Western Kentucky,Demo Opponent,W,regular,demo
+MOCK-70-8,2026-12-07,Western Kentucky,Demo Opponent,W,regular,demo
+MOCK-70-9,2026-12-09,Western Kentucky,Demo Opponent,W,regular,demo
+MOCK-71-0,2026-11-06,Howard,Demo Opponent,L,regular,demo
+MOCK-71-1,2026-11-14,Howard,Demo Opponent,L,regular,demo
+MOCK-71-2,2026-11-18,Howard,Demo Opponent,W,regular,demo
+MOCK-71-3,2026-11-22,Howard,Demo Opponent,L,regular,demo
+MOCK-71-4,2026-11-23,Howard,Demo Opponent,W,regular,demo
+MOCK-71-5,2026-11-24,Howard,Demo Opponent,L,regular,demo
+MOCK-71-6,2026-11-27,Howard,Demo Opponent,W,regular,demo
+MOCK-71-7,2026-12-01,Howard,Demo Opponent,L,regular,demo
+MOCK-71-8,2026-12-04,Howard,Demo Opponent,L,regular,demo
+MOCK-71-9,2026-12-08,Howard,Demo Opponent,L,regular,demo
+MOCK-72-0,2026-11-06,Virginia Tech,Demo Opponent,W,regular,demo
+MOCK-72-1,2026-11-08,Virginia Tech,Demo Opponent,L,regular,demo
+MOCK-72-2,2026-11-09,Virginia Tech,Demo Opponent,L,regular,demo
+MOCK-72-3,2026-11-12,Virginia Tech,Demo Opponent,L,regular,demo
+MOCK-72-4,2026-11-13,Virginia Tech,Demo Opponent,W,regular,demo
+MOCK-72-5,2026-11-18,Virginia Tech,Demo Opponent,W,regular,demo
+MOCK-72-6,2026-11-29,Virginia Tech,Demo Opponent,L,regular,demo
+MOCK-72-7,2026-11-30,Virginia Tech,Demo Opponent,W,regular,demo
+MOCK-72-8,2026-12-05,Virginia Tech,Demo Opponent,W,regular,demo
+MOCK-72-9,2026-12-09,Virginia Tech,Demo Opponent,L,regular,demo
+MOCK-73-0,2026-11-06,Memphis,Demo Opponent,W,regular,demo
+MOCK-73-1,2026-11-10,Memphis,Demo Opponent,W,regular,demo
+MOCK-73-2,2026-11-12,Memphis,Demo Opponent,W,regular,demo
+MOCK-73-3,2026-11-13,Memphis,Demo Opponent,W,regular,demo
+MOCK-73-4,2026-11-14,Memphis,Demo Opponent,L,regular,demo
+MOCK-73-5,2026-11-16,Memphis,Demo Opponent,L,regular,demo
+MOCK-73-6,2026-11-24,Memphis,Demo Opponent,W,regular,demo
+MOCK-73-7,2026-11-28,Memphis,Demo Opponent,W,regular,demo
+MOCK-73-8,2026-12-01,Memphis,Demo Opponent,W,regular,demo
+MOCK-73-9,2026-12-08,Memphis,Demo Opponent,L,regular,demo
+MOCK-74-0,2026-11-05,UC Santa Barbara,Demo Opponent,W,regular,demo
+MOCK-74-1,2026-11-09,UC Santa Barbara,Demo Opponent,W,regular,demo
+MOCK-74-2,2026-11-10,UC Santa Barbara,Demo Opponent,L,regular,demo
+MOCK-74-3,2026-11-11,UC Santa Barbara,Demo Opponent,W,regular,demo
+MOCK-74-4,2026-11-13,UC Santa Barbara,Demo Opponent,W,regular,demo
+MOCK-74-5,2026-11-18,UC Santa Barbara,Demo Opponent,L,regular,demo
+MOCK-74-6,2026-11-19,UC Santa Barbara,Demo Opponent,W,regular,demo
+MOCK-74-7,2026-12-02,UC Santa Barbara,Demo Opponent,W,regular,demo
+MOCK-74-8,2026-12-03,UC Santa Barbara,Demo Opponent,W,regular,demo
+MOCK-74-9,2026-12-08,UC Santa Barbara,Demo Opponent,L,regular,demo
+MOCK-75-0,2026-11-05,Illinois State,Demo Opponent,L,regular,demo
+MOCK-75-1,2026-11-08,Illinois State,Demo Opponent,W,regular,demo
+MOCK-75-2,2026-11-10,Illinois State,Demo Opponent,W,regular,demo
+MOCK-75-3,2026-11-14,Illinois State,Demo Opponent,L,regular,demo
+MOCK-75-4,2026-11-17,Illinois State,Demo Opponent,L,regular,demo
+MOCK-75-5,2026-11-24,Illinois State,Demo Opponent,W,regular,demo
+MOCK-75-6,2026-11-27,Illinois State,Demo Opponent,W,regular,demo
+MOCK-75-7,2026-12-01,Illinois State,Demo Opponent,L,regular,demo
+MOCK-75-8,2026-12-04,Illinois State,Demo Opponent,W,regular,demo
+MOCK-75-9,2026-12-08,Illinois State,Demo Opponent,W,regular,demo
+MOCK-76-0,2026-11-05,Florida State,Demo Opponent,L,regular,demo
+MOCK-76-1,2026-11-10,Florida State,Demo Opponent,W,regular,demo
+MOCK-76-2,2026-11-13,Florida State,Demo Opponent,W,regular,demo
+MOCK-76-3,2026-11-15,Florida State,Demo Opponent,L,regular,demo
+MOCK-76-4,2026-11-22,Florida State,Demo Opponent,W,regular,demo
+MOCK-76-5,2026-11-27,Florida State,Demo Opponent,W,regular,demo
+MOCK-76-6,2026-11-28,Florida State,Demo Opponent,W,regular,demo
+MOCK-76-7,2026-12-02,Florida State,Demo Opponent,W,regular,demo
+MOCK-76-8,2026-12-03,Florida State,Demo Opponent,L,regular,demo
+MOCK-76-9,2026-12-09,Florida State,Demo Opponent,L,regular,demo
+MOCK-77-0,2026-11-06,Vermont,Demo Opponent,L,regular,demo
+MOCK-77-1,2026-11-12,Vermont,Demo Opponent,W,regular,demo
+MOCK-77-2,2026-11-15,Vermont,Demo Opponent,W,regular,demo
+MOCK-77-3,2026-11-17,Vermont,Demo Opponent,W,regular,demo
+MOCK-77-4,2026-11-21,Vermont,Demo Opponent,L,regular,demo
+MOCK-77-5,2026-11-25,Vermont,Demo Opponent,L,regular,demo
+MOCK-77-6,2026-11-27,Vermont,Demo Opponent,W,regular,demo
+MOCK-77-7,2026-12-03,Vermont,Demo Opponent,W,regular,demo
+MOCK-77-8,2026-12-05,Vermont,Demo Opponent,L,regular,demo
+MOCK-77-9,2026-12-08,Vermont,Demo Opponent,W,regular,demo

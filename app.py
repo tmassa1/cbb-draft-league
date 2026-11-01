@@ -25,7 +25,7 @@ def load_data(mode):
 
 with st.sidebar:
     st.markdown('## 🏀 CBB DRAFT')
-    st.caption('2026–27  ·  18 managers  ·  108 teams')
+    st.caption('2026–27  ·  13 managers  ·  78 teams')
     mode = st.radio('Data mode', ['Demo', 'Live'], help='Demo uses invented results. Live reads the exported ESPN feed.')
     page = st.radio('Explore', ['🏆 League Standings', '👤 Manager Profiles', '📅 Daily Scoreboard', '📈 League Analytics'])
     st.divider()
@@ -35,7 +35,7 @@ with st.sidebar:
         w, l = rules[key]
         st.caption(f'{label}: {w:+d} W, {l:+d} L')
     st.divider()
-    st.caption('Commissioner-controlled updates · Results are refreshed from saved CSV, not on every page view.')
+    st.caption('Results are refreshed from saved CSV, not on every page view.')
 
 draft, games = load_data(mode)
 managers, teams, detail = scoring_summary(draft, games)
@@ -47,11 +47,11 @@ else:
 
 st.markdown('### 2026–27 SEASON')
 st.title('College Basketball Draft League')
-st.caption('Track every win, loss and race up the league table.')
+st.caption('13 managers · 78 drafted teams · six selections each · 2026–27 season')
 if mode == 'Demo':
     st.warning('DEMO MODE — all game results and standings below are simulated, not actual 2026–27 results.', icon='🧪')
 else:
-    st.info('LIVE MODE — reads data/games_live.csv. No completed games yet means zero points; run the sync script after adding ESPN IDs.', icon='📡')
+    st.info('LIVE MODE — reads verified imported results. ESPN team IDs must be matched and validated before automation is enabled.', icon='📡')
 
 if page.startswith('🏆'):
     first = managers.iloc[0]
@@ -88,7 +88,7 @@ elif page.startswith('👤'):
     d.metric('Losses',int(info.losses))
     st.subheader(f"{selected}'s drafted teams")
     tm = teams[teams.manager==selected].sort_values('points',ascending=False).copy()
-    st.dataframe(tm[['team','pick','points','wins','losses']].rename(columns=str.title),hide_index=True,use_container_width=True)
+    st.dataframe(tm[['team','conference','pick','points','wins','losses']].rename(columns=str.title),hide_index=True,use_container_width=True)
     if not detail.empty:
         own = daily[daily.manager==selected].sort_values('date').copy()
         own['Total'] = own.points.cumsum()
@@ -136,7 +136,7 @@ else:
         best.date=best.date.dt.strftime('%Y-%m-%d')
         st.dataframe(best.rename(columns=str.title),hide_index=True,use_container_width=True)
     st.subheader('Draft board')
-    st.dataframe(draft[['pick','round','manager','team']].rename(columns=str.title),hide_index=True,use_container_width=True)
+    st.dataframe(draft[['pick','round','manager','team','conference']].rename(columns=str.title),hide_index=True,use_container_width=True)
 
 st.divider()
 st.caption('Unofficial fantasy league dashboard • Demo data is fictional • ESPN scoreboard access is unofficial and may change.')
