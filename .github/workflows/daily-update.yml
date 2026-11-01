@@ -2,7 +2,7 @@ name: Daily CBB results
 on:
   workflow_dispatch:
   schedule:
-    - cron: '15 10 * 11,12,1,2,3,4 *' # 5:15 EST, 6:15 EDT
+    - cron: '*/30 * * * *'
 permissions:
   contents: write
 jobs:
