@@ -41,7 +41,7 @@ def score_games(games: pd.DataFrame) -> pd.DataFrame:
 def scoring_summary(draft: pd.DataFrame, games: pd.DataFrame):
     sg = score_games(games)
     merged = sg.merge(draft[["manager", "team"]], on="team", how="inner", validate="many_to_one")
-    team = draft[["manager", "team", "pick"]].merge(
+    team = draft[["manager", "team", "conference", "pick"]].merge(
         merged.groupby("team", as_index=False).agg(points=("points", "sum"), wins=("result", lambda x: (x == "W").sum()), losses=("result", lambda x: (x == "L").sum())),
         on="team", how="left", validate="one_to_one"
     ).fillna({"points": 0, "wins": 0, "losses": 0})
