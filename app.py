@@ -17,7 +17,7 @@ h1,h2,h3 {letter-spacing:-.035em}
 @st.cache_data(ttl=120)
 def load_data(mode):
     draft = pd.read_csv(ROOT / 'data/draft.csv', dtype={'espn_id': str})
-    file = ROOT / 'data' / ('games_demo.csv' if mode == 'Demo' else 'games_live.csv')
+    file = ROOT / 'data' / 'games_live.csv'
     if not file.exists():
         return draft, pd.DataFrame(columns=['game_id','date','team','opponent','result','phase','source'])
     games = pd.read_csv(file)
@@ -26,7 +26,7 @@ def load_data(mode):
 with st.sidebar:
     st.markdown('## 🏀 CBB DRAFT')
     st.caption('2026–27  ·  13 managers  ·  78 teams')
-    mode = st.radio('Data mode', ['Demo', 'Live'], help='Demo uses invented results. Live reads the exported ESPN feed.')
+    mode = 'Live'
     page = st.radio('Explore', ['🏆 League Standings', '👤 Manager Profiles', '📅 Daily Scoreboard', '📈 League Analytics'])
     st.divider()
     st.markdown('**Scoring rules**')
@@ -48,10 +48,7 @@ else:
 st.markdown('### 2026–27 SEASON')
 st.title('College Basketball Draft League')
 st.caption('13 managers · 78 drafted teams · six selections each · 2026–27 season')
-if mode == 'Demo':
-    st.warning('DEMO MODE — all game results and standings below are simulated, not actual 2026–27 results.', icon='🧪')
-else:
-    st.info('LIVE MODE — reads verified imported results. ESPN team IDs must be matched and validated before automation is enabled.', icon='📡')
+st.caption('Live ESPN results · Updated through GitHub Actions')
 
 if page.startswith('🏆'):
     first = managers.iloc[0]
@@ -144,4 +141,4 @@ else:
     st.dataframe(draft[['pick','round','manager','team','conference']].rename(columns=str.title),hide_index=True,use_container_width=True)
 
 st.divider()
-st.caption('Unofficial fantasy league dashboard • Demo data is fictional • ESPN scoreboard access is unofficial and may change.')
+st.caption('Unofficial fantasy league dashboard • ESPN scoreboard access is unofficial and may change.')
