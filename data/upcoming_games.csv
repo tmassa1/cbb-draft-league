@@ -12,7 +12,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401912207,2026-11-03T00:00:00+00:00,American University Eagles,Cincinnati Bearcats,,Racz,N,Y,CIN -25.5,N/A,N/A,STATUS_SCHEDULED
 401913099,2026-11-03T00:00:00+00:00,Western Carolina Catamounts,North Carolina Tar Heels,,Max,N,Y,UNC -22.5,N/A,N/A,STATUS_SCHEDULED
 401916286,2026-11-03T00:00:00+00:00,Eastern Illinois Panthers,Indiana Hoosiers,,Aaron,N,Y,IU -34.5,N/A,N/A,STATUS_SCHEDULED
-401920201,2026-11-03T00:00:00+00:00,Little Rock Trojans,VCU Rams,,Trevor,N,Y,VCU -18.5,N/A,N/A,STATUS_SCHEDULED
+401920201,2026-11-03T00:00:00+00:00,Little Rock Trojans,VCU Rams,,Trevor,N,Y,VCU -19.5,N/A,N/A,STATUS_SCHEDULED
 401920690,2026-11-03T00:00:00+00:00,Vermont Catamounts,Iona Gaels,Racz,,Y,N,UVM -1.5,N/A,N/A,STATUS_SCHEDULED
 401921036,2026-11-03T00:00:00+00:00,Jackson State Tigers,Texas Tech Red Raiders,,Matt,N,Y,TTU -38.5,N/A,N/A,STATUS_SCHEDULED
 401921104,2026-11-03T00:00:00+00:00,Bellarmine Knights,Vanderbilt Commodores,,BFO,N,Y,VAN -36.5,N/A,N/A,STATUS_SCHEDULED
@@ -20,7 +20,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401924856,2026-11-03T00:00:00+00:00,Quinnipiac Bobcats,Michigan State Spartans,,Matt,N,Y,MSU -30.5,N/A,N/A,STATUS_SCHEDULED
 401926862,2026-11-03T00:00:00+00:00,Mount Olive Trojans,UNC Wilmington Seahawks,,Racz,N,Y,N/A,N/A,N/A,STATUS_SCHEDULED
 401909522,2026-11-03T00:30:00+00:00,Mercyhurst Lakers,Marquette Golden Eagles,,Matt,N,Y,MARQ -31.5,N/A,N/A,STATUS_SCHEDULED
-401918955,2026-11-03T00:30:00+00:00,Campbell Fighting Camels,NC State Wolfpack,,Matt,N,Y,NCSU -22.5,N/A,N/A,STATUS_SCHEDULED
+401918955,2026-11-03T00:30:00+00:00,Campbell Fighting Camels,NC State Wolfpack,,Matt,N,Y,NCSU -23.5,N/A,N/A,STATUS_SCHEDULED
 401919780,2026-11-03T00:30:00+00:00,Le Moyne Dolphins,Nebraska Cornhuskers,,Will,N,Y,NEB -35.5,N/A,N/A,STATUS_SCHEDULED
 401920758,2026-11-03T00:30:00+00:00,Southern Indiana Screaming Eagles,Belmont Bruins,,BFO,N,Y,BEL -17.5,N/A,N/A,STATUS_SCHEDULED
 401920893,2026-11-03T00:30:00+00:00,Denver Pioneers,Wisconsin Badgers,,Joe,N,Y,WIS -25.5,N/A,N/A,STATUS_SCHEDULED
