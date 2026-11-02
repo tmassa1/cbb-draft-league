@@ -1,7 +1,7 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status
-401919014,2026-11-02T22:30:00+00:00,UAB Blazers,McNeese Cowboys,,Aaron,N,Y,N/A,N/A,N/A,STATUS_HALFTIME
+401919014,2026-11-02T22:30:00+00:00,UAB Blazers,McNeese Cowboys,,Aaron,N,Y,N/A,N/A,N/A,STATUS_IN_PROGRESS
 401906769,2026-11-02T23:00:00+00:00,Miami Hurricanes,Florida Gators,Aaron,Joe,Y,Y,N/A,N/A,N/A,STATUS_IN_PROGRESS
-401925733,2026-11-02T23:00:00+00:00,Oakland Golden Grizzlies,Michigan Wolverines,,Sam,N,Y,N/A,N/A,N/A,STATUS_IN_PROGRESS
+401925733,2026-11-02T23:00:00+00:00,Oakland Golden Grizzlies,Michigan Wolverines,,Sam,N,Y,N/A,N/A,N/A,STATUS_HALFTIME
 401909562,2026-11-02T23:30:00+00:00,Army Black Knights,Duke Blue Devils,,Racz,N,Y,N/A,N/A,N/A,STATUS_IN_PROGRESS
 401920679,2026-11-02T23:30:00+00:00,Monmouth Hawks,St. John's Red Storm,,Miles,N,Y,N/A,N/A,N/A,STATUS_IN_PROGRESS
 401909541,2026-11-03T00:00:00+00:00,Mount St. Mary's Mountaineers,Xavier Musketeers,,Jack,N,Y,XAV -26.5,N/A,N/A,STATUS_SCHEDULED
@@ -12,7 +12,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401912207,2026-11-03T00:00:00+00:00,American University Eagles,Cincinnati Bearcats,,Racz,N,Y,CIN -25.5,N/A,N/A,STATUS_SCHEDULED
 401913099,2026-11-03T00:00:00+00:00,Western Carolina Catamounts,North Carolina Tar Heels,,Max,N,Y,UNC -22.5,N/A,N/A,STATUS_SCHEDULED
 401916286,2026-11-03T00:00:00+00:00,Eastern Illinois Panthers,Indiana Hoosiers,,Aaron,N,Y,IU -34.5,N/A,N/A,STATUS_SCHEDULED
-401920201,2026-11-03T00:00:00+00:00,Little Rock Trojans,VCU Rams,,Trevor,N,Y,VCU -19.5,N/A,N/A,STATUS_SCHEDULED
+401920201,2026-11-03T00:00:00+00:00,Little Rock Trojans,VCU Rams,,Trevor,N,Y,VCU -18.5,N/A,N/A,STATUS_SCHEDULED
 401920690,2026-11-03T00:00:00+00:00,Vermont Catamounts,Iona Gaels,Racz,,Y,N,UVM -1.5,N/A,N/A,STATUS_SCHEDULED
 401921036,2026-11-03T00:00:00+00:00,Jackson State Tigers,Texas Tech Red Raiders,,Matt,N,Y,TTU -38.5,N/A,N/A,STATUS_SCHEDULED
 401921104,2026-11-03T00:00:00+00:00,Bellarmine Knights,Vanderbilt Commodores,,BFO,N,Y,VAN -36.5,N/A,N/A,STATUS_SCHEDULED
@@ -59,7 +59,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401906757,2026-11-04T00:30:00+00:00,Sam Houston Bearkats,Alabama Crimson Tide,,Trevor,N,Y,ALA -26.5,N/A,N/A,STATUS_SCHEDULED
 401920422,2026-11-04T00:30:00+00:00,Drexel Dragons,Virginia Cavaliers,,Justin,N,Y,UVA -29.5,N/A,N/A,STATUS_SCHEDULED
 401920702,2026-11-04T01:00:00+00:00,Lipscomb Bisons,Iowa Hawkeyes,,BFO,N,Y,N/A,N/A,N/A,STATUS_SCHEDULED
-401921165,2026-11-04T01:00:00+00:00,Cleveland State Vikings,Missouri Tigers,,Racz,N,Y,N/A,N/A,N/A,STATUS_SCHEDULED
+401921165,2026-11-04T01:00:00+00:00,Cleveland State Vikings,Missouri Tigers,,Racz,N,Y,MIZ -26.5,N/A,N/A,STATUS_SCHEDULED
 401929372,2026-11-04T01:00:00+00:00,Arkansas-Pine Bluff Golden Lions,Arkansas Razorbacks,,Carson,N,Y,N/A,N/A,N/A,STATUS_SCHEDULED
 401920155,2026-11-04T03:00:00+00:00,Cal State Fullerton Titans,San Diego State Aztecs,,Carson,N,Y,N/A,N/A,N/A,STATUS_SCHEDULED
 401929624,2026-11-04T03:00:00+00:00,Chapman Panthers,UC Irvine Anteaters,,Trevor,N,Y,N/A,N/A,N/A,STATUS_SCHEDULED
