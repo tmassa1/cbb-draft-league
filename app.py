@@ -1,5 +1,6 @@
 from pathlib import Path
-from datetime import date
+from datetime import date, datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
 import pandas as pd
 import streamlit as st
 import altair as alt
@@ -27,7 +28,7 @@ with st.sidebar:
     st.markdown('## 🏀 CBB DRAFT')
     st.caption('2026–27  ·  13 managers  ·  78 teams')
     mode = 'Live'
-    page = st.radio('Explore', ['🏆 League Standings', '👤 Manager Profiles', '📅 Daily Scoreboard', '📈 League Analytics'])
+    page = st.radio('Explore', ['🏆 League Standings', '👤 Manager Profiles', '📅 Daily Scoreboard', '📈 League Analytics', '🗓️ Upcoming Games'])
     st.divider()
     st.markdown('**Scoring rules**')
     rules = load_rules()
@@ -64,13 +65,8 @@ if page.startswith('🏆'):
     if not daily.empty:
         st.subheader('Points race')
         top = managers.head(6).manager.tolist()
-        points = daily.pivot(
-            index='date', columns='manager', values='points'
-        ).reindex(columns=top, fill_value=0).fillna(0).sort_index().cumsum().reset_index()
-        chart_data = points.melt(
-            id_vars='date', value_vars=top,
-            var_name='Manager', value_name='Points'
-        )
+        points = daily.pivot(index='date',columns='manager',values='points').reindex(columns=top,fill_value=0).fillna(0).sort_index().cumsum().reset_index()
+        chart_data = points.melt(id_vars='date',value_vars=top,var_name='Manager', value_name='Points')
         st.altair_chart(alt.Chart(chart_data).mark_line(strokeWidth=3).encode(x=alt.X('date:T',title='Date'),y=alt.Y('Points:Q'),color='Manager:N',tooltip=['date:T','Manager:N','Points:Q']).properties(height=300).interactive(),use_container_width=True)
     st.subheader('Latest scoring activity')
     if detail.empty:
@@ -121,7 +117,7 @@ elif page.startswith('📅'):
             m = shown.groupby('manager',as_index=False).points.sum().sort_values('points',ascending=False)
             st.bar_chart(m.set_index('manager')['points'],horizontal=True)
 
-else:
+elif page.startswith('📈'):
     st.subheader('League Analytics')
     st.caption('Dive into which picks are providing the most value.')
     a,b=st.columns(2)
@@ -139,6 +135,53 @@ else:
         st.dataframe(best.rename(columns=str.title),hide_index=True,use_container_width=True)
     st.subheader('Draft board')
     st.dataframe(draft[['pick','round','manager','team','conference']].rename(columns=str.title),hide_index=True,use_container_width=True)
+
+
+else:
+    st.subheader('🗓️ Upcoming Games')
+    st.caption('Drafted schools are marked ⭐. Times are Eastern (EST/EDT). Odds appear only when ESPN provides them.')
+    file = ROOT / 'data/upcoming_games.csv'
+    if not file.exists():
+        st.info('Upcoming games have not been synced yet. Run scripts/sync_upcoming.py to populate this page.')
+    else:
+        schedule = pd.read_csv(file, dtype=str).fillna('')
+        if schedule.empty:
+            st.info('No upcoming games involving drafted teams were found in the next 7 days.')
+        else:
+            eastern = ZoneInfo('America/New_York')
+            schedule['tip'] = pd.to_datetime(schedule['start_utc'], utc=True).dt.tz_convert(eastern)
+            schedule['local_day'] = schedule['tip'].dt.date
+            today_et = datetime.now(eastern).date()
+            a, b = st.columns(2)
+            window = a.selectbox('Date range', ['Today', 'Tomorrow', 'Next 7 Days'], index=2)
+            manager_filter = b.selectbox('Manager', ['All managers'] + sorted(draft['manager'].unique().tolist()))
+            if window == 'Today':
+                schedule = schedule[schedule['local_day'] == today_et]
+            elif window == 'Tomorrow':
+                schedule = schedule[schedule['local_day'] == today_et + timedelta(days=1)]
+            else:
+                schedule = schedule[(schedule['local_day'] >= today_et) & (schedule['local_day'] <= today_et + timedelta(days=7))]
+            if manager_filter != 'All managers':
+                schedule = schedule[(schedule['away_manager'] == manager_filter) | (schedule['home_manager'] == manager_filter)]
+            if schedule.empty:
+                st.info('No scheduled games match those filters.')
+            else:
+                def team_label(row, side):
+                    name = row[f'{side}_team']
+                    return ('⭐ ' if row[f'{side}_drafted'] == 'Y' else '') + name
+                schedule = schedule.sort_values('tip')
+                output = pd.DataFrame({
+                    'Date / ET': schedule['tip'].dt.strftime('%a, %b %d · %-I:%M %p'),
+                    'Away': schedule.apply(lambda row: team_label(row, 'away'), axis=1),
+                    'Home': schedule.apply(lambda row: team_label(row, 'home'), axis=1),
+                    'League Managers': schedule.apply(lambda row: ' vs '.join(x for x in [row['away_manager'], row['home_manager']] if x) or '—', axis=1),
+                    'Spread (ESPN)': schedule['spread'].replace('', 'N/A'),
+                    'Away ML': schedule['away_ml'].replace('', 'N/A'),
+                    'Home ML': schedule['home_ml'].replace('', 'N/A'),
+                })
+                st.metric('Upcoming league games', len(output))
+                st.dataframe(output, hide_index=True, use_container_width=True)
+                st.caption('⭐ = drafted team · Two managers listed = head-to-head league matchup · Moneyline shown by away/home side. Odds are informational and may change.')
 
 st.divider()
 st.caption('Unofficial fantasy league dashboard • ESPN scoreboard access is unofficial and may change.')
