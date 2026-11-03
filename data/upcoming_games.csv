@@ -36,24 +36,24 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401913525,2026-11-03T01:00:00+00:00,Fairleigh Dickinson Knights,Illinois Fighting Illini,,Aaron,N,Y,N/A,N/A,N/A,Final,45,120
 401921424,2026-11-03T01:00:00+00:00,Furman Paladins,Bethune-Cookman Wildcats,Sam,,Y,N,N/A,N/A,N/A,Final,79,70
 401929391,2026-11-03T01:00:00+00:00,Crookston (MN) Golden Eagles,North Dakota State Bison,,Sam,N,Y,N/A,N/A,N/A,Final,59,90
-401906863,2026-11-03T02:00:00+00:00,Chicago State Cougars,Texas Longhorns,,Jack,N,Y,N/A,N/A,N/A,Live,53,98
-401911389,2026-11-03T02:00:00+00:00,Texas Southern Tigers,Grand Canyon Lopes,,Racz,N,Y,N/A,N/A,N/A,Live,57,68
-401911390,2026-11-03T02:00:00+00:00,Gardner-Webb Runnin' Bulldogs,UConn Huskies,,Max,N,Y,N/A,N/A,N/A,Live,38,75
-401916313,2026-11-03T02:00:00+00:00,Ohio State Buckeyes,BYU Cougars,,Miles,N,Y,N/A,N/A,N/A,Live,57,55
-401918947,2026-11-03T02:00:00+00:00,Chattanooga Mocs,Louisville Cardinals,,BFO,N,Y,N/A,N/A,N/A,Live,52,74
-401924894,2026-11-03T02:00:00+00:00,Utah Tech Trailblazers,New Mexico Lobos,,Joe,N,Y,N/A,N/A,N/A,Live,56,92
-401925811,2026-11-03T02:00:00+00:00,La Salle Explorers,Houston Cougars,,Trevor,N,Y,N/A,N/A,N/A,Live,40,61
-401928351,2026-11-03T02:00:00+00:00,San Francisco State Gators,UC Santa Barbara Gauchos,,Max,N,Y,N/A,N/A,N/A,Live,47,77
-401909694,2026-11-03T02:15:00+00:00,Florida State Seminoles,Florida A&M Rattlers,Joe,,Y,N,N/A,N/A,N/A,Live,75,39
-401909750,2026-11-03T02:30:00+00:00,Northwestern State Demons,Baylor Bears,,Carson,N,Y,N/A,N/A,N/A,Live,32,50
-401922020,2026-11-03T02:30:00+00:00,Idaho State Bengals,Utah State Aggies,,Sam,N,Y,N/A,N/A,N/A,Live,37,46
-401909738,2026-11-03T03:00:00+00:00,Arizona Wildcats,UCLA Bruins,Will,Justin,Y,Y,N/A,N/A,N/A,Live,21,31
-401911452,2026-11-03T03:00:00+00:00,Robert Morris Colonials,Nevada Wolf Pack,,Justin,N,Y,N/A,N/A,N/A,Live,22,31
-401917507,2026-11-03T03:00:00+00:00,Illinois State Redbirds,Saint Mary's Gaels,Aaron,Jack,Y,Y,N/A,N/A,N/A,Live,25,25
-401917509,2026-11-03T03:00:00+00:00,Towson Tigers,Santa Clara Broncos,,Miles,N,Y,N/A,N/A,N/A,Live,33,39
-401920370,2026-11-03T03:00:00+00:00,Whittier Poets,UC San Diego Tritons,,Justin,N,Y,N/A,N/A,N/A,Live,42,40
+401906863,2026-11-03T02:00:00+00:00,Chicago State Cougars,Texas Longhorns,,Jack,N,Y,N/A,N/A,N/A,Live,53,104
+401911389,2026-11-03T02:00:00+00:00,Texas Southern Tigers,Grand Canyon Lopes,,Racz,N,Y,N/A,N/A,N/A,Live,60,73
+401911390,2026-11-03T02:00:00+00:00,Gardner-Webb Runnin' Bulldogs,UConn Huskies,,Max,N,Y,N/A,N/A,N/A,Live,41,77
+401916313,2026-11-03T02:00:00+00:00,Ohio State Buckeyes,BYU Cougars,,Miles,N,Y,N/A,N/A,N/A,Live,59,62
+401918947,2026-11-03T02:00:00+00:00,Chattanooga Mocs,Louisville Cardinals,,BFO,N,Y,N/A,N/A,N/A,Live,54,74
+401924894,2026-11-03T02:00:00+00:00,Utah Tech Trailblazers,New Mexico Lobos,,Joe,N,Y,N/A,N/A,N/A,Live,60,95
+401925811,2026-11-03T02:00:00+00:00,La Salle Explorers,Houston Cougars,,Trevor,N,Y,N/A,N/A,N/A,Live,40,67
+401928351,2026-11-03T02:00:00+00:00,San Francisco State Gators,UC Santa Barbara Gauchos,,Max,N,Y,N/A,N/A,N/A,Live,51,79
+401909694,2026-11-03T02:15:00+00:00,Florida State Seminoles,Florida A&M Rattlers,Joe,,Y,N,N/A,N/A,N/A,Live,77,41
+401909750,2026-11-03T02:30:00+00:00,Northwestern State Demons,Baylor Bears,,Carson,N,Y,N/A,N/A,N/A,Live,35,56
+401922020,2026-11-03T02:30:00+00:00,Idaho State Bengals,Utah State Aggies,,Sam,N,Y,N/A,N/A,N/A,Live,37,50
+401909738,2026-11-03T03:00:00+00:00,Arizona Wildcats,UCLA Bruins,Will,Justin,Y,Y,N/A,N/A,N/A,Live,24,35
+401911452,2026-11-03T03:00:00+00:00,Robert Morris Colonials,Nevada Wolf Pack,,Justin,N,Y,N/A,N/A,N/A,Live,24,31
+401917507,2026-11-03T03:00:00+00:00,Illinois State Redbirds,Saint Mary's Gaels,Aaron,Jack,Y,Y,N/A,N/A,N/A,Live,35,27
+401917509,2026-11-03T03:00:00+00:00,Towson Tigers,Santa Clara Broncos,,Miles,N,Y,N/A,N/A,N/A,Live,35,43
+401920370,2026-11-03T03:00:00+00:00,Whittier Poets,UC San Diego Tritons,,Justin,N,Y,N/A,N/A,N/A,Live,44,40
 401921731,2026-11-03T03:00:00+00:00,East Tennessee State Buccaneers,Arizona State Sun Devils,Carson,,Y,N,N/A,N/A,N/A,Live,31,37
-401926771,2026-11-03T03:30:00+00:00,Milwaukee Panthers,USC Trojans,,Max,N,Y,N/A,N/A,N/A,Live,7,19
+401926771,2026-11-03T03:30:00+00:00,Milwaukee Panthers,USC Trojans,,Max,N,Y,N/A,N/A,N/A,Live,7,21
 401906848,2026-11-03T23:00:00+00:00,Wofford Terriers,Tennessee Volunteers,,Carson,N,Y,TENN -27.5,N/A,N/A,Upcoming,0,0
 401920376,2026-11-04T00:00:00+00:00,Coppin State Eagles,Virginia Tech Hokies,,BFO,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401921801,2026-11-04T00:00:00+00:00,Manhattan Jaspers,Kentucky Wildcats,,Jack,N,Y,UK -32.5,N/A,N/A,Upcoming,0,0
