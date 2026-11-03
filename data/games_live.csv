@@ -22,11 +22,13 @@ game_id,date,team,opponent,result,phase,source
 401911185,2026-11-03,Dayton,NJIT Highlanders,W,regular,espn
 401911248,2026-11-03,Saint Louis,Lehigh Mountain Hawks,W,regular,espn
 401911374,2026-11-03,South Florida,Charleston Southern Buccaneers,W,regular,espn
+401911389,2026-11-03,Grand Canyon,Texas Southern Tigers,W,regular,espn
 401911390,2026-11-03,UConn,Gardner-Webb Runnin' Bulldogs,W,regular,espn
 401912207,2026-11-03,Cincinnati,American University Eagles,W,regular,espn
 401913099,2026-11-03,North Carolina,Western Carolina Catamounts,W,regular,espn
 401913525,2026-11-03,Illinois,Fairleigh Dickinson Knights,W,regular,espn
 401916286,2026-11-03,Indiana,Eastern Illinois Panthers,W,regular,espn
+401916313,2026-11-03,BYU,Ohio State Buckeyes,W,regular,espn
 401918947,2026-11-03,Louisville,Chattanooga Mocs,W,regular,espn
 401918955,2026-11-03,NC State,Campbell Fighting Camels,W,regular,espn
 401919780,2026-11-03,Nebraska,Le Moyne Dolphins,W,regular,espn
@@ -40,6 +42,7 @@ game_id,date,team,opponent,result,phase,source
 401921424,2026-11-03,Furman,Bethune-Cookman Wildcats,W,regular,espn
 401921704,2026-11-03,Gonzaga,Purdue Boilermakers,W,regular,espn
 401921704,2026-11-03,Purdue,Gonzaga Bulldogs,L,regular,espn
+401922020,2026-11-03,Utah State,Idaho State Bengals,W,regular,espn
 401924743,2026-11-03,Howard,Yale Bulldogs,L,regular,espn
 401924743,2026-11-03,Yale,Howard Bison,W,regular,espn
 401924856,2026-11-03,Michigan State,Quinnipiac Bobcats,W,regular,espn
