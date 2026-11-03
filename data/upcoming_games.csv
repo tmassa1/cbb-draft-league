@@ -7,7 +7,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401920702,2026-11-04T01:00:00+00:00,Lipscomb Bisons,Iowa Hawkeyes,,BFO,N,Y,IOWA -23.5,N/A,N/A,Upcoming,0,0
 401921165,2026-11-04T01:00:00+00:00,Cleveland State Vikings,Missouri Tigers,,Racz,N,Y,MIZ -26.5,N/A,N/A,Upcoming,0,0
 401929372,2026-11-04T01:00:00+00:00,Arkansas-Pine Bluff Golden Lions,Arkansas Razorbacks,,Carson,N,Y,ARK -41.5,N/A,N/A,Upcoming,0,0
-401920155,2026-11-04T03:00:00+00:00,Cal State Fullerton Titans,San Diego State Aztecs,,Carson,N,Y,SDSU -16.5,N/A,N/A,Upcoming,0,0
+401920155,2026-11-04T03:00:00+00:00,Cal State Fullerton Titans,San Diego State Aztecs,,Carson,N,Y,SDSU -15.5,N/A,N/A,Upcoming,0,0
 401929624,2026-11-04T03:00:00+00:00,Chapman Panthers,UC Irvine Anteaters,,Trevor,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401920410,2026-11-05T00:00:00+00:00,Maryland Eastern Shore Hawks,High Point Panthers,,Max,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401919028,2026-11-05T00:30:00+00:00,Cal State Northridge Matadors,Wichita State Shockers,,Will,N,Y,N/A,N/A,N/A,Upcoming,0,0
@@ -87,8 +87,8 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401920134,2026-11-08T23:00:00+00:00,North Dakota State Bison,Cal State Bakersfield Roadrunners,Sam,,Y,N,N/A,N/A,N/A,Upcoming,0,0
 401918053,2026-11-09T01:30:00+00:00,Houston Cougars,California Golden Bears,Trevor,,Y,N,N/A,N/A,N/A,Upcoming,0,0
 401919029,2026-11-09T04:00:00+00:00,USC Trojans,Wichita State Shockers,Max,Will,Y,Y,N/A,N/A,N/A,Upcoming,0,0
-401921180,2026-11-09T23:00:00+00:00,Howard Bison,Pennsylvania Quakers,Jack,Aaron,Y,Y,N/A,N/A,N/A,Upcoming,0,0
 401909718,2026-11-09T23:30:00+00:00,Syracuse Orange,Indiana Hoosiers,,Aaron,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401921180,2026-11-09T23:30:00+00:00,Howard Bison,Pennsylvania Quakers,Jack,Aaron,Y,Y,N/A,N/A,N/A,Upcoming,0,0
 401906849,2026-11-10T00:00:00+00:00,Radford Highlanders,Tennessee Volunteers,,Carson,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401906865,2026-11-10T00:00:00+00:00,Grambling Tigers,Texas Longhorns,,Jack,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401916305,2026-11-10T00:00:00+00:00,Minnesota Golden Gophers,Cincinnati Bearcats,,Racz,N,Y,N/A,N/A,N/A,Upcoming,0,0
