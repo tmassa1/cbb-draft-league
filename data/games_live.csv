@@ -17,6 +17,7 @@ game_id,date,team,opponent,result,phase,source
 401911185,2026-11-03,Dayton,NJIT Highlanders,W,regular,espn
 401912207,2026-11-03,Cincinnati,American University Eagles,W,regular,espn
 401913099,2026-11-03,North Carolina,Western Carolina Catamounts,W,regular,espn
+401913525,2026-11-03,Illinois,Fairleigh Dickinson Knights,W,regular,espn
 401916286,2026-11-03,Indiana,Eastern Illinois Panthers,W,regular,espn
 401918955,2026-11-03,NC State,Campbell Fighting Camels,W,regular,espn
 401919780,2026-11-03,Nebraska,Le Moyne Dolphins,W,regular,espn
@@ -34,4 +35,5 @@ game_id,date,team,opponent,result,phase,source
 401924856,2026-11-03,Michigan State,Quinnipiac Bobcats,W,regular,espn
 401926116,2026-11-03,Samford,Berry Vikings,W,regular,espn
 401926862,2026-11-03,UNC Wilmington,Mount Olive Trojans,W,regular,espn
+401929391,2026-11-03,North Dakota State,Crookston (MN) Golden Eagles,W,regular,espn
 401931655,2026-11-03,Charleston,Southern Wesleyan Warriors,W,regular,espn
