@@ -28,7 +28,7 @@ with st.sidebar:
     st.markdown('## 🏀 CBB DRAFT')
     st.caption('2026–27  ·  13 managers  ·  78 teams')
     mode = 'Live'
-    page = st.radio('Explore', ['🏆 League Standings', '👤 Manager Profiles', '📅 Daily Scoreboard', '📈 League Analytics', '🗓️ Upcoming Games'])
+    page = st.radio('Explore', ['🏆 League Standings', '👤 Manager Profiles', '📅 Daily Scoreboard', '📈 League Analytics', '🗓️ Game Center'])
     st.divider()
     st.markdown('**Scoring rules**')
     rules = load_rules()
@@ -138,15 +138,15 @@ elif page.startswith('📈'):
 
 
 else:
-    st.subheader('🗓️ Upcoming Games')
-    st.caption('Drafted schools are marked ⭐. Times are Eastern (EST/EDT). Odds appear only when ESPN provides them.')
+    st.subheader('🗓️ Game Center')
+    st.caption('Today’s games remain visible through Final. Drafted schools ⭐ · Eastern times · ESPN odds when available.')
     file = ROOT / 'data/upcoming_games.csv'
     if not file.exists():
         st.info('Upcoming games have not been synced yet. Run scripts/sync_upcoming.py to populate this page.')
     else:
         schedule = pd.read_csv(file, dtype=str).fillna('')
         if schedule.empty:
-            st.info('No upcoming games involving drafted teams were found in the next 7 days.')
+            st.info('No games involving drafted teams were found in the next 7 days.')
         else:
             eastern = ZoneInfo('America/New_York')
             schedule['tip'] = pd.to_datetime(schedule['start_utc'], utc=True).dt.tz_convert(eastern)
@@ -170,16 +170,21 @@ else:
                     name = row[f'{side}_team']
                     return ('⭐ ' if row[f'{side}_drafted'] == 'Y' else '') + name
                 schedule = schedule.sort_values('tip')
+                for col in ('away_score', 'home_score', 'status'):
+                    if col not in schedule.columns:
+                        schedule[col] = ''
                 output = pd.DataFrame({
                     'Date / ET': schedule['tip'].dt.strftime('%a, %b %d · %-I:%M %p'),
                     'Away': schedule.apply(lambda row: team_label(row, 'away'), axis=1),
                     'Home': schedule.apply(lambda row: team_label(row, 'home'), axis=1),
                     'League Managers': schedule.apply(lambda row: ' vs '.join(x for x in [row['away_manager'], row['home_manager']] if x) or '—', axis=1),
+                    'Status': schedule['status'],
+                    'Score (Away–Home)': schedule.apply(lambda row: f"{row['away_score']}–{row['home_score']}" if str(row['away_score']).strip() and str(row['home_score']).strip() else '—', axis=1),
                     'Spread (ESPN)': schedule['spread'].replace('', 'N/A'),
                     'Away ML': schedule['away_ml'].replace('', 'N/A'),
                     'Home ML': schedule['home_ml'].replace('', 'N/A'),
                 })
-                st.metric('Upcoming league games', len(output))
+                st.metric('League games in view', len(output))
                 st.dataframe(output, hide_index=True, use_container_width=True)
                 st.caption('⭐ = drafted team · Two managers listed = head-to-head league matchup · Moneyline shown by away/home side. Odds are informational and may change.')
 
