@@ -10,7 +10,8 @@ Conference tournament and NCAA rounds need explicit verified classification in
 """
 import argparse
 import csv
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta
+from zoneinfo import ZoneInfo
 from pathlib import Path
 import time
 import requests
@@ -54,11 +55,13 @@ def to_rows(events, lookup, phase_map):
         ids=[str(x.get('team',{}).get('id','')) for x in contestants]
         if not all(ids): continue
         game_id=str(event['id'])
+        game_day = datetime.fromisoformat(
+            event['date'].replace('Z', '+00:00')
+        ).astimezone(ZoneInfo('America/New_York')).date()
         phase=phase_map.get(game_id)
         if not phase:
             # ESPN considers many conference tournament games regular-season.
             # Never silently mis-score unidentified games after this cutoff.
-            game_day=date.fromisoformat(event['date'][:10])
             if game_day.month in (3,4):
                 continue
             phase='regular'
@@ -67,7 +70,7 @@ def to_rows(events, lookup, phase_map):
         if winner_flags.count(True)!=1: continue
         for idx,espn_id in enumerate(ids):
             if espn_id not in lookup: continue
-            rows.append({'game_id':game_id,'date':event['date'][:10], 'team':lookup[espn_id], 'opponent':contestants[1-idx]['team'].get('displayName','Opponent'), 'result':'W' if winner_flags[idx] else 'L','phase':phase,'source':'espn'})
+            rows.append({'game_id':game_id,'date':game_day.isoformat(), 'team':lookup[espn_id], 'opponent':contestants[1-idx]['team'].get('displayName','Opponent'), 'result':'W' if winner_flags[idx] else 'L','phase':phase,'source':'espn'})
     return rows
 
 def main():
