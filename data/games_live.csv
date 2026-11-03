@@ -18,13 +18,17 @@ game_id,date,team,opponent,result,phase,source
 401912207,2026-11-03,Cincinnati,American University Eagles,W,regular,espn
 401913099,2026-11-03,North Carolina,Western Carolina Catamounts,W,regular,espn
 401916286,2026-11-03,Indiana,Eastern Illinois Panthers,W,regular,espn
+401918955,2026-11-03,NC State,Campbell Fighting Camels,W,regular,espn
 401919780,2026-11-03,Nebraska,Le Moyne Dolphins,W,regular,espn
 401920201,2026-11-03,VCU,Little Rock Trojans,W,regular,espn
 401920690,2026-11-03,Vermont,Iona Gaels,L,regular,espn
+401920758,2026-11-03,Belmont,Southern Indiana Screaming Eagles,W,regular,espn
 401920893,2026-11-03,Wisconsin,Denver Pioneers,W,regular,espn
 401920959,2026-11-03,Western Kentucky,Morehead State Eagles,W,regular,espn
 401921036,2026-11-03,Texas Tech,Jackson State Tigers,W,regular,espn
 401921104,2026-11-03,Vanderbilt,Bellarmine Knights,W,regular,espn
+401921704,2026-11-03,Gonzaga,Purdue Boilermakers,W,regular,espn
+401921704,2026-11-03,Purdue,Gonzaga Bulldogs,L,regular,espn
 401924743,2026-11-03,Howard,Yale Bulldogs,L,regular,espn
 401924743,2026-11-03,Yale,Howard Bison,W,regular,espn
 401924856,2026-11-03,Michigan State,Quinnipiac Bobcats,W,regular,espn
