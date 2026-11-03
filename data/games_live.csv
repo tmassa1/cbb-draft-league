@@ -14,6 +14,8 @@ game_id,date,team,opponent,result,phase,source
 401909522,2026-11-03,Marquette,Mercyhurst Lakers,W,regular,espn
 401909541,2026-11-03,Xavier,Mount St. Mary's Mountaineers,W,regular,espn
 401909694,2026-11-03,Florida State,Florida A&M Rattlers,W,regular,espn
+401909738,2026-11-03,Arizona,UCLA Bruins,L,regular,espn
+401909738,2026-11-03,UCLA,Arizona Wildcats,W,regular,espn
 401909750,2026-11-03,Baylor,Northwestern State Demons,W,regular,espn
 401909771,2026-11-03,Iowa State,Memphis Tigers,L,regular,espn
 401909771,2026-11-03,Memphis,Iowa State Cyclones,W,regular,espn
