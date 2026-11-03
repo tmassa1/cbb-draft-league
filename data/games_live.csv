@@ -11,12 +11,15 @@ game_id,date,team,opponent,result,phase,source
 401925733,2026-11-02,Michigan,Oakland Golden Grizzlies,W,regular,espn
 401909522,2026-11-03,Marquette,Mercyhurst Lakers,W,regular,espn
 401909541,2026-11-03,Xavier,Mount St. Mary's Mountaineers,W,regular,espn
+401909771,2026-11-03,Iowa State,Memphis Tigers,L,regular,espn
+401909771,2026-11-03,Memphis,Iowa State Cyclones,W,regular,espn
 401911002,2026-11-03,Miami (OH),James Madison Dukes,W,regular,espn
 401911185,2026-11-03,Dayton,NJIT Highlanders,W,regular,espn
 401912207,2026-11-03,Cincinnati,American University Eagles,W,regular,espn
 401913099,2026-11-03,North Carolina,Western Carolina Catamounts,W,regular,espn
 401916286,2026-11-03,Indiana,Eastern Illinois Panthers,W,regular,espn
 401919780,2026-11-03,Nebraska,Le Moyne Dolphins,W,regular,espn
+401920201,2026-11-03,VCU,Little Rock Trojans,W,regular,espn
 401920690,2026-11-03,Vermont,Iona Gaels,L,regular,espn
 401920893,2026-11-03,Wisconsin,Denver Pioneers,W,regular,espn
 401920959,2026-11-03,Western Kentucky,Morehead State Eagles,W,regular,espn
