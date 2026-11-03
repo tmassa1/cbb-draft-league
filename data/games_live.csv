@@ -1,5 +1,8 @@
 game_id,date,team,opponent,result,phase,source
 401920982,2026-11-01,Villanova,Notre Dame Fighting Irish,L,regular,espn
+401906769,2026-11-02,Florida,Miami Hurricanes,W,regular,espn
+401906769,2026-11-02,Miami (FL),Florida Gators,L,regular,espn
+401909562,2026-11-02,Duke,Army Black Knights,W,regular,espn
 401911707,2026-11-02,Murray State,Tennessee State Tigers,W,regular,espn
 401919014,2026-11-02,McNeese,UAB Blazers,W,regular,espn
 401920409,2026-11-02,High Point,Liberty Flames,W,regular,espn
