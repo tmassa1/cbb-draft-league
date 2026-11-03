@@ -1,65 +1,65 @@
 game_id,date,team,opponent,result,phase,source
+401920409,2026-11-01,High Point,Liberty Flames,W,regular,espn
+401920409,2026-11-01,Liberty,High Point Panthers,L,regular,espn
 401920982,2026-11-01,Villanova,Notre Dame Fighting Irish,L,regular,espn
 401906769,2026-11-02,Florida,Miami Hurricanes,W,regular,espn
 401906769,2026-11-02,Miami (FL),Florida Gators,L,regular,espn
+401906801,2026-11-02,Oklahoma,East Texas A&M Lions,L,regular,espn
+401906863,2026-11-02,Texas,Chicago State Cougars,W,regular,espn
+401909522,2026-11-02,Marquette,Mercyhurst Lakers,W,regular,espn
+401909541,2026-11-02,Xavier,Mount St. Mary's Mountaineers,W,regular,espn
 401909562,2026-11-02,Duke,Army Black Knights,W,regular,espn
+401909694,2026-11-02,Florida State,Florida A&M Rattlers,W,regular,espn
+401909738,2026-11-02,Arizona,UCLA Bruins,L,regular,espn
+401909738,2026-11-02,UCLA,Arizona Wildcats,W,regular,espn
+401909750,2026-11-02,Baylor,Northwestern State Demons,W,regular,espn
+401909771,2026-11-02,Iowa State,Memphis Tigers,L,regular,espn
+401909771,2026-11-02,Memphis,Iowa State Cyclones,W,regular,espn
+401909784,2026-11-02,Kansas,Fordham Rams,W,regular,espn
+401910993,2026-11-02,Akron,Louisiana Ragin' Cajuns,W,regular,espn
+401911002,2026-11-02,Miami (OH),James Madison Dukes,W,regular,espn
+401911185,2026-11-02,Dayton,NJIT Highlanders,W,regular,espn
+401911248,2026-11-02,Saint Louis,Lehigh Mountain Hawks,W,regular,espn
+401911374,2026-11-02,South Florida,Charleston Southern Buccaneers,W,regular,espn
+401911389,2026-11-02,Grand Canyon,Texas Southern Tigers,W,regular,espn
+401911390,2026-11-02,UConn,Gardner-Webb Runnin' Bulldogs,W,regular,espn
+401911452,2026-11-02,Nevada,Robert Morris Colonials,W,regular,espn
 401911707,2026-11-02,Murray State,Tennessee State Tigers,W,regular,espn
+401912207,2026-11-02,Cincinnati,American University Eagles,W,regular,espn
+401913099,2026-11-02,North Carolina,Western Carolina Catamounts,W,regular,espn
+401913525,2026-11-02,Illinois,Fairleigh Dickinson Knights,W,regular,espn
+401916286,2026-11-02,Indiana,Eastern Illinois Panthers,W,regular,espn
+401916313,2026-11-02,BYU,Ohio State Buckeyes,W,regular,espn
+401917507,2026-11-02,Illinois State,Saint Mary's Gaels,L,regular,espn
+401917507,2026-11-02,Saint Mary's,Illinois State Redbirds,W,regular,espn
+401917509,2026-11-02,Santa Clara,Towson Tigers,W,regular,espn
+401918947,2026-11-02,Louisville,Chattanooga Mocs,W,regular,espn
+401918955,2026-11-02,NC State,Campbell Fighting Camels,W,regular,espn
 401919014,2026-11-02,McNeese,UAB Blazers,W,regular,espn
-401920409,2026-11-02,High Point,Liberty Flames,W,regular,espn
-401920409,2026-11-02,Liberty,High Point Panthers,L,regular,espn
+401919780,2026-11-02,Nebraska,Le Moyne Dolphins,W,regular,espn
+401920201,2026-11-02,VCU,Little Rock Trojans,W,regular,espn
+401920370,2026-11-02,UC San Diego,Whittier Poets,W,regular,espn
 401920679,2026-11-02,St. John's,Monmouth Hawks,W,regular,espn
+401920690,2026-11-02,Vermont,Iona Gaels,L,regular,espn
+401920758,2026-11-02,Belmont,Southern Indiana Screaming Eagles,W,regular,espn
+401920893,2026-11-02,Wisconsin,Denver Pioneers,W,regular,espn
+401920959,2026-11-02,Western Kentucky,Morehead State Eagles,W,regular,espn
+401921036,2026-11-02,Texas Tech,Jackson State Tigers,W,regular,espn
+401921104,2026-11-02,Vanderbilt,Bellarmine Knights,W,regular,espn
+401921424,2026-11-02,Furman,Bethune-Cookman Wildcats,W,regular,espn
+401921704,2026-11-02,Gonzaga,Purdue Boilermakers,W,regular,espn
+401921704,2026-11-02,Purdue,Gonzaga Bulldogs,L,regular,espn
+401921731,2026-11-02,East Tennessee State,Arizona State Sun Devils,L,regular,espn
+401922020,2026-11-02,Utah State,Idaho State Bengals,W,regular,espn
+401924743,2026-11-02,Howard,Yale Bulldogs,L,regular,espn
+401924743,2026-11-02,Yale,Howard Bison,W,regular,espn
+401924856,2026-11-02,Michigan State,Quinnipiac Bobcats,W,regular,espn
+401924894,2026-11-02,New Mexico,Utah Tech Trailblazers,W,regular,espn
 401925733,2026-11-02,Michigan,Oakland Golden Grizzlies,W,regular,espn
-401906801,2026-11-03,Oklahoma,East Texas A&M Lions,L,regular,espn
-401906863,2026-11-03,Texas,Chicago State Cougars,W,regular,espn
-401909522,2026-11-03,Marquette,Mercyhurst Lakers,W,regular,espn
-401909541,2026-11-03,Xavier,Mount St. Mary's Mountaineers,W,regular,espn
-401909694,2026-11-03,Florida State,Florida A&M Rattlers,W,regular,espn
-401909738,2026-11-03,Arizona,UCLA Bruins,L,regular,espn
-401909738,2026-11-03,UCLA,Arizona Wildcats,W,regular,espn
-401909750,2026-11-03,Baylor,Northwestern State Demons,W,regular,espn
-401909771,2026-11-03,Iowa State,Memphis Tigers,L,regular,espn
-401909771,2026-11-03,Memphis,Iowa State Cyclones,W,regular,espn
-401909784,2026-11-03,Kansas,Fordham Rams,W,regular,espn
-401910993,2026-11-03,Akron,Louisiana Ragin' Cajuns,W,regular,espn
-401911002,2026-11-03,Miami (OH),James Madison Dukes,W,regular,espn
-401911185,2026-11-03,Dayton,NJIT Highlanders,W,regular,espn
-401911248,2026-11-03,Saint Louis,Lehigh Mountain Hawks,W,regular,espn
-401911374,2026-11-03,South Florida,Charleston Southern Buccaneers,W,regular,espn
-401911389,2026-11-03,Grand Canyon,Texas Southern Tigers,W,regular,espn
-401911390,2026-11-03,UConn,Gardner-Webb Runnin' Bulldogs,W,regular,espn
-401911452,2026-11-03,Nevada,Robert Morris Colonials,W,regular,espn
-401912207,2026-11-03,Cincinnati,American University Eagles,W,regular,espn
-401913099,2026-11-03,North Carolina,Western Carolina Catamounts,W,regular,espn
-401913525,2026-11-03,Illinois,Fairleigh Dickinson Knights,W,regular,espn
-401916286,2026-11-03,Indiana,Eastern Illinois Panthers,W,regular,espn
-401916313,2026-11-03,BYU,Ohio State Buckeyes,W,regular,espn
-401917507,2026-11-03,Illinois State,Saint Mary's Gaels,L,regular,espn
-401917507,2026-11-03,Saint Mary's,Illinois State Redbirds,W,regular,espn
-401917509,2026-11-03,Santa Clara,Towson Tigers,W,regular,espn
-401918947,2026-11-03,Louisville,Chattanooga Mocs,W,regular,espn
-401918955,2026-11-03,NC State,Campbell Fighting Camels,W,regular,espn
-401919780,2026-11-03,Nebraska,Le Moyne Dolphins,W,regular,espn
-401920201,2026-11-03,VCU,Little Rock Trojans,W,regular,espn
-401920370,2026-11-03,UC San Diego,Whittier Poets,W,regular,espn
-401920690,2026-11-03,Vermont,Iona Gaels,L,regular,espn
-401920758,2026-11-03,Belmont,Southern Indiana Screaming Eagles,W,regular,espn
-401920893,2026-11-03,Wisconsin,Denver Pioneers,W,regular,espn
-401920959,2026-11-03,Western Kentucky,Morehead State Eagles,W,regular,espn
-401921036,2026-11-03,Texas Tech,Jackson State Tigers,W,regular,espn
-401921104,2026-11-03,Vanderbilt,Bellarmine Knights,W,regular,espn
-401921424,2026-11-03,Furman,Bethune-Cookman Wildcats,W,regular,espn
-401921704,2026-11-03,Gonzaga,Purdue Boilermakers,W,regular,espn
-401921704,2026-11-03,Purdue,Gonzaga Bulldogs,L,regular,espn
-401921731,2026-11-03,East Tennessee State,Arizona State Sun Devils,L,regular,espn
-401922020,2026-11-03,Utah State,Idaho State Bengals,W,regular,espn
-401924743,2026-11-03,Howard,Yale Bulldogs,L,regular,espn
-401924743,2026-11-03,Yale,Howard Bison,W,regular,espn
-401924856,2026-11-03,Michigan State,Quinnipiac Bobcats,W,regular,espn
-401924894,2026-11-03,New Mexico,Utah Tech Trailblazers,W,regular,espn
-401925811,2026-11-03,Houston,La Salle Explorers,W,regular,espn
-401926116,2026-11-03,Samford,Berry Vikings,W,regular,espn
-401926771,2026-11-03,USC,Milwaukee Panthers,W,regular,espn
-401926862,2026-11-03,UNC Wilmington,Mount Olive Trojans,W,regular,espn
-401928351,2026-11-03,UC Santa Barbara,San Francisco State Gators,W,regular,espn
-401929391,2026-11-03,North Dakota State,Crookston (MN) Golden Eagles,W,regular,espn
-401931655,2026-11-03,Charleston,Southern Wesleyan Warriors,W,regular,espn
+401925811,2026-11-02,Houston,La Salle Explorers,W,regular,espn
+401926116,2026-11-02,Samford,Berry Vikings,W,regular,espn
+401926771,2026-11-02,USC,Milwaukee Panthers,W,regular,espn
+401926862,2026-11-02,UNC Wilmington,Mount Olive Trojans,W,regular,espn
+401928351,2026-11-02,UC Santa Barbara,San Francisco State Gators,W,regular,espn
+401929391,2026-11-02,North Dakota State,Crookston (MN) Golden Eagles,W,regular,espn
+401931655,2026-11-02,Charleston,Southern Wesleyan Warriors,W,regular,espn
