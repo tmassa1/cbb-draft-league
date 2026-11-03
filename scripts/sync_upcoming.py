@@ -6,6 +6,7 @@ Outputs data/upcoming_games.csv; no impact on league points.
 import argparse
 import csv
 from datetime import datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
 from pathlib import Path
 import requests
 
@@ -17,7 +18,7 @@ except ImportError:
 ROOT = Path(__file__).resolve().parents[1]
 FIELDS = ['game_id', 'start_utc', 'away_team', 'home_team', 'away_manager',
           'home_manager', 'away_drafted', 'home_drafted', 'spread',
-          'away_ml', 'home_ml', 'status']
+          'away_ml', 'home_ml', 'status', 'away_score', 'home_score']
 
 
 def moneyline(value):
@@ -47,8 +48,6 @@ def parse_event(event, draft_by_id):
     if not (home_id in draft_by_id or away_id in draft_by_id):
         return None
     status = competition.get('status', event.get('status', {})).get('type', {})
-    if status.get('completed') or status.get('state') == 'post':
-        return None
     start = event.get('date') or competition.get('date')
     if not start:
         return None
@@ -56,8 +55,11 @@ def parse_event(event, draft_by_id):
     if start_dt.tzinfo is None:
         start_dt = start_dt.replace(tzinfo=timezone.utc)
     start_dt = start_dt.astimezone(timezone.utc)
-    if start_dt < datetime.now(timezone.utc) - timedelta(hours=4):
+    eastern = ZoneInfo('America/New_York')
+    if start_dt.astimezone(eastern).date() < datetime.now(eastern).date():
         return None
+    state = status.get('state', 'pre')
+    label = 'Final' if status.get('completed') or state == 'post' else ('Live' if state == 'in' else 'Upcoming')
     odds = (competition.get('odds') or [])
     market = odds[0] if odds else {}
     away_odds = market.get('awayTeamOdds') or {}
@@ -75,7 +77,9 @@ def parse_event(event, draft_by_id):
         'spread': str(spread),
         'away_ml': moneyline(away_odds.get('moneyLine')),
         'home_ml': moneyline(home_odds.get('moneyLine')),
-        'status': str(status.get('name') or status.get('description') or 'Scheduled'),
+        'status': label,
+        'away_score': str(away.get('score', '')),
+        'home_score': str(home.get('score', '')),
     }
 
 
@@ -89,7 +93,7 @@ def main():
     ids = {row['espn_id'].strip(): row for row in draft if row.get('espn_id', '').strip()}
     if len(ids) != len(draft):
         raise RuntimeError('Draft has missing or duplicate ESPN IDs')
-    today = datetime.now(timezone.utc).date()
+    today = datetime.now(ZoneInfo('America/New_York')).date()
     by_game = {}
     with requests.Session() as session:
         session.headers['User-Agent'] = 'CBBFantasyLeague/0.2 (private hobby scoreboard)'
