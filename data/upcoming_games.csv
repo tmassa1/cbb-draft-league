@@ -1,7 +1,7 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
-401906848,2026-11-03T23:00:00+00:00,Wofford Terriers,Tennessee Volunteers,,Carson,N,Y,N/A,N/A,N/A,Live,38,58
-401920376,2026-11-04T00:00:00+00:00,Coppin State Eagles,Virginia Tech Hokies,,BFO,N,Y,N/A,N/A,N/A,Live,14,22
-401921801,2026-11-04T00:00:00+00:00,Manhattan Jaspers,Kentucky Wildcats,,Jack,N,Y,N/A,N/A,N/A,Live,15,27
+401906848,2026-11-03T23:00:00+00:00,Wofford Terriers,Tennessee Volunteers,,Carson,N,Y,N/A,N/A,N/A,Live,41,66
+401920376,2026-11-04T00:00:00+00:00,Coppin State Eagles,Virginia Tech Hokies,,BFO,N,Y,N/A,N/A,N/A,Live,14,27
+401921801,2026-11-04T00:00:00+00:00,Manhattan Jaspers,Kentucky Wildcats,,Jack,N,Y,N/A,N/A,N/A,Live,16,30
 401906757,2026-11-04T00:30:00+00:00,Sam Houston Bearkats,Alabama Crimson Tide,,Trevor,N,Y,ALA -27.5,N/A,N/A,Upcoming,0,0
 401920422,2026-11-04T00:30:00+00:00,Drexel Dragons,Virginia Cavaliers,,Justin,N,Y,UVA -31.5,N/A,N/A,Upcoming,0,0
 401920702,2026-11-04T01:00:00+00:00,Lipscomb Bisons,Iowa Hawkeyes,,BFO,N,Y,IOWA -23.5,N/A,N/A,Upcoming,0,0
