@@ -6,16 +6,16 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401920422,2026-11-04T00:30:00+00:00,Drexel Dragons,Virginia Cavaliers,,Justin,N,Y,N/A,N/A,N/A,Final,60,89
 401920702,2026-11-04T01:00:00+00:00,Lipscomb Bisons,Iowa Hawkeyes,,BFO,N,Y,N/A,N/A,N/A,Final,54,76
 401921165,2026-11-04T01:00:00+00:00,Cleveland State Vikings,Missouri Tigers,,Racz,N,Y,N/A,N/A,N/A,Final,50,111
-401929372,2026-11-04T01:00:00+00:00,Arkansas-Pine Bluff Golden Lions,Arkansas Razorbacks,,Carson,N,Y,N/A,N/A,N/A,Live,54,93
-401920155,2026-11-04T03:00:00+00:00,Cal State Fullerton Titans,San Diego State Aztecs,,Carson,N,Y,N/A,N/A,N/A,Live,5,8
-401929624,2026-11-04T03:00:00+00:00,Chapman Panthers,UC Irvine Anteaters,,Trevor,N,Y,N/A,N/A,N/A,Live,7,7
+401929372,2026-11-04T01:00:00+00:00,Arkansas-Pine Bluff Golden Lions,Arkansas Razorbacks,,Carson,N,Y,N/A,N/A,N/A,Live,59,104
+401920155,2026-11-04T03:00:00+00:00,Cal State Fullerton Titans,San Diego State Aztecs,,Carson,N,Y,N/A,N/A,N/A,Live,10,15
+401929624,2026-11-04T03:00:00+00:00,Chapman Panthers,UC Irvine Anteaters,,Trevor,N,Y,N/A,N/A,N/A,Live,12,9
 401920410,2026-11-05T00:00:00+00:00,Maryland Eastern Shore Hawks,High Point Panthers,,Max,N,Y,HPU -30.5,N/A,N/A,Upcoming,0,0
 401919028,2026-11-05T00:30:00+00:00,Cal State Northridge Matadors,Wichita State Shockers,,Will,N,Y,WICH -14.5,N/A,N/A,Upcoming,0,0
 401926111,2026-11-05T00:30:00+00:00,Bob Jones Bruins,Furman Paladins,,Sam,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401927361,2026-11-05T00:30:00+00:00,Central College Dutch,Drake Bulldogs,,Miles,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401920798,2026-11-05T01:00:00+00:00,SE Louisiana Lions,Auburn Tigers,,Trevor,N,Y,AUB -26.5,N/A,N/A,Upcoming,0,0
 401917512,2026-11-05T03:00:00+00:00,North Dakota State Bison,Saint Mary's Gaels,Sam,Jack,Y,Y,SMC -12.5,N/A,N/A,Upcoming,0,0
-401917513,2026-11-05T03:00:00+00:00,Milwaukee Panthers,Santa Clara Broncos,,Miles,N,Y,SCU -18.5,N/A,N/A,Upcoming,0,0
+401917513,2026-11-05T03:00:00+00:00,Milwaukee Panthers,Santa Clara Broncos,,Miles,N,Y,SCU -17.5,N/A,N/A,Upcoming,0,0
 401925031,2026-11-05T22:00:00+00:00,McNeese Cowboys,North Texas Mean Green,Aaron,,Y,N,N/A,N/A,N/A,Upcoming,0,0
 401909726,2026-11-05T23:00:00+00:00,Wake Forest Demon Deacons,Vanderbilt Commodores,,BFO,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401916287,2026-11-05T23:00:00+00:00,Bellarmine Knights,Indiana Hoosiers,,Aaron,N,Y,N/A,N/A,N/A,Upcoming,0,0
