@@ -1,12 +1,12 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
 401906848,2026-11-03T23:00:00+00:00,Wofford Terriers,Tennessee Volunteers,,Carson,N,Y,N/A,N/A,N/A,Final,59,90
-401920376,2026-11-04T00:00:00+00:00,Coppin State Eagles,Virginia Tech Hokies,,BFO,N,Y,N/A,N/A,N/A,Live,40,68
-401921801,2026-11-04T00:00:00+00:00,Manhattan Jaspers,Kentucky Wildcats,,Jack,N,Y,N/A,N/A,N/A,Live,42,79
-401906757,2026-11-04T00:30:00+00:00,Sam Houston Bearkats,Alabama Crimson Tide,,Trevor,N,Y,N/A,N/A,N/A,Live,31,47
+401920376,2026-11-04T00:00:00+00:00,Coppin State Eagles,Virginia Tech Hokies,,BFO,N,Y,N/A,N/A,N/A,Live,44,68
+401921801,2026-11-04T00:00:00+00:00,Manhattan Jaspers,Kentucky Wildcats,,Jack,N,Y,N/A,N/A,N/A,Live,42,77
+401906757,2026-11-04T00:30:00+00:00,Sam Houston Bearkats,Alabama Crimson Tide,,Trevor,N,Y,N/A,N/A,N/A,Live,31,52
 401920422,2026-11-04T00:30:00+00:00,Drexel Dragons,Virginia Cavaliers,,Justin,N,Y,N/A,N/A,N/A,Live,27,51
-401920702,2026-11-04T01:00:00+00:00,Lipscomb Bisons,Iowa Hawkeyes,,BFO,N,Y,N/A,N/A,N/A,Live,19,26
-401921165,2026-11-04T01:00:00+00:00,Cleveland State Vikings,Missouri Tigers,,Racz,N,Y,N/A,N/A,N/A,Live,15,46
-401929372,2026-11-04T01:00:00+00:00,Arkansas-Pine Bluff Golden Lions,Arkansas Razorbacks,,Carson,N,Y,N/A,N/A,N/A,Live,13,33
+401920702,2026-11-04T01:00:00+00:00,Lipscomb Bisons,Iowa Hawkeyes,,BFO,N,Y,N/A,N/A,N/A,Live,27,28
+401921165,2026-11-04T01:00:00+00:00,Cleveland State Vikings,Missouri Tigers,,Racz,N,Y,N/A,N/A,N/A,Live,18,51
+401929372,2026-11-04T01:00:00+00:00,Arkansas-Pine Bluff Golden Lions,Arkansas Razorbacks,,Carson,N,Y,N/A,N/A,N/A,Live,18,40
 401920155,2026-11-04T03:00:00+00:00,Cal State Fullerton Titans,San Diego State Aztecs,,Carson,N,Y,SDSU -13.5,N/A,N/A,Upcoming,0,0
 401929624,2026-11-04T03:00:00+00:00,Chapman Panthers,UC Irvine Anteaters,,Trevor,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401920410,2026-11-05T00:00:00+00:00,Maryland Eastern Shore Hawks,High Point Panthers,,Max,N,Y,HPU -30.5,N/A,N/A,Upcoming,0,0
