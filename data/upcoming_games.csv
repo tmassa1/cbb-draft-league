@@ -1,7 +1,7 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
-401920410,2026-11-05T00:00:00+00:00,Maryland Eastern Shore Hawks,High Point Panthers,,Max,N,Y,N/A,N/A,N/A,Live,16,26
-401919028,2026-11-05T00:30:00+00:00,Cal State Northridge Matadors,Wichita State Shockers,,Will,N,Y,N/A,N/A,N/A,Live,9,14
-401926111,2026-11-05T00:30:00+00:00,Bob Jones Bruins,Furman Paladins,,Sam,N,Y,N/A,N/A,N/A,Live,5,13
+401920410,2026-11-05T00:00:00+00:00,Maryland Eastern Shore Hawks,High Point Panthers,,Max,N,Y,N/A,N/A,N/A,Live,19,31
+401919028,2026-11-05T00:30:00+00:00,Cal State Northridge Matadors,Wichita State Shockers,,Will,N,Y,N/A,N/A,N/A,Live,16,18
+401926111,2026-11-05T00:30:00+00:00,Bob Jones Bruins,Furman Paladins,,Sam,N,Y,N/A,N/A,N/A,Live,10,19
 401927361,2026-11-05T00:30:00+00:00,Central College Dutch,Drake Bulldogs,,Miles,N,Y,N/A,N/A,N/A,Live,5,15
 401920798,2026-11-05T01:00:00+00:00,SE Louisiana Lions,Auburn Tigers,,Trevor,N,Y,AUB -29.5,N/A,N/A,Upcoming,0,0
 401917512,2026-11-05T03:00:00+00:00,North Dakota State Bison,Saint Mary's Gaels,Sam,Jack,Y,Y,SMC -12.5,N/A,N/A,Upcoming,0,0
