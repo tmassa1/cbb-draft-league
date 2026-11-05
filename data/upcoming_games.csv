@@ -1,7 +1,7 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
-401925031,2026-11-05T22:00:00+00:00,McNeese Cowboys,North Texas Mean Green,Aaron,,Y,N,N/A,N/A,N/A,Live,38,41
-401909726,2026-11-05T23:00:00+00:00,Wake Forest Demon Deacons,Vanderbilt Commodores,,BFO,N,Y,N/A,N/A,N/A,Live,13,17
-401916287,2026-11-05T23:00:00+00:00,Bellarmine Knights,Indiana Hoosiers,,Aaron,N,Y,N/A,N/A,N/A,Live,5,13
+401925031,2026-11-05T22:00:00+00:00,McNeese Cowboys,North Texas Mean Green,Aaron,,Y,N,N/A,N/A,N/A,Live,46,53
+401909726,2026-11-05T23:00:00+00:00,Wake Forest Demon Deacons,Vanderbilt Commodores,,BFO,N,Y,N/A,N/A,N/A,Live,17,27
+401916287,2026-11-05T23:00:00+00:00,Bellarmine Knights,Indiana Hoosiers,,Aaron,N,Y,N/A,N/A,N/A,Live,7,19
 401920377,2026-11-06T00:00:00+00:00,Mercer Bears,Virginia Tech Hokies,,BFO,N,Y,VT -20.5,N/A,N/A,Upcoming,0,0
 401920691,2026-11-06T00:00:00+00:00,Vermont Catamounts,Fairfield Stags,Racz,,Y,N,UVM -1.5,N/A,N/A,Upcoming,0,0
 401921747,2026-11-06T00:00:00+00:00,Green Bay Phoenix,Cincinnati Bearcats,,Racz,N,Y,CIN -23.5,N/A,N/A,Upcoming,0,0
