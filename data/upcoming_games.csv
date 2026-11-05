@@ -4,8 +4,8 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401926111,2026-11-05T00:30:00+00:00,Bob Jones Bruins,Furman Paladins,,Sam,N,Y,N/A,N/A,N/A,Final,52,121
 401927361,2026-11-05T00:30:00+00:00,Central College Dutch,Drake Bulldogs,,Miles,N,Y,N/A,N/A,N/A,Final,48,101
 401920798,2026-11-05T01:00:00+00:00,SE Louisiana Lions,Auburn Tigers,,Trevor,N,Y,N/A,N/A,N/A,Final,59,92
-401917512,2026-11-05T03:00:00+00:00,North Dakota State Bison,Saint Mary's Gaels,Sam,Jack,Y,Y,N/A,N/A,N/A,Live,13,21
-401917513,2026-11-05T03:00:00+00:00,Milwaukee Panthers,Santa Clara Broncos,,Miles,N,Y,N/A,N/A,N/A,Live,3,18
+401917512,2026-11-05T03:00:00+00:00,North Dakota State Bison,Saint Mary's Gaels,Sam,Jack,Y,Y,N/A,N/A,N/A,Live,14,26
+401917513,2026-11-05T03:00:00+00:00,Milwaukee Panthers,Santa Clara Broncos,,Miles,N,Y,N/A,N/A,N/A,Live,7,20
 401925031,2026-11-05T22:00:00+00:00,McNeese Cowboys,North Texas Mean Green,Aaron,,Y,N,N/A,N/A,N/A,Upcoming,0,0
 401909726,2026-11-05T23:00:00+00:00,Wake Forest Demon Deacons,Vanderbilt Commodores,,BFO,N,Y,VAN -17.5,N/A,N/A,Upcoming,0,0
 401916287,2026-11-05T23:00:00+00:00,Bellarmine Knights,Indiana Hoosiers,,Aaron,N,Y,N/A,N/A,N/A,Upcoming,0,0
