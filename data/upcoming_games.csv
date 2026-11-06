@@ -68,7 +68,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401920799,2026-11-10T02:00:00+00:00,App State Mountaineers,Auburn Tigers,,Trevor,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401906771,2026-11-10T23:00:00+00:00,Florida Gators,Florida State Seminoles,Joe,Joe,Y,Y,N/A,N/A,N/A,Upcoming,0,0
 401909543,2026-11-11T00:00:00+00:00,Detroit Mercy Titans,Xavier Musketeers,,Jack,N,Y,N/A,N/A,N/A,Upcoming,0,0
-401909564,2026-11-11T00:00:00+00:00,Michigan State Spartans,Duke Blue Devils,Matt,Racz,Y,Y,N/A,N/A,N/A,Upcoming,0,0
+401909564,2026-11-11T00:00:00+00:00,Michigan State Spartans,Duke Blue Devils,Matt,Racz,Y,Y,DUKE -6.5,N/A,N/A,Upcoming,0,0
 401911187,2026-11-11T00:00:00+00:00,Siena Saints,Dayton Flyers,,Max,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401913101,2026-11-11T00:00:00+00:00,Wyoming Cowboys,North Carolina Tar Heels,,Max,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401918957,2026-11-11T00:00:00+00:00,Presbyterian Blue Hose,NC State Wolfpack,,Matt,N,Y,N/A,N/A,N/A,Upcoming,0,0
