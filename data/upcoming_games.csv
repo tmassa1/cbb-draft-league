@@ -7,7 +7,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401911249,2026-11-07T00:00:00+00:00,Saint Louis Billikens,Missouri Tigers,Will,Racz,Y,Y,MIZ -2.5,N/A,N/A,Upcoming,0,0
 401913100,2026-11-07T00:00:00+00:00,Wofford Terriers,North Carolina Tar Heels,,Max,N,Y,UNC -22.5,N/A,N/A,Upcoming,0,0
 401918956,2026-11-07T00:00:00+00:00,East Tennessee State Buccaneers,NC State Wolfpack,Carson,Matt,Y,Y,NCSU -16.5,N/A,N/A,Upcoming,0,0
-401921285,2026-11-07T00:00:00+00:00,Holy Cross Crusaders,Villanova Wildcats,,Joe,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401921285,2026-11-07T00:00:00+00:00,Holy Cross Crusaders,Villanova Wildcats,,Joe,N,Y,VILL -31.5,N/A,N/A,Upcoming,0,0
 401921754,2026-11-07T00:00:00+00:00,Yale Bulldogs,UCF Knights,Joe,,Y,N,UCF -9.5,N/A,N/A,Upcoming,0,0
 401921802,2026-11-07T00:00:00+00:00,James Madison Dukes,Kentucky Wildcats,,Jack,N,Y,UK -25.5,N/A,N/A,Upcoming,0,0
 401926813,2026-11-07T00:00:00+00:00,Newberry Wolves,Charleston Cougars,,Miles,N,Y,N/A,N/A,N/A,Upcoming,0,0
