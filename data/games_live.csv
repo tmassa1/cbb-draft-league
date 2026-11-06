@@ -81,6 +81,7 @@ game_id,date,team,opponent,result,phase,source
 401920798,2026-11-04,Auburn,SE Louisiana Lions,W,regular,espn
 401926111,2026-11-04,Furman,Bob Jones Bruins,W,regular,espn
 401927361,2026-11-04,Drake,Central College Dutch,W,regular,espn
+401906770,2026-11-05,Florida,Jacksonville Dolphins,W,regular,espn
 401909726,2026-11-05,Vanderbilt,Wake Forest Demon Deacons,W,regular,espn
 401916287,2026-11-05,Indiana,Bellarmine Knights,W,regular,espn
 401920377,2026-11-05,Virginia Tech,Mercer Bears,W,regular,espn
@@ -89,4 +90,5 @@ game_id,date,team,opponent,result,phase,source
 401921747,2026-11-05,Cincinnati,Green Bay Phoenix,W,regular,espn
 401925031,2026-11-05,McNeese,North Texas Mean Green,L,regular,espn
 401925684,2026-11-05,Howard,Alcorn State Braves,W,regular,espn
+401927373,2026-11-05,Illinois State,Central State Marauders,W,regular,espn
 401928800,2026-11-05,Western Kentucky,Kentucky Wesleyan Panthers,W,regular,espn
