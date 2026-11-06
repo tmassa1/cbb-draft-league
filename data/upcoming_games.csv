@@ -1,11 +1,11 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
-401925031,2026-11-05T22:00:00+00:00,McNeese Cowboys,North Texas Mean Green,Aaron,,Y,N,N/A,N/A,N/A,Live,64,75
-401909726,2026-11-05T23:00:00+00:00,Wake Forest Demon Deacons,Vanderbilt Commodores,,BFO,N,Y,N/A,N/A,N/A,Live,33,44
+401925031,2026-11-05T22:00:00+00:00,McNeese Cowboys,North Texas Mean Green,Aaron,,Y,N,N/A,N/A,N/A,Live,67,77
+401909726,2026-11-05T23:00:00+00:00,Wake Forest Demon Deacons,Vanderbilt Commodores,,BFO,N,Y,N/A,N/A,N/A,Live,35,44
 401916287,2026-11-05T23:00:00+00:00,Bellarmine Knights,Indiana Hoosiers,,Aaron,N,Y,N/A,N/A,N/A,Live,36,57
-401920377,2026-11-06T00:00:00+00:00,Mercer Bears,Virginia Tech Hokies,,BFO,N,Y,N/A,N/A,N/A,Live,9,16
-401920691,2026-11-06T00:00:00+00:00,Vermont Catamounts,Fairfield Stags,Racz,,Y,N,N/A,N/A,N/A,Live,18,11
-401921747,2026-11-06T00:00:00+00:00,Green Bay Phoenix,Cincinnati Bearcats,,Racz,N,Y,N/A,N/A,N/A,Live,10,14
-401925684,2026-11-06T00:00:00+00:00,Howard Bison,Alcorn State Braves,Jack,,Y,N,N/A,N/A,N/A,Live,11,11
+401920377,2026-11-06T00:00:00+00:00,Mercer Bears,Virginia Tech Hokies,,BFO,N,Y,N/A,N/A,N/A,Live,13,20
+401920691,2026-11-06T00:00:00+00:00,Vermont Catamounts,Fairfield Stags,Racz,,Y,N,N/A,N/A,N/A,Live,24,13
+401921747,2026-11-06T00:00:00+00:00,Green Bay Phoenix,Cincinnati Bearcats,,Racz,N,Y,N/A,N/A,N/A,Live,15,16
+401925684,2026-11-06T00:00:00+00:00,Howard Bison,Alcorn State Braves,Jack,,Y,N,N/A,N/A,N/A,Live,12,13
 401920759,2026-11-06T00:30:00+00:00,Centre Colonels,Belmont Bruins,,BFO,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401928800,2026-11-06T00:30:00+00:00,Kentucky Wesleyan Panthers,Western Kentucky Hilltoppers,,Trevor,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401906770,2026-11-06T01:00:00+00:00,Jacksonville Dolphins,Florida Gators,,Joe,N,Y,FLA -36.5,N/A,N/A,Upcoming,0,0
