@@ -8,19 +8,19 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401925684,2026-11-06T00:00:00+00:00,Howard Bison,Alcorn State Braves,Jack,,Y,N,N/A,N/A,N/A,Final,94,83
 401920759,2026-11-06T00:30:00+00:00,Centre Colonels,Belmont Bruins,,BFO,N,Y,N/A,N/A,N/A,Final,45,75
 401928800,2026-11-06T00:30:00+00:00,Kentucky Wesleyan Panthers,Western Kentucky Hilltoppers,,Trevor,N,Y,N/A,N/A,N/A,Final,48,82
-401906770,2026-11-06T01:00:00+00:00,Jacksonville Dolphins,Florida Gators,,Joe,N,Y,N/A,N/A,N/A,Live,52,87
-401906864,2026-11-06T01:00:00+00:00,Gardner-Webb Runnin' Bulldogs,Texas Longhorns,,Jack,N,Y,N/A,N/A,N/A,Live,34,83
-401909563,2026-11-06T01:00:00+00:00,Coastal Carolina Chanticleers,Duke Blue Devils,,Racz,N,Y,N/A,N/A,N/A,Live,27,73
-401925754,2026-11-06T01:00:00+00:00,Toledo Rockets,Michigan State Spartans,,Matt,N,Y,N/A,N/A,N/A,Live,41,71
-401927373,2026-11-06T01:00:00+00:00,Central State Marauders,Illinois State Redbirds,,Aaron,N,Y,N/A,N/A,N/A,Live,49,98
-401909501,2026-11-06T01:30:00+00:00,South Florida Bulls,DePaul Blue Demons,Will,,Y,N,N/A,N/A,N/A,Live,35,50
-401913526,2026-11-06T01:30:00+00:00,Pennsylvania Quakers,Illinois Fighting Illini,Aaron,Aaron,Y,Y,N/A,N/A,N/A,Live,35,62
-401921133,2026-11-06T02:00:00+00:00,Bethune-Cookman Wildcats,Texas Tech Red Raiders,,Matt,N,Y,N/A,N/A,N/A,Live,11,23
+401906770,2026-11-06T01:00:00+00:00,Jacksonville Dolphins,Florida Gators,,Joe,N,Y,N/A,N/A,N/A,Live,57,88
+401906864,2026-11-06T01:00:00+00:00,Gardner-Webb Runnin' Bulldogs,Texas Longhorns,,Jack,N,Y,N/A,N/A,N/A,Live,39,89
+401909563,2026-11-06T01:00:00+00:00,Coastal Carolina Chanticleers,Duke Blue Devils,,Racz,N,Y,N/A,N/A,N/A,Live,27,77
+401925754,2026-11-06T01:00:00+00:00,Toledo Rockets,Michigan State Spartans,,Matt,N,Y,N/A,N/A,N/A,Live,44,74
+401927373,2026-11-06T01:00:00+00:00,Central State Marauders,Illinois State Redbirds,,Aaron,N,Y,N/A,N/A,N/A,Live,55,98
+401909501,2026-11-06T01:30:00+00:00,South Florida Bulls,DePaul Blue Demons,Will,,Y,N,N/A,N/A,N/A,Live,36,53
+401913526,2026-11-06T01:30:00+00:00,Pennsylvania Quakers,Illinois Fighting Illini,Aaron,Aaron,Y,Y,N/A,N/A,N/A,Live,35,67
+401921133,2026-11-06T02:00:00+00:00,Bethune-Cookman Wildcats,Texas Tech Red Raiders,,Matt,N,Y,N/A,N/A,N/A,Live,12,28
 401909739,2026-11-06T03:30:00+00:00,Cal Poly Mustangs,Arizona Wildcats,,Will,N,Y,ARIZ -30.5,N/A,N/A,Upcoming,0,0
 401909751,2026-11-06T22:00:00+00:00,Arkansas-Pine Bluff Golden Lions,Baylor Bears,,Carson,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401920423,2026-11-06T22:00:00+00:00,Northeastern Huskies,Virginia Cavaliers,,Justin,N,Y,UVA -33.5,N/A,N/A,Upcoming,0,0
 401926131,2026-11-06T23:30:00+00:00,Valparaiso Beacons,Purdue Boilermakers,,Sam,N,Y,PUR -19.5,N/A,N/A,Upcoming,0,0
-401909542,2026-11-07T00:00:00+00:00,Eastern Michigan Eagles,Xavier Musketeers,,Jack,N,Y,XAV -20.5,N/A,N/A,Upcoming,0,0
+401909542,2026-11-07T00:00:00+00:00,Eastern Michigan Eagles,Xavier Musketeers,,Jack,N,Y,XAV -23.5,N/A,N/A,Upcoming,0,0
 401909695,2026-11-07T00:00:00+00:00,Troy Trojans,Florida State Seminoles,,Joe,N,Y,FSU -22.5,N/A,N/A,Upcoming,0,0
 401911249,2026-11-07T00:00:00+00:00,Saint Louis Billikens,Missouri Tigers,Will,Racz,Y,Y,MIZ -2.5,N/A,N/A,Upcoming,0,0
 401913100,2026-11-07T00:00:00+00:00,Wofford Terriers,North Carolina Tar Heels,,Max,N,Y,UNC -22.5,N/A,N/A,Upcoming,0,0
