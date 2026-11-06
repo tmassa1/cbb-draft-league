@@ -85,6 +85,8 @@ game_id,date,team,opponent,result,phase,source
 401906864,2026-11-05,Texas,Gardner-Webb Runnin' Bulldogs,W,regular,espn
 401909563,2026-11-05,Duke,Coastal Carolina Chanticleers,W,regular,espn
 401909726,2026-11-05,Vanderbilt,Wake Forest Demon Deacons,W,regular,espn
+401913526,2026-11-05,Illinois,Pennsylvania Quakers,W,regular,espn
+401913526,2026-11-05,Penn,Illinois Fighting Illini,L,regular,espn
 401916287,2026-11-05,Indiana,Bellarmine Knights,W,regular,espn
 401920377,2026-11-05,Virginia Tech,Mercer Bears,W,regular,espn
 401920691,2026-11-05,Vermont,Fairfield Stags,W,regular,espn
