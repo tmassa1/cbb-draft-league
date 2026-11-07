@@ -6,7 +6,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401909760,2026-11-07T20:30:00+00:00,San Diego State Aztecs,Colorado Buffaloes,Carson,,Y,N,SDSU -3.5,N/A,N/A,Upcoming,0,0
 401924912,2026-11-07T21:00:00+00:00,Samford Bulldogs,UNLV Rebels,Carson,,Y,N,UNLV -11.5,N/A,N/A,Upcoming,0,0
 401928352,2026-11-07T21:00:00+00:00,Oakland Golden Grizzlies,UC Santa Barbara Gauchos,,Max,N,Y,UCSB -12.5,N/A,N/A,Upcoming,0,0
-401929293,2026-11-07T21:00:00+00:00,Omaha Mavericks,Utah State Aggies,,Sam,N,Y,USU -27.5,N/A,N/A,Upcoming,0,0
+401929293,2026-11-07T21:00:00+00:00,Omaha Mavericks,Utah State Aggies,,Sam,N,Y,USU -26.5,N/A,N/A,Upcoming,0,0
 401911007,2026-11-07T22:00:00+00:00,Bellarmine Knights,Miami (OH) RedHawks,,BFO,N,Y,M-OH -20.5,N/A,N/A,Upcoming,0,0
 401920411,2026-11-07T22:00:00+00:00,Washington State Cougars,High Point Panthers,,Max,N,Y,HPU -10.5,N/A,N/A,Upcoming,0,0
 401926112,2026-11-07T22:00:00+00:00,Northern Iowa Panthers,Furman Paladins,,Sam,N,Y,FUR -4.5,N/A,N/A,Upcoming,0,0
@@ -18,7 +18,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401925077,2026-11-08T01:00:00+00:00,Northwestern State Demons,Murray State Racers,,Matt,N,Y,MUR -22.5,N/A,N/A,Upcoming,0,0
 401911470,2026-11-08T03:00:00+00:00,San José State Spartans,UC Irvine Anteaters,,Trevor,N,Y,UCI -8.5,N/A,N/A,Upcoming,0,0
 401917519,2026-11-08T03:00:00+00:00,Sacramento State Hornets,Santa Clara Broncos,,Miles,N,Y,SCU -19.5,N/A,N/A,Upcoming,0,0
-401920371,2026-11-08T03:00:00+00:00,Fresno State Bulldogs,UC San Diego Tritons,,Justin,N,Y,UCSD -9.5,N/A,N/A,Upcoming,0,0
+401920371,2026-11-08T03:00:00+00:00,Fresno State Bulldogs,UC San Diego Tritons,,Justin,N,Y,UCSD -10.5,N/A,N/A,Upcoming,0,0
 401924646,2026-11-08T17:00:00+00:00,Iona Gaels,St. John's Red Storm,,Miles,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401920424,2026-11-08T18:00:00+00:00,Arkansas Razorbacks,Virginia Cavaliers,Carson,Justin,Y,Y,N/A,N/A,N/A,Upcoming,0,0
 401920692,2026-11-08T19:00:00+00:00,Quinnipiac Bobcats,Vermont Catamounts,,Racz,N,Y,N/A,N/A,N/A,Upcoming,0,0
