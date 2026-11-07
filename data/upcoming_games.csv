@@ -1,5 +1,5 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
-401918948,2026-11-07T17:00:00+00:00,Morehead State Eagles,Louisville Cardinals,,BFO,N,Y,LOU -38.5,N/A,N/A,Upcoming,0,0
+401918948,2026-11-07T17:00:00+00:00,Morehead State Eagles,Louisville Cardinals,,BFO,N,Y,LOU -37.5,N/A,N/A,Upcoming,0,0
 401918977,2026-11-07T19:00:00+00:00,UNC Wilmington Seahawks,East Carolina Pirates,Racz,,Y,N,UNCW -5.5,N/A,N/A,Upcoming,0,0
 401926793,2026-11-07T19:00:00+00:00,Boyce Bulldogs,Liberty Flames,,Will,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401918986,2026-11-07T20:00:00+00:00,VCU Rams,Memphis Tigers,Trevor,Sam,Y,Y,VCU -2.5,N/A,N/A,Upcoming,0,0
@@ -9,7 +9,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401929293,2026-11-07T21:00:00+00:00,Omaha Mavericks,Utah State Aggies,,Sam,N,Y,USU -29.5,N/A,N/A,Upcoming,0,0
 401911007,2026-11-07T22:00:00+00:00,Bellarmine Knights,Miami (OH) RedHawks,,BFO,N,Y,M-OH -20.5,N/A,N/A,Upcoming,0,0
 401920411,2026-11-07T22:00:00+00:00,Washington State Cougars,High Point Panthers,,Max,N,Y,HPU -13.5,N/A,N/A,Upcoming,0,0
-401926112,2026-11-07T22:00:00+00:00,Northern Iowa Panthers,Furman Paladins,,Sam,N,Y,FUR -4.5,N/A,N/A,Upcoming,0,0
+401926112,2026-11-07T22:00:00+00:00,Northern Iowa Panthers,Furman Paladins,,Sam,N,Y,FUR -5.5,N/A,N/A,Upcoming,0,0
 401928788,2026-11-07T22:00:00+00:00,New Mexico State Aggies,Gonzaga Bulldogs,,Jack,N,Y,GONZ -29.5,N/A,N/A,Upcoming,0,0
 401924895,2026-11-07T23:00:00+00:00,Northern Arizona Lumberjacks,New Mexico Lobos,,Joe,N,Y,UNM -27.5,N/A,N/A,Upcoming,0,0
 401909532,2026-11-08T00:00:00+00:00,Providence Friars,Nebraska Cornhuskers,,Will,N,Y,NEB -3.5,N/A,N/A,Upcoming,0,0
