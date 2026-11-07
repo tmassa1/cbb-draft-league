@@ -1,9 +1,9 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
 401918948,2026-11-07T17:00:00+00:00,Morehead State Eagles,Louisville Cardinals,,BFO,N,Y,N/A,N/A,N/A,Final,57,107
-401918977,2026-11-07T19:00:00+00:00,UNC Wilmington Seahawks,East Carolina Pirates,Racz,,Y,N,N/A,N/A,N/A,Live,43,44
+401918977,2026-11-07T19:00:00+00:00,UNC Wilmington Seahawks,East Carolina Pirates,Racz,,Y,N,N/A,N/A,N/A,Live,47,47
 401926793,2026-11-07T19:00:00+00:00,Boyce Bulldogs,Liberty Flames,,Will,N,Y,N/A,N/A,N/A,Final,54,113
-401918986,2026-11-07T20:00:00+00:00,VCU Rams,Memphis Tigers,Trevor,Sam,Y,Y,N/A,N/A,N/A,Live,43,44
-401909760,2026-11-07T20:30:00+00:00,San Diego State Aztecs,Colorado Buffaloes,Carson,,Y,N,N/A,N/A,N/A,Live,7,5
+401918986,2026-11-07T20:00:00+00:00,VCU Rams,Memphis Tigers,Trevor,Sam,Y,Y,N/A,N/A,N/A,Live,48,44
+401909760,2026-11-07T20:30:00+00:00,San Diego State Aztecs,Colorado Buffaloes,Carson,,Y,N,N/A,N/A,N/A,Live,11,5
 401924912,2026-11-07T21:00:00+00:00,Samford Bulldogs,UNLV Rebels,Carson,,Y,N,UNLV -11.5,N/A,N/A,Upcoming,0,0
 401928352,2026-11-07T21:00:00+00:00,Oakland Golden Grizzlies,UC Santa Barbara Gauchos,,Max,N,Y,UCSB -13.5,N/A,N/A,Upcoming,0,0
 401929293,2026-11-07T21:00:00+00:00,Omaha Mavericks,Utah State Aggies,,Sam,N,Y,USU -29.5,N/A,N/A,Upcoming,0,0
