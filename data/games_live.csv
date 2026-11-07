@@ -102,6 +102,8 @@ game_id,date,team,opponent,result,phase,source
 401928800,2026-11-05,Western Kentucky,Kentucky Wesleyan Panthers,W,regular,espn
 401909542,2026-11-06,Xavier,Eastern Michigan Eagles,W,regular,espn
 401909751,2026-11-06,Baylor,Arkansas-Pine Bluff Golden Lions,W,regular,espn
+401911249,2026-11-06,Missouri,Saint Louis Billikens,L,regular,espn
+401911249,2026-11-06,Saint Louis,Missouri Tigers,W,regular,espn
 401913100,2026-11-06,North Carolina,Wofford Terriers,W,regular,espn
 401918956,2026-11-06,East Tennessee State,NC State Wolfpack,L,regular,espn
 401918956,2026-11-06,NC State,East Tennessee State Buccaneers,W,regular,espn
