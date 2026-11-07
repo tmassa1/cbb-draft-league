@@ -2,15 +2,15 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401918948,2026-11-07T17:00:00+00:00,Morehead State Eagles,Louisville Cardinals,,BFO,N,Y,N/A,N/A,N/A,Final,57,107
 401918977,2026-11-07T19:00:00+00:00,UNC Wilmington Seahawks,East Carolina Pirates,Racz,,Y,N,N/A,N/A,N/A,Final,78,75
 401926793,2026-11-07T19:00:00+00:00,Boyce Bulldogs,Liberty Flames,,Will,N,Y,N/A,N/A,N/A,Final,54,113
-401918986,2026-11-07T20:00:00+00:00,VCU Rams,Memphis Tigers,Trevor,Sam,Y,Y,N/A,N/A,N/A,Live,87,87
-401909760,2026-11-07T20:30:00+00:00,San Diego State Aztecs,Colorado Buffaloes,Carson,,Y,N,N/A,N/A,N/A,Live,45,35
-401924912,2026-11-07T21:00:00+00:00,Samford Bulldogs,UNLV Rebels,Carson,,Y,N,N/A,N/A,N/A,Live,40,45
-401928352,2026-11-07T21:00:00+00:00,Oakland Golden Grizzlies,UC Santa Barbara Gauchos,,Max,N,Y,N/A,N/A,N/A,Live,37,47
-401929293,2026-11-07T21:00:00+00:00,Omaha Mavericks,Utah State Aggies,,Sam,N,Y,N/A,N/A,N/A,Live,28,55
-401911007,2026-11-07T22:00:00+00:00,Bellarmine Knights,Miami (OH) RedHawks,,BFO,N,Y,N/A,N/A,N/A,Live,10,9
-401920411,2026-11-07T22:00:00+00:00,Washington State Cougars,High Point Panthers,,Max,N,Y,N/A,N/A,N/A,Live,7,5
-401926112,2026-11-07T22:00:00+00:00,Northern Iowa Panthers,Furman Paladins,,Sam,N,Y,N/A,N/A,N/A,Live,10,14
-401928788,2026-11-07T22:00:00+00:00,New Mexico State Aggies,Gonzaga Bulldogs,,Jack,N,Y,N/A,N/A,N/A,Live,8,11
+401918986,2026-11-07T20:00:00+00:00,VCU Rams,Memphis Tigers,Trevor,Sam,Y,Y,N/A,N/A,N/A,Live,88,87
+401909760,2026-11-07T20:30:00+00:00,San Diego State Aztecs,Colorado Buffaloes,Carson,,Y,N,N/A,N/A,N/A,Live,53,39
+401924912,2026-11-07T21:00:00+00:00,Samford Bulldogs,UNLV Rebels,Carson,,Y,N,N/A,N/A,N/A,Live,49,51
+401928352,2026-11-07T21:00:00+00:00,Oakland Golden Grizzlies,UC Santa Barbara Gauchos,,Max,N,Y,N/A,N/A,N/A,Live,41,55
+401929293,2026-11-07T21:00:00+00:00,Omaha Mavericks,Utah State Aggies,,Sam,N,Y,N/A,N/A,N/A,Live,32,59
+401911007,2026-11-07T22:00:00+00:00,Bellarmine Knights,Miami (OH) RedHawks,,BFO,N,Y,N/A,N/A,N/A,Live,12,12
+401920411,2026-11-07T22:00:00+00:00,Washington State Cougars,High Point Panthers,,Max,N,Y,N/A,N/A,N/A,Live,8,10
+401926112,2026-11-07T22:00:00+00:00,Northern Iowa Panthers,Furman Paladins,,Sam,N,Y,N/A,N/A,N/A,Live,10,19
+401928788,2026-11-07T22:00:00+00:00,New Mexico State Aggies,Gonzaga Bulldogs,,Jack,N,Y,N/A,N/A,N/A,Live,8,16
 401924895,2026-11-07T23:00:00+00:00,Northern Arizona Lumberjacks,New Mexico Lobos,,Joe,N,Y,UNM -28.5,N/A,N/A,Upcoming,0,0
 401909532,2026-11-08T00:00:00+00:00,Providence Friars,Nebraska Cornhuskers,,Will,N,Y,NEB -2.5,N/A,N/A,Upcoming,0,0
 401911186,2026-11-08T00:00:00+00:00,Northern Illinois Huskies,Dayton Flyers,,Max,N,Y,DAY -19.5,N/A,N/A,Upcoming,0,0
@@ -24,7 +24,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401920692,2026-11-08T19:00:00+00:00,Quinnipiac Bobcats,Vermont Catamounts,,Racz,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401926215,2026-11-08T20:00:00+00:00,Western Kentucky Hilltoppers,Tennessee Tech Golden Eagles,Trevor,,Y,N,WKU -3.5,N/A,N/A,Upcoming,0,0
 401927362,2026-11-08T20:00:00+00:00,Southern Jaguars,Drake Bulldogs,,Miles,N,Y,N/A,N/A,N/A,Upcoming,0,0
-401911453,2026-11-08T21:30:00+00:00,Saint Mary's Gaels,Nevada Wolf Pack,Jack,Justin,Y,Y,SMC -1.5,N/A,N/A,Upcoming,0,0
+401911453,2026-11-08T21:30:00+00:00,Saint Mary's Gaels,Nevada Wolf Pack,Jack,Justin,Y,Y,NEV -1.5,N/A,N/A,Upcoming,0,0
 401920134,2026-11-08T23:00:00+00:00,North Dakota State Bison,Cal State Bakersfield Roadrunners,Sam,,Y,N,CSUB -1.5,N/A,N/A,Upcoming,0,0
 401918053,2026-11-09T01:30:00+00:00,Houston Cougars,California Golden Bears,Trevor,,Y,N,HOU -17.5,N/A,N/A,Upcoming,0,0
 401919029,2026-11-09T04:00:00+00:00,USC Trojans,Wichita State Shockers,Max,Will,Y,Y,USC -5.5,N/A,N/A,Upcoming,0,0
