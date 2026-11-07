@@ -1,7 +1,7 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
-401909751,2026-11-06T22:00:00+00:00,Arkansas-Pine Bluff Golden Lions,Baylor Bears,,Carson,N,Y,N/A,N/A,N/A,Live,32,86
-401920423,2026-11-06T22:00:00+00:00,Northeastern Huskies,Virginia Cavaliers,,Justin,N,Y,N/A,N/A,N/A,Live,61,86
-401926131,2026-11-06T23:30:00+00:00,Valparaiso Beacons,Purdue Boilermakers,,Sam,N,Y,N/A,N/A,N/A,Live,4,15
+401909751,2026-11-06T22:00:00+00:00,Arkansas-Pine Bluff Golden Lions,Baylor Bears,,Carson,N,Y,N/A,N/A,N/A,Live,36,90
+401920423,2026-11-06T22:00:00+00:00,Northeastern Huskies,Virginia Cavaliers,,Justin,N,Y,N/A,N/A,N/A,Live,64,89
+401926131,2026-11-06T23:30:00+00:00,Valparaiso Beacons,Purdue Boilermakers,,Sam,N,Y,N/A,N/A,N/A,Live,4,17
 401909542,2026-11-07T00:00:00+00:00,Eastern Michigan Eagles,Xavier Musketeers,,Jack,N,Y,XAV -23.5,N/A,N/A,Upcoming,0,0
 401909695,2026-11-07T00:00:00+00:00,Troy Trojans,Florida State Seminoles,,Joe,N,Y,FSU -22.5,N/A,N/A,Upcoming,0,0
 401911249,2026-11-07T00:00:00+00:00,Saint Louis Billikens,Missouri Tigers,Will,Racz,Y,Y,MIZ -2.5,N/A,N/A,Upcoming,0,0
