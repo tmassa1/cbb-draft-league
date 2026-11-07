@@ -1,22 +1,22 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
 401909751,2026-11-06T22:00:00+00:00,Arkansas-Pine Bluff Golden Lions,Baylor Bears,,Carson,N,Y,N/A,N/A,N/A,Final,53,109
 401920423,2026-11-06T22:00:00+00:00,Northeastern Huskies,Virginia Cavaliers,,Justin,N,Y,N/A,N/A,N/A,Final,72,97
-401926131,2026-11-06T23:30:00+00:00,Valparaiso Beacons,Purdue Boilermakers,,Sam,N,Y,N/A,N/A,N/A,Live,42,46
+401926131,2026-11-06T23:30:00+00:00,Valparaiso Beacons,Purdue Boilermakers,,Sam,N,Y,N/A,N/A,N/A,Live,46,48
 401909542,2026-11-07T00:00:00+00:00,Eastern Michigan Eagles,Xavier Musketeers,,Jack,N,Y,N/A,N/A,N/A,Live,25,34
 401909695,2026-11-07T00:00:00+00:00,Troy Trojans,Florida State Seminoles,,Joe,N,Y,N/A,N/A,N/A,Live,26,37
-401911249,2026-11-07T00:00:00+00:00,Saint Louis Billikens,Missouri Tigers,Will,Racz,Y,Y,N/A,N/A,N/A,Live,49,38
+401911249,2026-11-07T00:00:00+00:00,Saint Louis Billikens,Missouri Tigers,Will,Racz,Y,Y,N/A,N/A,N/A,Live,49,42
 401913100,2026-11-07T00:00:00+00:00,Wofford Terriers,North Carolina Tar Heels,,Max,N,Y,N/A,N/A,N/A,Live,34,51
-401918956,2026-11-07T00:00:00+00:00,East Tennessee State Buccaneers,NC State Wolfpack,Carson,Matt,Y,Y,N/A,N/A,N/A,Live,36,35
-401921285,2026-11-07T00:00:00+00:00,Holy Cross Crusaders,Villanova Wildcats,,Joe,N,Y,N/A,N/A,N/A,Live,28,44
+401918956,2026-11-07T00:00:00+00:00,East Tennessee State Buccaneers,NC State Wolfpack,Carson,Matt,Y,Y,N/A,N/A,N/A,Live,43,38
+401921285,2026-11-07T00:00:00+00:00,Holy Cross Crusaders,Villanova Wildcats,,Joe,N,Y,N/A,N/A,N/A,Live,30,46
 401921754,2026-11-07T00:00:00+00:00,Yale Bulldogs,UCF Knights,Joe,,Y,N,N/A,N/A,N/A,Live,42,39
-401921802,2026-11-07T00:00:00+00:00,James Madison Dukes,Kentucky Wildcats,,Jack,N,Y,N/A,N/A,N/A,Live,42,42
-401926813,2026-11-07T00:00:00+00:00,Newberry Wolves,Charleston Cougars,,Miles,N,Y,N/A,N/A,N/A,Live,27,52
-401906758,2026-11-07T00:30:00+00:00,Arkansas State Red Wolves,Alabama Crimson Tide,,Trevor,N,Y,N/A,N/A,N/A,Live,30,25
-401920894,2026-11-07T00:30:00+00:00,Delaware Blue Hens,Wisconsin Badgers,,Joe,N,Y,N/A,N/A,N/A,Live,24,25
+401921802,2026-11-07T00:00:00+00:00,James Madison Dukes,Kentucky Wildcats,,Jack,N,Y,N/A,N/A,N/A,Live,48,50
+401926813,2026-11-07T00:00:00+00:00,Newberry Wolves,Charleston Cougars,,Miles,N,Y,N/A,N/A,N/A,Live,31,58
+401906758,2026-11-07T00:30:00+00:00,Arkansas State Red Wolves,Alabama Crimson Tide,,Trevor,N,Y,N/A,N/A,N/A,Live,30,30
+401920894,2026-11-07T00:30:00+00:00,Delaware Blue Hens,Wisconsin Badgers,,Joe,N,Y,N/A,N/A,N/A,Live,26,28
 401906802,2026-11-07T01:00:00+00:00,Mississippi Valley State Delta Devils,Oklahoma Sooners,,Justin,N,Y,N/A,N/A,N/A,Live,0,2
-401909523,2026-11-07T01:00:00+00:00,Detroit Mercy Titans,Marquette Golden Eagles,,Matt,N,Y,N/A,N/A,N/A,Live,0,2
-401909772,2026-11-07T01:00:00+00:00,Southern Miss Golden Eagles,Iowa State Cyclones,,Justin,N,Y,N/A,N/A,N/A,Live,3,6
-401920685,2026-11-07T01:00:00+00:00,UConn Huskies,Michigan Wolverines,Max,Sam,Y,Y,N/A,N/A,N/A,Live,3,2
+401909523,2026-11-07T01:00:00+00:00,Detroit Mercy Titans,Marquette Golden Eagles,,Matt,N,Y,N/A,N/A,N/A,Live,8,12
+401909772,2026-11-07T01:00:00+00:00,Southern Miss Golden Eagles,Iowa State Cyclones,,Justin,N,Y,N/A,N/A,N/A,Live,7,13
+401920685,2026-11-07T01:00:00+00:00,UConn Huskies,Michigan Wolverines,Max,Sam,Y,Y,N/A,N/A,N/A,Live,7,5
 401920726,2026-11-07T01:30:00+00:00,Eastern Illinois Panthers,Iowa Hawkeyes,,BFO,N,Y,IOWA -34.5,N/A,N/A,Upcoming,0,0
 401909785,2026-11-07T02:00:00+00:00,Middle Tennessee Blue Raiders,Kansas Jayhawks,,Miles,N,Y,KU -28.5,N/A,N/A,Upcoming,0,0
 401921719,2026-11-07T02:00:00+00:00,Wagner Seahawks,Miami Hurricanes,,Aaron,N,Y,MIA -38.5,N/A,N/A,Upcoming,0,0
