@@ -129,4 +129,6 @@ game_id,date,team,opponent,result,phase,source
 401926813,2026-11-06,Charleston,Newberry Wolves,W,regular,espn
 401918948,2026-11-07,Louisville,Morehead State Eagles,W,regular,espn
 401918977,2026-11-07,UNC Wilmington,East Carolina Pirates,W,regular,espn
+401918986,2026-11-07,Memphis,VCU Rams,W,regular,espn
+401918986,2026-11-07,VCU,Memphis Tigers,L,regular,espn
 401926793,2026-11-07,Liberty,Boyce Bulldogs,W,regular,espn
