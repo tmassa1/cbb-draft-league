@@ -16,9 +16,9 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401911186,2026-11-08T00:00:00+00:00,Northern Illinois Huskies,Dayton Flyers,,Max,N,Y,N/A,N/A,N/A,Final,81,76
 401911345,2026-11-08T01:00:00+00:00,Bethune-Cookman Wildcats,Grand Canyon Lopes,,Racz,N,Y,N/A,N/A,N/A,Final,81,99
 401925077,2026-11-08T01:00:00+00:00,Northwestern State Demons,Murray State Racers,,Matt,N,Y,N/A,N/A,N/A,Final,71,93
-401911470,2026-11-08T03:00:00+00:00,San José State Spartans,UC Irvine Anteaters,,Trevor,N,Y,N/A,N/A,N/A,Live,12,26
-401917519,2026-11-08T03:00:00+00:00,Sacramento State Hornets,Santa Clara Broncos,,Miles,N,Y,N/A,N/A,N/A,Live,17,19
-401920371,2026-11-08T03:00:00+00:00,Fresno State Bulldogs,UC San Diego Tritons,,Justin,N,Y,N/A,N/A,N/A,Live,25,22
+401911470,2026-11-08T03:00:00+00:00,San José State Spartans,UC Irvine Anteaters,,Trevor,N,Y,N/A,N/A,N/A,Live,15,30
+401917519,2026-11-08T03:00:00+00:00,Sacramento State Hornets,Santa Clara Broncos,,Miles,N,Y,N/A,N/A,N/A,Live,20,23
+401920371,2026-11-08T03:00:00+00:00,Fresno State Bulldogs,UC San Diego Tritons,,Justin,N,Y,N/A,N/A,N/A,Live,29,24
 401924646,2026-11-08T17:00:00+00:00,Iona Gaels,St. John's Red Storm,,Miles,N,Y,SJU -28.5,N/A,N/A,Upcoming,0,0
 401920424,2026-11-08T18:00:00+00:00,Arkansas Razorbacks,Virginia Cavaliers,Carson,Justin,Y,Y,UVA -2.5,N/A,N/A,Upcoming,0,0
 401920692,2026-11-08T19:00:00+00:00,Quinnipiac Bobcats,Vermont Catamounts,,Racz,N,Y,N/A,N/A,N/A,Upcoming,0,0
@@ -26,7 +26,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401927362,2026-11-08T20:00:00+00:00,Southern Jaguars,Drake Bulldogs,,Miles,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401911453,2026-11-08T21:30:00+00:00,Saint Mary's Gaels,Nevada Wolf Pack,Jack,Justin,Y,Y,NEV -1.5,N/A,N/A,Upcoming,0,0
 401920134,2026-11-08T23:00:00+00:00,North Dakota State Bison,Cal State Bakersfield Roadrunners,Sam,,Y,N,NDSU -2.5,N/A,N/A,Upcoming,0,0
-401918053,2026-11-09T01:30:00+00:00,Houston Cougars,California Golden Bears,Trevor,,Y,N,HOU -18.5,N/A,N/A,Upcoming,0,0
+401918053,2026-11-09T01:30:00+00:00,Houston Cougars,California Golden Bears,Trevor,,Y,N,HOU -17.5,N/A,N/A,Upcoming,0,0
 401919029,2026-11-09T04:00:00+00:00,USC Trojans,Wichita State Shockers,Max,Will,Y,Y,USC -6.5,N/A,N/A,Upcoming,0,0
 401909718,2026-11-09T23:30:00+00:00,Syracuse Orange,Indiana Hoosiers,,Aaron,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401921180,2026-11-09T23:30:00+00:00,Howard Bison,Pennsylvania Quakers,Jack,Aaron,Y,Y,N/A,N/A,N/A,Upcoming,0,0
