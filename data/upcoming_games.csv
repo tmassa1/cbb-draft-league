@@ -11,9 +11,9 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401920411,2026-11-07T22:00:00+00:00,Washington State Cougars,High Point Panthers,,Max,N,Y,N/A,N/A,N/A,Final,71,83
 401926112,2026-11-07T22:00:00+00:00,Northern Iowa Panthers,Furman Paladins,,Sam,N,Y,N/A,N/A,N/A,Final,83,98
 401928788,2026-11-07T22:00:00+00:00,New Mexico State Aggies,Gonzaga Bulldogs,,Jack,N,Y,N/A,N/A,N/A,Final,68,109
-401924895,2026-11-07T23:00:00+00:00,Northern Arizona Lumberjacks,New Mexico Lobos,,Joe,N,Y,N/A,N/A,N/A,Live,38,56
-401909532,2026-11-08T00:00:00+00:00,Providence Friars,Nebraska Cornhuskers,,Will,N,Y,N/A,N/A,N/A,Live,9,9
-401911186,2026-11-08T00:00:00+00:00,Northern Illinois Huskies,Dayton Flyers,,Max,N,Y,N/A,N/A,N/A,Live,15,8
+401924895,2026-11-07T23:00:00+00:00,Northern Arizona Lumberjacks,New Mexico Lobos,,Joe,N,Y,N/A,N/A,N/A,Live,38,62
+401909532,2026-11-08T00:00:00+00:00,Providence Friars,Nebraska Cornhuskers,,Will,N,Y,N/A,N/A,N/A,Live,11,9
+401911186,2026-11-08T00:00:00+00:00,Northern Illinois Huskies,Dayton Flyers,,Max,N,Y,N/A,N/A,N/A,Live,20,10
 401911345,2026-11-08T01:00:00+00:00,Bethune-Cookman Wildcats,Grand Canyon Lopes,,Racz,N,Y,GCU -22.5,N/A,N/A,Upcoming,0,0
 401925077,2026-11-08T01:00:00+00:00,Northwestern State Demons,Murray State Racers,,Matt,N,Y,MUR -23.5,N/A,N/A,Upcoming,0,0
 401911470,2026-11-08T03:00:00+00:00,San José State Spartans,UC Irvine Anteaters,,Trevor,N,Y,UCI -8.5,N/A,N/A,Upcoming,0,0
