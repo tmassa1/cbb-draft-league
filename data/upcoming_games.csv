@@ -1,5 +1,5 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
-401924646,2026-11-08T17:00:00+00:00,Iona Gaels,St. John's Red Storm,,Miles,N,Y,N/A,N/A,N/A,Live,3,14
+401924646,2026-11-08T17:00:00+00:00,Iona Gaels,St. John's Red Storm,,Miles,N,Y,N/A,N/A,N/A,Live,7,24
 401920424,2026-11-08T18:00:00+00:00,Arkansas Razorbacks,Virginia Cavaliers,Carson,Justin,Y,Y,UVA -3.5,N/A,N/A,Upcoming,0,0
 401920692,2026-11-08T19:00:00+00:00,Quinnipiac Bobcats,Vermont Catamounts,,Racz,N,Y,UVM -8.5,N/A,N/A,Upcoming,0,0
 401926215,2026-11-08T20:00:00+00:00,Western Kentucky Hilltoppers,Tennessee Tech Golden Eagles,Trevor,,Y,N,WKU -3.5,N/A,N/A,Upcoming,0,0
@@ -34,7 +34,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401909752,2026-11-11T01:00:00+00:00,Yale Bulldogs,Baylor Bears,Joe,Carson,Y,Y,N/A,N/A,N/A,Upcoming,0,0
 401909773,2026-11-11T01:00:00+00:00,Southern Jaguars,Iowa State Cyclones,,Justin,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401911250,2026-11-11T01:00:00+00:00,Northern Kentucky Norse,Saint Louis Billikens,,Will,N,Y,N/A,N/A,N/A,Upcoming,0,0
-401913527,2026-11-11T01:00:00+00:00,Illinois Fighting Illini,Texas Tech Red Raiders,Aaron,Matt,Y,Y,N/A,N/A,N/A,Upcoming,0,0
+401913527,2026-11-11T01:00:00+00:00,Illinois Fighting Illini,Texas Tech Red Raiders,Aaron,Matt,Y,Y,ILL -1.5,N/A,N/A,Upcoming,0,0
 401920704,2026-11-11T01:00:00+00:00,Belmont Bruins,Lipscomb Bisons,BFO,,Y,N,N/A,N/A,N/A,Upcoming,0,0
 401925685,2026-11-11T01:00:00+00:00,Alcorn State Braves,Murray State Racers,,Matt,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401920895,2026-11-11T01:30:00+00:00,Fairfield Stags,Wisconsin Badgers,,Joe,N,Y,N/A,N/A,N/A,Upcoming,0,0
