@@ -1,10 +1,10 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
 401909718,2026-11-09T23:30:00+00:00,Syracuse Orange,Indiana Hoosiers,,Aaron,N,Y,IU -5.5,N/A,N/A,Upcoming,0,0
-401921180,2026-11-09T23:30:00+00:00,Howard Bison,Pennsylvania Quakers,Jack,Aaron,Y,Y,PENN -6.5,N/A,N/A,Upcoming,0,0
+401921180,2026-11-09T23:30:00+00:00,Howard Bison,Pennsylvania Quakers,Jack,Aaron,Y,Y,PENN -5.5,N/A,N/A,Upcoming,0,0
 401906849,2026-11-10T00:00:00+00:00,Radford Highlanders,Tennessee Volunteers,,Carson,N,Y,TENN -29.5,N/A,N/A,Upcoming,0,0
 401906865,2026-11-10T00:00:00+00:00,Grambling Tigers,Texas Longhorns,,Jack,N,Y,TEX -36.5,N/A,N/A,Upcoming,0,0
 401916305,2026-11-10T00:00:00+00:00,Minnesota Golden Gophers,Cincinnati Bearcats,,Racz,N,Y,CIN -6.5,N/A,N/A,Upcoming,0,0
-401920686,2026-11-10T00:00:00+00:00,Wagner Seahawks,UConn Huskies,,Max,N,Y,CONN -40.5,N/A,N/A,Upcoming,0,0
+401920686,2026-11-10T00:00:00+00:00,Wagner Seahawks,UConn Huskies,,Max,N,Y,CONN -39.5,N/A,N/A,Upcoming,0,0
 401921720,2026-11-10T00:00:00+00:00,North Florida Ospreys,Miami Hurricanes,,Aaron,N,Y,MIA -37.5,N/A,N/A,Upcoming,0,0
 401928833,2026-11-10T00:00:00+00:00,Muskingum Fighting Muskies,Akron Zips,,Matt,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401906759,2026-11-10T00:30:00+00:00,Oakland Golden Grizzlies,Alabama Crimson Tide,,Trevor,N,Y,ALA -32.5,N/A,N/A,Upcoming,0,0
