@@ -1,13 +1,4 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
-401924646,2026-11-08T17:00:00+00:00,Iona Gaels,St. John's Red Storm,,Miles,N,Y,N/A,N/A,N/A,Final,65,104
-401920424,2026-11-08T18:00:00+00:00,Arkansas Razorbacks,Virginia Cavaliers,Carson,Justin,Y,Y,N/A,N/A,N/A,Final,72,91
-401920692,2026-11-08T19:00:00+00:00,Quinnipiac Bobcats,Vermont Catamounts,,Racz,N,Y,N/A,N/A,N/A,Final,79,76
-401926215,2026-11-08T20:00:00+00:00,Western Kentucky Hilltoppers,Tennessee Tech Golden Eagles,Trevor,,Y,N,N/A,N/A,N/A,Final,94,97
-401927362,2026-11-08T20:00:00+00:00,Southern Jaguars,Drake Bulldogs,,Miles,N,Y,N/A,N/A,N/A,Final,68,75
-401911453,2026-11-08T21:30:00+00:00,Saint Mary's Gaels,Nevada Wolf Pack,Jack,Justin,Y,Y,N/A,N/A,N/A,Final,95,96
-401920134,2026-11-08T23:00:00+00:00,North Dakota State Bison,Cal State Bakersfield Roadrunners,Sam,,Y,N,N/A,N/A,N/A,Final,80,91
-401918053,2026-11-09T01:30:00+00:00,California Golden Bears,Houston Cougars,,Trevor,N,Y,N/A,N/A,N/A,Final,68,86
-401919029,2026-11-09T04:00:00+00:00,Wichita State Shockers,USC Trojans,Will,Max,Y,Y,N/A,N/A,N/A,Live,41,34
 401909718,2026-11-09T23:30:00+00:00,Syracuse Orange,Indiana Hoosiers,,Aaron,N,Y,IU -5.5,N/A,N/A,Upcoming,0,0
 401921180,2026-11-09T23:30:00+00:00,Howard Bison,Pennsylvania Quakers,Jack,Aaron,Y,Y,PENN -5.5,N/A,N/A,Upcoming,0,0
 401906849,2026-11-10T00:00:00+00:00,Radford Highlanders,Tennessee Volunteers,,Carson,N,Y,TENN -29.5,N/A,N/A,Upcoming,0,0
@@ -129,3 +120,11 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401920681,2026-11-16T00:00:00+00:00,Syracuse Orange,St. John's Red Storm,,Miles,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401926772,2026-11-16T00:00:00+00:00,Arkansas-Pine Bluff Golden Lions,USC Trojans,,Max,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401920896,2026-11-16T01:00:00+00:00,Coastal Carolina Chanticleers,Wisconsin Badgers,,Joe,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401911240,2026-11-17T00:00:00+00:00,Richmond Spiders,Virginia Tech Hokies,,BFO,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401921182,2026-11-17T00:00:00+00:00,DeSales Bulldogs,Pennsylvania Quakers,,Aaron,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401921804,2026-11-17T00:00:00+00:00,Grambling Tigers,Kentucky Wildcats,,Jack,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401925864,2026-11-17T00:00:00+00:00,Western Kentucky Hilltoppers,Tulsa Golden Hurricane,Trevor,,Y,N,N/A,N/A,N/A,Upcoming,0,0
+401927364,2026-11-17T00:30:00+00:00,Tarleton State Texans,Drake Bulldogs,,Miles,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401917532,2026-11-17T03:00:00+00:00,Portland State Vikings,Saint Mary's Gaels,,Jack,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401920373,2026-11-17T03:00:00+00:00,Texas Southern Tigers,UC San Diego Tritons,,Justin,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401924265,2026-11-17T03:00:00+00:00,Long Beach State Beach,UCLA Bruins,,Justin,N,Y,N/A,N/A,N/A,Upcoming,0,0
