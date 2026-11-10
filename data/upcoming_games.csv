@@ -1,12 +1,12 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
-401909718,2026-11-09T23:30:00+00:00,Syracuse Orange,Indiana Hoosiers,,Aaron,N,Y,N/A,N/A,N/A,Live,24,24
-401921180,2026-11-09T23:30:00+00:00,Howard Bison,Pennsylvania Quakers,Jack,Aaron,Y,Y,N/A,N/A,N/A,Live,19,12
-401906849,2026-11-10T00:00:00+00:00,Radford Highlanders,Tennessee Volunteers,,Carson,N,Y,N/A,N/A,N/A,Live,2,0
-401906865,2026-11-10T00:00:00+00:00,Grambling Tigers,Texas Longhorns,,Jack,N,Y,N/A,N/A,N/A,Live,0,3
-401916305,2026-11-10T00:00:00+00:00,Minnesota Golden Gophers,Cincinnati Bearcats,,Racz,N,Y,CIN -7.5,N/A,N/A,Upcoming,0,0
-401920686,2026-11-10T00:00:00+00:00,Wagner Seahawks,UConn Huskies,,Max,N,Y,N/A,N/A,N/A,Live,0,3
-401921720,2026-11-10T00:00:00+00:00,North Florida Ospreys,Miami Hurricanes,,Aaron,N,Y,N/A,N/A,N/A,Live,0,2
-401928833,2026-11-10T00:00:00+00:00,Muskingum Fighting Muskies,Akron Zips,,Matt,N,Y,N/A,N/A,N/A,Live,0,2
+401909718,2026-11-09T23:30:00+00:00,Syracuse Orange,Indiana Hoosiers,,Aaron,N,Y,N/A,N/A,N/A,Live,31,32
+401921180,2026-11-09T23:30:00+00:00,Howard Bison,Pennsylvania Quakers,Jack,Aaron,Y,Y,N/A,N/A,N/A,Live,22,15
+401906849,2026-11-10T00:00:00+00:00,Radford Highlanders,Tennessee Volunteers,,Carson,N,Y,N/A,N/A,N/A,Live,5,4
+401906865,2026-11-10T00:00:00+00:00,Grambling Tigers,Texas Longhorns,,Jack,N,Y,N/A,N/A,N/A,Live,3,7
+401916305,2026-11-10T00:00:00+00:00,Minnesota Golden Gophers,Cincinnati Bearcats,,Racz,N,Y,N/A,N/A,N/A,Live,10,7
+401920686,2026-11-10T00:00:00+00:00,Wagner Seahawks,UConn Huskies,,Max,N,Y,N/A,N/A,N/A,Live,0,12
+401921720,2026-11-10T00:00:00+00:00,North Florida Ospreys,Miami Hurricanes,,Aaron,N,Y,N/A,N/A,N/A,Live,5,12
+401928833,2026-11-10T00:00:00+00:00,Muskingum Fighting Muskies,Akron Zips,,Matt,N,Y,N/A,N/A,N/A,Live,0,0
 401906759,2026-11-10T00:30:00+00:00,Oakland Golden Grizzlies,Alabama Crimson Tide,,Trevor,N,Y,ALA -32.5,N/A,N/A,Upcoming,0,0
 401925032,2026-11-10T00:30:00+00:00,College of Biblical Studies Ambassadors,McNeese Cowboys,,Aaron,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401906803,2026-11-10T01:00:00+00:00,North Alabama Lions,Oklahoma Sooners,,Justin,N,Y,OU -28.5,N/A,N/A,Upcoming,0,0
