@@ -7,7 +7,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401918957,2026-11-11T00:00:00+00:00,Presbyterian Blue Hose,NC State Wolfpack,,Matt,N,Y,NCSU -18.5,N/A,N/A,Upcoming,0,0
 401920378,2026-11-11T00:00:00+00:00,Virginia Tech Hokies,Iowa Hawkeyes,BFO,BFO,Y,Y,IOWA -3.5,N/A,N/A,Upcoming,0,0
 401921774,2026-11-11T00:00:00+00:00,La Salle Explorers,Villanova Wildcats,,Joe,N,Y,VILL -20.5,N/A,N/A,Upcoming,0,0
-401918987,2026-11-11T00:15:00+00:00,Memphis Tigers,Vanderbilt Commodores,Sam,BFO,Y,Y,VAN -13.5,N/A,N/A,Upcoming,0,0
+401918987,2026-11-11T00:15:00+00:00,Memphis Tigers,Vanderbilt Commodores,Sam,BFO,Y,Y,VAN -14.5,N/A,N/A,Upcoming,0,0
 401909752,2026-11-11T01:00:00+00:00,Yale Bulldogs,Baylor Bears,Joe,Carson,Y,Y,BAY -19.5,N/A,N/A,Upcoming,0,0
 401909773,2026-11-11T01:00:00+00:00,Southern Jaguars,Iowa State Cyclones,,Justin,N,Y,ISU -35.5,N/A,N/A,Upcoming,0,0
 401911250,2026-11-11T01:00:00+00:00,Northern Kentucky Norse,Saint Louis Billikens,,Will,N,Y,SLU -23.5,N/A,N/A,Upcoming,0,0
@@ -37,7 +37,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401925702,2026-11-12T01:00:00+00:00,Jacksonville State Gamecocks,Houston Cougars,,Trevor,N,Y,HOU -34.5,N/A,N/A,Upcoming,0,0
 401928824,2026-11-12T01:00:00+00:00,Robert Morris Colonials,Arkansas Razorbacks,,Carson,N,Y,ARK -29.5,N/A,N/A,Upcoming,0,0
 401911346,2026-11-12T02:00:00+00:00,Cal Poly Mustangs,Grand Canyon Lopes,,Racz,N,Y,GCU -18.5,N/A,N/A,Upcoming,0,0
-401911454,2026-11-12T02:00:00+00:00,Nevada Wolf Pack,UC Santa Barbara Gauchos,Justin,Max,Y,Y,N/A,N/A,N/A,Upcoming,0,0
+401911454,2026-11-12T02:00:00+00:00,Nevada Wolf Pack,UC Santa Barbara Gauchos,Justin,Max,Y,Y,NEV -1.5,N/A,N/A,Upcoming,0,0
 401926062,2026-11-12T02:00:00+00:00,Lindenwood Lions,Nebraska Cornhuskers,,Will,N,Y,NEB -34.5,N/A,N/A,Upcoming,0,0
 401930177,2026-11-12T02:00:00+00:00,Arkansas-Pine Bluff Golden Lions,UCLA Bruins,,Justin,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401929625,2026-11-12T03:00:00+00:00,Lincoln (CA) Oaklanders,UC Irvine Anteaters,,Trevor,N,Y,N/A,N/A,N/A,Upcoming,0,0
