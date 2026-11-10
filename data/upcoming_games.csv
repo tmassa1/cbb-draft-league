@@ -1,12 +1,12 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
-401909718,2026-11-09T23:30:00+00:00,Syracuse Orange,Indiana Hoosiers,,Aaron,N,Y,N/A,N/A,N/A,Live,33,34
-401921180,2026-11-09T23:30:00+00:00,Howard Bison,Pennsylvania Quakers,Jack,Aaron,Y,Y,N/A,N/A,N/A,Live,27,21
-401906849,2026-11-10T00:00:00+00:00,Radford Highlanders,Tennessee Volunteers,,Carson,N,Y,N/A,N/A,N/A,Live,6,6
-401906865,2026-11-10T00:00:00+00:00,Grambling Tigers,Texas Longhorns,,Jack,N,Y,N/A,N/A,N/A,Live,3,10
-401916305,2026-11-10T00:00:00+00:00,Minnesota Golden Gophers,Cincinnati Bearcats,,Racz,N,Y,N/A,N/A,N/A,Live,14,9
-401920686,2026-11-10T00:00:00+00:00,Wagner Seahawks,UConn Huskies,,Max,N,Y,N/A,N/A,N/A,Live,2,14
-401921720,2026-11-10T00:00:00+00:00,North Florida Ospreys,Miami Hurricanes,,Aaron,N,Y,N/A,N/A,N/A,Live,8,12
-401928833,2026-11-10T00:00:00+00:00,Muskingum Fighting Muskies,Akron Zips,,Matt,N,Y,N/A,N/A,N/A,Live,3,3
+401909718,2026-11-09T23:30:00+00:00,Syracuse Orange,Indiana Hoosiers,,Aaron,N,Y,N/A,N/A,N/A,Live,38,34
+401921180,2026-11-09T23:30:00+00:00,Howard Bison,Pennsylvania Quakers,Jack,Aaron,Y,Y,N/A,N/A,N/A,Live,29,25
+401906849,2026-11-10T00:00:00+00:00,Radford Highlanders,Tennessee Volunteers,,Carson,N,Y,N/A,N/A,N/A,Live,10,8
+401906865,2026-11-10T00:00:00+00:00,Grambling Tigers,Texas Longhorns,,Jack,N,Y,N/A,N/A,N/A,Live,3,13
+401916305,2026-11-10T00:00:00+00:00,Minnesota Golden Gophers,Cincinnati Bearcats,,Racz,N,Y,N/A,N/A,N/A,Live,16,13
+401920686,2026-11-10T00:00:00+00:00,Wagner Seahawks,UConn Huskies,,Max,N,Y,N/A,N/A,N/A,Live,4,16
+401921720,2026-11-10T00:00:00+00:00,North Florida Ospreys,Miami Hurricanes,,Aaron,N,Y,N/A,N/A,N/A,Live,13,21
+401928833,2026-11-10T00:00:00+00:00,Muskingum Fighting Muskies,Akron Zips,,Matt,N,Y,N/A,N/A,N/A,Live,13,9
 401906759,2026-11-10T00:30:00+00:00,Oakland Golden Grizzlies,Alabama Crimson Tide,,Trevor,N,Y,ALA -32.5,N/A,N/A,Upcoming,0,0
 401925032,2026-11-10T00:30:00+00:00,College of Biblical Studies Ambassadors,McNeese Cowboys,,Aaron,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401906803,2026-11-10T01:00:00+00:00,North Alabama Lions,Oklahoma Sooners,,Justin,N,Y,OU -28.5,N/A,N/A,Upcoming,0,0
@@ -16,13 +16,13 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401906771,2026-11-10T23:00:00+00:00,Florida Gators,Florida State Seminoles,Joe,Joe,Y,Y,FLA -9.5,N/A,N/A,Upcoming,0,0
 401909543,2026-11-11T00:00:00+00:00,Detroit Mercy Titans,Xavier Musketeers,,Jack,N,Y,XAV -32.5,N/A,N/A,Upcoming,0,0
 401909564,2026-11-11T00:00:00+00:00,Michigan State Spartans,Duke Blue Devils,Matt,Racz,Y,Y,DUKE -6.5,N/A,N/A,Upcoming,0,0
-401911187,2026-11-11T00:00:00+00:00,Siena Saints,Dayton Flyers,,Max,N,Y,DAY -12.5,N/A,N/A,Upcoming,0,0
+401911187,2026-11-11T00:00:00+00:00,Siena Saints,Dayton Flyers,,Max,N,Y,DAY -13.5,N/A,N/A,Upcoming,0,0
 401913101,2026-11-11T00:00:00+00:00,Wyoming Cowboys,North Carolina Tar Heels,,Max,N,Y,UNC -15.5,N/A,N/A,Upcoming,0,0
 401918957,2026-11-11T00:00:00+00:00,Presbyterian Blue Hose,NC State Wolfpack,,Matt,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401920378,2026-11-11T00:00:00+00:00,Virginia Tech Hokies,Iowa Hawkeyes,BFO,BFO,Y,Y,IOWA -4.5,N/A,N/A,Upcoming,0,0
-401921774,2026-11-11T00:00:00+00:00,La Salle Explorers,Villanova Wildcats,,Joe,N,Y,VILL -23.5,N/A,N/A,Upcoming,0,0
+401921774,2026-11-11T00:00:00+00:00,La Salle Explorers,Villanova Wildcats,,Joe,N,Y,VILL -22.5,N/A,N/A,Upcoming,0,0
 401918987,2026-11-11T00:15:00+00:00,Memphis Tigers,Vanderbilt Commodores,Sam,BFO,Y,Y,VAN -16.5,N/A,N/A,Upcoming,0,0
-401909752,2026-11-11T01:00:00+00:00,Yale Bulldogs,Baylor Bears,Joe,Carson,Y,Y,BAY -22.5,N/A,N/A,Upcoming,0,0
+401909752,2026-11-11T01:00:00+00:00,Yale Bulldogs,Baylor Bears,Joe,Carson,Y,Y,BAY -21.5,N/A,N/A,Upcoming,0,0
 401909773,2026-11-11T01:00:00+00:00,Southern Jaguars,Iowa State Cyclones,,Justin,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401911250,2026-11-11T01:00:00+00:00,Northern Kentucky Norse,Saint Louis Billikens,,Will,N,Y,SLU -23.5,N/A,N/A,Upcoming,0,0
 401913527,2026-11-11T01:00:00+00:00,Illinois Fighting Illini,Texas Tech Red Raiders,Aaron,Matt,Y,Y,ILL -1.5,N/A,N/A,Upcoming,0,0
