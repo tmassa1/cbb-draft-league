@@ -1,5 +1,5 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
-401906771,2026-11-10T23:00:00+00:00,Florida Gators,Florida State Seminoles,Joe,Joe,Y,Y,N/A,N/A,N/A,Live,20,17
+401906771,2026-11-10T23:00:00+00:00,Florida Gators,Florida State Seminoles,Joe,Joe,Y,Y,N/A,N/A,N/A,Live,25,19
 401909543,2026-11-11T00:00:00+00:00,Detroit Mercy Titans,Xavier Musketeers,,Jack,N,Y,XAV -35.5,N/A,N/A,Upcoming,0,0
 401909564,2026-11-11T00:00:00+00:00,Michigan State Spartans,Duke Blue Devils,Matt,Racz,Y,Y,DUKE -7.5,N/A,N/A,Upcoming,0,0
 401911187,2026-11-11T00:00:00+00:00,Siena Saints,Dayton Flyers,,Max,N,Y,DAY -14.5,N/A,N/A,Upcoming,0,0
