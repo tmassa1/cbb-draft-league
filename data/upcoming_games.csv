@@ -1,14 +1,14 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
-401909718,2026-11-09T23:30:00+00:00,Syracuse Orange,Indiana Hoosiers,,Aaron,N,Y,N/A,N/A,N/A,Live,38,37
-401921180,2026-11-09T23:30:00+00:00,Howard Bison,Pennsylvania Quakers,Jack,Aaron,Y,Y,N/A,N/A,N/A,Live,31,25
-401906849,2026-11-10T00:00:00+00:00,Radford Highlanders,Tennessee Volunteers,,Carson,N,Y,N/A,N/A,N/A,Live,19,23
-401906865,2026-11-10T00:00:00+00:00,Grambling Tigers,Texas Longhorns,,Jack,N,Y,N/A,N/A,N/A,Live,14,35
-401916305,2026-11-10T00:00:00+00:00,Minnesota Golden Gophers,Cincinnati Bearcats,,Racz,N,Y,N/A,N/A,N/A,Live,23,24
-401920686,2026-11-10T00:00:00+00:00,Wagner Seahawks,UConn Huskies,,Max,N,Y,N/A,N/A,N/A,Live,10,28
-401921720,2026-11-10T00:00:00+00:00,North Florida Ospreys,Miami Hurricanes,,Aaron,N,Y,N/A,N/A,N/A,Live,19,35
-401928833,2026-11-10T00:00:00+00:00,Muskingum Fighting Muskies,Akron Zips,,Matt,N,Y,N/A,N/A,N/A,Live,19,41
-401906759,2026-11-10T00:30:00+00:00,Oakland Golden Grizzlies,Alabama Crimson Tide,,Trevor,N,Y,N/A,N/A,N/A,Live,5,10
-401925032,2026-11-10T00:30:00+00:00,College of Biblical Studies Ambassadors,McNeese Cowboys,,Aaron,N,Y,N/A,N/A,N/A,Live,8,16
+401909718,2026-11-09T23:30:00+00:00,Syracuse Orange,Indiana Hoosiers,,Aaron,N,Y,N/A,N/A,N/A,Live,38,42
+401921180,2026-11-09T23:30:00+00:00,Howard Bison,Pennsylvania Quakers,Jack,Aaron,Y,Y,N/A,N/A,N/A,Live,33,34
+401906849,2026-11-10T00:00:00+00:00,Radford Highlanders,Tennessee Volunteers,,Carson,N,Y,N/A,N/A,N/A,Live,21,26
+401906865,2026-11-10T00:00:00+00:00,Grambling Tigers,Texas Longhorns,,Jack,N,Y,N/A,N/A,N/A,Live,18,43
+401916305,2026-11-10T00:00:00+00:00,Minnesota Golden Gophers,Cincinnati Bearcats,,Racz,N,Y,N/A,N/A,N/A,Live,28,30
+401920686,2026-11-10T00:00:00+00:00,Wagner Seahawks,UConn Huskies,,Max,N,Y,N/A,N/A,N/A,Live,10,30
+401921720,2026-11-10T00:00:00+00:00,North Florida Ospreys,Miami Hurricanes,,Aaron,N,Y,N/A,N/A,N/A,Live,23,44
+401928833,2026-11-10T00:00:00+00:00,Muskingum Fighting Muskies,Akron Zips,,Matt,N,Y,N/A,N/A,N/A,Live,24,51
+401906759,2026-11-10T00:30:00+00:00,Oakland Golden Grizzlies,Alabama Crimson Tide,,Trevor,N,Y,N/A,N/A,N/A,Live,11,22
+401925032,2026-11-10T00:30:00+00:00,College of Biblical Studies Ambassadors,McNeese Cowboys,,Aaron,N,Y,N/A,N/A,N/A,Live,10,22
 401906803,2026-11-10T01:00:00+00:00,North Alabama Lions,Oklahoma Sooners,,Justin,N,Y,OU -28.5,N/A,N/A,Upcoming,0,0
 401921815,2026-11-10T01:00:00+00:00,SIU Edwardsville Cougars,Missouri Tigers,,Racz,N,Y,MIZ -29.5,N/A,N/A,Upcoming,0,0
 401926132,2026-11-10T01:30:00+00:00,Illinois State Redbirds,Purdue Boilermakers,Aaron,Sam,Y,Y,PUR -15.5,N/A,N/A,Upcoming,0,0
