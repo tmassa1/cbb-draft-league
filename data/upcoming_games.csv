@@ -2,17 +2,17 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401909718,2026-11-09T23:30:00+00:00,Syracuse Orange,Indiana Hoosiers,,Aaron,N,Y,N/A,N/A,N/A,Final,80,83
 401921180,2026-11-09T23:30:00+00:00,Howard Bison,Pennsylvania Quakers,Jack,Aaron,Y,Y,N/A,N/A,N/A,Final,65,78
 401906849,2026-11-10T00:00:00+00:00,Radford Highlanders,Tennessee Volunteers,,Carson,N,Y,N/A,N/A,N/A,Final,47,70
-401906865,2026-11-10T00:00:00+00:00,Grambling Tigers,Texas Longhorns,,Jack,N,Y,N/A,N/A,N/A,Live,62,93
+401906865,2026-11-10T00:00:00+00:00,Grambling Tigers,Texas Longhorns,,Jack,N,Y,N/A,N/A,N/A,Final,62,93
 401916305,2026-11-10T00:00:00+00:00,Minnesota Golden Gophers,Cincinnati Bearcats,,Racz,N,Y,N/A,N/A,N/A,Final,63,61
-401920686,2026-11-10T00:00:00+00:00,Wagner Seahawks,UConn Huskies,,Max,N,Y,N/A,N/A,N/A,Live,41,83
+401920686,2026-11-10T00:00:00+00:00,Wagner Seahawks,UConn Huskies,,Max,N,Y,N/A,N/A,N/A,Final,41,83
 401921720,2026-11-10T00:00:00+00:00,North Florida Ospreys,Miami Hurricanes,,Aaron,N,Y,N/A,N/A,N/A,Final,51,89
 401928833,2026-11-10T00:00:00+00:00,Muskingum Fighting Muskies,Akron Zips,,Matt,N,Y,N/A,N/A,N/A,Final,64,109
-401906759,2026-11-10T00:30:00+00:00,Oakland Golden Grizzlies,Alabama Crimson Tide,,Trevor,N,Y,N/A,N/A,N/A,Live,54,93
-401925032,2026-11-10T00:30:00+00:00,College of Biblical Studies Ambassadors,McNeese Cowboys,,Aaron,N,Y,N/A,N/A,N/A,Live,80,126
-401906803,2026-11-10T01:00:00+00:00,North Alabama Lions,Oklahoma Sooners,,Justin,N,Y,N/A,N/A,N/A,Live,38,52
-401921815,2026-11-10T01:00:00+00:00,SIU Edwardsville Cougars,Missouri Tigers,,Racz,N,Y,N/A,N/A,N/A,Live,24,48
-401926132,2026-11-10T01:30:00+00:00,Illinois State Redbirds,Purdue Boilermakers,Aaron,Sam,Y,Y,N/A,N/A,N/A,Live,16,25
-401920799,2026-11-10T02:00:00+00:00,App State Mountaineers,Auburn Tigers,,Trevor,N,Y,N/A,N/A,N/A,Live,3,8
+401906759,2026-11-10T00:30:00+00:00,Oakland Golden Grizzlies,Alabama Crimson Tide,,Trevor,N,Y,N/A,N/A,N/A,Live,58,95
+401925032,2026-11-10T00:30:00+00:00,College of Biblical Studies Ambassadors,McNeese Cowboys,,Aaron,N,Y,N/A,N/A,N/A,Final,87,135
+401906803,2026-11-10T01:00:00+00:00,North Alabama Lions,Oklahoma Sooners,,Justin,N,Y,N/A,N/A,N/A,Live,41,55
+401921815,2026-11-10T01:00:00+00:00,SIU Edwardsville Cougars,Missouri Tigers,,Racz,N,Y,N/A,N/A,N/A,Live,24,50
+401926132,2026-11-10T01:30:00+00:00,Illinois State Redbirds,Purdue Boilermakers,Aaron,Sam,Y,Y,N/A,N/A,N/A,Live,19,29
+401920799,2026-11-10T02:00:00+00:00,App State Mountaineers,Auburn Tigers,,Trevor,N,Y,N/A,N/A,N/A,Live,5,10
 401906771,2026-11-10T23:00:00+00:00,Florida Gators,Florida State Seminoles,Joe,Joe,Y,Y,FLA -9.5,N/A,N/A,Upcoming,0,0
 401909543,2026-11-11T00:00:00+00:00,Detroit Mercy Titans,Xavier Musketeers,,Jack,N,Y,XAV -32.5,N/A,N/A,Upcoming,0,0
 401909564,2026-11-11T00:00:00+00:00,Michigan State Spartans,Duke Blue Devils,Matt,Racz,Y,Y,DUKE -6.5,N/A,N/A,Upcoming,0,0
@@ -115,8 +115,8 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401906866,2026-11-15T20:00:00+00:00,Baylor Bears,Texas Longhorns,Carson,Jack,Y,Y,N/A,N/A,N/A,Upcoming,0,0
 401909493,2026-11-15T20:00:00+00:00,Creighton Bluejays,Iowa Hawkeyes,,BFO,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401911251,2026-11-15T20:00:00+00:00,High Point Panthers,Saint Louis Billikens,Max,Will,Y,Y,N/A,N/A,N/A,Upcoming,0,0
-401928789,2026-11-15T20:30:00+00:00,New Mexico State Aggies,San Diego State Aztecs,,Carson,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401928353,2026-11-15T21:00:00+00:00,UC Merced Bobcats,UC Santa Barbara Gauchos,,Max,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401928789,2026-11-15T21:00:00+00:00,New Mexico State Aggies,San Diego State Aztecs,,Carson,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401920681,2026-11-16T00:00:00+00:00,Syracuse Orange,St. John's Red Storm,,Miles,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401926772,2026-11-16T00:00:00+00:00,Arkansas-Pine Bluff Golden Lions,USC Trojans,,Max,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401920896,2026-11-16T01:00:00+00:00,Coastal Carolina Chanticleers,Wisconsin Badgers,,Joe,N,Y,N/A,N/A,N/A,Upcoming,0,0
