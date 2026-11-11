@@ -1,6 +1,6 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
-401918992,2026-11-11T20:00:00+00:00,South Florida Bulls,Saint Joseph's Hawks,Will,,Y,N,N/A,N/A,N/A,Live,67,72
-401925717,2026-11-11T22:00:00+00:00,Bethune-Cookman Wildcats,San Diego State Aztecs,,Carson,N,Y,SDSU -19.5,N/A,N/A,Upcoming,0,0
+401918992,2026-11-11T20:00:00+00:00,South Florida Bulls,Saint Joseph's Hawks,Will,,Y,N,N/A,N/A,N/A,Live,74,77
+401925717,2026-11-11T22:00:00+00:00,Bethune-Cookman Wildcats,San Diego State Aztecs,,Carson,N,Y,N/A,N/A,N/A,Live,0,2
 401921181,2026-11-11T22:30:00+00:00,Pennsylvania Quakers,Navy Midshipmen,Aaron,,Y,N,PENN -7.5,N/A,N/A,Upcoming,0,0
 401925858,2026-11-11T23:30:00+00:00,Charleston Cougars,Temple Owls,Miles,,Y,N,COFC -1.5,N/A,N/A,Upcoming,0,0
 401909524,2026-11-12T00:00:00+00:00,Marquette Golden Eagles,Michigan Wolverines,Matt,Sam,Y,Y,MICH -3.5,N/A,N/A,Upcoming,0,0
