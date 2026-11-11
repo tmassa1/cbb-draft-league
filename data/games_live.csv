@@ -181,6 +181,8 @@ game_id,date,team,opponent,result,phase,source
 401909543,2026-11-10,Xavier,Detroit Mercy Titans,W,regular,espn
 401909564,2026-11-10,Duke,Michigan State Spartans,L,regular,espn
 401909564,2026-11-10,Michigan State,Duke Blue Devils,W,regular,espn
+401909752,2026-11-10,Baylor,Yale Bulldogs,W,regular,espn
+401909752,2026-11-10,Yale,Baylor Bears,L,regular,espn
 401909773,2026-11-10,Iowa State,Southern Jaguars,W,regular,espn
 401911187,2026-11-10,Dayton,Siena Saints,L,regular,espn
 401911250,2026-11-10,Saint Louis,Northern Kentucky Norse,W,regular,espn
