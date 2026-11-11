@@ -181,6 +181,7 @@ game_id,date,team,opponent,result,phase,source
 401909543,2026-11-10,Xavier,Detroit Mercy Titans,W,regular,espn
 401909564,2026-11-10,Duke,Michigan State Spartans,L,regular,espn
 401909564,2026-11-10,Michigan State,Duke Blue Devils,W,regular,espn
+401909740,2026-11-10,Arizona,Northern Arizona Lumberjacks,W,regular,espn
 401909752,2026-11-10,Baylor,Yale Bulldogs,W,regular,espn
 401909752,2026-11-10,Yale,Baylor Bears,L,regular,espn
 401909773,2026-11-10,Iowa State,Southern Jaguars,W,regular,espn
@@ -196,5 +197,7 @@ game_id,date,team,opponent,result,phase,source
 401920378,2026-11-10,Virginia Tech,Iowa Hawkeyes,W,regular,espn
 401920704,2026-11-10,Belmont,Lipscomb Bisons,L,regular,espn
 401920895,2026-11-10,Wisconsin,Fairfield Stags,W,regular,espn
+401921740,2026-11-10,BYU,Queens University Royals,W,regular,espn
 401921774,2026-11-10,Villanova,La Salle Explorers,W,regular,espn
 401925685,2026-11-10,Murray State,Alcorn State Braves,W,regular,espn
+401925940,2026-11-10,Utah State,Utah Tech Trailblazers,W,regular,espn
