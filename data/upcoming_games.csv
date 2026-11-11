@@ -20,7 +20,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401921740,2026-11-11T02:00:00+00:00,Queens University Royals,BYU Cougars,,Miles,N,Y,N/A,N/A,N/A,Final,82,98
 401924896,2026-11-11T02:00:00+00:00,Little Rock Trojans,New Mexico Lobos,,Joe,N,Y,N/A,N/A,N/A,Final,69,94
 401925940,2026-11-11T02:00:00+00:00,Utah Tech Trailblazers,Utah State Aggies,,Sam,N,Y,N/A,N/A,N/A,Final,86,118
-401909786,2026-11-11T02:58:00+00:00,Kansas Jayhawks,Kentucky Wildcats,Miles,Jack,Y,Y,N/A,N/A,N/A,Live,65,49
+401909786,2026-11-11T02:58:00+00:00,Kansas Jayhawks,Kentucky Wildcats,Miles,Jack,Y,Y,N/A,N/A,N/A,Live,68,51
 401918992,2026-11-11T20:00:00+00:00,Saint Joseph's Hawks,South Florida Bulls,,Will,N,Y,USF -7.5,N/A,N/A,Upcoming,0,0
 401925717,2026-11-11T22:00:00+00:00,Bethune-Cookman Wildcats,San Diego State Aztecs,,Carson,N,Y,SDSU -18.5,N/A,N/A,Upcoming,0,0
 401921181,2026-11-11T22:30:00+00:00,Pennsylvania Quakers,Navy Midshipmen,Aaron,,Y,N,PENN -9.5,N/A,N/A,Upcoming,0,0
@@ -39,7 +39,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401911346,2026-11-12T02:00:00+00:00,Cal Poly Mustangs,Grand Canyon Lopes,,Racz,N,Y,GCU -18.5,N/A,N/A,Upcoming,0,0
 401911454,2026-11-12T02:00:00+00:00,Nevada Wolf Pack,UC Santa Barbara Gauchos,Justin,Max,Y,Y,NEV -1.5,N/A,N/A,Upcoming,0,0
 401926062,2026-11-12T02:00:00+00:00,Lindenwood Lions,Nebraska Cornhuskers,,Will,N,Y,NEB -34.5,N/A,N/A,Upcoming,0,0
-401930177,2026-11-12T02:00:00+00:00,Arkansas-Pine Bluff Golden Lions,UCLA Bruins,,Justin,N,Y,UCLA -43.5,N/A,N/A,Upcoming,0,0
+401930177,2026-11-12T02:00:00+00:00,Arkansas-Pine Bluff Golden Lions,UCLA Bruins,,Justin,N,Y,UCLA -44.5,N/A,N/A,Upcoming,0,0
 401929625,2026-11-12T03:00:00+00:00,Lincoln (CA) Oaklanders,UC Irvine Anteaters,,Trevor,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401918054,2026-11-12T04:00:00+00:00,USC Trojans,California Golden Bears,Max,,Y,N,USC -8.5,N/A,N/A,Upcoming,0,0
 401916288,2026-11-12T23:30:00+00:00,Tennessee Tech Golden Eagles,Indiana Hoosiers,,Aaron,N,Y,N/A,N/A,N/A,Upcoming,0,0
