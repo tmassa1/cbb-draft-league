@@ -15,12 +15,12 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401920704,2026-11-11T01:00:00+00:00,Belmont Bruins,Lipscomb Bisons,BFO,,Y,N,N/A,N/A,N/A,Final,75,88
 401925685,2026-11-11T01:00:00+00:00,Alcorn State Braves,Murray State Racers,,Matt,N,Y,N/A,N/A,N/A,Final,57,94
 401920895,2026-11-11T01:30:00+00:00,Fairfield Stags,Wisconsin Badgers,,Joe,N,Y,N/A,N/A,N/A,Final,42,89
-401909740,2026-11-11T02:00:00+00:00,Northern Arizona Lumberjacks,Arizona Wildcats,,Will,N,Y,N/A,N/A,N/A,Live,57,88
-401920425,2026-11-11T02:00:00+00:00,Bucknell Bison,Virginia Cavaliers,,Justin,N,Y,N/A,N/A,N/A,Live,53,85
-401921740,2026-11-11T02:00:00+00:00,Queens University Royals,BYU Cougars,,Miles,N,Y,N/A,N/A,N/A,Live,78,92
-401924896,2026-11-11T02:00:00+00:00,Little Rock Trojans,New Mexico Lobos,,Joe,N,Y,N/A,N/A,N/A,Live,55,74
-401925940,2026-11-11T02:00:00+00:00,Utah Tech Trailblazers,Utah State Aggies,,Sam,N,Y,N/A,N/A,N/A,Live,75,115
-401909786,2026-11-11T02:58:00+00:00,Kansas Jayhawks,Kentucky Wildcats,Miles,Jack,Y,Y,N/A,N/A,N/A,Live,42,36
+401909740,2026-11-11T02:00:00+00:00,Northern Arizona Lumberjacks,Arizona Wildcats,,Will,N,Y,N/A,N/A,N/A,Live,59,90
+401920425,2026-11-11T02:00:00+00:00,Bucknell Bison,Virginia Cavaliers,,Justin,N,Y,N/A,N/A,N/A,Live,55,89
+401921740,2026-11-11T02:00:00+00:00,Queens University Royals,BYU Cougars,,Miles,N,Y,N/A,N/A,N/A,Live,80,96
+401924896,2026-11-11T02:00:00+00:00,Little Rock Trojans,New Mexico Lobos,,Joe,N,Y,N/A,N/A,N/A,Live,57,80
+401925940,2026-11-11T02:00:00+00:00,Utah Tech Trailblazers,Utah State Aggies,,Sam,N,Y,N/A,N/A,N/A,Live,81,116
+401909786,2026-11-11T02:58:00+00:00,Kansas Jayhawks,Kentucky Wildcats,Miles,Jack,Y,Y,N/A,N/A,N/A,Live,46,36
 401918992,2026-11-11T20:00:00+00:00,Saint Joseph's Hawks,South Florida Bulls,,Will,N,Y,USF -7.5,N/A,N/A,Upcoming,0,0
 401925717,2026-11-11T22:00:00+00:00,Bethune-Cookman Wildcats,San Diego State Aztecs,,Carson,N,Y,SDSU -18.5,N/A,N/A,Upcoming,0,0
 401921181,2026-11-11T22:30:00+00:00,Pennsylvania Quakers,Navy Midshipmen,Aaron,,Y,N,PENN -9.5,N/A,N/A,Upcoming,0,0
