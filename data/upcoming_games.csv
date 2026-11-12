@@ -1,25 +1,4 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
-401918992,2026-11-11T20:00:00+00:00,South Florida Bulls,Saint Joseph's Hawks,Will,,Y,N,N/A,N/A,N/A,Final,80,83
-401925717,2026-11-11T22:00:00+00:00,Bethune-Cookman Wildcats,San Diego State Aztecs,,Carson,N,Y,N/A,N/A,N/A,Final,75,88
-401921181,2026-11-11T22:58:00+00:00,Pennsylvania Quakers,Navy Midshipmen,Aaron,,Y,N,N/A,N/A,N/A,Final,76,81
-401925858,2026-11-11T23:30:00+00:00,Charleston Cougars,Temple Owls,Miles,,Y,N,N/A,N/A,N/A,Final,91,81
-401909524,2026-11-12T00:00:00+00:00,Marquette Golden Eagles,Michigan Wolverines,Matt,Sam,Y,Y,N/A,N/A,N/A,Final,70,84
-401920202,2026-11-12T00:00:00+00:00,NJIT Highlanders,VCU Rams,,Trevor,N,Y,N/A,N/A,N/A,Final,49,87
-401920680,2026-11-12T00:00:00+00:00,Colgate Raiders,St. John's Red Storm,,Miles,N,Y,N/A,N/A,N/A,Final,59,90
-401920740,2026-11-12T00:00:00+00:00,Campbell Fighting Camels,East Tennessee State Buccaneers,,Carson,N,Y,N/A,N/A,N/A,Final,53,68
-401921286,2026-11-12T00:00:00+00:00,Furman Paladins,Holy Cross Crusaders,Sam,,Y,N,N/A,N/A,N/A,Final,80,67
-401926863,2026-11-12T00:00:00+00:00,Kent State Golden Flashes,UNC Wilmington Seahawks,,Racz,N,Y,N/A,N/A,N/A,Final,73,91
-401919030,2026-11-12T00:30:00+00:00,Friends Falcons,Wichita State Shockers,,Will,N,Y,N/A,N/A,N/A,Final,60,113
-401928801,2026-11-12T00:30:00+00:00,Campbellsville Tigers,Western Kentucky Hilltoppers,,Trevor,N,Y,N/A,N/A,N/A,Final,51,78
-401917522,2026-11-12T01:00:00+00:00,Santa Clara Broncos,North Texas Mean Green,Miles,,Y,N,N/A,N/A,N/A,Final,76,71
-401925702,2026-11-12T01:00:00+00:00,Jacksonville State Gamecocks,Houston Cougars,,Trevor,N,Y,N/A,N/A,N/A,Final,46,92
-401928824,2026-11-12T01:00:00+00:00,Robert Morris Colonials,Arkansas Razorbacks,,Carson,N,Y,N/A,N/A,N/A,Final,53,76
-401911346,2026-11-12T02:00:00+00:00,Cal Poly Mustangs,Grand Canyon Lopes,,Racz,N,Y,N/A,N/A,N/A,Final,71,99
-401911454,2026-11-12T02:00:00+00:00,Nevada Wolf Pack,UC Santa Barbara Gauchos,Justin,Max,Y,Y,N/A,N/A,N/A,Final,63,76
-401926062,2026-11-12T02:00:00+00:00,Lindenwood Lions,Nebraska Cornhuskers,,Will,N,Y,N/A,N/A,N/A,Final,60,94
-401930177,2026-11-12T02:00:00+00:00,Arkansas-Pine Bluff Golden Lions,UCLA Bruins,,Justin,N,Y,N/A,N/A,N/A,Final,37,106
-401929625,2026-11-12T03:00:00+00:00,Lincoln (CA) Oaklanders,UC Irvine Anteaters,,Trevor,N,Y,N/A,N/A,N/A,Final,40,90
-401918054,2026-11-12T04:00:00+00:00,USC Trojans,California Golden Bears,Max,,Y,N,N/A,N/A,N/A,Live,37,30
 401916288,2026-11-12T23:30:00+00:00,Tennessee Tech Golden Eagles,Indiana Hoosiers,,Aaron,N,Y,IU -25.5,N/A,N/A,Upcoming,0,0
 401920412,2026-11-13T00:00:00+00:00,Southern Utah Thunderbirds,High Point Panthers,,Max,N,Y,HPU -21.5,N/A,N/A,Upcoming,0,0
 401922239,2026-11-13T00:00:00+00:00,Stetson Hatters,Howard Bison,,Jack,N,Y,HOW -10.5,N/A,N/A,Upcoming,0,0
@@ -139,3 +118,13 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401911456,2026-11-19T03:00:00+00:00,Idaho Vandals,Nevada Wolf Pack,,Justin,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401929146,2026-11-19T03:00:00+00:00,Texas Southern Tigers,San Diego State Aztecs,,Carson,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401920158,2026-11-19T03:30:00+00:00,Cal State Fullerton Titans,UCLA Bruins,,Justin,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401928354,2026-11-19T05:00:00+00:00,UC Santa Barbara Gauchos,Pepperdine Waves,Max,,Y,N,N/A,N/A,N/A,Upcoming,0,0
+401918959,2026-11-19T23:00:00+00:00,NC State Wolfpack,Murray State Racers,Matt,Matt,Y,Y,N/A,N/A,N/A,Upcoming,0,0
+401920413,2026-11-20T00:00:00+00:00,Montana State Bobcats,High Point Panthers,,Max,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401926814,2026-11-20T00:30:00+00:00,Charleston Cougars,Drake Bulldogs,Miles,Miles,Y,Y,N/A,N/A,N/A,Upcoming,0,0
+401906867,2026-11-20T01:00:00+00:00,Southern Utah Thunderbirds,Texas Longhorns,,Jack,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401918950,2026-11-20T01:00:00+00:00,Stetson Hatters,Louisville Cardinals,,BFO,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401927375,2026-11-20T01:00:00+00:00,Eureka Red Devils,Illinois State Redbirds,,Aaron,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401920888,2026-11-20T01:30:00+00:00,Seton Hall Pirates,Wisconsin Badgers,,Joe,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401917536,2026-11-20T03:30:00+00:00,VCU Rams,Santa Clara Broncos,Trevor,Miles,Y,Y,N/A,N/A,N/A,Upcoming,0,0
+401926773,2026-11-20T04:00:00+00:00,Tarleton State Texans,USC Trojans,,Max,N,Y,N/A,N/A,N/A,Upcoming,0,0
