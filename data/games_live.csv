@@ -208,6 +208,7 @@ game_id,date,team,opponent,result,phase,source
 401909524,2026-11-11,Marquette,Michigan Wolverines,L,regular,espn
 401909524,2026-11-11,Michigan,Marquette Golden Eagles,W,regular,espn
 401918992,2026-11-11,South Florida,Saint Joseph's Hawks,L,regular,espn
+401919030,2026-11-11,Wichita State,Friends Falcons,W,regular,espn
 401920202,2026-11-11,VCU,NJIT Highlanders,W,regular,espn
 401920680,2026-11-11,St. John's,Colgate Raiders,W,regular,espn
 401920740,2026-11-11,East Tennessee State,Campbell Fighting Camels,W,regular,espn
@@ -215,3 +216,5 @@ game_id,date,team,opponent,result,phase,source
 401921286,2026-11-11,Furman,Holy Cross Crusaders,W,regular,espn
 401925717,2026-11-11,San Diego State,Bethune-Cookman Wildcats,W,regular,espn
 401925858,2026-11-11,Charleston,Temple Owls,W,regular,espn
+401926863,2026-11-11,UNC Wilmington,Kent State Golden Flashes,W,regular,espn
+401928801,2026-11-11,Western Kentucky,Campbellsville Tigers,W,regular,espn

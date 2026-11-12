@@ -8,16 +8,16 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401920680,2026-11-12T00:00:00+00:00,Colgate Raiders,St. John's Red Storm,,Miles,N,Y,N/A,N/A,N/A,Final,59,90
 401920740,2026-11-12T00:00:00+00:00,Campbell Fighting Camels,East Tennessee State Buccaneers,,Carson,N,Y,N/A,N/A,N/A,Final,53,68
 401921286,2026-11-12T00:00:00+00:00,Furman Paladins,Holy Cross Crusaders,Sam,,Y,N,N/A,N/A,N/A,Final,80,67
-401926863,2026-11-12T00:00:00+00:00,Kent State Golden Flashes,UNC Wilmington Seahawks,,Racz,N,Y,N/A,N/A,N/A,Live,73,91
-401919030,2026-11-12T00:30:00+00:00,Friends Falcons,Wichita State Shockers,,Will,N,Y,N/A,N/A,N/A,Live,60,113
-401928801,2026-11-12T00:30:00+00:00,Campbellsville Tigers,Western Kentucky Hilltoppers,,Trevor,N,Y,N/A,N/A,N/A,Live,51,78
-401917522,2026-11-12T01:00:00+00:00,Santa Clara Broncos,North Texas Mean Green,Miles,,Y,N,N/A,N/A,N/A,Live,41,47
-401925702,2026-11-12T01:00:00+00:00,Jacksonville State Gamecocks,Houston Cougars,,Trevor,N,Y,N/A,N/A,N/A,Live,23,45
-401928824,2026-11-12T01:00:00+00:00,Robert Morris Colonials,Arkansas Razorbacks,,Carson,N,Y,N/A,N/A,N/A,Live,40,50
-401911346,2026-11-12T02:00:00+00:00,Cal Poly Mustangs,Grand Canyon Lopes,,Racz,N,Y,N/A,N/A,N/A,Live,6,8
-401911454,2026-11-12T02:00:00+00:00,Nevada Wolf Pack,UC Santa Barbara Gauchos,Justin,Max,Y,Y,N/A,N/A,N/A,Live,8,8
-401926062,2026-11-12T02:00:00+00:00,Lindenwood Lions,Nebraska Cornhuskers,,Will,N,Y,N/A,N/A,N/A,Live,4,12
-401930177,2026-11-12T02:00:00+00:00,Arkansas-Pine Bluff Golden Lions,UCLA Bruins,,Justin,N,Y,N/A,N/A,N/A,Live,0,10
+401926863,2026-11-12T00:00:00+00:00,Kent State Golden Flashes,UNC Wilmington Seahawks,,Racz,N,Y,N/A,N/A,N/A,Final,73,91
+401919030,2026-11-12T00:30:00+00:00,Friends Falcons,Wichita State Shockers,,Will,N,Y,N/A,N/A,N/A,Final,60,113
+401928801,2026-11-12T00:30:00+00:00,Campbellsville Tigers,Western Kentucky Hilltoppers,,Trevor,N,Y,N/A,N/A,N/A,Final,51,78
+401917522,2026-11-12T01:00:00+00:00,Santa Clara Broncos,North Texas Mean Green,Miles,,Y,N,N/A,N/A,N/A,Live,43,51
+401925702,2026-11-12T01:00:00+00:00,Jacksonville State Gamecocks,Houston Cougars,,Trevor,N,Y,N/A,N/A,N/A,Live,27,45
+401928824,2026-11-12T01:00:00+00:00,Robert Morris Colonials,Arkansas Razorbacks,,Carson,N,Y,N/A,N/A,N/A,Live,45,50
+401911346,2026-11-12T02:00:00+00:00,Cal Poly Mustangs,Grand Canyon Lopes,,Racz,N,Y,N/A,N/A,N/A,Live,13,13
+401911454,2026-11-12T02:00:00+00:00,Nevada Wolf Pack,UC Santa Barbara Gauchos,Justin,Max,Y,Y,N/A,N/A,N/A,Live,9,16
+401926062,2026-11-12T02:00:00+00:00,Lindenwood Lions,Nebraska Cornhuskers,,Will,N,Y,N/A,N/A,N/A,Live,6,22
+401930177,2026-11-12T02:00:00+00:00,Arkansas-Pine Bluff Golden Lions,UCLA Bruins,,Justin,N,Y,N/A,N/A,N/A,Live,2,13
 401929625,2026-11-12T03:00:00+00:00,Lincoln (CA) Oaklanders,UC Irvine Anteaters,,Trevor,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401918054,2026-11-12T04:00:00+00:00,USC Trojans,California Golden Bears,Max,,Y,N,USC -8.5,N/A,N/A,Upcoming,0,0
 401916288,2026-11-12T23:30:00+00:00,Tennessee Tech Golden Eagles,Indiana Hoosiers,,Aaron,N,Y,IU -25.5,N/A,N/A,Upcoming,0,0
