@@ -1,16 +1,16 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
 401918992,2026-11-11T20:00:00+00:00,South Florida Bulls,Saint Joseph's Hawks,Will,,Y,N,N/A,N/A,N/A,Final,80,83
 401925717,2026-11-11T22:00:00+00:00,Bethune-Cookman Wildcats,San Diego State Aztecs,,Carson,N,Y,N/A,N/A,N/A,Final,75,88
-401921181,2026-11-11T22:58:00+00:00,Pennsylvania Quakers,Navy Midshipmen,Aaron,,Y,N,N/A,N/A,N/A,Live,55,56
-401925858,2026-11-11T23:30:00+00:00,Charleston Cougars,Temple Owls,Miles,,Y,N,N/A,N/A,N/A,Live,46,28
-401909524,2026-11-12T00:00:00+00:00,Marquette Golden Eagles,Michigan Wolverines,Matt,Sam,Y,Y,N/A,N/A,N/A,Live,22,21
-401920202,2026-11-12T00:00:00+00:00,NJIT Highlanders,VCU Rams,,Trevor,N,Y,N/A,N/A,N/A,Live,16,31
-401920680,2026-11-12T00:00:00+00:00,Colgate Raiders,St. John's Red Storm,,Miles,N,Y,N/A,N/A,N/A,Live,19,34
-401920740,2026-11-12T00:00:00+00:00,Campbell Fighting Camels,East Tennessee State Buccaneers,,Carson,N,Y,N/A,N/A,N/A,Live,24,18
-401921286,2026-11-12T00:00:00+00:00,Furman Paladins,Holy Cross Crusaders,Sam,,Y,N,N/A,N/A,N/A,Live,32,16
-401926863,2026-11-12T00:00:00+00:00,Kent State Golden Flashes,UNC Wilmington Seahawks,,Racz,N,Y,N/A,N/A,N/A,Live,10,22
+401921181,2026-11-11T22:58:00+00:00,Pennsylvania Quakers,Navy Midshipmen,Aaron,,Y,N,N/A,N/A,N/A,Live,58,63
+401925858,2026-11-11T23:30:00+00:00,Charleston Cougars,Temple Owls,Miles,,Y,N,N/A,N/A,N/A,Live,48,30
+401909524,2026-11-12T00:00:00+00:00,Marquette Golden Eagles,Michigan Wolverines,Matt,Sam,Y,Y,N/A,N/A,N/A,Live,27,30
+401920202,2026-11-12T00:00:00+00:00,NJIT Highlanders,VCU Rams,,Trevor,N,Y,N/A,N/A,N/A,Live,16,34
+401920680,2026-11-12T00:00:00+00:00,Colgate Raiders,St. John's Red Storm,,Miles,N,Y,N/A,N/A,N/A,Live,32,38
+401920740,2026-11-12T00:00:00+00:00,Campbell Fighting Camels,East Tennessee State Buccaneers,,Carson,N,Y,N/A,N/A,N/A,Live,24,20
+401921286,2026-11-12T00:00:00+00:00,Furman Paladins,Holy Cross Crusaders,Sam,,Y,N,N/A,N/A,N/A,Live,32,18
+401926863,2026-11-12T00:00:00+00:00,Kent State Golden Flashes,UNC Wilmington Seahawks,,Racz,N,Y,N/A,N/A,N/A,Live,14,26
 401919030,2026-11-12T00:30:00+00:00,Friends Falcons,Wichita State Shockers,,Will,N,Y,N/A,N/A,N/A,Live,9,7
-401928801,2026-11-12T00:30:00+00:00,Campbellsville Tigers,Western Kentucky Hilltoppers,,Trevor,N,Y,N/A,N/A,N/A,Live,0,0
+401928801,2026-11-12T00:30:00+00:00,Campbellsville Tigers,Western Kentucky Hilltoppers,,Trevor,N,Y,N/A,N/A,N/A,Live,4,4
 401917522,2026-11-12T01:00:00+00:00,Santa Clara Broncos,North Texas Mean Green,Miles,,Y,N,SCU -1.5,N/A,N/A,Upcoming,0,0
 401925702,2026-11-12T01:00:00+00:00,Jacksonville State Gamecocks,Houston Cougars,,Trevor,N,Y,HOU -33.5,N/A,N/A,Upcoming,0,0
 401928824,2026-11-12T01:00:00+00:00,Robert Morris Colonials,Arkansas Razorbacks,,Carson,N,Y,ARK -29.5,N/A,N/A,Upcoming,0,0
