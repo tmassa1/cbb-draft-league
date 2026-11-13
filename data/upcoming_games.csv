@@ -9,7 +9,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401920379,2026-11-14T00:00:00+00:00,Mount St. Mary's Mountaineers,Virginia Tech Hokies,,BFO,N,Y,VT -28.5,N/A,N/A,Upcoming,0,0
 401920747,2026-11-14T00:00:00+00:00,Yale Bulldogs,Northeastern Huskies,Joe,,Y,N,YALE -1.5,N/A,N/A,Upcoming,0,0
 401921803,2026-11-14T00:00:00+00:00,Northern Arizona Lumberjacks,Kentucky Wildcats,,Jack,N,Y,UK -34.5,N/A,N/A,Upcoming,0,0
-401921825,2026-11-14T00:00:00+00:00,Prairie View A&M Panthers,Vanderbilt Commodores,,BFO,N,Y,VAN -39.5,N/A,N/A,Upcoming,0,0
+401921825,2026-11-14T00:00:00+00:00,Prairie View A&M Panthers,Vanderbilt Commodores,,BFO,N,Y,VAN -41.5,N/A,N/A,Upcoming,0,0
 401925755,2026-11-14T00:00:00+00:00,Northern Iowa Panthers,Michigan State Spartans,,Matt,N,Y,MSU -27.5,N/A,N/A,Upcoming,0,0
 401926133,2026-11-14T00:00:00+00:00,Ohio Bobcats,Purdue Boilermakers,,Sam,N,Y,PUR -19.5,N/A,N/A,Upcoming,0,0
 401916316,2026-11-14T00:30:00+00:00,Ohio State Buckeyes,UConn Huskies,,Max,N,Y,CONN -11.5,N/A,N/A,Upcoming,0,0
@@ -21,7 +21,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401917916,2026-11-14T01:00:00+00:00,Central Arkansas Bears,Arkansas Razorbacks,,Carson,N,Y,ARK -25.5,N/A,N/A,Upcoming,0,0
 401926117,2026-11-14T01:00:00+00:00,Wright State Raiders,Samford Bulldogs,,Carson,N,Y,WRST -1.5,N/A,N/A,Upcoming,0,0
 401927374,2026-11-14T01:00:00+00:00,Illinois State Redbirds,North Dakota State Bison,Aaron,Sam,Y,Y,ILST -2.5,N/A,N/A,Upcoming,0,0
-401927380,2026-11-14T01:00:00+00:00,Texas Southern Tigers,Murray State Racers,,Matt,N,Y,MUR -27.5,N/A,N/A,Upcoming,0,0
+401927380,2026-11-14T01:00:00+00:00,Texas Southern Tigers,Murray State Racers,,Matt,N,Y,MUR -29.5,N/A,N/A,Upcoming,0,0
 401906760,2026-11-14T02:00:00+00:00,Seton Hall Pirates,Alabama Crimson Tide,,Trevor,N,Y,ALA -17.5,N/A,N/A,Upcoming,0,0
 401906794,2026-11-14T02:00:00+00:00,Xavier Musketeers,Mississippi State Bulldogs,Jack,,Y,N,XAV -3.5,N/A,N/A,Upcoming,0,0
 401909741,2026-11-14T02:00:00+00:00,Arizona Wildcats,Auburn Tigers,Will,Trevor,Y,Y,ARIZ -2.5,N/A,N/A,Upcoming,0,0
