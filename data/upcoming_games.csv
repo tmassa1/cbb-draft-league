@@ -2,7 +2,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401909696,2026-11-13T22:00:00+00:00,Texas A&M-Corpus Christi Islanders,Florida State Seminoles,,Joe,N,Y,FSU -24.5,N/A,N/A,Upcoming,0,0
 401921721,2026-11-13T22:00:00+00:00,North Alabama Lions,Miami Hurricanes,,Aaron,N,Y,MIA -33.5,N/A,N/A,Upcoming,0,0
 401906772,2026-11-14T00:00:00+00:00,Merrimack Warriors,Florida Gators,,Joe,N,Y,FLA -38.5,N/A,N/A,Upcoming,0,0
-401906782,2026-11-14T00:00:00+00:00,Georgia Bulldogs,North Carolina Tar Heels,,Max,N,Y,UNC -3.5,N/A,N/A,Upcoming,0,0
+401906782,2026-11-14T00:00:00+00:00,Georgia Bulldogs,North Carolina Tar Heels,,Max,N,Y,UNC -4.5,N/A,N/A,Upcoming,0,0
 401906850,2026-11-14T00:00:00+00:00,Tennessee State Tigers,Tennessee Volunteers,,Carson,N,Y,TENN -28.5,N/A,N/A,Upcoming,0,0
 401913528,2026-11-14T00:00:00+00:00,Sam Houston Bearkats,Illinois Fighting Illini,,Aaron,N,Y,ILL -36.5,N/A,N/A,Upcoming,0,0
 401918958,2026-11-14T00:00:00+00:00,Troy Trojans,NC State Wolfpack,,Matt,N,Y,NCSU -22.5,N/A,N/A,Upcoming,0,0
@@ -20,7 +20,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401916297,2026-11-14T01:00:00+00:00,Virginia Cavaliers,Maryland Terrapins,Justin,,Y,N,UVA -5.5,N/A,N/A,Upcoming,0,0
 401917916,2026-11-14T01:00:00+00:00,Central Arkansas Bears,Arkansas Razorbacks,,Carson,N,Y,ARK -24.5,N/A,N/A,Upcoming,0,0
 401926117,2026-11-14T01:00:00+00:00,Wright State Raiders,Samford Bulldogs,,Carson,N,Y,WRST -1.5,N/A,N/A,Upcoming,0,0
-401927374,2026-11-14T01:00:00+00:00,Illinois State Redbirds,North Dakota State Bison,Aaron,Sam,Y,Y,ILST -2.5,N/A,N/A,Upcoming,0,0
+401927374,2026-11-14T01:00:00+00:00,Illinois State Redbirds,North Dakota State Bison,Aaron,Sam,Y,Y,ILST -3.5,N/A,N/A,Upcoming,0,0
 401927380,2026-11-14T01:00:00+00:00,Texas Southern Tigers,Murray State Racers,,Matt,N,Y,MUR -29.5,N/A,N/A,Upcoming,0,0
 401906760,2026-11-14T02:00:00+00:00,Seton Hall Pirates,Alabama Crimson Tide,,Trevor,N,Y,ALA -17.5,N/A,N/A,Upcoming,0,0
 401906794,2026-11-14T02:00:00+00:00,Xavier Musketeers,Mississippi State Bulldogs,Jack,,Y,N,XAV -3.5,N/A,N/A,Upcoming,0,0
