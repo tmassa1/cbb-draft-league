@@ -2,9 +2,9 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401916288,2026-11-12T23:30:00+00:00,Tennessee Tech Golden Eagles,Indiana Hoosiers,,Aaron,N,Y,N/A,N/A,N/A,Final,66,90
 401920412,2026-11-13T00:00:00+00:00,Southern Utah Thunderbirds,High Point Panthers,,Max,N,Y,N/A,N/A,N/A,Final,59,88
 401922239,2026-11-13T00:00:00+00:00,Stetson Hatters,Howard Bison,,Jack,N,Y,N/A,N/A,N/A,Final,62,75
-401921741,2026-11-13T02:00:00+00:00,Montana State Bobcats,BYU Cougars,,Miles,N,Y,N/A,N/A,N/A,Live,51,68
+401921741,2026-11-13T02:00:00+00:00,Montana State Bobcats,BYU Cougars,,Miles,N,Y,N/A,N/A,N/A,Live,56,70
 401909696,2026-11-13T22:00:00+00:00,Texas A&M-Corpus Christi Islanders,Florida State Seminoles,,Joe,N,Y,N/A,N/A,N/A,Upcoming,0,0
-401921721,2026-11-13T22:00:00+00:00,North Alabama Lions,Miami Hurricanes,,Aaron,N,Y,MIA -34.5,N/A,N/A,Upcoming,0,0
+401921721,2026-11-13T22:00:00+00:00,North Alabama Lions,Miami Hurricanes,,Aaron,N,Y,MIA -35.5,N/A,N/A,Upcoming,0,0
 401906772,2026-11-14T00:00:00+00:00,Merrimack Warriors,Florida Gators,,Joe,N,Y,FLA -37.5,N/A,N/A,Upcoming,0,0
 401906782,2026-11-14T00:00:00+00:00,Georgia Bulldogs,North Carolina Tar Heels,,Max,N,Y,UNC -4.5,N/A,N/A,Upcoming,0,0
 401906850,2026-11-14T00:00:00+00:00,Tennessee State Tigers,Tennessee Volunteers,,Carson,N,Y,TENN -29.5,N/A,N/A,Upcoming,0,0
@@ -12,7 +12,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401918958,2026-11-14T00:00:00+00:00,Troy Trojans,NC State Wolfpack,,Matt,N,Y,NCSU -22.5,N/A,N/A,Upcoming,0,0
 401920379,2026-11-14T00:00:00+00:00,Mount St. Mary's Mountaineers,Virginia Tech Hokies,,BFO,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401920747,2026-11-14T00:00:00+00:00,Yale Bulldogs,Northeastern Huskies,Joe,,Y,N,YALE -1.5,N/A,N/A,Upcoming,0,0
-401921803,2026-11-14T00:00:00+00:00,Northern Arizona Lumberjacks,Kentucky Wildcats,,Jack,N,Y,UK -34.5,N/A,N/A,Upcoming,0,0
+401921803,2026-11-14T00:00:00+00:00,Northern Arizona Lumberjacks,Kentucky Wildcats,,Jack,N,Y,UK -35.5,N/A,N/A,Upcoming,0,0
 401921825,2026-11-14T00:00:00+00:00,Prairie View A&M Panthers,Vanderbilt Commodores,,BFO,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401925755,2026-11-14T00:00:00+00:00,Northern Iowa Panthers,Michigan State Spartans,,Matt,N,Y,MSU -29.5,N/A,N/A,Upcoming,0,0
 401926133,2026-11-14T00:00:00+00:00,Ohio Bobcats,Purdue Boilermakers,,Sam,N,Y,PUR -20.5,N/A,N/A,Upcoming,0,0
