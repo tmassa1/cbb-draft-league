@@ -1,6 +1,6 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
-401909696,2026-11-13T22:00:00+00:00,Texas A&M-Corpus Christi Islanders,Florida State Seminoles,,Joe,N,Y,N/A,N/A,N/A,Live,7,14
-401921721,2026-11-13T22:00:00+00:00,North Alabama Lions,Miami Hurricanes,,Aaron,N,Y,N/A,N/A,N/A,Live,11,16
+401909696,2026-11-13T22:00:00+00:00,Texas A&M-Corpus Christi Islanders,Florida State Seminoles,,Joe,N,Y,N/A,N/A,N/A,Live,7,17
+401921721,2026-11-13T22:00:00+00:00,North Alabama Lions,Miami Hurricanes,,Aaron,N,Y,N/A,N/A,N/A,Live,14,16
 401906772,2026-11-14T00:00:00+00:00,Merrimack Warriors,Florida Gators,,Joe,N,Y,FLA -36.5,N/A,N/A,Upcoming,0,0
 401906782,2026-11-14T00:00:00+00:00,Georgia Bulldogs,North Carolina Tar Heels,,Max,N,Y,UNC -3.5,N/A,N/A,Upcoming,0,0
 401906850,2026-11-14T00:00:00+00:00,Tennessee State Tigers,Tennessee Volunteers,,Carson,N,Y,TENN -27.5,N/A,N/A,Upcoming,0,0
@@ -11,7 +11,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401921803,2026-11-14T00:00:00+00:00,Northern Arizona Lumberjacks,Kentucky Wildcats,,Jack,N,Y,UK -30.5,N/A,N/A,Upcoming,0,0
 401921825,2026-11-14T00:00:00+00:00,Prairie View A&M Panthers,Vanderbilt Commodores,,BFO,N,Y,VAN -41.5,N/A,N/A,Upcoming,0,0
 401925755,2026-11-14T00:00:00+00:00,Northern Iowa Panthers,Michigan State Spartans,,Matt,N,Y,MSU -27.5,N/A,N/A,Upcoming,0,0
-401926133,2026-11-14T00:00:00+00:00,Ohio Bobcats,Purdue Boilermakers,,Sam,N,Y,PUR -18.5,N/A,N/A,Upcoming,0,0
+401926133,2026-11-14T00:00:00+00:00,Ohio Bobcats,Purdue Boilermakers,,Sam,N,Y,PUR -19.5,N/A,N/A,Upcoming,0,0
 401916316,2026-11-14T00:30:00+00:00,Ohio State Buckeyes,UConn Huskies,,Max,N,Y,CONN -12.5,N/A,N/A,Upcoming,0,0
 401926794,2026-11-14T00:30:00+00:00,North Carolina Central Eagles,Liberty Flames,,Will,N,Y,LIB -16.5,N/A,N/A,Upcoming,0,0
 401927363,2026-11-14T00:30:00+00:00,South Dakota Coyotes,Drake Bulldogs,,Miles,N,Y,DRKE -13.5,N/A,N/A,Upcoming,0,0
