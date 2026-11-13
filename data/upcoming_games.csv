@@ -1,6 +1,6 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
-401909696,2026-11-13T22:00:00+00:00,Texas A&M-Corpus Christi Islanders,Florida State Seminoles,,Joe,N,Y,N/A,N/A,N/A,Live,41,58
-401921721,2026-11-13T22:00:00+00:00,North Alabama Lions,Miami Hurricanes,,Aaron,N,Y,N/A,N/A,N/A,Live,36,75
+401909696,2026-11-13T22:00:00+00:00,Texas A&M-Corpus Christi Islanders,Florida State Seminoles,,Joe,N,Y,N/A,N/A,N/A,Live,41,60
+401921721,2026-11-13T22:00:00+00:00,North Alabama Lions,Miami Hurricanes,,Aaron,N,Y,N/A,N/A,N/A,Live,41,83
 401906772,2026-11-14T00:00:00+00:00,Merrimack Warriors,Florida Gators,,Joe,N,Y,FLA -35.5,N/A,N/A,Upcoming,0,0
 401906782,2026-11-14T00:00:00+00:00,Georgia Bulldogs,North Carolina Tar Heels,,Max,N,Y,UNC -3.5,N/A,N/A,Upcoming,0,0
 401906850,2026-11-14T00:00:00+00:00,Tennessee State Tigers,Tennessee Volunteers,,Carson,N,Y,TENN -27.5,N/A,N/A,Upcoming,0,0
@@ -42,7 +42,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401911188,2026-11-15T00:30:00+00:00,Cincinnati Bearcats,Dayton Flyers,Racz,Max,Y,Y,CIN -6.5,N/A,N/A,Upcoming,0,0
 401911347,2026-11-15T01:00:00+00:00,UL Monroe Warhawks,Grand Canyon Lopes,,Racz,N,Y,GCU -31.5,N/A,N/A,Upcoming,0,0
 401920760,2026-11-15T01:30:00+00:00,Furman Paladins,Belmont Bruins,Sam,BFO,Y,Y,N/A,N/A,N/A,Upcoming,0,0
-401911455,2026-11-15T03:00:00+00:00,Utah Valley Wolverines,Nevada Wolf Pack,,Justin,N,Y,NEV -9.5,N/A,N/A,Upcoming,0,0
+401911455,2026-11-15T03:00:00+00:00,Utah Valley Wolverines,Nevada Wolf Pack,,Justin,N,Y,NEV -10.5,N/A,N/A,Upcoming,0,0
 401917530,2026-11-15T03:00:00+00:00,New Mexico Lobos,Santa Clara Broncos,Joe,Miles,Y,Y,UNM -2.5,N/A,N/A,Upcoming,0,0
 401909774,2026-11-15T18:00:00+00:00,Niagara Purple Eagles,Iowa State Cyclones,,Justin,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401918949,2026-11-15T18:00:00+00:00,Louisville Cardinals,Memphis Tigers,BFO,Sam,Y,Y,N/A,N/A,N/A,Upcoming,0,0
