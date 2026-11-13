@@ -115,7 +115,6 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401911456,2026-11-19T03:00:00+00:00,Idaho Vandals,Nevada Wolf Pack,,Justin,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401929146,2026-11-19T03:00:00+00:00,Texas Southern Tigers,San Diego State Aztecs,,Carson,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401920158,2026-11-19T03:30:00+00:00,Cal State Fullerton Titans,UCLA Bruins,,Justin,N,Y,N/A,N/A,N/A,Upcoming,0,0
-401928354,2026-11-19T05:00:00+00:00,UC Santa Barbara Gauchos,Pepperdine Waves,Max,,Y,N,N/A,N/A,N/A,Upcoming,0,0
 401918959,2026-11-19T23:00:00+00:00,NC State Wolfpack,Murray State Racers,Matt,Matt,Y,Y,N/A,N/A,N/A,Upcoming,0,0
 401920413,2026-11-20T00:00:00+00:00,Montana State Bobcats,High Point Panthers,,Max,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401926814,2026-11-20T00:30:00+00:00,Charleston Cougars,Drake Bulldogs,Miles,Miles,Y,Y,N/A,N/A,N/A,Upcoming,0,0
@@ -123,6 +122,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401918950,2026-11-20T01:00:00+00:00,Stetson Hatters,Louisville Cardinals,,BFO,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401927375,2026-11-20T01:00:00+00:00,Eureka Red Devils,Illinois State Redbirds,,Aaron,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401920888,2026-11-20T01:30:00+00:00,Seton Hall Pirates,Wisconsin Badgers,,Joe,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401928354,2026-11-20T02:00:00+00:00,UC Santa Barbara Gauchos,Pepperdine Waves,Max,,Y,N,N/A,N/A,N/A,Upcoming,0,0
 401917536,2026-11-20T03:30:00+00:00,VCU Rams,Santa Clara Broncos,Trevor,Miles,Y,Y,N/A,N/A,N/A,Upcoming,0,0
 401926773,2026-11-20T04:00:00+00:00,Tarleton State Texans,USC Trojans,,Max,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401920380,2026-11-20T20:00:00+00:00,Northwestern Wildcats,Virginia Tech Hokies,,BFO,N,Y,N/A,N/A,N/A,Upcoming,0,0
