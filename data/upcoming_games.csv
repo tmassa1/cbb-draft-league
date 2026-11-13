@@ -1,8 +1,8 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
 401916288,2026-11-12T23:30:00+00:00,Tennessee Tech Golden Eagles,Indiana Hoosiers,,Aaron,N,Y,N/A,N/A,N/A,Final,66,90
-401920412,2026-11-13T00:00:00+00:00,Southern Utah Thunderbirds,High Point Panthers,,Max,N,Y,N/A,N/A,N/A,Live,59,88
-401922239,2026-11-13T00:00:00+00:00,Stetson Hatters,Howard Bison,,Jack,N,Y,N/A,N/A,N/A,Live,62,75
-401921741,2026-11-13T02:00:00+00:00,Montana State Bobcats,BYU Cougars,,Miles,N,Y,BYU -21.5,N/A,N/A,Upcoming,0,0
+401920412,2026-11-13T00:00:00+00:00,Southern Utah Thunderbirds,High Point Panthers,,Max,N,Y,N/A,N/A,N/A,Final,59,88
+401922239,2026-11-13T00:00:00+00:00,Stetson Hatters,Howard Bison,,Jack,N,Y,N/A,N/A,N/A,Final,62,75
+401921741,2026-11-13T02:00:00+00:00,Montana State Bobcats,BYU Cougars,,Miles,N,Y,N/A,N/A,N/A,Live,6,7
 401909696,2026-11-13T22:00:00+00:00,Texas A&M-Corpus Christi Islanders,Florida State Seminoles,,Joe,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401921721,2026-11-13T22:00:00+00:00,North Alabama Lions,Miami Hurricanes,,Aaron,N,Y,MIA -33.5,N/A,N/A,Upcoming,0,0
 401906772,2026-11-14T00:00:00+00:00,Merrimack Warriors,Florida Gators,,Joe,N,Y,FLA -37.5,N/A,N/A,Upcoming,0,0
@@ -23,7 +23,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401909565,2026-11-14T01:00:00+00:00,SIU Edwardsville Cougars,Duke Blue Devils,,Racz,N,Y,DUKE -43.5,N/A,N/A,Upcoming,0,0
 401916297,2026-11-14T01:00:00+00:00,Virginia Cavaliers,Maryland Terrapins,Justin,,Y,N,UVA -5.5,N/A,N/A,Upcoming,0,0
 401917916,2026-11-14T01:00:00+00:00,Central Arkansas Bears,Arkansas Razorbacks,,Carson,N,Y,ARK -26.5,N/A,N/A,Upcoming,0,0
-401926117,2026-11-14T01:00:00+00:00,Wright State Raiders,Samford Bulldogs,,Carson,N,Y,WRST -2.5,N/A,N/A,Upcoming,0,0
+401926117,2026-11-14T01:00:00+00:00,Wright State Raiders,Samford Bulldogs,,Carson,N,Y,WRST -1.5,N/A,N/A,Upcoming,0,0
 401927374,2026-11-14T01:00:00+00:00,Illinois State Redbirds,North Dakota State Bison,Aaron,Sam,Y,Y,ILST -3.5,N/A,N/A,Upcoming,0,0
 401927380,2026-11-14T01:00:00+00:00,Texas Southern Tigers,Murray State Racers,,Matt,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401906760,2026-11-14T02:00:00+00:00,Seton Hall Pirates,Alabama Crimson Tide,,Trevor,N,Y,ALA -16.5,N/A,N/A,Upcoming,0,0
@@ -37,6 +37,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401911015,2026-11-14T19:00:00+00:00,Miami (OH) RedHawks,Evansville Purple Aces,BFO,,Y,N,N/A,N/A,N/A,Upcoming,0,0
 401918993,2026-11-14T19:00:00+00:00,Coppin State Eagles,South Florida Bulls,,Will,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401921689,2026-11-14T20:30:00+00:00,LSU Tigers,Gonzaga Bulldogs,,Jack,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401934189,2026-11-14T21:00:00+00:00,Montreat Cavaliers,UNC Wilmington Seahawks,,Racz,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401920193,2026-11-14T23:30:00+00:00,Pennsylvania Quakers,Saint Joseph's Hawks,Aaron,,Y,N,N/A,N/A,N/A,Upcoming,0,0
 401917951,2026-11-15T00:00:00+00:00,Austin Peay Governors,Wichita State Shockers,,Will,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401921775,2026-11-15T00:00:00+00:00,Rider Broncs,Villanova Wildcats,,Joe,N,Y,N/A,N/A,N/A,Upcoming,0,0
