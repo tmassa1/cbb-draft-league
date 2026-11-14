@@ -239,6 +239,8 @@ game_id,date,team,opponent,result,phase,source
 401906850,2026-11-13,Tennessee,Tennessee State Tigers,W,regular,espn
 401909565,2026-11-13,Duke,SIU Edwardsville Cougars,W,regular,espn
 401909696,2026-11-13,Florida State,Texas A&M-Corpus Christi Islanders,W,regular,espn
+401909741,2026-11-13,Arizona,Auburn Tigers,W,regular,espn
+401909741,2026-11-13,Auburn,Arizona Wildcats,L,regular,espn
 401913528,2026-11-13,Illinois,Sam Houston Bearkats,W,regular,espn
 401916297,2026-11-13,Virginia,Maryland Terrapins,W,regular,espn
 401916316,2026-11-13,UConn,Ohio State Buckeyes,W,regular,espn
