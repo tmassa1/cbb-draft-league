@@ -233,8 +233,11 @@ game_id,date,team,opponent,result,phase,source
 401921741,2026-11-12,BYU,Montana State Bobcats,W,regular,espn
 401922239,2026-11-12,Howard,Stetson Hatters,W,regular,espn
 401906772,2026-11-13,Florida,Merrimack Warriors,W,regular,espn
+401906782,2026-11-13,North Carolina,Georgia Bulldogs,L,regular,espn
 401909696,2026-11-13,Florida State,Texas A&M-Corpus Christi Islanders,W,regular,espn
 401913528,2026-11-13,Illinois,Sam Houston Bearkats,W,regular,espn
+401918958,2026-11-13,NC State,Troy Trojans,W,regular,espn
+401920379,2026-11-13,Virginia Tech,Mount St. Mary's Mountaineers,W,regular,espn
 401920747,2026-11-13,Yale,Northeastern Huskies,L,regular,espn
 401921721,2026-11-13,Miami (FL),North Alabama Lions,W,regular,espn
 401921803,2026-11-13,Kentucky,Northern Arizona Lumberjacks,W,regular,espn
