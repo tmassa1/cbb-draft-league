@@ -234,7 +234,9 @@ game_id,date,team,opponent,result,phase,source
 401922239,2026-11-12,Howard,Stetson Hatters,W,regular,espn
 401906772,2026-11-13,Florida,Merrimack Warriors,W,regular,espn
 401906782,2026-11-13,North Carolina,Georgia Bulldogs,L,regular,espn
+401906804,2026-11-13,Oklahoma,Fairleigh Dickinson Knights,W,regular,espn
 401906850,2026-11-13,Tennessee,Tennessee State Tigers,W,regular,espn
+401909565,2026-11-13,Duke,SIU Edwardsville Cougars,W,regular,espn
 401909696,2026-11-13,Florida State,Texas A&M-Corpus Christi Islanders,W,regular,espn
 401913528,2026-11-13,Illinois,Sam Houston Bearkats,W,regular,espn
 401916316,2026-11-13,UConn,Ohio State Buckeyes,W,regular,espn
