@@ -15,16 +15,16 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401916316,2026-11-14T00:30:00+00:00,Ohio State Buckeyes,UConn Huskies,,Max,N,Y,N/A,N/A,N/A,Final,68,84
 401926794,2026-11-14T00:30:00+00:00,North Carolina Central Eagles,Liberty Flames,,Will,N,Y,N/A,N/A,N/A,Final,66,74
 401927363,2026-11-14T00:30:00+00:00,South Dakota Coyotes,Drake Bulldogs,,Miles,N,Y,N/A,N/A,N/A,Final,72,81
-401906804,2026-11-14T01:00:00+00:00,Fairleigh Dickinson Knights,Oklahoma Sooners,,Justin,N,Y,N/A,N/A,N/A,Live,48,70
-401909565,2026-11-14T01:00:00+00:00,SIU Edwardsville Cougars,Duke Blue Devils,,Racz,N,Y,N/A,N/A,N/A,Live,43,74
-401916297,2026-11-14T01:00:00+00:00,Virginia Cavaliers,Maryland Terrapins,Justin,,Y,N,N/A,N/A,N/A,Live,63,65
-401917916,2026-11-14T01:00:00+00:00,Central Arkansas Bears,Arkansas Razorbacks,,Carson,N,Y,N/A,N/A,N/A,Live,60,68
-401926117,2026-11-14T01:00:00+00:00,Wright State Raiders,Samford Bulldogs,,Carson,N,Y,N/A,N/A,N/A,Live,90,66
-401927374,2026-11-14T01:00:00+00:00,Illinois State Redbirds,North Dakota State Bison,Aaron,Sam,Y,Y,N/A,N/A,N/A,Live,62,67
-401927380,2026-11-14T01:00:00+00:00,Texas Southern Tigers,Murray State Racers,,Matt,N,Y,N/A,N/A,N/A,Live,62,85
-401906760,2026-11-14T02:00:00+00:00,Seton Hall Pirates,Alabama Crimson Tide,,Trevor,N,Y,N/A,N/A,N/A,Live,28,33
-401906794,2026-11-14T02:00:00+00:00,Xavier Musketeers,Mississippi State Bulldogs,Jack,,Y,N,N/A,N/A,N/A,Live,28,25
-401909741,2026-11-14T02:00:00+00:00,Arizona Wildcats,Auburn Tigers,Will,Trevor,Y,Y,N/A,N/A,N/A,Live,29,24
+401906804,2026-11-14T01:00:00+00:00,Fairleigh Dickinson Knights,Oklahoma Sooners,,Justin,N,Y,N/A,N/A,N/A,Live,50,72
+401909565,2026-11-14T01:00:00+00:00,SIU Edwardsville Cougars,Duke Blue Devils,,Racz,N,Y,N/A,N/A,N/A,Live,43,77
+401916297,2026-11-14T01:00:00+00:00,Virginia Cavaliers,Maryland Terrapins,Justin,,Y,N,N/A,N/A,N/A,Live,65,67
+401917916,2026-11-14T01:00:00+00:00,Central Arkansas Bears,Arkansas Razorbacks,,Carson,N,Y,N/A,N/A,N/A,Live,62,71
+401926117,2026-11-14T01:00:00+00:00,Wright State Raiders,Samford Bulldogs,,Carson,N,Y,N/A,N/A,N/A,Final,90,66
+401927374,2026-11-14T01:00:00+00:00,Illinois State Redbirds,North Dakota State Bison,Aaron,Sam,Y,Y,N/A,N/A,N/A,Live,69,69
+401927380,2026-11-14T01:00:00+00:00,Texas Southern Tigers,Murray State Racers,,Matt,N,Y,N/A,N/A,N/A,Live,65,90
+401906760,2026-11-14T02:00:00+00:00,Seton Hall Pirates,Alabama Crimson Tide,,Trevor,N,Y,N/A,N/A,N/A,Live,28,38
+401906794,2026-11-14T02:00:00+00:00,Xavier Musketeers,Mississippi State Bulldogs,Jack,,Y,N,N/A,N/A,N/A,Live,34,27
+401909741,2026-11-14T02:00:00+00:00,Arizona Wildcats,Auburn Tigers,Will,Trevor,Y,Y,N/A,N/A,N/A,Live,31,24
 401917525,2026-11-14T03:00:00+00:00,UIC Flames,Saint Mary's Gaels,,Jack,N,Y,SMC -6.5,N/A,N/A,Upcoming,0,0
 401920372,2026-11-14T03:00:00+00:00,UC San Diego Tritons,Utah State Aggies,Justin,Sam,Y,Y,USU -12.5,N/A,N/A,Upcoming,0,0
 401919004,2026-11-14T17:00:00+00:00,Tulane Green Wave,Akron Zips,,Matt,N,Y,AKR -12.5,N/A,N/A,Upcoming,0,0
