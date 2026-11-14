@@ -252,3 +252,6 @@ game_id,date,team,opponent,result,phase,source
 401926133,2026-11-13,Purdue,Ohio Bobcats,W,regular,espn
 401926794,2026-11-13,Liberty,North Carolina Central Eagles,W,regular,espn
 401927363,2026-11-13,Drake,South Dakota Coyotes,W,regular,espn
+401927374,2026-11-13,Illinois State,North Dakota State Bison,L,regular,espn
+401927374,2026-11-13,North Dakota State,Illinois State Redbirds,W,regular,espn
+401927380,2026-11-13,Murray State,Texas Southern Tigers,W,regular,espn
