@@ -248,6 +248,8 @@ game_id,date,team,opponent,result,phase,source
 401917525,2026-11-13,Saint Mary's,UIC Flames,W,regular,espn
 401917916,2026-11-13,Arkansas,Central Arkansas Bears,W,regular,espn
 401918958,2026-11-13,NC State,Troy Trojans,W,regular,espn
+401920372,2026-11-13,UC San Diego,Utah State Aggies,L,regular,espn
+401920372,2026-11-13,Utah State,UC San Diego Tritons,W,regular,espn
 401920379,2026-11-13,Virginia Tech,Mount St. Mary's Mountaineers,W,regular,espn
 401920747,2026-11-13,Yale,Northeastern Huskies,L,regular,espn
 401921721,2026-11-13,Miami (FL),North Alabama Lions,W,regular,espn
