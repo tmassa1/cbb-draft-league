@@ -22,11 +22,11 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401926117,2026-11-14T01:00:00+00:00,Wright State Raiders,Samford Bulldogs,,Carson,N,Y,N/A,N/A,N/A,Final,90,66
 401927374,2026-11-14T01:00:00+00:00,Illinois State Redbirds,North Dakota State Bison,Aaron,Sam,Y,Y,N/A,N/A,N/A,Final,81,82
 401927380,2026-11-14T01:00:00+00:00,Texas Southern Tigers,Murray State Racers,,Matt,N,Y,N/A,N/A,N/A,Final,78,99
-401906760,2026-11-14T02:00:00+00:00,Seton Hall Pirates,Alabama Crimson Tide,,Trevor,N,Y,N/A,N/A,N/A,Live,48,61
-401906794,2026-11-14T02:00:00+00:00,Xavier Musketeers,Mississippi State Bulldogs,Jack,,Y,N,N/A,N/A,N/A,Live,55,41
-401909741,2026-11-14T02:00:00+00:00,Arizona Wildcats,Auburn Tigers,Will,Trevor,Y,Y,N/A,N/A,N/A,Live,53,48
-401917525,2026-11-14T03:00:00+00:00,UIC Flames,Saint Mary's Gaels,,Jack,N,Y,N/A,N/A,N/A,Live,21,33
-401920372,2026-11-14T03:00:00+00:00,UC San Diego Tritons,Utah State Aggies,Justin,Sam,Y,Y,N/A,N/A,N/A,Live,21,42
+401906760,2026-11-14T02:00:00+00:00,Seton Hall Pirates,Alabama Crimson Tide,,Trevor,N,Y,N/A,N/A,N/A,Live,57,66
+401906794,2026-11-14T02:00:00+00:00,Xavier Musketeers,Mississippi State Bulldogs,Jack,,Y,N,N/A,N/A,N/A,Live,56,41
+401909741,2026-11-14T02:00:00+00:00,Arizona Wildcats,Auburn Tigers,Will,Trevor,Y,Y,N/A,N/A,N/A,Live,53,53
+401917525,2026-11-14T03:00:00+00:00,UIC Flames,Saint Mary's Gaels,,Jack,N,Y,N/A,N/A,N/A,Live,24,40
+401920372,2026-11-14T03:00:00+00:00,UC San Diego Tritons,Utah State Aggies,Justin,Sam,Y,Y,N/A,N/A,N/A,Live,21,45
 401919004,2026-11-14T17:00:00+00:00,Tulane Green Wave,Akron Zips,,Matt,N,Y,AKR -12.5,N/A,N/A,Upcoming,0,0
 401919847,2026-11-14T18:00:00+00:00,Stonehill Skyhawks,Texas Tech Red Raiders,,Matt,N,Y,TTU -40.5,N/A,N/A,Upcoming,0,0
 401920693,2026-11-14T18:00:00+00:00,Plattsburgh Cardinals,Vermont Catamounts,,Racz,N,Y,N/A,N/A,N/A,Upcoming,0,0
