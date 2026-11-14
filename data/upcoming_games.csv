@@ -1,9 +1,9 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
 401919004,2026-11-14T17:00:00+00:00,Tulane Green Wave,Akron Zips,,Matt,N,Y,N/A,N/A,N/A,Final,63,65
-401920693,2026-11-14T18:00:00+00:00,Plattsburgh Cardinals,Vermont Catamounts,,Racz,N,Y,N/A,N/A,N/A,Live,46,89
-401911015,2026-11-14T19:00:00+00:00,Miami (OH) RedHawks,Evansville Purple Aces,BFO,,Y,N,N/A,N/A,N/A,Live,19,24
-401918993,2026-11-14T19:00:00+00:00,Coppin State Eagles,South Florida Bulls,,Will,N,Y,N/A,N/A,N/A,Live,14,17
-401919847,2026-11-14T19:00:00+00:00,Stonehill Skyhawks,Texas Tech Red Raiders,,Matt,N,Y,N/A,N/A,N/A,Live,13,19
+401920693,2026-11-14T18:00:00+00:00,Plattsburgh Cardinals,Vermont Catamounts,,Racz,N,Y,N/A,N/A,N/A,Live,52,95
+401911015,2026-11-14T19:00:00+00:00,Miami (OH) RedHawks,Evansville Purple Aces,BFO,,Y,N,N/A,N/A,N/A,Live,25,29
+401918993,2026-11-14T19:00:00+00:00,Coppin State Eagles,South Florida Bulls,,Will,N,Y,N/A,N/A,N/A,Live,20,17
+401919847,2026-11-14T19:00:00+00:00,Stonehill Skyhawks,Texas Tech Red Raiders,,Matt,N,Y,N/A,N/A,N/A,Live,13,20
 401921689,2026-11-14T20:30:00+00:00,LSU Tigers,Gonzaga Bulldogs,,Jack,N,Y,GONZ -5.5,N/A,N/A,Upcoming,0,0
 401934189,2026-11-14T21:00:00+00:00,Montreat Cavaliers,UNC Wilmington Seahawks,,Racz,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401920193,2026-11-14T23:30:00+00:00,Pennsylvania Quakers,Saint Joseph's Hawks,Aaron,,Y,N,JOES -5.5,N/A,N/A,Upcoming,0,0
