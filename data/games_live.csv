@@ -282,6 +282,8 @@ game_id,date,team,opponent,result,phase,source
 401921775,2026-11-14,Villanova,Rider Broncs,W,regular,espn
 401925774,2026-11-14,Howard,Davidson Wildcats,W,regular,espn
 401934189,2026-11-14,UNC Wilmington,Montreat Cavaliers,W,regular,espn
+401906866,2026-11-15,Baylor,Texas Longhorns,L,regular,espn
+401906866,2026-11-15,Texas,Baylor Bears,W,regular,espn
 401909493,2026-11-15,Iowa,Creighton Bluejays,L,regular,espn
 401909525,2026-11-15,Marquette,Missouri Tigers,L,regular,espn
 401909525,2026-11-15,Missouri,Marquette Golden Eagles,W,regular,espn
