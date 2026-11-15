@@ -1,7 +1,7 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
-401909774,2026-11-15T18:00:00+00:00,Niagara Purple Eagles,Iowa State Cyclones,,Justin,N,Y,N/A,N/A,N/A,Live,18,22
-401918949,2026-11-15T18:00:00+00:00,Louisville Cardinals,Memphis Tigers,BFO,Sam,Y,Y,N/A,N/A,N/A,Live,35,18
-401926063,2026-11-15T18:00:00+00:00,Boise State Broncos,Nebraska Cornhuskers,,Will,N,Y,N/A,N/A,N/A,Live,20,30
+401909774,2026-11-15T18:00:00+00:00,Niagara Purple Eagles,Iowa State Cyclones,,Justin,N,Y,N/A,N/A,N/A,Live,18,26
+401918949,2026-11-15T18:00:00+00:00,Louisville Cardinals,Memphis Tigers,BFO,Sam,Y,Y,N/A,N/A,N/A,Live,38,25
+401926063,2026-11-15T18:00:00+00:00,Boise State Broncos,Nebraska Cornhuskers,,Will,N,Y,N/A,N/A,N/A,Live,28,34
 401918453,2026-11-15T19:00:00+00:00,William & Mary Tribe,Michigan Wolverines,,Sam,N,Y,MICH -26.5,N/A,N/A,Upcoming,0,0
 401920136,2026-11-15T19:00:00+00:00,Cal State Bakersfield Roadrunners,North Dakota State Bison,,Sam,N,Y,NDSU -4.5,N/A,N/A,Upcoming,0,0
 401924744,2026-11-15T19:00:00+00:00,Emmanuel (MA) Lions,Yale Bulldogs,,Joe,N,Y,N/A,N/A,N/A,Upcoming,0,0
