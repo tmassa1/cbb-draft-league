@@ -6,13 +6,13 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401919847,2026-11-14T19:00:00+00:00,Stonehill Skyhawks,Texas Tech Red Raiders,,Matt,N,Y,N/A,N/A,N/A,Final,37,88
 401921689,2026-11-14T20:30:00+00:00,LSU Tigers,Gonzaga Bulldogs,,Jack,N,Y,N/A,N/A,N/A,Final,81,80
 401934189,2026-11-14T21:00:00+00:00,Montreat Cavaliers,UNC Wilmington Seahawks,,Racz,N,Y,N/A,N/A,N/A,Final,41,100
-401920193,2026-11-14T23:30:00+00:00,Pennsylvania Quakers,Saint Joseph's Hawks,Aaron,,Y,N,N/A,N/A,N/A,Live,67,76
-401917951,2026-11-15T00:00:00+00:00,Austin Peay Governors,Wichita State Shockers,,Will,N,Y,N/A,N/A,N/A,Live,35,46
-401921775,2026-11-15T00:00:00+00:00,Rider Broncs,Villanova Wildcats,,Joe,N,Y,N/A,N/A,N/A,Live,34,55
-401925774,2026-11-15T00:00:00+00:00,Howard Bison,Davidson Wildcats,Jack,,Y,N,N/A,N/A,N/A,Live,47,41
+401920193,2026-11-14T23:30:00+00:00,Pennsylvania Quakers,Saint Joseph's Hawks,Aaron,,Y,N,N/A,N/A,N/A,Live,72,78
+401917951,2026-11-15T00:00:00+00:00,Austin Peay Governors,Wichita State Shockers,,Will,N,Y,N/A,N/A,N/A,Live,38,51
+401921775,2026-11-15T00:00:00+00:00,Rider Broncs,Villanova Wildcats,,Joe,N,Y,N/A,N/A,N/A,Live,40,60
+401925774,2026-11-15T00:00:00+00:00,Howard Bison,Davidson Wildcats,Jack,,Y,N,N/A,N/A,N/A,Live,49,41
 401926864,2026-11-15T00:00:00+00:00,Louisiana Ragin' Cajuns,UNC Wilmington Seahawks,,Racz,N,Y,N/A,N/A,N/A,Final,0,0
-401911188,2026-11-15T00:30:00+00:00,Cincinnati Bearcats,Dayton Flyers,Racz,Max,Y,Y,N/A,N/A,N/A,Live,45,29
-401911347,2026-11-15T01:00:00+00:00,UL Monroe Warhawks,Grand Canyon Lopes,,Racz,N,Y,N/A,N/A,N/A,Live,6,17
+401911188,2026-11-15T00:30:00+00:00,Cincinnati Bearcats,Dayton Flyers,Racz,Max,Y,Y,N/A,N/A,N/A,Live,52,34
+401911347,2026-11-15T01:00:00+00:00,UL Monroe Warhawks,Grand Canyon Lopes,,Racz,N,Y,N/A,N/A,N/A,Live,8,17
 401920760,2026-11-15T01:30:00+00:00,Furman Paladins,Belmont Bruins,Sam,BFO,Y,Y,BEL -2.5,N/A,N/A,Upcoming,0,0
 401911455,2026-11-15T03:00:00+00:00,Utah Valley Wolverines,Nevada Wolf Pack,,Justin,N,Y,NEV -9.5,N/A,N/A,Upcoming,0,0
 401917530,2026-11-15T03:00:00+00:00,New Mexico Lobos,Santa Clara Broncos,Joe,Miles,Y,Y,UNM -1.5,N/A,N/A,Upcoming,0,0
