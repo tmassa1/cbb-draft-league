@@ -6,12 +6,12 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401920136,2026-11-15T19:00:00+00:00,Cal State Bakersfield Roadrunners,North Dakota State Bison,,Sam,N,Y,N/A,N/A,N/A,Final,73,69
 401924744,2026-11-15T19:00:00+00:00,Emmanuel (MA) Lions,Yale Bulldogs,,Joe,N,Y,N/A,N/A,N/A,Final,58,103
 401925926,2026-11-15T19:00:00+00:00,South Carolina State Bulldogs,Charleston Cougars,,Miles,N,Y,N/A,N/A,N/A,Final,66,90
-401909525,2026-11-15T19:30:00+00:00,Marquette Golden Eagles,Missouri Tigers,Matt,Racz,Y,Y,N/A,N/A,N/A,Live,60,63
+401909525,2026-11-15T19:30:00+00:00,Marquette Golden Eagles,Missouri Tigers,Matt,Racz,Y,Y,N/A,N/A,N/A,Live,61,64
 401906866,2026-11-15T20:00:00+00:00,Baylor Bears,Texas Longhorns,Carson,Jack,Y,Y,N/A,N/A,N/A,Live,49,52
-401909493,2026-11-15T20:00:00+00:00,Creighton Bluejays,Iowa Hawkeyes,,BFO,N,Y,N/A,N/A,N/A,Live,46,47
-401911251,2026-11-15T20:00:00+00:00,High Point Panthers,Saint Louis Billikens,Max,Will,Y,Y,N/A,N/A,N/A,Live,55,34
-401928353,2026-11-15T21:00:00+00:00,UC Merced Bobcats,UC Santa Barbara Gauchos,,Max,N,Y,N/A,N/A,N/A,Live,13,31
-401928789,2026-11-15T21:00:00+00:00,New Mexico State Aggies,San Diego State Aztecs,,Carson,N,Y,N/A,N/A,N/A,Live,9,15
+401909493,2026-11-15T20:00:00+00:00,Creighton Bluejays,Iowa Hawkeyes,,BFO,N,Y,N/A,N/A,N/A,Live,52,50
+401911251,2026-11-15T20:00:00+00:00,High Point Panthers,Saint Louis Billikens,Max,Will,Y,Y,N/A,N/A,N/A,Live,55,37
+401928353,2026-11-15T21:00:00+00:00,UC Merced Bobcats,UC Santa Barbara Gauchos,,Max,N,Y,N/A,N/A,N/A,Live,13,39
+401928789,2026-11-15T21:00:00+00:00,New Mexico State Aggies,San Diego State Aztecs,,Carson,N,Y,N/A,N/A,N/A,Live,14,15
 401920681,2026-11-16T00:00:00+00:00,Syracuse Orange,St. John's Red Storm,,Miles,N,Y,SJU -12.5,N/A,N/A,Upcoming,0,0
 401926772,2026-11-16T00:00:00+00:00,Arkansas-Pine Bluff Golden Lions,USC Trojans,,Max,N,Y,USC -46.5,N/A,N/A,Upcoming,0,0
 401920896,2026-11-16T01:00:00+00:00,Coastal Carolina Chanticleers,Wisconsin Badgers,,Joe,N,Y,WIS -27.5,N/A,N/A,Upcoming,0,0
@@ -19,7 +19,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401921182,2026-11-17T00:00:00+00:00,DeSales Bulldogs,Pennsylvania Quakers,,Aaron,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401921804,2026-11-17T00:00:00+00:00,Grambling Tigers,Kentucky Wildcats,,Jack,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401925864,2026-11-17T00:00:00+00:00,Western Kentucky Hilltoppers,Tulsa Golden Hurricane,Trevor,,Y,N,N/A,N/A,N/A,Upcoming,0,0
-401927364,2026-11-17T00:30:00+00:00,Tarleton State Texans,Drake Bulldogs,,Miles,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401927364,2026-11-17T00:30:00+00:00,Tarleton State Texans,Drake Bulldogs,,Miles,N,Y,DRKE -10.5,N/A,N/A,Upcoming,0,0
 401917532,2026-11-17T03:00:00+00:00,Portland State Vikings,Saint Mary's Gaels,,Jack,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401920373,2026-11-17T03:00:00+00:00,Texas Southern Tigers,UC San Diego Tritons,,Justin,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401924265,2026-11-17T03:00:00+00:00,Long Beach State Beach,UCLA Bruins,,Justin,N,Y,N/A,N/A,N/A,Upcoming,0,0
