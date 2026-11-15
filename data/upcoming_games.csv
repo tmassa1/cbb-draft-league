@@ -1,12 +1,12 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
-401909774,2026-11-15T18:00:00+00:00,Niagara Purple Eagles,Iowa State Cyclones,,Justin,N,Y,N/A,N/A,N/A,Live,41,51
-401918949,2026-11-15T18:00:00+00:00,Louisville Cardinals,Memphis Tigers,BFO,Sam,Y,Y,N/A,N/A,N/A,Live,65,75
-401926063,2026-11-15T18:00:00+00:00,Boise State Broncos,Nebraska Cornhuskers,,Will,N,Y,N/A,N/A,N/A,Live,64,90
-401918453,2026-11-15T19:00:00+00:00,William & Mary Tribe,Michigan Wolverines,,Sam,N,Y,N/A,N/A,N/A,Live,37,44
-401920136,2026-11-15T19:00:00+00:00,Cal State Bakersfield Roadrunners,North Dakota State Bison,,Sam,N,Y,N/A,N/A,N/A,Live,34,38
-401924744,2026-11-15T19:00:00+00:00,Emmanuel (MA) Lions,Yale Bulldogs,,Joe,N,Y,N/A,N/A,N/A,Live,29,46
-401925926,2026-11-15T19:00:00+00:00,South Carolina State Bulldogs,Charleston Cougars,,Miles,N,Y,N/A,N/A,N/A,Live,27,28
-401909525,2026-11-15T19:30:00+00:00,Marquette Golden Eagles,Missouri Tigers,Matt,Racz,Y,Y,N/A,N/A,N/A,Live,13,11
+401909774,2026-11-15T18:00:00+00:00,Niagara Purple Eagles,Iowa State Cyclones,,Justin,N,Y,N/A,N/A,N/A,Live,41,57
+401918949,2026-11-15T18:00:00+00:00,Louisville Cardinals,Memphis Tigers,BFO,Sam,Y,Y,N/A,N/A,N/A,Live,69,80
+401926063,2026-11-15T18:00:00+00:00,Boise State Broncos,Nebraska Cornhuskers,,Will,N,Y,N/A,N/A,N/A,Live,65,92
+401918453,2026-11-15T19:00:00+00:00,William & Mary Tribe,Michigan Wolverines,,Sam,N,Y,N/A,N/A,N/A,Live,41,48
+401920136,2026-11-15T19:00:00+00:00,Cal State Bakersfield Roadrunners,North Dakota State Bison,,Sam,N,Y,N/A,N/A,N/A,Live,37,38
+401924744,2026-11-15T19:00:00+00:00,Emmanuel (MA) Lions,Yale Bulldogs,,Joe,N,Y,N/A,N/A,N/A,Live,32,51
+401925926,2026-11-15T19:00:00+00:00,South Carolina State Bulldogs,Charleston Cougars,,Miles,N,Y,N/A,N/A,N/A,Live,27,34
+401909525,2026-11-15T19:30:00+00:00,Marquette Golden Eagles,Missouri Tigers,Matt,Racz,Y,Y,N/A,N/A,N/A,Live,16,13
 401906866,2026-11-15T20:00:00+00:00,Baylor Bears,Texas Longhorns,Carson,Jack,Y,Y,TEX -3.5,N/A,N/A,Upcoming,0,0
 401909493,2026-11-15T20:00:00+00:00,Creighton Bluejays,Iowa Hawkeyes,,BFO,N,Y,IOWA -3.5,N/A,N/A,Upcoming,0,0
 401911251,2026-11-15T20:00:00+00:00,High Point Panthers,Saint Louis Billikens,Max,Will,Y,Y,SLU -7.5,N/A,N/A,Upcoming,0,0
