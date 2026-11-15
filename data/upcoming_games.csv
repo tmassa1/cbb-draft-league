@@ -1,6 +1,6 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
 401909774,2026-11-15T18:00:00+00:00,Niagara Purple Eagles,Iowa State Cyclones,,Justin,N,Y,N/A,N/A,N/A,Live,25,32
-401918949,2026-11-15T18:00:00+00:00,Louisville Cardinals,Memphis Tigers,BFO,Sam,Y,Y,N/A,N/A,N/A,Live,49,36
+401918949,2026-11-15T18:00:00+00:00,Louisville Cardinals,Memphis Tigers,BFO,Sam,Y,Y,N/A,N/A,N/A,Live,52,41
 401926063,2026-11-15T18:00:00+00:00,Boise State Broncos,Nebraska Cornhuskers,,Will,N,Y,N/A,N/A,N/A,Live,34,52
 401918453,2026-11-15T19:00:00+00:00,William & Mary Tribe,Michigan Wolverines,,Sam,N,Y,MICH -26.5,N/A,N/A,Upcoming,0,0
 401920136,2026-11-15T19:00:00+00:00,Cal State Bakersfield Roadrunners,North Dakota State Bison,,Sam,N,Y,NDSU -3.5,N/A,N/A,Upcoming,0,0
