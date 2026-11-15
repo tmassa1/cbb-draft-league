@@ -1,11 +1,11 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
 401909774,2026-11-15T18:00:00+00:00,Niagara Purple Eagles,Iowa State Cyclones,,Justin,N,Y,N/A,N/A,N/A,Live,25,32
-401918949,2026-11-15T18:00:00+00:00,Louisville Cardinals,Memphis Tigers,BFO,Sam,Y,Y,N/A,N/A,N/A,Live,46,30
+401918949,2026-11-15T18:00:00+00:00,Louisville Cardinals,Memphis Tigers,BFO,Sam,Y,Y,N/A,N/A,N/A,Live,49,36
 401926063,2026-11-15T18:00:00+00:00,Boise State Broncos,Nebraska Cornhuskers,,Will,N,Y,N/A,N/A,N/A,Live,34,52
 401918453,2026-11-15T19:00:00+00:00,William & Mary Tribe,Michigan Wolverines,,Sam,N,Y,MICH -26.5,N/A,N/A,Upcoming,0,0
 401920136,2026-11-15T19:00:00+00:00,Cal State Bakersfield Roadrunners,North Dakota State Bison,,Sam,N,Y,NDSU -3.5,N/A,N/A,Upcoming,0,0
 401924744,2026-11-15T19:00:00+00:00,Emmanuel (MA) Lions,Yale Bulldogs,,Joe,N,Y,N/A,N/A,N/A,Upcoming,0,0
-401925926,2026-11-15T19:00:00+00:00,South Carolina State Bulldogs,Charleston Cougars,,Miles,N,Y,COFC -18.5,N/A,N/A,Upcoming,0,0
+401925926,2026-11-15T19:00:00+00:00,South Carolina State Bulldogs,Charleston Cougars,,Miles,N,Y,COFC -19.5,N/A,N/A,Upcoming,0,0
 401909525,2026-11-15T19:30:00+00:00,Missouri Tigers,Marquette Golden Eagles,Racz,Matt,Y,Y,MARQ -2.5,N/A,N/A,Upcoming,0,0
 401906866,2026-11-15T20:00:00+00:00,Baylor Bears,Texas Longhorns,Carson,Jack,Y,Y,TEX -3.5,N/A,N/A,Upcoming,0,0
 401909493,2026-11-15T20:00:00+00:00,Creighton Bluejays,Iowa Hawkeyes,,BFO,N,Y,IOWA -4.5,N/A,N/A,Upcoming,0,0
