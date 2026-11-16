@@ -12,9 +12,9 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401911251,2026-11-15T20:00:00+00:00,High Point Panthers,Saint Louis Billikens,Max,Will,Y,Y,N/A,N/A,N/A,Final,68,58
 401928353,2026-11-15T21:00:00+00:00,UC Merced Bobcats,UC Santa Barbara Gauchos,,Max,N,Y,N/A,N/A,N/A,Final,47,97
 401928789,2026-11-15T21:00:00+00:00,New Mexico State Aggies,San Diego State Aztecs,,Carson,N,Y,N/A,N/A,N/A,Final,61,73
-401920681,2026-11-16T00:00:00+00:00,Syracuse Orange,St. John's Red Storm,,Miles,N,Y,N/A,N/A,N/A,Live,35,41
-401926772,2026-11-16T00:00:00+00:00,Arkansas-Pine Bluff Golden Lions,USC Trojans,,Max,N,Y,N/A,N/A,N/A,Live,26,79
-401920896,2026-11-16T01:00:00+00:00,Coastal Carolina Chanticleers,Wisconsin Badgers,,Joe,N,Y,N/A,N/A,N/A,Live,17,15
+401920681,2026-11-16T00:00:00+00:00,Syracuse Orange,St. John's Red Storm,,Miles,N,Y,N/A,N/A,N/A,Live,40,46
+401926772,2026-11-16T00:00:00+00:00,Arkansas-Pine Bluff Golden Lions,USC Trojans,,Max,N,Y,N/A,N/A,N/A,Live,26,84
+401920896,2026-11-16T01:00:00+00:00,Coastal Carolina Chanticleers,Wisconsin Badgers,,Joe,N,Y,N/A,N/A,N/A,Live,21,15
 401911240,2026-11-17T00:00:00+00:00,Richmond Spiders,Virginia Tech Hokies,,BFO,N,Y,VT -12.5,N/A,N/A,Upcoming,0,0
 401921182,2026-11-17T00:00:00+00:00,DeSales Bulldogs,Pennsylvania Quakers,,Aaron,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401921804,2026-11-17T00:00:00+00:00,Grambling Tigers,Kentucky Wildcats,,Jack,N,Y,UK -30.5,N/A,N/A,Upcoming,0,0
