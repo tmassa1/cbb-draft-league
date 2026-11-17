@@ -1,9 +1,9 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
-401911240,2026-11-17T00:00:00+00:00,Richmond Spiders,Virginia Tech Hokies,,BFO,N,Y,N/A,N/A,N/A,Live,54,70
-401921182,2026-11-17T00:00:00+00:00,DeSales Bulldogs,Pennsylvania Quakers,,Aaron,N,Y,N/A,N/A,N/A,Live,45,73
-401921804,2026-11-17T00:00:00+00:00,Grambling Tigers,Kentucky Wildcats,,Jack,N,Y,N/A,N/A,N/A,Live,50,72
-401925864,2026-11-17T00:00:00+00:00,Western Kentucky Hilltoppers,Tulsa Golden Hurricane,Trevor,,Y,N,N/A,N/A,N/A,Live,44,39
-401927364,2026-11-17T00:30:00+00:00,Tarleton State Texans,Drake Bulldogs,,Miles,N,Y,N/A,N/A,N/A,Live,38,39
+401911240,2026-11-17T00:00:00+00:00,Richmond Spiders,Virginia Tech Hokies,,BFO,N,Y,N/A,N/A,N/A,Live,59,73
+401921182,2026-11-17T00:00:00+00:00,DeSales Bulldogs,Pennsylvania Quakers,,Aaron,N,Y,N/A,N/A,N/A,Live,53,75
+401921804,2026-11-17T00:00:00+00:00,Grambling Tigers,Kentucky Wildcats,,Jack,N,Y,N/A,N/A,N/A,Live,52,76
+401925864,2026-11-17T00:00:00+00:00,Western Kentucky Hilltoppers,Tulsa Golden Hurricane,Trevor,,Y,N,N/A,N/A,N/A,Live,46,43
+401927364,2026-11-17T00:30:00+00:00,Tarleton State Texans,Drake Bulldogs,,Miles,N,Y,N/A,N/A,N/A,Live,42,43
 401917532,2026-11-17T03:00:00+00:00,Portland State Vikings,Saint Mary's Gaels,,Jack,N,Y,SMC -18.5,N/A,N/A,Upcoming,0,0
 401920373,2026-11-17T03:00:00+00:00,Texas Southern Tigers,UC San Diego Tritons,,Justin,N,Y,UCSD -18.5,N/A,N/A,Upcoming,0,0
 401924265,2026-11-17T03:00:00+00:00,Long Beach State Beach,UCLA Bruins,,Justin,N,Y,UCLA -29.5,N/A,N/A,Upcoming,0,0
