@@ -1,9 +1,9 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
-401911240,2026-11-17T00:00:00+00:00,Richmond Spiders,Virginia Tech Hokies,,BFO,N,Y,N/A,N/A,N/A,Live,32,41
-401921182,2026-11-17T00:00:00+00:00,DeSales Bulldogs,Pennsylvania Quakers,,Aaron,N,Y,N/A,N/A,N/A,Live,30,44
-401921804,2026-11-17T00:00:00+00:00,Grambling Tigers,Kentucky Wildcats,,Jack,N,Y,N/A,N/A,N/A,Live,31,41
+401911240,2026-11-17T00:00:00+00:00,Richmond Spiders,Virginia Tech Hokies,,BFO,N,Y,N/A,N/A,N/A,Live,37,41
+401921182,2026-11-17T00:00:00+00:00,DeSales Bulldogs,Pennsylvania Quakers,,Aaron,N,Y,N/A,N/A,N/A,Live,30,49
+401921804,2026-11-17T00:00:00+00:00,Grambling Tigers,Kentucky Wildcats,,Jack,N,Y,N/A,N/A,N/A,Live,35,52
 401925864,2026-11-17T00:00:00+00:00,Western Kentucky Hilltoppers,Tulsa Golden Hurricane,Trevor,,Y,N,N/A,N/A,N/A,Live,40,26
-401927364,2026-11-17T00:30:00+00:00,Tarleton State Texans,Drake Bulldogs,,Miles,N,Y,N/A,N/A,N/A,Live,25,18
+401927364,2026-11-17T00:30:00+00:00,Tarleton State Texans,Drake Bulldogs,,Miles,N,Y,N/A,N/A,N/A,Live,28,18
 401917532,2026-11-17T03:00:00+00:00,Portland State Vikings,Saint Mary's Gaels,,Jack,N,Y,SMC -18.5,N/A,N/A,Upcoming,0,0
 401920373,2026-11-17T03:00:00+00:00,Texas Southern Tigers,UC San Diego Tritons,,Justin,N,Y,UCSD -18.5,N/A,N/A,Upcoming,0,0
 401924265,2026-11-17T03:00:00+00:00,Long Beach State Beach,UCLA Bruins,,Justin,N,Y,UCLA -29.5,N/A,N/A,Upcoming,0,0
@@ -28,7 +28,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401906851,2026-11-18T02:00:00+00:00,Michigan State Spartans,Tennessee Volunteers,Matt,Carson,Y,Y,MSU -3.5,N/A,N/A,Upcoming,0,0
 401920426,2026-11-18T02:00:00+00:00,Old Dominion Monarchs,Virginia Cavaliers,,Justin,N,Y,UVA -27.5,N/A,N/A,Upcoming,0,0
 401909787,2026-11-18T02:30:00+00:00,UNLV Rebels,Kansas Jayhawks,,Miles,N,Y,KU -17.5,N/A,N/A,Upcoming,0,0
-401921729,2026-11-18T03:00:00+00:00,UC Irvine Anteaters,Stanford Cardinal,Trevor,,Y,N,STAN -8.5,N/A,N/A,Upcoming,0,0
+401921729,2026-11-18T03:00:00+00:00,UC Irvine Anteaters,Stanford Cardinal,Trevor,,Y,N,STAN -7.5,N/A,N/A,Upcoming,0,0
 401925879,2026-11-18T04:00:00+00:00,Montana State Bobcats,Gonzaga Bulldogs,,Jack,N,Y,GONZ -23.5,N/A,N/A,Upcoming,0,0
 401920512,2026-11-18T04:59:00+00:00,West Virginia Mountaineers,Auburn Tigers,,Trevor,N,Y,WVU -1.5,N/A,N/A,Upcoming,0,0
 401909753,2026-11-18T17:00:00+00:00,Jackson State Tigers,Baylor Bears,,Carson,N,Y,N/A,N/A,N/A,Upcoming,0,0
