@@ -4,8 +4,8 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401921804,2026-11-17T00:00:00+00:00,Grambling Tigers,Kentucky Wildcats,,Jack,N,Y,N/A,N/A,N/A,Final,59,88
 401925864,2026-11-17T00:00:00+00:00,Western Kentucky Hilltoppers,Tulsa Golden Hurricane,Trevor,,Y,N,N/A,N/A,N/A,Final,64,67
 401927364,2026-11-17T00:30:00+00:00,Tarleton State Texans,Drake Bulldogs,,Miles,N,Y,N/A,N/A,N/A,Final,83,79
-401917532,2026-11-17T03:00:00+00:00,Portland State Vikings,Saint Mary's Gaels,,Jack,N,Y,N/A,N/A,N/A,Live,42,49
-401920373,2026-11-17T03:00:00+00:00,Texas Southern Tigers,UC San Diego Tritons,,Justin,N,Y,N/A,N/A,N/A,Live,58,61
+401917532,2026-11-17T03:00:00+00:00,Portland State Vikings,Saint Mary's Gaels,,Jack,N,Y,N/A,N/A,N/A,Live,46,56
+401920373,2026-11-17T03:00:00+00:00,Texas Southern Tigers,UC San Diego Tritons,,Justin,N,Y,N/A,N/A,N/A,Live,60,63
 401924265,2026-11-17T03:00:00+00:00,Long Beach State Beach,UCLA Bruins,,Justin,N,Y,N/A,N/A,N/A,Live,20,53
 401927381,2026-11-17T17:00:00+00:00,Hofstra Pride,Murray State Racers,,Matt,N,Y,MUR -11.5,N/A,N/A,Upcoming,0,0
 401920511,2026-11-17T19:00:00+00:00,Rutgers Scarlet Knights,Houston Cougars,,Trevor,N,Y,HOU -16.5,N/A,N/A,Upcoming,0,0
@@ -15,7 +15,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401909544,2026-11-18T00:00:00+00:00,Cleveland State Vikings,Xavier Musketeers,,Jack,N,Y,XAV -33.5,N/A,N/A,Upcoming,0,0
 401909566,2026-11-18T00:00:00+00:00,Illinois Fighting Illini,Duke Blue Devils,Aaron,Racz,Y,Y,DUKE -7.5,N/A,N/A,Upcoming,0,0
 401909697,2026-11-18T00:00:00+00:00,Ball State Cardinals,Florida State Seminoles,,Joe,N,Y,FSU -26.5,N/A,N/A,Upcoming,0,0
-401909708,2026-11-18T00:00:00+00:00,Villanova Wildcats,Pittsburgh Panthers,Joe,,Y,N,PITT -1.5,N/A,N/A,Upcoming,0,0
+401909708,2026-11-18T00:00:00+00:00,Villanova Wildcats,Pittsburgh Panthers,Joe,,Y,N,VILL -1.5,N/A,N/A,Upcoming,0,0
 401911019,2026-11-18T00:00:00+00:00,Central Michigan Chippewas,Dayton Flyers,,Max,N,Y,DAY -10.5,N/A,N/A,Upcoming,0,0
 401918994,2026-11-18T00:00:00+00:00,Tennessee State Tigers,South Florida Bulls,,Will,N,Y,USF -11.5,N/A,N/A,Upcoming,0,0
 401920857,2026-11-18T00:00:00+00:00,East Tennessee State Buccaneers,Marshall Thundering Herd,Carson,,Y,N,MRSH -1.5,N/A,N/A,Upcoming,0,0
