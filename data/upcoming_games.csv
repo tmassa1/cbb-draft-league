@@ -1,9 +1,9 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
-401911240,2026-11-17T00:00:00+00:00,Richmond Spiders,Virginia Tech Hokies,,BFO,N,Y,N/A,N/A,N/A,Live,11,22
-401921182,2026-11-17T00:00:00+00:00,DeSales Bulldogs,Pennsylvania Quakers,,Aaron,N,Y,N/A,N/A,N/A,Live,14,25
-401921804,2026-11-17T00:00:00+00:00,Grambling Tigers,Kentucky Wildcats,,Jack,N,Y,N/A,N/A,N/A,Live,12,19
+401911240,2026-11-17T00:00:00+00:00,Richmond Spiders,Virginia Tech Hokies,,BFO,N,Y,N/A,N/A,N/A,Live,16,25
+401921182,2026-11-17T00:00:00+00:00,DeSales Bulldogs,Pennsylvania Quakers,,Aaron,N,Y,N/A,N/A,N/A,Live,20,30
+401921804,2026-11-17T00:00:00+00:00,Grambling Tigers,Kentucky Wildcats,,Jack,N,Y,N/A,N/A,N/A,Live,15,21
 401925864,2026-11-17T00:00:00+00:00,Western Kentucky Hilltoppers,Tulsa Golden Hurricane,Trevor,,Y,N,N/A,N/A,N/A,Live,27,13
-401927364,2026-11-17T00:30:00+00:00,Tarleton State Texans,Drake Bulldogs,,Miles,N,Y,DRKE -8.5,N/A,N/A,Upcoming,0,0
+401927364,2026-11-17T00:30:00+00:00,Tarleton State Texans,Drake Bulldogs,,Miles,N,Y,N/A,N/A,N/A,Live,3,3
 401917532,2026-11-17T03:00:00+00:00,Portland State Vikings,Saint Mary's Gaels,,Jack,N,Y,SMC -18.5,N/A,N/A,Upcoming,0,0
 401920373,2026-11-17T03:00:00+00:00,Texas Southern Tigers,UC San Diego Tritons,,Justin,N,Y,UCSD -18.5,N/A,N/A,Upcoming,0,0
 401924265,2026-11-17T03:00:00+00:00,Long Beach State Beach,UCLA Bruins,,Justin,N,Y,UCLA -29.5,N/A,N/A,Upcoming,0,0
