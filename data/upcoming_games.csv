@@ -13,12 +13,12 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401920857,2026-11-18T00:00:00+00:00,East Tennessee State Buccaneers,Marshall Thundering Herd,Carson,,Y,N,N/A,N/A,N/A,Final,55,67
 401921722,2026-11-18T00:00:00+00:00,Rider Broncs,Miami Hurricanes,,Aaron,N,Y,N/A,N/A,N/A,Final,48,95
 401924941,2026-11-18T00:00:00+00:00,Akron Zips,Bucknell Bison,Matt,,Y,N,N/A,N/A,N/A,Final,49,53
-401906761,2026-11-18T00:30:00+00:00,Kennesaw State Owls,Alabama Crimson Tide,,Trevor,N,Y,N/A,N/A,N/A,Live,80,99
-401916289,2026-11-18T00:30:00+00:00,Arkansas Razorbacks,Indiana Hoosiers,Carson,Aaron,Y,Y,N/A,N/A,N/A,Live,74,73
-401921106,2026-11-18T01:00:00+00:00,Bellarmine Knights,Illinois State Redbirds,,Aaron,N,Y,N/A,N/A,N/A,Live,42,56
-401921826,2026-11-18T01:00:00+00:00,Eastern Illinois Panthers,Vanderbilt Commodores,,BFO,N,Y,N/A,N/A,N/A,Live,47,87
-401906851,2026-11-18T02:00:00+00:00,Michigan State Spartans,Tennessee Volunteers,Matt,Carson,Y,Y,N/A,N/A,N/A,Live,18,14
-401920426,2026-11-18T02:00:00+00:00,Old Dominion Monarchs,Virginia Cavaliers,,Justin,N,Y,N/A,N/A,N/A,Live,20,25
+401906761,2026-11-18T00:30:00+00:00,Kennesaw State Owls,Alabama Crimson Tide,,Trevor,N,Y,N/A,N/A,N/A,Live,86,105
+401916289,2026-11-18T00:30:00+00:00,Arkansas Razorbacks,Indiana Hoosiers,Carson,Aaron,Y,Y,N/A,N/A,N/A,Live,76,80
+401921106,2026-11-18T01:00:00+00:00,Bellarmine Knights,Illinois State Redbirds,,Aaron,N,Y,N/A,N/A,N/A,Live,47,63
+401921826,2026-11-18T01:00:00+00:00,Eastern Illinois Panthers,Vanderbilt Commodores,,BFO,N,Y,N/A,N/A,N/A,Live,47,91
+401906851,2026-11-18T02:00:00+00:00,Michigan State Spartans,Tennessee Volunteers,Matt,Carson,Y,Y,N/A,N/A,N/A,Live,19,14
+401920426,2026-11-18T02:00:00+00:00,Old Dominion Monarchs,Virginia Cavaliers,,Justin,N,Y,N/A,N/A,N/A,Live,23,30
 401909787,2026-11-18T02:30:00+00:00,UNLV Rebels,Kansas Jayhawks,,Miles,N,Y,KU -15.5,N/A,N/A,Upcoming,0,0
 401921729,2026-11-18T03:00:00+00:00,UC Irvine Anteaters,Stanford Cardinal,Trevor,,Y,N,STAN -6.5,N/A,N/A,Upcoming,0,0
 401925879,2026-11-18T04:00:00+00:00,Montana State Bobcats,Gonzaga Bulldogs,,Jack,N,Y,GONZ -23.5,N/A,N/A,Upcoming,0,0
