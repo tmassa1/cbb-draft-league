@@ -312,6 +312,8 @@ game_id,date,team,opponent,result,phase,source
 401927364,2026-11-16,Drake,Tarleton State Texans,L,regular,espn
 401906761,2026-11-17,Alabama,Kennesaw State Owls,W,regular,espn
 401906773,2026-11-17,Florida,Notre Dame Fighting Irish,W,regular,espn
+401906851,2026-11-17,Michigan State,Tennessee Volunteers,L,regular,espn
+401906851,2026-11-17,Tennessee,Michigan State Spartans,W,regular,espn
 401909544,2026-11-17,Xavier,Cleveland State Vikings,W,regular,espn
 401909566,2026-11-17,Duke,Illinois Fighting Illini,L,regular,espn
 401909566,2026-11-17,Illinois,Duke Blue Devils,W,regular,espn
