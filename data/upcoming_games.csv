@@ -1,5 +1,5 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
-401909753,2026-11-18T17:00:00+00:00,Jackson State Tigers,Baylor Bears,,Carson,N,Y,BAY -35.5,N/A,N/A,Upcoming,0,0
+401909753,2026-11-18T17:00:00+00:00,Jackson State Tigers,Baylor Bears,,Carson,N,Y,BAY -34.5,N/A,N/A,Upcoming,0,0
 401920514,2026-11-18T21:30:00+00:00,Houston Cougars,Florida Gators,Trevor,Joe,Y,Y,FLA -2.5,N/A,N/A,Upcoming,0,0
 401922283,2026-11-18T23:30:00+00:00,Samford Bulldogs,South Carolina Upstate Spartans,Carson,,Y,N,SAM -7.5,N/A,N/A,Upcoming,0,0
 401919808,2026-11-19T00:00:00+00:00,UNC Wilmington Seahawks,Long Island University Sharks,Racz,,Y,N,UNCW -9.5,N/A,N/A,Upcoming,0,0
@@ -18,7 +18,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401926064,2026-11-19T01:30:00+00:00,South Dakota Coyotes,Nebraska Cornhuskers,,Will,N,Y,NEB -33.5,N/A,N/A,Upcoming,0,0
 401909742,2026-11-19T02:00:00+00:00,UConn Huskies,Arizona Wildcats,Max,Will,Y,Y,ARIZ -3.5,N/A,N/A,Upcoming,0,0
 401921742,2026-11-19T02:00:00+00:00,Northern Colorado Bears,BYU Cougars,,Miles,N,Y,BYU -29.5,N/A,N/A,Upcoming,0,0
-401921816,2026-11-19T02:00:00+00:00,Alcorn State Braves,Missouri Tigers,,Racz,N,Y,MIZ -44.5,N/A,N/A,Upcoming,0,0
+401921816,2026-11-19T02:00:00+00:00,Alcorn State Braves,Missouri Tigers,,Racz,N,Y,MIZ -43.5,N/A,N/A,Upcoming,0,0
 401925949,2026-11-19T02:00:00+00:00,Weber State Wildcats,Utah State Aggies,,Sam,N,Y,USU -31.5,N/A,N/A,Upcoming,0,0
 401929176,2026-11-19T02:00:00+00:00,North Dakota State Bison,Colorado State Rams,Sam,,Y,N,CSU -13.5,N/A,N/A,Upcoming,0,0
 401911456,2026-11-19T03:00:00+00:00,Idaho Vandals,Nevada Wolf Pack,,Justin,N,Y,NEV -18.5,N/A,N/A,Upcoming,0,0
