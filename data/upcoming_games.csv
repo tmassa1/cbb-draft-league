@@ -1,5 +1,5 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
-401909753,2026-11-18T17:00:00+00:00,Jackson State Tigers,Baylor Bears,,Carson,N,Y,N/A,N/A,N/A,Live,33,78
+401909753,2026-11-18T17:00:00+00:00,Jackson State Tigers,Baylor Bears,,Carson,N,Y,N/A,N/A,N/A,Live,36,86
 401920514,2026-11-18T21:30:00+00:00,Houston Cougars,Florida Gators,Trevor,Joe,Y,Y,FLA -1.5,N/A,N/A,Upcoming,0,0
 401922283,2026-11-18T23:30:00+00:00,Samford Bulldogs,South Carolina Upstate Spartans,Carson,,Y,N,SAM -6.5,N/A,N/A,Upcoming,0,0
 401919808,2026-11-19T00:00:00+00:00,UNC Wilmington Seahawks,Long Island University Sharks,Racz,,Y,N,UNCW -9.5,N/A,N/A,Upcoming,0,0
@@ -24,7 +24,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401911456,2026-11-19T03:00:00+00:00,Idaho Vandals,Nevada Wolf Pack,,Justin,N,Y,NEV -18.5,N/A,N/A,Upcoming,0,0
 401920516,2026-11-19T03:00:00+00:00,UNLV Rebels,Auburn Tigers,,Trevor,N,Y,AUB -9.5,N/A,N/A,Upcoming,0,0
 401929146,2026-11-19T03:00:00+00:00,Texas Southern Tigers,San Diego State Aztecs,,Carson,N,Y,SDSU -25.5,N/A,N/A,Upcoming,0,0
-401920158,2026-11-19T03:30:00+00:00,Cal State Fullerton Titans,UCLA Bruins,,Justin,N,Y,UCLA -32.5,N/A,N/A,Upcoming,0,0
+401920158,2026-11-19T03:30:00+00:00,Cal State Fullerton Titans,UCLA Bruins,,Justin,N,Y,UCLA -31.5,N/A,N/A,Upcoming,0,0
 401918959,2026-11-19T23:00:00+00:00,NC State Wolfpack,Murray State Racers,Matt,Matt,Y,Y,N/A,N/A,N/A,Upcoming,0,0
 401920413,2026-11-20T00:00:00+00:00,Montana State Bobcats,High Point Panthers,,Max,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401926814,2026-11-20T00:30:00+00:00,Charleston Cougars,Drake Bulldogs,Miles,Miles,Y,Y,N/A,N/A,N/A,Upcoming,0,0
