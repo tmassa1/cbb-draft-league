@@ -15,11 +15,11 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401924941,2026-11-18T00:00:00+00:00,Akron Zips,Bucknell Bison,Matt,,Y,N,N/A,N/A,N/A,Final,49,53
 401906761,2026-11-18T00:30:00+00:00,Kennesaw State Owls,Alabama Crimson Tide,,Trevor,N,Y,N/A,N/A,N/A,Final,91,109
 401916289,2026-11-18T00:30:00+00:00,Arkansas Razorbacks,Indiana Hoosiers,Carson,Aaron,Y,Y,N/A,N/A,N/A,Final,76,81
-401921106,2026-11-18T01:00:00+00:00,Bellarmine Knights,Illinois State Redbirds,,Aaron,N,Y,N/A,N/A,N/A,Live,50,70
-401921826,2026-11-18T01:00:00+00:00,Eastern Illinois Panthers,Vanderbilt Commodores,,BFO,N,Y,N/A,N/A,N/A,Live,49,94
-401906851,2026-11-18T02:00:00+00:00,Michigan State Spartans,Tennessee Volunteers,Matt,Carson,Y,Y,N/A,N/A,N/A,Live,23,16
-401920426,2026-11-18T02:00:00+00:00,Old Dominion Monarchs,Virginia Cavaliers,,Justin,N,Y,N/A,N/A,N/A,Live,23,33
-401909787,2026-11-18T02:30:00+00:00,UNLV Rebels,Kansas Jayhawks,,Miles,N,Y,N/A,N/A,N/A,Live,0,4
+401921106,2026-11-18T01:00:00+00:00,Bellarmine Knights,Illinois State Redbirds,,Aaron,N,Y,N/A,N/A,N/A,Live,54,73
+401921826,2026-11-18T01:00:00+00:00,Eastern Illinois Panthers,Vanderbilt Commodores,,BFO,N,Y,N/A,N/A,N/A,Final,50,96
+401906851,2026-11-18T02:00:00+00:00,Michigan State Spartans,Tennessee Volunteers,Matt,Carson,Y,Y,N/A,N/A,N/A,Live,23,21
+401920426,2026-11-18T02:00:00+00:00,Old Dominion Monarchs,Virginia Cavaliers,,Justin,N,Y,N/A,N/A,N/A,Live,26,37
+401909787,2026-11-18T02:30:00+00:00,UNLV Rebels,Kansas Jayhawks,,Miles,N,Y,N/A,N/A,N/A,Live,7,17
 401921729,2026-11-18T03:00:00+00:00,UC Irvine Anteaters,Stanford Cardinal,Trevor,,Y,N,STAN -6.5,N/A,N/A,Upcoming,0,0
 401925879,2026-11-18T04:00:00+00:00,Montana State Bobcats,Gonzaga Bulldogs,,Jack,N,Y,GONZ -23.5,N/A,N/A,Upcoming,0,0
 401920512,2026-11-18T04:59:00+00:00,West Virginia Mountaineers,Auburn Tigers,,Trevor,N,Y,AUB -1.5,N/A,N/A,Upcoming,0,0
