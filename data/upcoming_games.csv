@@ -15,18 +15,18 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401906805,2026-11-19T01:00:00+00:00,Campbell Fighting Camels,Oklahoma Sooners,,Justin,N,Y,N/A,N/A,N/A,Final,78,87
 401911232,2026-11-19T01:00:00+00:00,Wichita State Shockers,Loyola Chicago Ramblers,Will,,Y,N,N/A,N/A,N/A,Final,79,75
 401922283,2026-11-19T01:30:00+00:00,Samford Bulldogs,South Carolina Upstate Spartans,Carson,,Y,N,N/A,N/A,N/A,Final,74,64
-401926064,2026-11-19T01:30:00+00:00,South Dakota Coyotes,Nebraska Cornhuskers,,Will,N,Y,N/A,N/A,N/A,Live,47,73
-401909742,2026-11-19T02:00:00+00:00,UConn Huskies,Arizona Wildcats,Max,Will,Y,Y,N/A,N/A,N/A,Live,35,51
-401921742,2026-11-19T02:00:00+00:00,Northern Colorado Bears,BYU Cougars,,Miles,N,Y,N/A,N/A,N/A,Live,38,76
-401921816,2026-11-19T02:00:00+00:00,Alcorn State Braves,Missouri Tigers,,Racz,N,Y,N/A,N/A,N/A,Live,22,59
-401925949,2026-11-19T02:00:00+00:00,Weber State Wildcats,Utah State Aggies,,Sam,N,Y,N/A,N/A,N/A,Live,51,73
-401929176,2026-11-19T02:00:00+00:00,North Dakota State Bison,Colorado State Rams,Sam,,Y,N,N/A,N/A,N/A,Live,54,48
-401911456,2026-11-19T03:00:00+00:00,Idaho Vandals,Nevada Wolf Pack,,Justin,N,Y,N/A,N/A,N/A,Live,19,15
-401929146,2026-11-19T03:00:00+00:00,Texas Southern Tigers,San Diego State Aztecs,,Carson,N,Y,N/A,N/A,N/A,Live,12,32
+401926064,2026-11-19T01:30:00+00:00,South Dakota Coyotes,Nebraska Cornhuskers,,Will,N,Y,N/A,N/A,N/A,Final,47,73
+401909742,2026-11-19T02:00:00+00:00,UConn Huskies,Arizona Wildcats,Max,Will,Y,Y,N/A,N/A,N/A,Live,36,53
+401921742,2026-11-19T02:00:00+00:00,Northern Colorado Bears,BYU Cougars,,Miles,N,Y,N/A,N/A,N/A,Live,42,79
+401921816,2026-11-19T02:00:00+00:00,Alcorn State Braves,Missouri Tigers,,Racz,N,Y,N/A,N/A,N/A,Live,28,67
+401925949,2026-11-19T02:00:00+00:00,Weber State Wildcats,Utah State Aggies,,Sam,N,Y,N/A,N/A,N/A,Live,55,87
+401929176,2026-11-19T02:00:00+00:00,North Dakota State Bison,Colorado State Rams,Sam,,Y,N,N/A,N/A,N/A,Live,54,58
+401911456,2026-11-19T03:00:00+00:00,Idaho Vandals,Nevada Wolf Pack,,Justin,N,Y,N/A,N/A,N/A,Live,21,19
+401929146,2026-11-19T03:00:00+00:00,Texas Southern Tigers,San Diego State Aztecs,,Carson,N,Y,N/A,N/A,N/A,Live,12,37
 401920158,2026-11-19T03:30:00+00:00,Cal State Fullerton Titans,UCLA Bruins,,Justin,N,Y,UCLA -31.5,N/A,N/A,Upcoming,0,0
-401920516,2026-11-19T03:30:00+00:00,UNLV Rebels,Auburn Tigers,,Trevor,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401920516,2026-11-19T03:30:00+00:00,UNLV Rebels,Auburn Tigers,,Trevor,N,Y,N/A,N/A,N/A,Live,5,7
 401920517,2026-11-19T19:30:00+00:00,Florida Gators,TBD,Joe,,Y,N,N/A,N/A,N/A,Upcoming,0,0
-401918959,2026-11-19T23:00:00+00:00,NC State Wolfpack,Murray State Racers,Matt,Matt,Y,Y,NCSU -3.5,N/A,N/A,Upcoming,0,0
+401918959,2026-11-19T23:00:00+00:00,NC State Wolfpack,Murray State Racers,Matt,Matt,Y,Y,NCSU -4.5,N/A,N/A,Upcoming,0,0
 401920413,2026-11-20T00:00:00+00:00,Montana State Bobcats,High Point Panthers,,Max,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401926814,2026-11-20T00:30:00+00:00,Charleston Cougars,Drake Bulldogs,Miles,Miles,Y,Y,DRKE -1.5,N/A,N/A,Upcoming,0,0
 401906867,2026-11-20T01:00:00+00:00,Southern Utah Thunderbirds,Texas Longhorns,,Jack,N,Y,TEX -38.5,N/A,N/A,Upcoming,0,0
