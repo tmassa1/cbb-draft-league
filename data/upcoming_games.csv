@@ -1,14 +1,14 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
 401909753,2026-11-18T17:00:00+00:00,Jackson State Tigers,Baylor Bears,,Carson,N,Y,N/A,N/A,N/A,Final,55,104
 401920514,2026-11-18T21:48:00+00:00,Houston Cougars,Florida Gators,Trevor,Joe,Y,Y,N/A,N/A,N/A,Final,86,76
-401919808,2026-11-19T00:00:00+00:00,UNC Wilmington Seahawks,Long Island University Sharks,Racz,,Y,N,N/A,N/A,N/A,Live,19,17
-401920682,2026-11-19T00:00:00+00:00,Siena Saints,St. John's Red Storm,,Miles,N,Y,N/A,N/A,N/A,Live,8,25
-401920694,2026-11-19T00:00:00+00:00,Vermont Catamounts,Yale Bulldogs,Racz,Joe,Y,Y,N/A,N/A,N/A,Live,11,9
-401922055,2026-11-19T00:00:00+00:00,Furman Paladins,Radford Highlanders,Sam,,Y,N,N/A,N/A,N/A,Live,10,14
-401925782,2026-11-19T00:00:00+00:00,Howard Bison,Duquesne Dukes,Jack,,Y,N,N/A,N/A,N/A,Live,10,17
-401928843,2026-11-19T00:00:00+00:00,Defiance Yellow Jackets,Miami (OH) RedHawks,,BFO,N,Y,N/A,N/A,N/A,Live,18,22
+401919808,2026-11-19T00:00:00+00:00,UNC Wilmington Seahawks,Long Island University Sharks,Racz,,Y,N,N/A,N/A,N/A,Live,25,19
+401920682,2026-11-19T00:00:00+00:00,Siena Saints,St. John's Red Storm,,Miles,N,Y,N/A,N/A,N/A,Live,10,25
+401920694,2026-11-19T00:00:00+00:00,Vermont Catamounts,Yale Bulldogs,Racz,Joe,Y,Y,N/A,N/A,N/A,Live,14,11
+401922055,2026-11-19T00:00:00+00:00,Furman Paladins,Radford Highlanders,Sam,,Y,N,N/A,N/A,N/A,Live,12,20
+401925782,2026-11-19T00:00:00+00:00,Howard Bison,Duquesne Dukes,Jack,,Y,N,N/A,N/A,N/A,Live,12,19
+401928843,2026-11-19T00:00:00+00:00,Defiance Yellow Jackets,Miami (OH) RedHawks,,BFO,N,Y,N/A,N/A,N/A,Live,24,28
 401909526,2026-11-19T00:30:00+00:00,Northern Illinois Huskies,Marquette Golden Eagles,,Matt,N,Y,MARQ -26.5,N/A,N/A,Upcoming,0,0
-401920515,2026-11-19T00:30:00+00:00,Kansas Jayhawks,West Virginia Mountaineers,Miles,,Y,N,KU -7.5,N/A,N/A,Upcoming,0,0
+401920515,2026-11-19T00:30:00+00:00,Kansas Jayhawks,West Virginia Mountaineers,Miles,,Y,N,KU -6.5,N/A,N/A,Upcoming,0,0
 401920751,2026-11-19T00:30:00+00:00,Youngstown State Penguins,Cincinnati Bearcats,,Racz,N,Y,CIN -29.5,N/A,N/A,Upcoming,0,0
 401920761,2026-11-19T00:30:00+00:00,Union Commonwealth (KY) Bulldogs,Belmont Bruins,,BFO,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401921134,2026-11-19T00:30:00+00:00,LSU New Orleans Privateers,Texas Tech Red Raiders,,Matt,N,Y,TTU -36.5,N/A,N/A,Upcoming,0,0
