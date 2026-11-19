@@ -1,17 +1,17 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
 401909753,2026-11-18T17:00:00+00:00,Jackson State Tigers,Baylor Bears,,Carson,N,Y,N/A,N/A,N/A,Final,55,104
 401920514,2026-11-18T21:48:00+00:00,Houston Cougars,Florida Gators,Trevor,Joe,Y,Y,N/A,N/A,N/A,Final,86,76
-401919808,2026-11-19T00:00:00+00:00,UNC Wilmington Seahawks,Long Island University Sharks,Racz,,Y,N,N/A,N/A,N/A,Live,47,51
+401919808,2026-11-19T00:00:00+00:00,UNC Wilmington Seahawks,Long Island University Sharks,Racz,,Y,N,N/A,N/A,N/A,Live,48,51
 401920682,2026-11-19T00:00:00+00:00,Siena Saints,St. John's Red Storm,,Miles,N,Y,N/A,N/A,N/A,Live,40,57
 401920694,2026-11-19T00:00:00+00:00,Vermont Catamounts,Yale Bulldogs,Racz,Joe,Y,Y,N/A,N/A,N/A,Live,30,25
 401922055,2026-11-19T00:00:00+00:00,Furman Paladins,Radford Highlanders,Sam,,Y,N,N/A,N/A,N/A,Live,37,43
-401925782,2026-11-19T00:00:00+00:00,Howard Bison,Duquesne Dukes,Jack,,Y,N,N/A,N/A,N/A,Live,28,28
+401925782,2026-11-19T00:00:00+00:00,Howard Bison,Duquesne Dukes,Jack,,Y,N,N/A,N/A,N/A,Live,30,28
 401928843,2026-11-19T00:00:00+00:00,Defiance Yellow Jackets,Miami (OH) RedHawks,,BFO,N,Y,N/A,N/A,N/A,Live,35,54
-401909526,2026-11-19T00:30:00+00:00,Northern Illinois Huskies,Marquette Golden Eagles,,Matt,N,Y,N/A,N/A,N/A,Live,18,25
-401920515,2026-11-19T00:30:00+00:00,Kansas Jayhawks,West Virginia Mountaineers,Miles,,Y,N,N/A,N/A,N/A,Live,17,17
-401920751,2026-11-19T00:30:00+00:00,Youngstown State Penguins,Cincinnati Bearcats,,Racz,N,Y,N/A,N/A,N/A,Live,11,23
-401920761,2026-11-19T00:30:00+00:00,Union Commonwealth (KY) Bulldogs,Belmont Bruins,,BFO,N,Y,N/A,N/A,N/A,Live,10,16
-401921134,2026-11-19T00:30:00+00:00,LSU New Orleans Privateers,Texas Tech Red Raiders,,Matt,N,Y,N/A,N/A,N/A,Live,7,27
+401909526,2026-11-19T00:30:00+00:00,Northern Illinois Huskies,Marquette Golden Eagles,,Matt,N,Y,N/A,N/A,N/A,Live,24,27
+401920515,2026-11-19T00:30:00+00:00,Kansas Jayhawks,West Virginia Mountaineers,Miles,,Y,N,N/A,N/A,N/A,Live,21,23
+401920751,2026-11-19T00:30:00+00:00,Youngstown State Penguins,Cincinnati Bearcats,,Racz,N,Y,N/A,N/A,N/A,Live,11,28
+401920761,2026-11-19T00:30:00+00:00,Union Commonwealth (KY) Bulldogs,Belmont Bruins,,BFO,N,Y,N/A,N/A,N/A,Live,12,26
+401921134,2026-11-19T00:30:00+00:00,LSU New Orleans Privateers,Texas Tech Red Raiders,,Matt,N,Y,N/A,N/A,N/A,Live,8,30
 401906805,2026-11-19T01:00:00+00:00,Campbell Fighting Camels,Oklahoma Sooners,,Justin,N,Y,OU -20.5,N/A,N/A,Upcoming,0,0
 401911232,2026-11-19T01:00:00+00:00,Wichita State Shockers,Loyola Chicago Ramblers,Will,,Y,N,WICH -1.5,N/A,N/A,Upcoming,0,0
 401922283,2026-11-19T01:00:00+00:00,Samford Bulldogs,South Carolina Upstate Spartans,Carson,,Y,N,SAM -7.5,N/A,N/A,Upcoming,0,0
