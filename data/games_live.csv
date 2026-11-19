@@ -343,6 +343,7 @@ game_id,date,team,opponent,result,phase,source
 401909742,2026-11-18,UConn,Arizona Wildcats,L,regular,espn
 401909753,2026-11-18,Baylor,Jackson State Tigers,W,regular,espn
 401911232,2026-11-18,Wichita State,Loyola Chicago Ramblers,W,regular,espn
+401911456,2026-11-18,Nevada,Idaho Vandals,W,regular,espn
 401919808,2026-11-18,UNC Wilmington,Long Island University Sharks,L,regular,espn
 401920514,2026-11-18,Florida,Houston Cougars,L,regular,espn
 401920514,2026-11-18,Houston,Florida Gators,W,regular,espn
@@ -361,4 +362,5 @@ game_id,date,team,opponent,result,phase,source
 401925949,2026-11-18,Utah State,Weber State Wildcats,W,regular,espn
 401926064,2026-11-18,Nebraska,South Dakota Coyotes,W,regular,espn
 401928843,2026-11-18,Miami (OH),Defiance Yellow Jackets,W,regular,espn
+401929146,2026-11-18,San Diego State,Texas Southern Tigers,W,regular,espn
 401929176,2026-11-18,North Dakota State,Colorado State Rams,L,regular,espn
