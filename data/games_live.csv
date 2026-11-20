@@ -374,6 +374,8 @@ game_id,date,team,opponent,result,phase,source
 401918959,2026-11-19,NC State,Murray State Racers,W,regular,espn
 401920413,2026-11-19,High Point,Montana State Bobcats,W,regular,espn
 401920517,2026-11-19,Florida,West Virginia Mountaineers,W,regular,espn
+401920518,2026-11-19,Houston,Kansas Jayhawks,W,regular,espn
+401920518,2026-11-19,Kansas,Houston Cougars,L,regular,espn
 401920519,2026-11-19,Auburn,Notre Dame Fighting Irish,L,regular,espn
 401920888,2026-11-19,Wisconsin,Seton Hall Pirates,L,regular,espn
 401926773,2026-11-19,USC,Tarleton State Texans,W,regular,espn
