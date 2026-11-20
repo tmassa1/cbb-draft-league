@@ -4,11 +4,11 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401918959,2026-11-19T23:00:00+00:00,Murray State Racers,NC State Wolfpack,Matt,Matt,Y,Y,N/A,N/A,N/A,Final,83,93
 401920413,2026-11-20T00:00:00+00:00,Montana State Bobcats,High Point Panthers,,Max,N,Y,N/A,N/A,N/A,Final,74,85
 401926814,2026-11-20T00:30:00+00:00,Charleston Cougars,Drake Bulldogs,Miles,Miles,Y,Y,N/A,N/A,N/A,Final,70,86
-401906867,2026-11-20T01:00:00+00:00,Southern Utah Thunderbirds,Texas Longhorns,,Jack,N,Y,N/A,N/A,N/A,Live,59,70
-401918950,2026-11-20T01:00:00+00:00,Stetson Hatters,Louisville Cardinals,,BFO,N,Y,N/A,N/A,N/A,Live,45,70
+401906867,2026-11-20T01:00:00+00:00,Southern Utah Thunderbirds,Texas Longhorns,,Jack,N,Y,N/A,N/A,N/A,Live,62,74
+401918950,2026-11-20T01:00:00+00:00,Stetson Hatters,Louisville Cardinals,,BFO,N,Y,N/A,N/A,N/A,Live,53,75
 401927375,2026-11-20T01:00:00+00:00,Eureka Red Devils,Illinois State Redbirds,,Aaron,N,Y,N/A,N/A,N/A,Final,48,123
 401920888,2026-11-20T01:30:00+00:00,Seton Hall Pirates,Wisconsin Badgers,,Joe,N,Y,N/A,N/A,N/A,Live,40,23
-401928354,2026-11-20T02:00:00+00:00,UC Santa Barbara Gauchos,Pepperdine Waves,Max,,Y,N,N/A,N/A,N/A,Live,35,35
+401928354,2026-11-20T02:00:00+00:00,UC Santa Barbara Gauchos,Pepperdine Waves,Max,,Y,N,N/A,N/A,N/A,Live,37,36
 401917536,2026-11-20T03:30:00+00:00,VCU Rams,Santa Clara Broncos,Trevor,Miles,Y,Y,SCU -1.5,N/A,N/A,Upcoming,0,0
 401920518,2026-11-20T04:00:00+00:00,Houston Cougars,Kansas Jayhawks,Trevor,Miles,Y,Y,HOU -3.5,N/A,N/A,Upcoming,0,0
 401926773,2026-11-20T04:00:00+00:00,Tarleton State Texans,USC Trojans,,Max,N,Y,USC -28.5,N/A,N/A,Upcoming,0,0
@@ -21,7 +21,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401906852,2026-11-21T00:00:00+00:00,Coastal Carolina Chanticleers,Tennessee Volunteers,,Carson,N,Y,TENN -29.5,N/A,N/A,Upcoming,0,0
 401920427,2026-11-21T00:00:00+00:00,Loyola Maryland Greyhounds,Virginia Cavaliers,,Justin,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401921692,2026-11-21T00:00:00+00:00,TBD,Murray State Racers,,Matt,N,Y,N/A,N/A,N/A,Upcoming,0,0
-401926134,2026-11-21T00:00:00+00:00,Oakland Golden Grizzlies,Purdue Boilermakers,,Sam,N,Y,PUR -25.5,N/A,N/A,Upcoming,0,0
+401926134,2026-11-21T00:00:00+00:00,Oakland Golden Grizzlies,Purdue Boilermakers,,Sam,N,Y,PUR -24.5,N/A,N/A,Upcoming,0,0
 401927396,2026-11-21T00:00:00+00:00,Richmond Spiders,Western Kentucky Hilltoppers,,Trevor,N,Y,RICH -1.5,N/A,N/A,Upcoming,0,0
 401909545,2026-11-21T00:30:00+00:00,Iowa Hawkeyes,Xavier Musketeers,BFO,Jack,Y,Y,XAV -3.5,N/A,N/A,Upcoming,0,0
 401916290,2026-11-21T01:00:00+00:00,Kentucky Wildcats,Indiana Hoosiers,Jack,Aaron,Y,Y,IU -3.5,N/A,N/A,Upcoming,0,0
