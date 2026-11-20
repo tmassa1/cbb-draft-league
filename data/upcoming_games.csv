@@ -1,8 +1,8 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
 401909698,2026-11-20T17:00:00+00:00,Green Bay Phoenix,Florida State Seminoles,,Joe,N,Y,N/A,N/A,N/A,Final,63,87
 401920380,2026-11-20T20:00:00+00:00,Northwestern Wildcats,Virginia Tech Hokies,,BFO,N,Y,N/A,N/A,N/A,Final,70,87
-401920066,2026-11-20T21:30:00+00:00,Rhode Island Rams,Liberty Flames,,Will,N,Y,N/A,N/A,N/A,Live,23,34
-401921723,2026-11-20T22:00:00+00:00,Manhattan Jaspers,Miami Hurricanes,,Aaron,N,Y,N/A,N/A,N/A,Live,2,4
+401920066,2026-11-20T21:30:00+00:00,Rhode Island Rams,Liberty Flames,,Will,N,Y,N/A,N/A,N/A,Live,23,37
+401921723,2026-11-20T22:00:00+00:00,Manhattan Jaspers,Miami Hurricanes,,Aaron,N,Y,N/A,N/A,N/A,Live,6,10
 401921419,2026-11-20T22:30:00+00:00,Dayton Flyers,Utah Utes,Max,,Y,N,UTAH -1.5,N/A,N/A,Upcoming,0,0
 401928834,2026-11-20T23:00:00+00:00,WVU Tech Golden Bears,Akron Zips,,Matt,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401906852,2026-11-21T00:00:00+00:00,Coastal Carolina Chanticleers,Tennessee Volunteers,,Carson,N,Y,TENN -26.5,N/A,N/A,Upcoming,0,0
@@ -21,7 +21,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401911252,2026-11-21T04:00:00+00:00,Saint Louis Billikens,Saint Mary's Gaels,Will,Jack,Y,Y,SMC -1.5,N/A,N/A,Upcoming,0,0
 401925756,2026-11-21T17:00:00+00:00,Detroit Mercy Titans,Michigan State Spartans,,Matt,N,Y,MSU -41.5,N/A,N/A,Upcoming,0,0
 401919031,2026-11-21T19:00:00+00:00,New Mexico Lobos,Wichita State Shockers,Joe,Will,Y,Y,UNM -1.5,N/A,N/A,Upcoming,0,0
-401927365,2026-11-21T20:00:00+00:00,Drake Bulldogs,Missouri State Bears,Miles,,Y,N,N/A,N/A,N/A,Upcoming,0,0
+401927365,2026-11-21T20:00:00+00:00,Drake Bulldogs,Missouri State Bears,Miles,,Y,N,DRKE -3.5,N/A,N/A,Upcoming,0,0
 401918995,2026-11-21T21:00:00+00:00,South Florida Bulls,George Mason Patriots,Will,,Y,N,N/A,N/A,N/A,Upcoming,0,0
 401921183,2026-11-21T21:00:00+00:00,Pennsylvania Quakers,La Salle Explorers,Aaron,,Y,N,LAS -1.5,N/A,N/A,Upcoming,0,0
 401922048,2026-11-21T21:00:00+00:00,Longwood Lancers,East Tennessee State Buccaneers,,Carson,N,Y,N/A,N/A,N/A,Upcoming,0,0
