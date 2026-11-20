@@ -367,6 +367,8 @@ game_id,date,team,opponent,result,phase,source
 401929146,2026-11-18,San Diego State,Texas Southern Tigers,W,regular,espn
 401929176,2026-11-18,North Dakota State,Colorado State Rams,L,regular,espn
 401906867,2026-11-19,Texas,Southern Utah Thunderbirds,W,regular,espn
+401917536,2026-11-19,Santa Clara,VCU Rams,L,regular,espn
+401917536,2026-11-19,VCU,Santa Clara Broncos,W,regular,espn
 401918950,2026-11-19,Louisville,Stetson Hatters,W,regular,espn
 401918959,2026-11-19,Murray State,NC State Wolfpack,L,regular,espn
 401918959,2026-11-19,NC State,Murray State Racers,W,regular,espn
