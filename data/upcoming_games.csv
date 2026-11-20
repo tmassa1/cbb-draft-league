@@ -1,10 +1,10 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
 401909698,2026-11-20T17:00:00+00:00,Green Bay Phoenix,Florida State Seminoles,,Joe,N,Y,N/A,N/A,N/A,Final,63,87
 401920380,2026-11-20T20:00:00+00:00,Northwestern Wildcats,Virginia Tech Hokies,,BFO,N,Y,N/A,N/A,N/A,Final,70,87
-401920066,2026-11-20T21:30:00+00:00,Rhode Island Rams,Liberty Flames,,Will,N,Y,N/A,N/A,N/A,Live,68,69
-401921723,2026-11-20T22:00:00+00:00,Manhattan Jaspers,Miami Hurricanes,,Aaron,N,Y,N/A,N/A,N/A,Live,36,58
-401921419,2026-11-20T22:30:00+00:00,Dayton Flyers,Utah Utes,Max,,Y,N,N/A,N/A,N/A,Live,37,17
-401928834,2026-11-20T23:00:00+00:00,WVU Tech Golden Bears,Akron Zips,,Matt,N,Y,N/A,N/A,N/A,Live,26,45
+401920066,2026-11-20T21:30:00+00:00,Rhode Island Rams,Liberty Flames,,Will,N,Y,N/A,N/A,N/A,Final,68,71
+401921723,2026-11-20T22:00:00+00:00,Manhattan Jaspers,Miami Hurricanes,,Aaron,N,Y,N/A,N/A,N/A,Live,36,60
+401921419,2026-11-20T22:30:00+00:00,Dayton Flyers,Utah Utes,Max,,Y,N,N/A,N/A,N/A,Live,40,22
+401928834,2026-11-20T23:00:00+00:00,WVU Tech Golden Bears,Akron Zips,,Matt,N,Y,N/A,N/A,N/A,Live,28,51
 401906852,2026-11-21T00:00:00+00:00,Coastal Carolina Chanticleers,Tennessee Volunteers,,Carson,N,Y,TENN -25.5,N/A,N/A,Upcoming,0,0
 401920427,2026-11-21T00:00:00+00:00,Loyola Maryland Greyhounds,Virginia Cavaliers,,Justin,N,Y,UVA -42.5,N/A,N/A,Upcoming,0,0
 401921692,2026-11-21T00:00:00+00:00,Wisconsin Badgers,Murray State Racers,Joe,Matt,Y,Y,WIS -3.5,N/A,N/A,Upcoming,0,0
@@ -30,7 +30,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401925897,2026-11-21T23:00:00+00:00,UNC Wilmington Seahawks,Norfolk State Spartans,Racz,,Y,N,N/A,N/A,N/A,Upcoming,0,0
 401911310,2026-11-22T00:00:00+00:00,Brown Bears,Vermont Catamounts,,Racz,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401921776,2026-11-22T00:00:00+00:00,Michigan Wolverines,Villanova Wildcats,Sam,Joe,Y,Y,MICH -3.5,N/A,N/A,Upcoming,0,0
-401909567,2026-11-22T04:00:00+00:00,Washington State Cougars,Duke Blue Devils,,Racz,N,Y,DUKE -25.5,N/A,N/A,Upcoming,0,0
+401909567,2026-11-22T04:00:00+00:00,Washington State Cougars,Duke Blue Devils,,Racz,N,Y,DUKE -26.5,N/A,N/A,Upcoming,0,0
 401902281,2026-11-22T17:00:00+00:00,Nebraska Cornhuskers,Butler Bulldogs,Will,,Y,N,N/A,N/A,N/A,Upcoming,0,0
 401911024,2026-11-22T17:00:00+00:00,Miami (OH) RedHawks,UIC Flames,BFO,,Y,N,N/A,N/A,N/A,Upcoming,0,0
 401909527,2026-11-22T18:00:00+00:00,Chicago State Cougars,Marquette Golden Eagles,,Matt,N,Y,N/A,N/A,N/A,Upcoming,0,0
