@@ -1,8 +1,8 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
 401909698,2026-11-20T17:00:00+00:00,Green Bay Phoenix,Florida State Seminoles,,Joe,N,Y,FSU -21.5,N/A,N/A,Upcoming,0,0
 401920380,2026-11-20T20:00:00+00:00,Northwestern Wildcats,Virginia Tech Hokies,,BFO,N,Y,VT -11.5,N/A,N/A,Upcoming,0,0
-401920066,2026-11-20T21:30:00+00:00,Rhode Island Rams,Liberty Flames,,Will,N,Y,URI -1.5,N/A,N/A,Upcoming,0,0
-401921723,2026-11-20T22:00:00+00:00,Manhattan Jaspers,Miami Hurricanes,,Aaron,N,Y,MIA -38.5,N/A,N/A,Upcoming,0,0
+401920066,2026-11-20T21:30:00+00:00,Rhode Island Rams,Liberty Flames,,Will,N,Y,LIB -1.5,N/A,N/A,Upcoming,0,0
+401921723,2026-11-20T22:00:00+00:00,Manhattan Jaspers,Miami Hurricanes,,Aaron,N,Y,MIA -36.5,N/A,N/A,Upcoming,0,0
 401921419,2026-11-20T22:30:00+00:00,Dayton Flyers,Utah Utes,Max,,Y,N,UTAH -1.5,N/A,N/A,Upcoming,0,0
 401928834,2026-11-20T23:00:00+00:00,WVU Tech Golden Bears,Akron Zips,,Matt,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401906852,2026-11-21T00:00:00+00:00,Coastal Carolina Chanticleers,Tennessee Volunteers,,Carson,N,Y,TENN -28.5,N/A,N/A,Upcoming,0,0
