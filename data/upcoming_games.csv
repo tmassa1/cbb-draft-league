@@ -6,8 +6,8 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401921183,2026-11-21T21:00:00+00:00,Pennsylvania Quakers,La Salle Explorers,Aaron,,Y,N,N/A,N/A,N/A,Final,83,73
 401922048,2026-11-21T21:00:00+00:00,Longwood Lancers,East Tennessee State Buccaneers,,Carson,N,Y,N/A,N/A,N/A,Final,68,74
 401926113,2026-11-21T21:00:00+00:00,Clinton Golden Bears,Furman Paladins,,Sam,N,Y,N/A,N/A,N/A,Final,69,108
-401917538,2026-11-21T21:30:00+00:00,San Diego Toreros,UC Irvine Anteaters,,Trevor,N,Y,N/A,N/A,N/A,Live,67,64
-401925897,2026-11-21T23:00:00+00:00,UNC Wilmington Seahawks,Norfolk State Spartans,Racz,,Y,N,N/A,N/A,N/A,Live,30,25
+401917538,2026-11-21T21:30:00+00:00,San Diego Toreros,UC Irvine Anteaters,,Trevor,N,Y,N/A,N/A,N/A,Final,67,64
+401925897,2026-11-21T23:00:00+00:00,UNC Wilmington Seahawks,Norfolk State Spartans,Racz,,Y,N,N/A,N/A,N/A,Live,38,27
 401911310,2026-11-22T00:00:00+00:00,Brown Bears,Vermont Catamounts,,Racz,N,Y,UVM -4.5,N/A,N/A,Upcoming,0,0
 401921776,2026-11-22T00:00:00+00:00,Michigan Wolverines,Villanova Wildcats,Sam,Joe,Y,Y,MICH -3.5,N/A,N/A,Upcoming,0,0
 401909567,2026-11-22T04:00:00+00:00,Washington State Cougars,Duke Blue Devils,,Racz,N,Y,DUKE -25.5,N/A,N/A,Upcoming,0,0
