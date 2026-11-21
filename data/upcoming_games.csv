@@ -3,10 +3,10 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401919031,2026-11-21T19:00:00+00:00,New Mexico Lobos,Wichita State Shockers,Joe,Will,Y,Y,N/A,N/A,N/A,Final,60,85
 401927365,2026-11-21T20:00:00+00:00,Drake Bulldogs,Missouri State Bears,Miles,,Y,N,N/A,N/A,N/A,Final,65,67
 401918995,2026-11-21T21:00:00+00:00,South Florida Bulls,George Mason Patriots,Will,,Y,N,N/A,N/A,N/A,Live,25,36
-401921183,2026-11-21T21:00:00+00:00,Pennsylvania Quakers,La Salle Explorers,Aaron,,Y,N,N/A,N/A,N/A,Live,45,29
+401921183,2026-11-21T21:00:00+00:00,Pennsylvania Quakers,La Salle Explorers,Aaron,,Y,N,N/A,N/A,N/A,Live,50,36
 401922048,2026-11-21T21:00:00+00:00,Longwood Lancers,East Tennessee State Buccaneers,,Carson,N,Y,N/A,N/A,N/A,Live,39,40
-401926113,2026-11-21T21:00:00+00:00,Clinton Golden Bears,Furman Paladins,,Sam,N,Y,N/A,N/A,N/A,Live,36,55
-401917538,2026-11-21T21:30:00+00:00,San Diego Toreros,UC Irvine Anteaters,,Trevor,N,Y,N/A,N/A,N/A,Live,11,14
+401926113,2026-11-21T21:00:00+00:00,Clinton Golden Bears,Furman Paladins,,Sam,N,Y,N/A,N/A,N/A,Live,36,61
+401917538,2026-11-21T21:30:00+00:00,San Diego Toreros,UC Irvine Anteaters,,Trevor,N,Y,N/A,N/A,N/A,Live,19,19
 401925897,2026-11-21T23:00:00+00:00,UNC Wilmington Seahawks,Norfolk State Spartans,Racz,,Y,N,UNCW -11.5,N/A,N/A,Upcoming,0,0
 401911310,2026-11-22T00:00:00+00:00,Brown Bears,Vermont Catamounts,,Racz,N,Y,UVM -4.5,N/A,N/A,Upcoming,0,0
 401921776,2026-11-22T00:00:00+00:00,Michigan Wolverines,Villanova Wildcats,Sam,Joe,Y,Y,MICH -3.5,N/A,N/A,Upcoming,0,0
@@ -14,7 +14,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401902281,2026-11-22T17:00:00+00:00,Nebraska Cornhuskers,Butler Bulldogs,Will,,Y,N,NEB -11.5,N/A,N/A,Upcoming,0,0
 401911024,2026-11-22T17:00:00+00:00,Miami (OH) RedHawks,UIC Flames,BFO,,Y,N,N/A,N/A,N/A,Upcoming,0,0
 401909527,2026-11-22T18:00:00+00:00,Chicago State Cougars,Marquette Golden Eagles,,Matt,N,Y,N/A,N/A,N/A,Upcoming,0,0
-401920736,2026-11-22T18:00:00+00:00,Dayton Flyers,Northwestern Wildcats,Max,,Y,N,N/A,N/A,N/A,Upcoming,0,0
+401920736,2026-11-22T18:00:00+00:00,Dayton Flyers,Northwestern Wildcats,Max,,Y,N,DAY -3.5,N/A,N/A,Upcoming,0,0
 401918988,2026-11-22T19:00:00+00:00,Evansville Purple Aces,Memphis Tigers,,Sam,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401921748,2026-11-22T19:00:00+00:00,UMass Lowell River Hawks,Cincinnati Bearcats,,Racz,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401928802,2026-11-22T19:00:00+00:00,George Washington Revolutionaries,Western Kentucky Hilltoppers,,Trevor,N,Y,N/A,N/A,N/A,Upcoming,0,0
