@@ -384,6 +384,8 @@ game_id,date,team,opponent,result,phase,source
 401927375,2026-11-19,Illinois State,Eureka Red Devils,W,regular,espn
 401928354,2026-11-19,UC Santa Barbara,Pepperdine Waves,W,regular,espn
 401906852,2026-11-20,Tennessee,Coastal Carolina Chanticleers,W,regular,espn
+401909545,2026-11-20,Iowa,Xavier Musketeers,W,regular,espn
+401909545,2026-11-20,Xavier,Iowa Hawkeyes,L,regular,espn
 401909698,2026-11-20,Florida State,Green Bay Phoenix,W,regular,espn
 401920066,2026-11-20,Liberty,Rhode Island Rams,W,regular,espn
 401920380,2026-11-20,Virginia Tech,Northwestern Wildcats,W,regular,espn
