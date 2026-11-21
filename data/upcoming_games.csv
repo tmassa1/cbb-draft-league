@@ -3,13 +3,13 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401920380,2026-11-20T20:00:00+00:00,Northwestern Wildcats,Virginia Tech Hokies,,BFO,N,Y,N/A,N/A,N/A,Final,70,87
 401920066,2026-11-20T21:30:00+00:00,Rhode Island Rams,Liberty Flames,,Will,N,Y,N/A,N/A,N/A,Final,68,71
 401921723,2026-11-20T22:00:00+00:00,Manhattan Jaspers,Miami Hurricanes,,Aaron,N,Y,N/A,N/A,N/A,Live,54,106
-401921419,2026-11-20T22:30:00+00:00,Dayton Flyers,Utah Utes,Max,,Y,N,N/A,N/A,N/A,Live,56,43
-401928834,2026-11-20T23:00:00+00:00,WVU Tech Golden Bears,Akron Zips,,Matt,N,Y,N/A,N/A,N/A,Live,47,89
-401906852,2026-11-21T00:00:00+00:00,Coastal Carolina Chanticleers,Tennessee Volunteers,,Carson,N,Y,N/A,N/A,N/A,Live,18,16
-401920427,2026-11-21T00:00:00+00:00,Loyola Maryland Greyhounds,Virginia Cavaliers,,Justin,N,Y,N/A,N/A,N/A,Live,9,17
-401921692,2026-11-21T00:00:00+00:00,Wisconsin Badgers,Murray State Racers,Joe,Matt,Y,Y,N/A,N/A,N/A,Live,12,14
-401926134,2026-11-21T00:00:00+00:00,Oakland Golden Grizzlies,Purdue Boilermakers,,Sam,N,Y,N/A,N/A,N/A,Live,2,7
-401927396,2026-11-21T00:00:00+00:00,Western Kentucky Hilltoppers,Richmond Spiders,Trevor,,Y,N,N/A,N/A,N/A,Live,22,13
+401921419,2026-11-20T22:30:00+00:00,Dayton Flyers,Utah Utes,Max,,Y,N,N/A,N/A,N/A,Live,58,43
+401928834,2026-11-20T23:00:00+00:00,WVU Tech Golden Bears,Akron Zips,,Matt,N,Y,N/A,N/A,N/A,Live,49,91
+401906852,2026-11-21T00:00:00+00:00,Coastal Carolina Chanticleers,Tennessee Volunteers,,Carson,N,Y,N/A,N/A,N/A,Live,22,16
+401920427,2026-11-21T00:00:00+00:00,Loyola Maryland Greyhounds,Virginia Cavaliers,,Justin,N,Y,N/A,N/A,N/A,Live,14,21
+401921692,2026-11-21T00:00:00+00:00,Wisconsin Badgers,Murray State Racers,Joe,Matt,Y,Y,N/A,N/A,N/A,Live,12,17
+401926134,2026-11-21T00:00:00+00:00,Oakland Golden Grizzlies,Purdue Boilermakers,,Sam,N,Y,N/A,N/A,N/A,Live,4,9
+401927396,2026-11-21T00:00:00+00:00,Western Kentucky Hilltoppers,Richmond Spiders,Trevor,,Y,N,N/A,N/A,N/A,Live,28,16
 401909545,2026-11-21T00:30:00+00:00,Iowa Hawkeyes,Xavier Musketeers,BFO,Jack,Y,Y,XAV -3.5,N/A,N/A,Upcoming,0,0
 401916290,2026-11-21T01:00:00+00:00,Kentucky Wildcats,Indiana Hoosiers,Jack,Aaron,Y,Y,IU -3.5,N/A,N/A,Upcoming,0,0
 401919784,2026-11-21T01:00:00+00:00,Le Moyne Dolphins,Missouri Tigers,,Racz,N,Y,MIZ -34.5,N/A,N/A,Upcoming,0,0
