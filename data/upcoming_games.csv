@@ -3,7 +3,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401919031,2026-11-21T19:00:00+00:00,New Mexico Lobos,Wichita State Shockers,Joe,Will,Y,Y,UNM -2.5,N/A,N/A,Upcoming,0,0
 401927365,2026-11-21T20:00:00+00:00,Drake Bulldogs,Missouri State Bears,Miles,,Y,N,DRKE -3.5,N/A,N/A,Upcoming,0,0
 401918995,2026-11-21T21:00:00+00:00,South Florida Bulls,George Mason Patriots,Will,,Y,N,GMU -3.5,N/A,N/A,Upcoming,0,0
-401921183,2026-11-21T21:00:00+00:00,Pennsylvania Quakers,La Salle Explorers,Aaron,,Y,N,LAS -2.5,N/A,N/A,Upcoming,0,0
+401921183,2026-11-21T21:00:00+00:00,Pennsylvania Quakers,La Salle Explorers,Aaron,,Y,N,LAS -1.5,N/A,N/A,Upcoming,0,0
 401922048,2026-11-21T21:00:00+00:00,Longwood Lancers,East Tennessee State Buccaneers,,Carson,N,Y,ETSU -6.5,N/A,N/A,Upcoming,0,0
 401926113,2026-11-21T21:00:00+00:00,Clinton Golden Bears,Furman Paladins,,Sam,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401917538,2026-11-21T21:30:00+00:00,UC Irvine Anteaters,San Diego Toreros,Trevor,,Y,N,UCI -5.5,N/A,N/A,Upcoming,0,0
