@@ -4,19 +4,19 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401920066,2026-11-20T21:30:00+00:00,Rhode Island Rams,Liberty Flames,,Will,N,Y,N/A,N/A,N/A,Final,68,71
 401921723,2026-11-20T22:00:00+00:00,Manhattan Jaspers,Miami Hurricanes,,Aaron,N,Y,N/A,N/A,N/A,Final,54,106
 401921419,2026-11-20T22:30:00+00:00,Dayton Flyers,Utah Utes,Max,,Y,N,N/A,N/A,N/A,Final,63,46
-401928834,2026-11-20T23:00:00+00:00,WVU Tech Golden Bears,Akron Zips,,Matt,N,Y,N/A,N/A,N/A,Live,63,110
-401906852,2026-11-21T00:00:00+00:00,Coastal Carolina Chanticleers,Tennessee Volunteers,,Carson,N,Y,N/A,N/A,N/A,Live,29,33
-401920427,2026-11-21T00:00:00+00:00,Loyola Maryland Greyhounds,Virginia Cavaliers,,Justin,N,Y,N/A,N/A,N/A,Live,24,42
-401921692,2026-11-21T00:00:00+00:00,Wisconsin Badgers,Murray State Racers,Joe,Matt,Y,Y,N/A,N/A,N/A,Live,16,27
-401926134,2026-11-21T00:00:00+00:00,Oakland Golden Grizzlies,Purdue Boilermakers,,Sam,N,Y,N/A,N/A,N/A,Live,9,28
-401927396,2026-11-21T00:00:00+00:00,Western Kentucky Hilltoppers,Richmond Spiders,Trevor,,Y,N,N/A,N/A,N/A,Live,34,31
-401909545,2026-11-21T00:30:00+00:00,Iowa Hawkeyes,Xavier Musketeers,BFO,Jack,Y,Y,N/A,N/A,N/A,Live,7,11
+401928834,2026-11-20T23:00:00+00:00,WVU Tech Golden Bears,Akron Zips,,Matt,N,Y,N/A,N/A,N/A,Live,65,112
+401906852,2026-11-21T00:00:00+00:00,Coastal Carolina Chanticleers,Tennessee Volunteers,,Carson,N,Y,N/A,N/A,N/A,Live,30,41
+401920427,2026-11-21T00:00:00+00:00,Loyola Maryland Greyhounds,Virginia Cavaliers,,Justin,N,Y,N/A,N/A,N/A,Live,24,43
+401921692,2026-11-21T00:00:00+00:00,Wisconsin Badgers,Murray State Racers,Joe,Matt,Y,Y,N/A,N/A,N/A,Live,18,27
+401926134,2026-11-21T00:00:00+00:00,Oakland Golden Grizzlies,Purdue Boilermakers,,Sam,N,Y,N/A,N/A,N/A,Live,11,30
+401927396,2026-11-21T00:00:00+00:00,Western Kentucky Hilltoppers,Richmond Spiders,Trevor,,Y,N,N/A,N/A,N/A,Live,36,36
+401909545,2026-11-21T00:30:00+00:00,Iowa Hawkeyes,Xavier Musketeers,BFO,Jack,Y,Y,N/A,N/A,N/A,Live,12,11
 401916290,2026-11-21T01:00:00+00:00,Kentucky Wildcats,Indiana Hoosiers,Jack,Aaron,Y,Y,IU -3.5,N/A,N/A,Upcoming,0,0
 401919784,2026-11-21T01:00:00+00:00,Le Moyne Dolphins,Missouri Tigers,,Racz,N,Y,MIZ -34.5,N/A,N/A,Upcoming,0,0
 401921757,2026-11-21T01:00:00+00:00,UCF Knights,Vanderbilt Commodores,,BFO,N,Y,VAN -16.5,N/A,N/A,Upcoming,0,0
-401925740,2026-11-21T01:00:00+00:00,Mississippi Valley State Delta Devils,Arkansas Razorbacks,,Carson,N,Y,ARK -36.5,N/A,N/A,Upcoming,0,0
+401925740,2026-11-21T01:00:00+00:00,Mississippi Valley State Delta Devils,Arkansas Razorbacks,,Carson,N,Y,ARK -35.5,N/A,N/A,Upcoming,0,0
 401912710,2026-11-21T02:00:00+00:00,Marshall Thundering Herd,North Carolina Tar Heels,,Max,N,Y,UNC -18.5,N/A,N/A,Upcoming,0,0
-401913529,2026-11-21T02:00:00+00:00,Eastern Illinois Panthers,Illinois Fighting Illini,,Aaron,N,Y,ILL -46.5,N/A,N/A,Upcoming,0,0
+401913529,2026-11-21T02:00:00+00:00,Eastern Illinois Panthers,Illinois Fighting Illini,,Aaron,N,Y,ILL -45.5,N/A,N/A,Upcoming,0,0
 401921691,2026-11-21T02:30:00+00:00,Seton Hall Pirates,NC State Wolfpack,,Matt,N,Y,NCSU -3.5,N/A,N/A,Upcoming,0,0
 401911252,2026-11-21T04:00:00+00:00,Saint Louis Billikens,Saint Mary's Gaels,Will,Jack,Y,Y,SMC -1.5,N/A,N/A,Upcoming,0,0
 401925756,2026-11-21T17:00:00+00:00,Detroit Mercy Titans,Michigan State Spartans,,Matt,N,Y,MSU -41.5,N/A,N/A,Upcoming,0,0
