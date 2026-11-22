@@ -1,10 +1,10 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
-401902281,2026-11-22T17:00:00+00:00,Nebraska Cornhuskers,Butler Bulldogs,Will,,Y,N,N/A,N/A,N/A,Live,71,72
-401911024,2026-11-22T17:00:00+00:00,Miami (OH) RedHawks,UIC Flames,BFO,,Y,N,N/A,N/A,N/A,Live,52,45
+401902281,2026-11-22T17:00:00+00:00,Nebraska Cornhuskers,Butler Bulldogs,Will,,Y,N,N/A,N/A,N/A,Live,74,74
+401911024,2026-11-22T17:00:00+00:00,Miami (OH) RedHawks,UIC Flames,BFO,,Y,N,N/A,N/A,N/A,Live,52,49
 401909527,2026-11-22T18:00:00+00:00,Chicago State Cougars,Marquette Golden Eagles,,Matt,N,Y,N/A,N/A,N/A,Live,25,57
 401920736,2026-11-22T18:00:00+00:00,Dayton Flyers,Northwestern Wildcats,Max,,Y,N,N/A,N/A,N/A,Live,28,38
-401918988,2026-11-22T19:00:00+00:00,Evansville Purple Aces,Memphis Tigers,,Sam,N,Y,MEM -19.5,N/A,N/A,Upcoming,0,0
-401921748,2026-11-22T19:00:00+00:00,UMass Lowell River Hawks,Cincinnati Bearcats,,Racz,N,Y,CIN -29.5,N/A,N/A,Upcoming,0,0
+401918988,2026-11-22T19:00:00+00:00,Evansville Purple Aces,Memphis Tigers,,Sam,N,Y,N/A,N/A,N/A,Live,4,6
+401921748,2026-11-22T19:00:00+00:00,UMass Lowell River Hawks,Cincinnati Bearcats,,Racz,N,Y,N/A,N/A,N/A,Live,5,2
 401928802,2026-11-22T19:00:00+00:00,George Washington Revolutionaries,Western Kentucky Hilltoppers,,Trevor,N,Y,GW -3.5,N/A,N/A,Upcoming,0,0
 401906868,2026-11-22T20:00:00+00:00,Southern Indiana Screaming Eagles,Texas Longhorns,,Jack,N,Y,TEX -38.5,N/A,N/A,Upcoming,0,0
 401920381,2026-11-22T20:30:00+00:00,Virginia Tech Hokies,Oklahoma State Cowboys,BFO,,Y,N,VT -1.5,N/A,N/A,Upcoming,0,0
