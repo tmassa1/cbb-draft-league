@@ -1,8 +1,8 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
 401902281,2026-11-22T17:00:00+00:00,Nebraska Cornhuskers,Butler Bulldogs,Will,,Y,N,N/A,N/A,N/A,Live,33,38
-401911024,2026-11-22T17:00:00+00:00,Miami (OH) RedHawks,UIC Flames,BFO,,Y,N,N/A,N/A,N/A,Live,30,22
-401909527,2026-11-22T18:00:00+00:00,Chicago State Cougars,Marquette Golden Eagles,,Matt,N,Y,MARQ -35.5,N/A,N/A,Upcoming,0,0
-401920736,2026-11-22T18:00:00+00:00,Dayton Flyers,Northwestern Wildcats,Max,,Y,N,DAY -3.5,N/A,N/A,Upcoming,0,0
+401911024,2026-11-22T17:00:00+00:00,Miami (OH) RedHawks,UIC Flames,BFO,,Y,N,N/A,N/A,N/A,Live,36,29
+401909527,2026-11-22T18:00:00+00:00,Chicago State Cougars,Marquette Golden Eagles,,Matt,N,Y,N/A,N/A,N/A,Live,0,3
+401920736,2026-11-22T18:00:00+00:00,Dayton Flyers,Northwestern Wildcats,Max,,Y,N,N/A,N/A,N/A,Live,3,2
 401918988,2026-11-22T19:00:00+00:00,Evansville Purple Aces,Memphis Tigers,,Sam,N,Y,MEM -20.5,N/A,N/A,Upcoming,0,0
 401921748,2026-11-22T19:00:00+00:00,UMass Lowell River Hawks,Cincinnati Bearcats,,Racz,N,Y,CIN -28.5,N/A,N/A,Upcoming,0,0
 401928802,2026-11-22T19:00:00+00:00,George Washington Revolutionaries,Western Kentucky Hilltoppers,,Trevor,N,Y,GW -3.5,N/A,N/A,Upcoming,0,0
