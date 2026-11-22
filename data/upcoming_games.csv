@@ -7,8 +7,8 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401922048,2026-11-21T21:00:00+00:00,Longwood Lancers,East Tennessee State Buccaneers,,Carson,N,Y,N/A,N/A,N/A,Final,68,74
 401926113,2026-11-21T21:00:00+00:00,Clinton Golden Bears,Furman Paladins,,Sam,N,Y,N/A,N/A,N/A,Final,69,108
 401917538,2026-11-21T21:30:00+00:00,San Diego Toreros,UC Irvine Anteaters,,Trevor,N,Y,N/A,N/A,N/A,Final,67,64
-401925897,2026-11-21T23:00:00+00:00,UNC Wilmington Seahawks,Norfolk State Spartans,Racz,,Y,N,N/A,N/A,N/A,Live,74,59
-401911310,2026-11-22T00:00:00+00:00,Brown Bears,Vermont Catamounts,,Racz,N,Y,N/A,N/A,N/A,Live,37,25
+401925897,2026-11-21T23:00:00+00:00,UNC Wilmington Seahawks,Norfolk State Spartans,Racz,,Y,N,N/A,N/A,N/A,Live,80,62
+401911310,2026-11-22T00:00:00+00:00,Brown Bears,Vermont Catamounts,,Racz,N,Y,N/A,N/A,N/A,Live,40,29
 401921776,2026-11-22T00:00:00+00:00,Michigan Wolverines,Villanova Wildcats,Sam,Joe,Y,Y,N/A,N/A,N/A,Live,25,28
 401909567,2026-11-22T04:00:00+00:00,Washington State Cougars,Duke Blue Devils,,Racz,N,Y,DUKE -25.5,N/A,N/A,Upcoming,0,0
 401902281,2026-11-22T17:00:00+00:00,Nebraska Cornhuskers,Butler Bulldogs,Will,,Y,N,NEB -11.5,N/A,N/A,Upcoming,0,0
@@ -21,7 +21,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401906868,2026-11-22T20:00:00+00:00,Southern Indiana Screaming Eagles,Texas Longhorns,,Jack,N,Y,TEX -40.5,N/A,N/A,Upcoming,0,0
 401920381,2026-11-22T20:30:00+00:00,Virginia Tech Hokies,Oklahoma State Cowboys,BFO,,Y,N,VT -1.5,N/A,N/A,Upcoming,0,0
 401929202,2026-11-22T20:30:00+00:00,McNeese Cowboys,Texas State Bobcats,Aaron,,Y,N,N/A,N/A,N/A,Upcoming,0,0
-401917540,2026-11-22T21:30:00+00:00,UC Irvine Anteaters,Loyola Marymount Lions,Trevor,,Y,N,N/A,N/A,N/A,Upcoming,0,0
+401917540,2026-11-22T21:30:00+00:00,UC Irvine Anteaters,Loyola Marymount Lions,Trevor,,Y,N,UCI -3.5,N/A,N/A,Upcoming,0,0
 401926795,2026-11-22T21:30:00+00:00,Richmond Spiders,Liberty Flames,,Will,N,Y,LIB -1.5,N/A,N/A,Upcoming,0,0
 401922293,2026-11-22T22:00:00+00:00,UNC Asheville Bulldogs,Samford Bulldogs,,Carson,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401920905,2026-11-23T00:00:00+00:00,Delaware Blue Hens,UCLA Bruins,,Justin,N,Y,UCLA -29.5,N/A,N/A,Upcoming,0,0
