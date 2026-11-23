@@ -1,6 +1,6 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
 401928830,2026-11-23T18:30:00+00:00,Akron Zips,Wright State Raiders,Matt,,Y,N,N/A,N/A,N/A,Final,64,66
-401929286,2026-11-23T21:15:00+00:00,Yale Bulldogs,Belmont Bruins,Joe,BFO,Y,Y,BEL -1.5,N/A,N/A,Upcoming,0,0
+401929286,2026-11-23T21:15:00+00:00,Yale Bulldogs,Belmont Bruins,Joe,BFO,Y,Y,N/A,N/A,N/A,Live,2,3
 401911457,2026-11-23T21:30:00+00:00,Nevada Wolf Pack,San Francisco Dons,Justin,,Y,N,NEV -7.5,N/A,N/A,Upcoming,0,0
 401921708,2026-11-23T22:00:00+00:00,Washington Huskies,BYU Cougars,,Miles,N,Y,BYU -11.5,N/A,N/A,Upcoming,0,0
 401917543,2026-11-24T00:00:00+00:00,Illinois State Redbirds,Santa Clara Broncos,Aaron,Miles,Y,Y,SCU -3.5,N/A,N/A,Upcoming,0,0
