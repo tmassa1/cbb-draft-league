@@ -1,21 +1,4 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
-401902281,2026-11-22T17:00:00+00:00,Nebraska Cornhuskers,Butler Bulldogs,Will,,Y,N,N/A,N/A,N/A,Final,76,74
-401911024,2026-11-22T17:00:00+00:00,Miami (OH) RedHawks,UIC Flames,BFO,,Y,N,N/A,N/A,N/A,Final,71,60
-401909527,2026-11-22T18:00:00+00:00,Chicago State Cougars,Marquette Golden Eagles,,Matt,N,Y,N/A,N/A,N/A,Final,62,106
-401920736,2026-11-22T18:00:00+00:00,Dayton Flyers,Northwestern Wildcats,Max,,Y,N,N/A,N/A,N/A,Final,55,79
-401918988,2026-11-22T19:00:00+00:00,Evansville Purple Aces,Memphis Tigers,,Sam,N,Y,N/A,N/A,N/A,Final,62,82
-401921748,2026-11-22T19:00:00+00:00,UMass Lowell River Hawks,Cincinnati Bearcats,,Racz,N,Y,N/A,N/A,N/A,Final,68,78
-401928802,2026-11-22T19:00:00+00:00,George Washington Revolutionaries,Western Kentucky Hilltoppers,,Trevor,N,Y,N/A,N/A,N/A,Final,78,86
-401906868,2026-11-22T20:00:00+00:00,Southern Indiana Screaming Eagles,Texas Longhorns,,Jack,N,Y,N/A,N/A,N/A,Final,61,97
-401920381,2026-11-22T20:30:00+00:00,Virginia Tech Hokies,Oklahoma State Cowboys,BFO,,Y,N,N/A,N/A,N/A,Final,80,106
-401929202,2026-11-22T20:30:00+00:00,McNeese Cowboys,Texas State Bobcats,Aaron,,Y,N,N/A,N/A,N/A,Final,69,95
-401917540,2026-11-22T21:30:00+00:00,Loyola Marymount Lions,UC Irvine Anteaters,,Trevor,N,Y,N/A,N/A,N/A,Final,72,68
-401926795,2026-11-22T21:30:00+00:00,Richmond Spiders,Liberty Flames,,Will,N,Y,N/A,N/A,N/A,Final,92,88
-401922293,2026-11-22T22:00:00+00:00,UNC Asheville Bulldogs,Samford Bulldogs,,Carson,N,Y,N/A,N/A,N/A,Final,77,80
-401920905,2026-11-23T00:00:00+00:00,Delaware Blue Hens,UCLA Bruins,,Justin,N,Y,N/A,N/A,N/A,Final,48,85
-401926774,2026-11-23T01:00:00+00:00,Louisiana Ragin' Cajuns,USC Trojans,,Max,N,Y,N/A,N/A,N/A,Final,56,82
-401929595,2026-11-23T01:00:00+00:00,Menlo Oaks,Saint Mary's Gaels,,Jack,N,Y,N/A,N/A,N/A,Final,78,94
-401917542,2026-11-23T02:45:00+00:00,UC San Diego Tritons,Seattle U Redhawks,Justin,,Y,N,N/A,N/A,N/A,Final,64,90
 401928830,2026-11-23T18:30:00+00:00,Akron Zips,Wright State Raiders,Matt,,Y,N,WRST -1.5,N/A,N/A,Upcoming,0,0
 401929286,2026-11-23T21:00:00+00:00,Yale Bulldogs,Belmont Bruins,Joe,BFO,Y,Y,BEL -2.5,N/A,N/A,Upcoming,0,0
 401911457,2026-11-23T21:30:00+00:00,Nevada Wolf Pack,San Francisco Dons,Justin,,Y,N,NEV -7.5,N/A,N/A,Upcoming,0,0
@@ -130,3 +113,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401925830,2026-11-29T21:30:00+00:00,Drake Bulldogs,North Texas Mean Green,Miles,,Y,N,N/A,N/A,N/A,Upcoming,0,0
 401926754,2026-11-29T22:00:00+00:00,Point Skyhawks,Samford Bulldogs,,Carson,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401911348,2026-11-30T01:00:00+00:00,Incarnate Word Cardinals,Grand Canyon Lopes,,Racz,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401920687,2026-11-30T23:30:00+00:00,Rider Broncs,UConn Huskies,,Max,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401919034,2026-12-01T00:30:00+00:00,Southeast Missouri State Redhawks,Wichita State Shockers,,Will,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401929596,2026-12-01T00:30:00+00:00,Champion Christian Tigers,McNeese Cowboys,,Aaron,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401927383,2026-12-01T01:00:00+00:00,Washington State Cougars,Murray State Racers,,Matt,N,Y,N/A,N/A,N/A,Upcoming,0,0
