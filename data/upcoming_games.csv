@@ -1,5 +1,5 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
-401928830,2026-11-23T18:30:00+00:00,Akron Zips,Wright State Raiders,Matt,,Y,N,N/A,N/A,N/A,Live,59,60
+401928830,2026-11-23T18:30:00+00:00,Akron Zips,Wright State Raiders,Matt,,Y,N,N/A,N/A,N/A,Live,62,62
 401929286,2026-11-23T21:00:00+00:00,Yale Bulldogs,Belmont Bruins,Joe,BFO,Y,Y,BEL -1.5,N/A,N/A,Upcoming,0,0
 401911457,2026-11-23T21:30:00+00:00,Nevada Wolf Pack,San Francisco Dons,Justin,,Y,N,NEV -7.5,N/A,N/A,Upcoming,0,0
 401921708,2026-11-23T22:00:00+00:00,Washington Huskies,BYU Cougars,,Miles,N,Y,BYU -11.5,N/A,N/A,Upcoming,0,0
@@ -43,7 +43,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401926184,2026-11-25T02:00:00+00:00,UNC Greensboro Spartans,UC Santa Barbara Gauchos,,Max,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401911253,2026-11-25T02:30:00+00:00,Grand Canyon Lopes,Saint Louis Billikens,Racz,Will,Y,Y,N/A,N/A,N/A,Upcoming,0,0
 401906762,2026-11-25T03:00:00+00:00,Baylor Bears,Alabama Crimson Tide,Carson,Trevor,Y,Y,ALA -1.5,N/A,N/A,Upcoming,0,0
-401915943,2026-11-25T03:30:00+00:00,Oregon Ducks,St. John's Red Storm,,Miles,N,Y,SJU -8.5,N/A,N/A,Upcoming,0,0
+401915943,2026-11-25T03:30:00+00:00,Oregon Ducks,St. John's Red Storm,,Miles,N,Y,SJU -11.5,N/A,N/A,Upcoming,0,0
 401909800,2026-11-25T05:30:00+00:00,Gonzaga Bulldogs,Kansas State Wildcats,Jack,,Y,N,GONZ -15.5,N/A,N/A,Upcoming,0,0
 401927399,2026-11-25T15:00:00+00:00,St. Bonaventure Bonnies,Belmont Bruins,,BFO,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401920428,2026-11-25T17:00:00+00:00,Virginia Cavaliers,Marquette Golden Eagles,Justin,Matt,Y,Y,N/A,N/A,N/A,Upcoming,0,0
