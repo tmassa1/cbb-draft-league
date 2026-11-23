@@ -12,10 +12,10 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401917540,2026-11-22T21:30:00+00:00,Loyola Marymount Lions,UC Irvine Anteaters,,Trevor,N,Y,N/A,N/A,N/A,Final,72,68
 401926795,2026-11-22T21:30:00+00:00,Richmond Spiders,Liberty Flames,,Will,N,Y,N/A,N/A,N/A,Final,92,88
 401922293,2026-11-22T22:00:00+00:00,UNC Asheville Bulldogs,Samford Bulldogs,,Carson,N,Y,N/A,N/A,N/A,Final,77,80
-401920905,2026-11-23T00:00:00+00:00,Delaware Blue Hens,UCLA Bruins,,Justin,N,Y,N/A,N/A,N/A,Live,13,18
+401920905,2026-11-23T00:00:00+00:00,Delaware Blue Hens,UCLA Bruins,,Justin,N,Y,N/A,N/A,N/A,Live,17,23
 401926774,2026-11-23T01:00:00+00:00,Louisiana Ragin' Cajuns,USC Trojans,,Max,N,Y,USC -31.5,N/A,N/A,Upcoming,0,0
 401929595,2026-11-23T01:00:00+00:00,Menlo Oaks,Saint Mary's Gaels,,Jack,N,Y,N/A,N/A,N/A,Upcoming,0,0
-401917542,2026-11-23T02:30:00+00:00,Seattle U Redhawks,UC San Diego Tritons,,Justin,N,Y,UCSD -1.5,N/A,N/A,Upcoming,0,0
+401917542,2026-11-23T02:30:00+00:00,UC San Diego Tritons,Seattle U Redhawks,Justin,,Y,N,UCSD -1.5,N/A,N/A,Upcoming,0,0
 401928830,2026-11-23T18:30:00+00:00,Akron Zips,Wright State Raiders,Matt,,Y,N,WRST -1.5,N/A,N/A,Upcoming,0,0
 401929286,2026-11-23T21:00:00+00:00,Yale Bulldogs,Belmont Bruins,Joe,BFO,Y,Y,BEL -2.5,N/A,N/A,Upcoming,0,0
 401911457,2026-11-23T21:30:00+00:00,Nevada Wolf Pack,San Francisco Dons,Justin,,Y,N,NEV -7.5,N/A,N/A,Upcoming,0,0
@@ -28,7 +28,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401913102,2026-11-24T01:00:00+00:00,Monmouth Hawks,North Carolina Tar Heels,,Max,N,Y,UNC -20.5,N/A,N/A,Upcoming,0,0
 401913530,2026-11-24T01:00:00+00:00,Winthrop Eagles,Illinois Fighting Illini,,Aaron,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401929392,2026-11-24T01:00:00+00:00,Wisconsin Stout Blue Devils,North Dakota State Bison,,Sam,N,Y,N/A,N/A,N/A,Upcoming,0,0
-401909536,2026-11-24T02:00:00+00:00,VCU Rams,Providence Friars,Trevor,,Y,N,PROV -1.5,N/A,N/A,Upcoming,0,0
+401909536,2026-11-24T02:00:00+00:00,VCU Rams,Providence Friars,Trevor,,Y,N,VCU -1.5,N/A,N/A,Upcoming,0,0
 401909743,2026-11-24T04:30:00+00:00,Colorado State Rams,Arizona Wildcats,,Will,N,Y,ARIZ -17.5,N/A,N/A,Upcoming,0,0
 401928835,2026-11-24T17:30:00+00:00,Belmont Bruins,Akron Zips,BFO,Matt,Y,Y,N/A,N/A,N/A,Upcoming,0,0
 401906806,2026-11-24T18:30:00+00:00,Oklahoma Sooners,Pittsburgh Panthers,Justin,,Y,N,N/A,N/A,N/A,Upcoming,0,0
