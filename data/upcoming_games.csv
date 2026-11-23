@@ -1,7 +1,7 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
 401928830,2026-11-23T18:30:00+00:00,Akron Zips,Wright State Raiders,Matt,,Y,N,N/A,N/A,N/A,Final,64,66
 401929286,2026-11-23T21:15:00+00:00,Yale Bulldogs,Belmont Bruins,Joe,BFO,Y,Y,N/A,N/A,N/A,Final,60,68
-401911457,2026-11-23T21:30:00+00:00,San Francisco Dons,Nevada Wolf Pack,,Justin,N,Y,N/A,N/A,N/A,Live,45,54
+401911457,2026-11-23T21:30:00+00:00,San Francisco Dons,Nevada Wolf Pack,,Justin,N,Y,N/A,N/A,N/A,Live,49,61
 401921708,2026-11-23T22:00:00+00:00,Washington Huskies,BYU Cougars,,Miles,N,Y,N/A,N/A,N/A,Live,39,31
 401917543,2026-11-24T00:00:00+00:00,Illinois State Redbirds,Santa Clara Broncos,Aaron,Miles,Y,Y,SCU -3.5,N/A,N/A,Upcoming,0,0
 401926106,2026-11-24T00:00:00+00:00,Kentucky State Thorobreds,East Tennessee State Buccaneers,,Carson,N,Y,N/A,N/A,N/A,Upcoming,0,0
@@ -37,7 +37,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401915942,2026-11-25T01:00:00+00:00,Texas Tech Red Raiders,Louisville Cardinals,Matt,BFO,Y,Y,TTU -5.5,N/A,N/A,Upcoming,0,0
 401920709,2026-11-25T01:00:00+00:00,Lipscomb Bisons,Auburn Tigers,,Trevor,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401921184,2026-11-25T01:00:00+00:00,Drexel Dragons,Pennsylvania Quakers,,Aaron,N,Y,N/A,N/A,N/A,Upcoming,0,0
-401911535,2026-11-25T01:30:00+00:00,Charleston Cougars,UTEP Miners,Miles,,Y,N,N/A,N/A,N/A,Upcoming,0,0
+401911535,2026-11-25T01:30:00+00:00,Charleston Cougars,UTEP Miners,Miles,,Y,N,COFC -1.5,N/A,N/A,Upcoming,0,0
 401909699,2026-11-25T02:00:00+00:00,UNC Asheville Bulldogs,Florida State Seminoles,,Joe,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401921817,2026-11-25T02:00:00+00:00,Evansville Purple Aces,Missouri Tigers,,Racz,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401926184,2026-11-25T02:00:00+00:00,UNC Greensboro Spartans,UC Santa Barbara Gauchos,,Max,N,Y,N/A,N/A,N/A,Upcoming,0,0
