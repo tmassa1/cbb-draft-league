@@ -6,12 +6,12 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401917543,2026-11-24T00:00:00+00:00,Santa Clara Broncos,Illinois State Redbirds,Miles,Aaron,Y,Y,N/A,N/A,N/A,Final,102,99
 401926106,2026-11-24T00:00:00+00:00,Kentucky State Thorobreds,East Tennessee State Buccaneers,,Carson,N,Y,N/A,N/A,N/A,Final,56,108
 401932055,2026-11-24T00:00:00+00:00,Notre Dame (MD) Gators,Howard Bison,,Jack,N,Y,N/A,N/A,N/A,Final,73,101
-401919032,2026-11-24T00:30:00+00:00,Texas A&M-Corpus Christi Islanders,Wichita State Shockers,,Will,N,Y,N/A,N/A,N/A,Live,69,84
-401909788,2026-11-24T01:00:00+00:00,Denver Pioneers,Kansas Jayhawks,,Miles,N,Y,N/A,N/A,N/A,Live,44,57
-401913102,2026-11-24T01:00:00+00:00,Monmouth Hawks,North Carolina Tar Heels,,Max,N,Y,N/A,N/A,N/A,Live,21,56
-401913530,2026-11-24T01:00:00+00:00,Winthrop Eagles,Illinois Fighting Illini,,Aaron,N,Y,N/A,N/A,N/A,Live,58,74
-401929392,2026-11-24T01:00:00+00:00,Wisconsin Stout Blue Devils,North Dakota State Bison,,Sam,N,Y,N/A,N/A,N/A,Live,35,56
-401909536,2026-11-24T02:00:00+00:00,VCU Rams,Providence Friars,Trevor,,Y,N,N/A,N/A,N/A,Live,16,21
+401919032,2026-11-24T00:30:00+00:00,Texas A&M-Corpus Christi Islanders,Wichita State Shockers,,Will,N,Y,N/A,N/A,N/A,Live,73,91
+401909788,2026-11-24T01:00:00+00:00,Denver Pioneers,Kansas Jayhawks,,Miles,N,Y,N/A,N/A,N/A,Live,52,66
+401913102,2026-11-24T01:00:00+00:00,Monmouth Hawks,North Carolina Tar Heels,,Max,N,Y,N/A,N/A,N/A,Live,23,60
+401913530,2026-11-24T01:00:00+00:00,Winthrop Eagles,Illinois Fighting Illini,,Aaron,N,Y,N/A,N/A,N/A,Live,63,87
+401929392,2026-11-24T01:00:00+00:00,Wisconsin Stout Blue Devils,North Dakota State Bison,,Sam,N,Y,N/A,N/A,N/A,Live,41,68
+401909536,2026-11-24T02:00:00+00:00,VCU Rams,Providence Friars,Trevor,,Y,N,N/A,N/A,N/A,Live,19,25
 401909743,2026-11-24T04:30:00+00:00,Colorado State Rams,Arizona Wildcats,,Will,N,Y,ARIZ -16.5,N/A,N/A,Upcoming,0,0
 401921664,2026-11-24T04:59:00+00:00,San José State Spartans,UC San Diego Tritons,,Justin,N,Y,UCSD -1.5,N/A,N/A,Upcoming,0,0
 401928835,2026-11-24T17:30:00+00:00,Belmont Bruins,Akron Zips,BFO,Matt,Y,Y,AKR -3.5,N/A,N/A,Upcoming,0,0
