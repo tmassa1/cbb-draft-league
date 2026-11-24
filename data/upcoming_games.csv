@@ -1,5 +1,5 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
-401928835,2026-11-24T17:30:00+00:00,Belmont Bruins,Akron Zips,BFO,Matt,Y,Y,N/A,N/A,N/A,Live,0,0
+401928835,2026-11-24T17:30:00+00:00,Belmont Bruins,Akron Zips,BFO,Matt,Y,Y,N/A,N/A,N/A,Live,2,5
 401906806,2026-11-24T18:30:00+00:00,Oklahoma Sooners,Pittsburgh Panthers,Justin,,Y,N,PITT -1.5,N/A,N/A,Upcoming,0,0
 401921709,2026-11-24T19:30:00+00:00,Ole Miss Rebels,BYU Cougars,,Miles,N,Y,MISS -1.5,N/A,N/A,Upcoming,0,0
 401906853,2026-11-24T20:00:00+00:00,Tennessee Volunteers,Maryland Terrapins,Carson,,Y,N,TENN -2.5,N/A,N/A,Upcoming,0,0
@@ -27,7 +27,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401911535,2026-11-25T01:30:00+00:00,Charleston Cougars,UTEP Miners,Miles,,Y,N,COFC -2.5,N/A,N/A,Upcoming,0,0
 401909699,2026-11-25T02:00:00+00:00,UNC Asheville Bulldogs,Florida State Seminoles,,Joe,N,Y,FSU -29.5,N/A,N/A,Upcoming,0,0
 401921817,2026-11-25T02:00:00+00:00,Evansville Purple Aces,Missouri Tigers,,Racz,N,Y,MIZ -31.5,N/A,N/A,Upcoming,0,0
-401926184,2026-11-25T02:00:00+00:00,UNC Greensboro Spartans,UC Santa Barbara Gauchos,,Max,N,Y,UCSB -18.5,N/A,N/A,Upcoming,0,0
+401926184,2026-11-25T02:00:00+00:00,UNC Greensboro Spartans,UC Santa Barbara Gauchos,,Max,N,Y,UCSB -17.5,N/A,N/A,Upcoming,0,0
 401911253,2026-11-25T02:30:00+00:00,Grand Canyon Lopes,Saint Louis Billikens,Racz,Will,Y,Y,GCU -1.5,N/A,N/A,Upcoming,0,0
 401906762,2026-11-25T03:00:00+00:00,Baylor Bears,Alabama Crimson Tide,Carson,Trevor,Y,Y,ALA -1.5,N/A,N/A,Upcoming,0,0
 401915943,2026-11-25T03:30:00+00:00,Oregon Ducks,St. John's Red Storm,,Miles,N,Y,SJU -10.5,N/A,N/A,Upcoming,0,0
