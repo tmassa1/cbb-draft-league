@@ -11,7 +11,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401909775,2026-11-24T22:30:00+00:00,San Diego State Aztecs,Iowa State Cyclones,Carson,Justin,Y,Y,ISU -7.5,N/A,N/A,Upcoming,0,0
 401909505,2026-11-24T23:00:00+00:00,DePaul Blue Demons,Purdue Boilermakers,,Sam,N,Y,PUR -3.5,N/A,N/A,Upcoming,0,0
 401921142,2026-11-24T23:30:00+00:00,Elon Phoenix,Furman Paladins,,Sam,N,Y,FUR -8.5,N/A,N/A,Upcoming,0,0
-401906774,2026-11-25T00:00:00+00:00,Milwaukee Panthers,Florida Gators,,Joe,N,Y,FLA -35.5,N/A,N/A,Upcoming,0,0
+401906774,2026-11-25T00:00:00+00:00,Milwaukee Panthers,Florida Gators,,Joe,N,Y,FLA -34.5,N/A,N/A,Upcoming,0,0
 401911458,2026-11-25T00:00:00+00:00,Nevada Wolf Pack,Santa Clara Broncos,Justin,Miles,Y,Y,NEV -1.5,N/A,N/A,Upcoming,0,0
 401916291,2026-11-25T00:00:00+00:00,Jacksonville Dolphins,Indiana Hoosiers,,Aaron,N,Y,IU -27.5,N/A,N/A,Upcoming,0,0
 401916319,2026-11-25T00:00:00+00:00,Vanderbilt Commodores,Ohio State Buckeyes,BFO,,Y,N,VAN -1.5,N/A,N/A,Upcoming,0,0
@@ -28,9 +28,9 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401909699,2026-11-25T02:00:00+00:00,UNC Asheville Bulldogs,Florida State Seminoles,,Joe,N,Y,FSU -29.5,N/A,N/A,Upcoming,0,0
 401921817,2026-11-25T02:00:00+00:00,Evansville Purple Aces,Missouri Tigers,,Racz,N,Y,MIZ -31.5,N/A,N/A,Upcoming,0,0
 401926184,2026-11-25T02:00:00+00:00,UNC Greensboro Spartans,UC Santa Barbara Gauchos,,Max,N,Y,UCSB -18.5,N/A,N/A,Upcoming,0,0
-401911253,2026-11-25T02:30:00+00:00,Grand Canyon Lopes,Saint Louis Billikens,Racz,Will,Y,Y,GCU -1.5,N/A,N/A,Upcoming,0,0
+401911253,2026-11-25T02:30:00+00:00,Grand Canyon Lopes,Saint Louis Billikens,Racz,Will,Y,Y,GCU -2.5,N/A,N/A,Upcoming,0,0
 401906762,2026-11-25T03:00:00+00:00,Baylor Bears,Alabama Crimson Tide,Carson,Trevor,Y,Y,ALA -1.5,N/A,N/A,Upcoming,0,0
-401915943,2026-11-25T03:30:00+00:00,Oregon Ducks,St. John's Red Storm,,Miles,N,Y,SJU -10.5,N/A,N/A,Upcoming,0,0
+401915943,2026-11-25T03:30:00+00:00,Oregon Ducks,St. John's Red Storm,,Miles,N,Y,SJU -9.5,N/A,N/A,Upcoming,0,0
 401921712,2026-11-25T03:30:00+00:00,VCU Rams,Colorado State Rams,Trevor,,Y,N,VCU -5.5,N/A,N/A,Upcoming,0,0
 401909800,2026-11-25T05:30:00+00:00,Gonzaga Bulldogs,Kansas State Wildcats,Jack,,Y,N,GONZ -15.5,N/A,N/A,Upcoming,0,0
 401927399,2026-11-25T15:00:00+00:00,St. Bonaventure Bonnies,Belmont Bruins,,BFO,N,Y,N/A,N/A,N/A,Upcoming,0,0
