@@ -439,6 +439,8 @@ game_id,date,team,opponent,result,phase,source
 401929202,2026-11-22,McNeese,Texas State Bobcats,L,regular,espn
 401929595,2026-11-22,Saint Mary's,Menlo Oaks,W,regular,espn
 401911457,2026-11-23,Nevada,San Francisco Dons,W,regular,espn
+401917543,2026-11-23,Illinois State,Santa Clara Broncos,L,regular,espn
+401917543,2026-11-23,Santa Clara,Illinois State Redbirds,W,regular,espn
 401921708,2026-11-23,BYU,Washington Huskies,W,regular,espn
 401926106,2026-11-23,East Tennessee State,Kentucky State Thorobreds,W,regular,espn
 401928830,2026-11-23,Akron,Wright State Raiders,L,regular,espn
