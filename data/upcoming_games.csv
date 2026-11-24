@@ -1,6 +1,6 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
-401928835,2026-11-24T17:30:00+00:00,Belmont Bruins,Akron Zips,BFO,Matt,Y,Y,N/A,N/A,N/A,Live,43,49
-401906806,2026-11-24T18:30:00+00:00,Oklahoma Sooners,Pittsburgh Panthers,Justin,,Y,N,N/A,N/A,N/A,Live,12,20
+401928835,2026-11-24T17:30:00+00:00,Belmont Bruins,Akron Zips,BFO,Matt,Y,Y,N/A,N/A,N/A,Live,45,51
+401906806,2026-11-24T18:30:00+00:00,Oklahoma Sooners,Pittsburgh Panthers,Justin,,Y,N,N/A,N/A,N/A,Live,13,23
 401921709,2026-11-24T19:30:00+00:00,Ole Miss Rebels,BYU Cougars,,Miles,N,Y,MISS -1.5,N/A,N/A,Upcoming,0,0
 401906853,2026-11-24T20:00:00+00:00,Tennessee Volunteers,Maryland Terrapins,Carson,,Y,N,TENN -2.5,N/A,N/A,Upcoming,0,0
 401915941,2026-11-24T20:00:00+00:00,Miami Hurricanes,TCU Horned Frogs,Aaron,,Y,N,MIA -4.5,N/A,N/A,Upcoming,0,0
@@ -31,7 +31,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401911253,2026-11-25T02:30:00+00:00,Grand Canyon Lopes,Saint Louis Billikens,Racz,Will,Y,Y,GCU -1.5,N/A,N/A,Upcoming,0,0
 401906762,2026-11-25T03:00:00+00:00,Baylor Bears,Alabama Crimson Tide,Carson,Trevor,Y,Y,ALA -1.5,N/A,N/A,Upcoming,0,0
 401915943,2026-11-25T03:30:00+00:00,Oregon Ducks,St. John's Red Storm,,Miles,N,Y,SJU -10.5,N/A,N/A,Upcoming,0,0
-401921712,2026-11-25T03:30:00+00:00,VCU Rams,Colorado State Rams,Trevor,,Y,N,VCU -6.5,N/A,N/A,Upcoming,0,0
+401921712,2026-11-25T03:30:00+00:00,VCU Rams,Colorado State Rams,Trevor,,Y,N,VCU -5.5,N/A,N/A,Upcoming,0,0
 401909800,2026-11-25T05:30:00+00:00,Gonzaga Bulldogs,Kansas State Wildcats,Jack,,Y,N,GONZ -15.5,N/A,N/A,Upcoming,0,0
 401927399,2026-11-25T15:00:00+00:00,St. Bonaventure Bonnies,Belmont Bruins,,BFO,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401920428,2026-11-25T17:00:00+00:00,Virginia Cavaliers,Marquette Golden Eagles,Justin,Matt,Y,Y,N/A,N/A,N/A,Upcoming,0,0
@@ -39,7 +39,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401911029,2026-11-25T18:00:00+00:00,Eastern Kentucky Colonels,Miami (OH) RedHawks,,BFO,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401920809,2026-11-25T19:30:00+00:00,Texas A&M Aggies,Xavier Musketeers,,Jack,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401928836,2026-11-25T20:00:00+00:00,Akron Zips,App State Mountaineers,Matt,,Y,N,N/A,N/A,N/A,Upcoming,0,0
-401924737,2026-11-25T21:00:00+00:00,Liberty Flames,Princeton Tigers,Will,,Y,N,N/A,N/A,N/A,Upcoming,0,0
+401924737,2026-11-25T21:00:00+00:00,Princeton Tigers,Liberty Flames,,Will,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401921670,2026-11-25T21:30:00+00:00,South Carolina Gamecocks,USC Trojans,,Max,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401917182,2026-11-25T22:00:00+00:00,Memphis Tigers,Penn State Nittany Lions,Sam,,Y,N,N/A,N/A,N/A,Upcoming,0,0
 401926065,2026-11-25T22:00:00+00:00,Southern Jaguars,Nebraska Cornhuskers,,Will,N,Y,N/A,N/A,N/A,Upcoming,0,0
