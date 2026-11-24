@@ -1,9 +1,9 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
-401928835,2026-11-24T17:30:00+00:00,Belmont Bruins,Akron Zips,BFO,Matt,Y,Y,N/A,N/A,N/A,Live,62,84
+401928835,2026-11-24T17:30:00+00:00,Belmont Bruins,Akron Zips,BFO,Matt,Y,Y,N/A,N/A,N/A,Final,64,87
 401906806,2026-11-24T18:30:00+00:00,Oklahoma Sooners,Pittsburgh Panthers,Justin,,Y,N,N/A,N/A,N/A,Live,24,36
-401921709,2026-11-24T19:30:00+00:00,Ole Miss Rebels,BYU Cougars,,Miles,N,Y,MISS -2.5,N/A,N/A,Upcoming,0,0
+401921709,2026-11-24T19:30:00+00:00,Ole Miss Rebels,BYU Cougars,,Miles,N,Y,N/A,N/A,N/A,Live,0,5
 401906853,2026-11-24T20:00:00+00:00,Tennessee Volunteers,Maryland Terrapins,Carson,,Y,N,TENN -2.5,N/A,N/A,Upcoming,0,0
-401915941,2026-11-24T20:00:00+00:00,Miami Hurricanes,TCU Horned Frogs,Aaron,,Y,N,MIA -4.5,N/A,N/A,Upcoming,0,0
+401915941,2026-11-24T20:00:00+00:00,Miami Hurricanes,TCU Horned Frogs,Aaron,,Y,N,MIA -5.5,N/A,N/A,Upcoming,0,0
 401929285,2026-11-24T20:00:00+00:00,App State Mountaineers,Yale Bulldogs,,Joe,N,Y,APP -1.5,N/A,N/A,Upcoming,0,0
 401921666,2026-11-24T21:30:00+00:00,Tulsa Golden Hurricane,Illinois State Redbirds,,Aaron,N,Y,TLSA -1.5,N/A,N/A,Upcoming,0,0
 401921710,2026-11-24T22:00:00+00:00,Providence Friars,Arizona Wildcats,,Will,N,Y,ARIZ -7.5,N/A,N/A,Upcoming,0,0
