@@ -1,10 +1,10 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
 401928835,2026-11-24T17:30:00+00:00,Belmont Bruins,Akron Zips,BFO,Matt,Y,Y,N/A,N/A,N/A,Final,64,87
-401906806,2026-11-24T18:30:00+00:00,Oklahoma Sooners,Pittsburgh Panthers,Justin,,Y,N,N/A,N/A,N/A,Live,35,56
-401921709,2026-11-24T19:30:00+00:00,Ole Miss Rebels,BYU Cougars,,Miles,N,Y,N/A,N/A,N/A,Live,18,29
-401906853,2026-11-24T20:00:00+00:00,Tennessee Volunteers,Maryland Terrapins,Carson,,Y,N,N/A,N/A,N/A,Live,3,2
-401915941,2026-11-24T20:00:00+00:00,Miami Hurricanes,TCU Horned Frogs,Aaron,,Y,N,N/A,N/A,N/A,Live,5,3
-401929285,2026-11-24T20:00:00+00:00,App State Mountaineers,Yale Bulldogs,,Joe,N,Y,N/A,N/A,N/A,Live,2,0
+401906806,2026-11-24T18:30:00+00:00,Oklahoma Sooners,Pittsburgh Panthers,Justin,,Y,N,N/A,N/A,N/A,Live,37,56
+401921709,2026-11-24T19:30:00+00:00,Ole Miss Rebels,BYU Cougars,,Miles,N,Y,N/A,N/A,N/A,Live,18,30
+401906853,2026-11-24T20:00:00+00:00,Tennessee Volunteers,Maryland Terrapins,Carson,,Y,N,N/A,N/A,N/A,Live,8,9
+401915941,2026-11-24T20:00:00+00:00,Miami Hurricanes,TCU Horned Frogs,Aaron,,Y,N,N/A,N/A,N/A,Live,7,3
+401929285,2026-11-24T20:00:00+00:00,App State Mountaineers,Yale Bulldogs,,Joe,N,Y,N/A,N/A,N/A,Live,2,4
 401921666,2026-11-24T21:30:00+00:00,Tulsa Golden Hurricane,Illinois State Redbirds,,Aaron,N,Y,TLSA -1.5,N/A,N/A,Upcoming,0,0
 401921710,2026-11-24T22:00:00+00:00,Providence Friars,Arizona Wildcats,,Will,N,Y,ARIZ -7.5,N/A,N/A,Upcoming,0,0
 401909495,2026-11-24T22:30:00+00:00,Creighton Bluejays,Michigan Wolverines,,Sam,N,Y,MICH -5.5,N/A,N/A,Upcoming,0,0
@@ -25,7 +25,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401920709,2026-11-25T01:00:00+00:00,Lipscomb Bisons,Auburn Tigers,,Trevor,N,Y,AUB -24.5,N/A,N/A,Upcoming,0,0
 401921184,2026-11-25T01:00:00+00:00,Drexel Dragons,Pennsylvania Quakers,,Aaron,N,Y,PENN -6.5,N/A,N/A,Upcoming,0,0
 401911535,2026-11-25T01:30:00+00:00,Charleston Cougars,UTEP Miners,Miles,,Y,N,COFC -1.5,N/A,N/A,Upcoming,0,0
-401909699,2026-11-25T02:00:00+00:00,UNC Asheville Bulldogs,Florida State Seminoles,,Joe,N,Y,FSU -29.5,N/A,N/A,Upcoming,0,0
+401909699,2026-11-25T02:00:00+00:00,UNC Asheville Bulldogs,Florida State Seminoles,,Joe,N,Y,FSU -30.5,N/A,N/A,Upcoming,0,0
 401921817,2026-11-25T02:00:00+00:00,Evansville Purple Aces,Missouri Tigers,,Racz,N,Y,MIZ -30.5,N/A,N/A,Upcoming,0,0
 401926184,2026-11-25T02:00:00+00:00,UNC Greensboro Spartans,UC Santa Barbara Gauchos,,Max,N,Y,UCSB -18.5,N/A,N/A,Upcoming,0,0
 401911253,2026-11-25T02:30:00+00:00,Grand Canyon Lopes,Saint Louis Billikens,Racz,Will,Y,Y,GCU -1.5,N/A,N/A,Upcoming,0,0
