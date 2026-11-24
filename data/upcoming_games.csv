@@ -1,11 +1,11 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
 401928835,2026-11-24T17:30:00+00:00,Belmont Bruins,Akron Zips,BFO,Matt,Y,Y,N/A,N/A,N/A,Final,64,87
 401906806,2026-11-24T18:30:00+00:00,Oklahoma Sooners,Pittsburgh Panthers,Justin,,Y,N,N/A,N/A,N/A,Final,68,79
-401921709,2026-11-24T19:30:00+00:00,Ole Miss Rebels,BYU Cougars,,Miles,N,Y,N/A,N/A,N/A,Live,73,63
-401906853,2026-11-24T20:00:00+00:00,Tennessee Volunteers,Maryland Terrapins,Carson,,Y,N,N/A,N/A,N/A,Live,58,53
-401915941,2026-11-24T20:00:00+00:00,Miami Hurricanes,TCU Horned Frogs,Aaron,,Y,N,N/A,N/A,N/A,Live,51,58
-401929285,2026-11-24T20:00:00+00:00,App State Mountaineers,Yale Bulldogs,,Joe,N,Y,N/A,N/A,N/A,Live,47,51
-401921666,2026-11-24T21:30:00+00:00,Illinois State Redbirds,Tulsa Golden Hurricane,Aaron,,Y,N,N/A,N/A,N/A,Live,11,6
+401921709,2026-11-24T19:30:00+00:00,Ole Miss Rebels,BYU Cougars,,Miles,N,Y,N/A,N/A,N/A,Final,73,63
+401906853,2026-11-24T20:00:00+00:00,Tennessee Volunteers,Maryland Terrapins,Carson,,Y,N,N/A,N/A,N/A,Live,58,54
+401915941,2026-11-24T20:00:00+00:00,Miami Hurricanes,TCU Horned Frogs,Aaron,,Y,N,N/A,N/A,N/A,Live,56,64
+401929285,2026-11-24T20:00:00+00:00,App State Mountaineers,Yale Bulldogs,,Joe,N,Y,N/A,N/A,N/A,Final,50,57
+401921666,2026-11-24T21:30:00+00:00,Illinois State Redbirds,Tulsa Golden Hurricane,Aaron,,Y,N,N/A,N/A,N/A,Live,20,9
 401921710,2026-11-24T22:00:00+00:00,Providence Friars,Arizona Wildcats,,Will,N,Y,ARIZ -7.5,N/A,N/A,Upcoming,0,0
 401909495,2026-11-24T22:30:00+00:00,Creighton Bluejays,Michigan Wolverines,,Sam,N,Y,MICH -5.5,N/A,N/A,Upcoming,0,0
 401909775,2026-11-24T22:30:00+00:00,San Diego State Aztecs,Iowa State Cyclones,Carson,Justin,Y,Y,ISU -9.5,N/A,N/A,Upcoming,0,0
