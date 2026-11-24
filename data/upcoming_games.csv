@@ -5,11 +5,11 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401906853,2026-11-24T20:00:00+00:00,Tennessee Volunteers,Maryland Terrapins,Carson,,Y,N,N/A,N/A,N/A,Final,72,64
 401915941,2026-11-24T20:00:00+00:00,Miami Hurricanes,TCU Horned Frogs,Aaron,,Y,N,N/A,N/A,N/A,Final,71,84
 401929285,2026-11-24T20:00:00+00:00,App State Mountaineers,Yale Bulldogs,,Joe,N,Y,N/A,N/A,N/A,Final,50,57
-401921666,2026-11-24T21:30:00+00:00,Illinois State Redbirds,Tulsa Golden Hurricane,Aaron,,Y,N,N/A,N/A,N/A,Live,55,45
-401921710,2026-11-24T22:00:00+00:00,Providence Friars,Arizona Wildcats,,Will,N,Y,N/A,N/A,N/A,Live,21,45
-401909775,2026-11-24T22:30:00+00:00,San Diego State Aztecs,Iowa State Cyclones,Carson,Justin,Y,Y,N/A,N/A,N/A,Live,10,10
-401909495,2026-11-24T22:55:00+00:00,Creighton Bluejays,Michigan Wolverines,,Sam,N,Y,N/A,N/A,N/A,Live,12,11
-401909505,2026-11-24T23:00:00+00:00,DePaul Blue Demons,Purdue Boilermakers,,Sam,N,Y,N/A,N/A,N/A,Live,2,0
+401921666,2026-11-24T21:30:00+00:00,Illinois State Redbirds,Tulsa Golden Hurricane,Aaron,,Y,N,N/A,N/A,N/A,Live,62,50
+401921710,2026-11-24T22:00:00+00:00,Providence Friars,Arizona Wildcats,,Will,N,Y,N/A,N/A,N/A,Live,26,48
+401909775,2026-11-24T22:30:00+00:00,San Diego State Aztecs,Iowa State Cyclones,Carson,Justin,Y,Y,N/A,N/A,N/A,Live,10,17
+401909495,2026-11-24T22:55:00+00:00,Creighton Bluejays,Michigan Wolverines,,Sam,N,Y,N/A,N/A,N/A,Live,12,14
+401909505,2026-11-24T23:00:00+00:00,DePaul Blue Demons,Purdue Boilermakers,,Sam,N,Y,N/A,N/A,N/A,Live,9,2
 401921142,2026-11-24T23:30:00+00:00,Elon Phoenix,Furman Paladins,,Sam,N,Y,FUR -6.5,N/A,N/A,Upcoming,0,0
 401906774,2026-11-25T00:00:00+00:00,Milwaukee Panthers,Florida Gators,,Joe,N,Y,FLA -34.5,N/A,N/A,Upcoming,0,0
 401911458,2026-11-25T00:00:00+00:00,Santa Clara Broncos,Nevada Wolf Pack,Miles,Justin,Y,Y,SCU -1.5,N/A,N/A,Upcoming,0,0
