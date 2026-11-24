@@ -2,7 +2,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401928835,2026-11-24T17:30:00+00:00,Belmont Bruins,Akron Zips,BFO,Matt,Y,Y,AKR -2.5,N/A,N/A,Upcoming,0,0
 401906806,2026-11-24T18:30:00+00:00,Oklahoma Sooners,Pittsburgh Panthers,Justin,,Y,N,PITT -2.5,N/A,N/A,Upcoming,0,0
 401921709,2026-11-24T19:30:00+00:00,Ole Miss Rebels,BYU Cougars,,Miles,N,Y,MISS -1.5,N/A,N/A,Upcoming,0,0
-401906853,2026-11-24T20:00:00+00:00,Tennessee Volunteers,Maryland Terrapins,Carson,,Y,N,TENN -4.5,N/A,N/A,Upcoming,0,0
+401906853,2026-11-24T20:00:00+00:00,Tennessee Volunteers,Maryland Terrapins,Carson,,Y,N,TENN -3.5,N/A,N/A,Upcoming,0,0
 401915941,2026-11-24T20:00:00+00:00,Miami Hurricanes,TCU Horned Frogs,Aaron,,Y,N,MIA -5.5,N/A,N/A,Upcoming,0,0
 401929285,2026-11-24T20:00:00+00:00,App State Mountaineers,Yale Bulldogs,,Joe,N,Y,APP -1.5,N/A,N/A,Upcoming,0,0
 401921666,2026-11-24T21:30:00+00:00,Tulsa Golden Hurricane,Illinois State Redbirds,,Aaron,N,Y,TLSA -1.5,N/A,N/A,Upcoming,0,0
@@ -24,8 +24,8 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401915942,2026-11-25T01:00:00+00:00,Texas Tech Red Raiders,Louisville Cardinals,Matt,BFO,Y,Y,TTU -3.5,N/A,N/A,Upcoming,0,0
 401920709,2026-11-25T01:00:00+00:00,Lipscomb Bisons,Auburn Tigers,,Trevor,N,Y,AUB -25.5,N/A,N/A,Upcoming,0,0
 401921184,2026-11-25T01:00:00+00:00,Drexel Dragons,Pennsylvania Quakers,,Aaron,N,Y,PENN -5.5,N/A,N/A,Upcoming,0,0
-401911535,2026-11-25T01:30:00+00:00,Charleston Cougars,UTEP Miners,Miles,,Y,N,COFC -1.5,N/A,N/A,Upcoming,0,0
-401909699,2026-11-25T02:00:00+00:00,UNC Asheville Bulldogs,Florida State Seminoles,,Joe,N,Y,FSU -29.5,N/A,N/A,Upcoming,0,0
+401911535,2026-11-25T01:30:00+00:00,Charleston Cougars,UTEP Miners,Miles,,Y,N,COFC -2.5,N/A,N/A,Upcoming,0,0
+401909699,2026-11-25T02:00:00+00:00,UNC Asheville Bulldogs,Florida State Seminoles,,Joe,N,Y,FSU -28.5,N/A,N/A,Upcoming,0,0
 401921817,2026-11-25T02:00:00+00:00,Evansville Purple Aces,Missouri Tigers,,Racz,N,Y,MIZ -31.5,N/A,N/A,Upcoming,0,0
 401926184,2026-11-25T02:00:00+00:00,UNC Greensboro Spartans,UC Santa Barbara Gauchos,,Max,N,Y,UCSB -18.5,N/A,N/A,Upcoming,0,0
 401911253,2026-11-25T02:30:00+00:00,Grand Canyon Lopes,Saint Louis Billikens,Racz,Will,Y,Y,GCU -1.5,N/A,N/A,Upcoming,0,0
