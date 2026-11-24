@@ -31,7 +31,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401911253,2026-11-25T02:30:00+00:00,Grand Canyon Lopes,Saint Louis Billikens,Racz,Will,Y,Y,GCU -1.5,N/A,N/A,Upcoming,0,0
 401906762,2026-11-25T03:00:00+00:00,Baylor Bears,Alabama Crimson Tide,Carson,Trevor,Y,Y,ALA -1.5,N/A,N/A,Upcoming,0,0
 401915943,2026-11-25T03:30:00+00:00,Oregon Ducks,St. John's Red Storm,,Miles,N,Y,SJU -9.5,N/A,N/A,Upcoming,0,0
-401921712,2026-11-25T03:30:00+00:00,VCU Rams,Colorado State Rams,Trevor,,Y,N,VCU -5.5,N/A,N/A,Upcoming,0,0
+401921712,2026-11-25T03:30:00+00:00,VCU Rams,Colorado State Rams,Trevor,,Y,N,N/A,N/A,N/A,Upcoming,0,0
 401909800,2026-11-25T05:30:00+00:00,Gonzaga Bulldogs,Kansas State Wildcats,Jack,,Y,N,GONZ -15.5,N/A,N/A,Upcoming,0,0
 401927399,2026-11-25T15:00:00+00:00,St. Bonaventure Bonnies,Belmont Bruins,,BFO,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401920428,2026-11-25T17:00:00+00:00,Virginia Cavaliers,Marquette Golden Eagles,Justin,Matt,Y,Y,N/A,N/A,N/A,Upcoming,0,0
