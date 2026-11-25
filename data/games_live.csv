@@ -465,6 +465,8 @@ game_id,date,team,opponent,result,phase,source
 401909699,2026-11-24,Florida State,UNC Asheville Bulldogs,W,regular,espn
 401909775,2026-11-24,Iowa State,San Diego State Aztecs,W,regular,espn
 401909775,2026-11-24,San Diego State,Iowa State Cyclones,L,regular,espn
+401911253,2026-11-24,Grand Canyon,Saint Louis Billikens,W,regular,espn
+401911253,2026-11-24,Saint Louis,Grand Canyon Lopes,L,regular,espn
 401911458,2026-11-24,Nevada,Santa Clara Broncos,W,regular,espn
 401911458,2026-11-24,Santa Clara,Nevada Wolf Pack,L,regular,espn
 401911535,2026-11-24,Charleston,UTEP Miners,L,regular,espn
