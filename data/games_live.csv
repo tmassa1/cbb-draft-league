@@ -465,6 +465,8 @@ game_id,date,team,opponent,result,phase,source
 401911458,2026-11-24,Nevada,Santa Clara Broncos,W,regular,espn
 401911458,2026-11-24,Santa Clara,Nevada Wolf Pack,L,regular,espn
 401915941,2026-11-24,Miami (FL),TCU Horned Frogs,L,regular,espn
+401915942,2026-11-24,Louisville,Texas Tech Red Raiders,W,regular,espn
+401915942,2026-11-24,Texas Tech,Louisville Cardinals,L,regular,espn
 401916291,2026-11-24,Indiana,Jacksonville Dolphins,W,regular,espn
 401916319,2026-11-24,Vanderbilt,Ohio State Buckeyes,W,regular,espn
 401918996,2026-11-24,South Florida,Stetson Hatters,W,regular,espn
