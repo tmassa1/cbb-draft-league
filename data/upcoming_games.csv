@@ -5,11 +5,11 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401911029,2026-11-25T18:00:00+00:00,Eastern Kentucky Colonels,Miami (OH) RedHawks,,BFO,N,Y,N/A,N/A,N/A,Final,72,85
 401921715,2026-11-25T19:30:00+00:00,Ole Miss Rebels,Arizona Wildcats,,Will,N,Y,N/A,N/A,N/A,Final,73,84
 401928836,2026-11-25T20:00:00+00:00,Akron Zips,App State Mountaineers,Matt,,Y,N,N/A,N/A,N/A,Final,66,76
-401924737,2026-11-25T21:00:00+00:00,Princeton Tigers,Liberty Flames,,Will,N,Y,N/A,N/A,N/A,Live,65,65
-401920809,2026-11-25T21:13:00+00:00,Texas A&M Aggies,Xavier Musketeers,,Jack,N,Y,N/A,N/A,N/A,Live,56,66
+401924737,2026-11-25T21:00:00+00:00,Princeton Tigers,Liberty Flames,,Will,N,Y,N/A,N/A,N/A,Live,67,69
+401920809,2026-11-25T21:13:00+00:00,Texas A&M Aggies,Xavier Musketeers,,Jack,N,Y,N/A,N/A,N/A,Live,58,66
 401926065,2026-11-25T22:00:00+00:00,Southern Jaguars,Nebraska Cornhuskers,,Will,N,Y,N/A,N/A,N/A,Live,28,56
-401921670,2026-11-25T22:17:00+00:00,South Carolina Gamecocks,USC Trojans,,Max,N,Y,N/A,N/A,N/A,Live,25,24
-401921716,2026-11-25T22:30:00+00:00,BYU Cougars,Providence Friars,Miles,,Y,N,N/A,N/A,N/A,Live,8,8
+401921670,2026-11-25T22:17:00+00:00,South Carolina Gamecocks,USC Trojans,,Max,N,Y,N/A,N/A,N/A,Live,28,27
+401921716,2026-11-25T22:30:00+00:00,BYU Cougars,Providence Friars,Miles,,Y,N,N/A,N/A,N/A,Live,13,13
 401920549,2026-11-25T23:00:00+00:00,Kennesaw State Owls,Charleston Cougars,,Miles,N,Y,COFC -1.5,N/A,N/A,Upcoming,0,0
 401917182,2026-11-25T23:35:00+00:00,Memphis Tigers,Penn State Nittany Lions,Sam,,Y,N,MEM -3.5,N/A,N/A,Upcoming,0,0
 401909568,2026-11-26T00:00:00+00:00,UConn Huskies,Duke Blue Devils,Max,Racz,Y,Y,CONN -1.5,N/A,N/A,Upcoming,0,0
