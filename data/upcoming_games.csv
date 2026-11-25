@@ -3,10 +3,10 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401920428,2026-11-25T17:00:00+00:00,Virginia Cavaliers,Marquette Golden Eagles,Justin,Matt,Y,Y,N/A,N/A,N/A,Final,60,54
 401928831,2026-11-25T17:31:00+00:00,Yale Bulldogs,Wright State Raiders,Joe,,Y,N,N/A,N/A,N/A,Final,72,70
 401911029,2026-11-25T18:00:00+00:00,Eastern Kentucky Colonels,Miami (OH) RedHawks,,BFO,N,Y,N/A,N/A,N/A,Final,72,85
-401921715,2026-11-25T19:30:00+00:00,Ole Miss Rebels,Arizona Wildcats,,Will,N,Y,N/A,N/A,N/A,Live,62,73
-401928836,2026-11-25T20:00:00+00:00,Akron Zips,App State Mountaineers,Matt,,Y,N,N/A,N/A,N/A,Live,47,54
-401924737,2026-11-25T21:00:00+00:00,Princeton Tigers,Liberty Flames,,Will,N,Y,N/A,N/A,N/A,Live,22,27
-401920809,2026-11-25T21:13:00+00:00,Texas A&M Aggies,Xavier Musketeers,,Jack,N,Y,N/A,N/A,N/A,Live,13,15
+401921715,2026-11-25T19:30:00+00:00,Ole Miss Rebels,Arizona Wildcats,,Will,N,Y,N/A,N/A,N/A,Live,65,75
+401928836,2026-11-25T20:00:00+00:00,Akron Zips,App State Mountaineers,Matt,,Y,N,N/A,N/A,N/A,Live,51,58
+401924737,2026-11-25T21:00:00+00:00,Princeton Tigers,Liberty Flames,,Will,N,Y,N/A,N/A,N/A,Live,24,31
+401920809,2026-11-25T21:13:00+00:00,Texas A&M Aggies,Xavier Musketeers,,Jack,N,Y,N/A,N/A,N/A,Live,18,24
 401921670,2026-11-25T21:45:00+00:00,South Carolina Gamecocks,USC Trojans,,Max,N,Y,N/A,N/A,N/A,Live,0,0
 401917182,2026-11-25T22:00:00+00:00,Memphis Tigers,Penn State Nittany Lions,Sam,,Y,N,MEM -4.5,N/A,N/A,Upcoming,0,0
 401926065,2026-11-25T22:00:00+00:00,Southern Jaguars,Nebraska Cornhuskers,,Will,N,Y,NEB -34.5,N/A,N/A,Upcoming,0,0
