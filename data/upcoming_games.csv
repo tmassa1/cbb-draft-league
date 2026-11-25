@@ -28,10 +28,10 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401911535,2026-11-25T02:00:00+00:00,UTEP Miners,Charleston Cougars,,Miles,N,Y,N/A,N/A,N/A,Final,80,69
 401921817,2026-11-25T02:00:00+00:00,Evansville Purple Aces,Missouri Tigers,,Racz,N,Y,N/A,N/A,N/A,Final,67,78
 401926184,2026-11-25T02:00:00+00:00,UNC Greensboro Spartans,UC Santa Barbara Gauchos,,Max,N,Y,N/A,N/A,N/A,Final,65,85
-401911253,2026-11-25T02:55:00+00:00,Saint Louis Billikens,Grand Canyon Lopes,Will,Racz,Y,Y,N/A,N/A,N/A,Live,70,70
-401906762,2026-11-25T03:05:00+00:00,Baylor Bears,Alabama Crimson Tide,Carson,Trevor,Y,Y,N/A,N/A,N/A,Live,58,48
-401921712,2026-11-25T03:30:00+00:00,VCU Rams,Colorado State Rams,Trevor,,Y,N,N/A,N/A,N/A,Live,49,40
-401915943,2026-11-25T04:18:00+00:00,Oregon Ducks,St. John's Red Storm,,Miles,N,Y,N/A,N/A,N/A,Live,18,25
+401911253,2026-11-25T02:55:00+00:00,Saint Louis Billikens,Grand Canyon Lopes,Will,Racz,Y,Y,N/A,N/A,N/A,Live,70,72
+401906762,2026-11-25T03:05:00+00:00,Baylor Bears,Alabama Crimson Tide,Carson,Trevor,Y,Y,N/A,N/A,N/A,Live,60,50
+401921712,2026-11-25T03:30:00+00:00,VCU Rams,Colorado State Rams,Trevor,,Y,N,N/A,N/A,N/A,Live,51,44
+401915943,2026-11-25T04:18:00+00:00,Oregon Ducks,St. John's Red Storm,,Miles,N,Y,N/A,N/A,N/A,Live,22,25
 401909800,2026-11-25T05:30:00+00:00,Gonzaga Bulldogs,Kansas State Wildcats,Jack,,Y,N,GONZ -15.5,N/A,N/A,Upcoming,0,0
 401927399,2026-11-25T15:00:00+00:00,St. Bonaventure Bonnies,Belmont Bruins,,BFO,N,Y,SBU -3.5,N/A,N/A,Upcoming,0,0
 401920428,2026-11-25T17:00:00+00:00,Virginia Cavaliers,Marquette Golden Eagles,Justin,Matt,Y,Y,UVA -5.5,N/A,N/A,Upcoming,0,0
