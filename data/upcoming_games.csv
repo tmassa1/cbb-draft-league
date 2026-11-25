@@ -1,7 +1,7 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
 401927399,2026-11-25T15:00:00+00:00,St. Bonaventure Bonnies,Belmont Bruins,,BFO,N,Y,N/A,N/A,N/A,Final,71,68
-401920428,2026-11-25T17:00:00+00:00,Virginia Cavaliers,Marquette Golden Eagles,Justin,Matt,Y,Y,N/A,N/A,N/A,Live,11,19
-401928831,2026-11-25T17:31:00+00:00,Yale Bulldogs,Wright State Raiders,Joe,,Y,N,N/A,N/A,N/A,Live,11,8
+401920428,2026-11-25T17:00:00+00:00,Virginia Cavaliers,Marquette Golden Eagles,Justin,Matt,Y,Y,N/A,N/A,N/A,Live,13,21
+401928831,2026-11-25T17:31:00+00:00,Yale Bulldogs,Wright State Raiders,Joe,,Y,N,N/A,N/A,N/A,Live,16,10
 401911029,2026-11-25T18:00:00+00:00,Eastern Kentucky Colonels,Miami (OH) RedHawks,,BFO,N,Y,M-OH -14.5,N/A,N/A,Upcoming,0,0
 401920809,2026-11-25T19:30:00+00:00,Texas A&M Aggies,Xavier Musketeers,,Jack,N,Y,TA&M -3.5,N/A,N/A,Upcoming,0,0
 401921715,2026-11-25T19:30:00+00:00,Ole Miss Rebels,Arizona Wildcats,,Will,N,Y,ARIZ -5.5,N/A,N/A,Upcoming,0,0
