@@ -455,6 +455,7 @@ game_id,date,team,opponent,result,phase,source
 401929286,2026-11-23,Yale,Belmont Bruins,L,regular,espn
 401929392,2026-11-23,North Dakota State,Wisconsin Stout Blue Devils,W,regular,espn
 401932055,2026-11-23,Howard,Notre Dame (MD) Gators,W,regular,espn
+401906774,2026-11-24,Florida,Milwaukee Panthers,W,regular,espn
 401906806,2026-11-24,Oklahoma,Pittsburgh Panthers,L,regular,espn
 401906853,2026-11-24,Tennessee,Maryland Terrapins,W,regular,espn
 401909495,2026-11-24,Michigan,Creighton Bluejays,L,regular,espn
@@ -467,6 +468,7 @@ game_id,date,team,opponent,result,phase,source
 401921666,2026-11-24,Illinois State,Tulsa Golden Hurricane,W,regular,espn
 401921709,2026-11-24,BYU,Ole Miss Rebels,L,regular,espn
 401921710,2026-11-24,Arizona,Providence Friars,W,regular,espn
+401921777,2026-11-24,Villanova,Coppin State Eagles,W,regular,espn
 401928835,2026-11-24,Akron,Belmont Bruins,W,regular,espn
 401928835,2026-11-24,Belmont,Akron Zips,L,regular,espn
 401929285,2026-11-24,Yale,App State Mountaineers,W,regular,espn
