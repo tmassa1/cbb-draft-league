@@ -455,6 +455,8 @@ game_id,date,team,opponent,result,phase,source
 401929286,2026-11-23,Yale,Belmont Bruins,L,regular,espn
 401929392,2026-11-23,North Dakota State,Wisconsin Stout Blue Devils,W,regular,espn
 401932055,2026-11-23,Howard,Notre Dame (MD) Gators,W,regular,espn
+401906762,2026-11-24,Alabama,Baylor Bears,L,regular,espn
+401906762,2026-11-24,Baylor,Alabama Crimson Tide,W,regular,espn
 401906774,2026-11-24,Florida,Milwaukee Panthers,W,regular,espn
 401906806,2026-11-24,Oklahoma,Pittsburgh Panthers,L,regular,espn
 401906853,2026-11-24,Tennessee,Maryland Terrapins,W,regular,espn
