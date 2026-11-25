@@ -1,6 +1,6 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
 401927399,2026-11-25T15:00:00+00:00,St. Bonaventure Bonnies,Belmont Bruins,,BFO,N,Y,N/A,N/A,N/A,Final,71,68
-401920428,2026-11-25T17:00:00+00:00,Virginia Cavaliers,Marquette Golden Eagles,Justin,Matt,Y,Y,N/A,N/A,N/A,Live,5,2
+401920428,2026-11-25T17:00:00+00:00,Virginia Cavaliers,Marquette Golden Eagles,Justin,Matt,Y,Y,N/A,N/A,N/A,Live,11,5
 401928831,2026-11-25T17:30:00+00:00,Yale Bulldogs,Wright State Raiders,Joe,,Y,N,WRST -4.5,N/A,N/A,Upcoming,0,0
 401911029,2026-11-25T18:00:00+00:00,Eastern Kentucky Colonels,Miami (OH) RedHawks,,BFO,N,Y,M-OH -14.5,N/A,N/A,Upcoming,0,0
 401920809,2026-11-25T19:30:00+00:00,Texas A&M Aggies,Xavier Musketeers,,Jack,N,Y,TA&M -3.5,N/A,N/A,Upcoming,0,0
@@ -20,7 +20,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401924897,2026-11-26T02:00:00+00:00,Mississippi Valley State Delta Devils,New Mexico Lobos,,Joe,N,Y,UNM -36.5,N/A,N/A,Upcoming,0,0
 401921671,2026-11-26T02:30:00+00:00,Grand Canyon Lopes,Colorado Buffaloes,Racz,,Y,N,GCU -9.5,N/A,N/A,Upcoming,0,0
 401921713,2026-11-26T03:00:00+00:00,Washington Huskies,VCU Rams,,Trevor,N,Y,VCU -4.5,N/A,N/A,Upcoming,0,0
-401921672,2026-11-26T04:59:00+00:00,Stanford Cardinal,Saint Louis Billikens,,Will,N,Y,SLU -4.5,N/A,N/A,Upcoming,0,0
+401921672,2026-11-26T04:59:00+00:00,Stanford Cardinal,Saint Louis Billikens,,Will,N,Y,SLU -3.5,N/A,N/A,Upcoming,0,0
 401929281,2026-11-26T16:00:00+00:00,Georgia Bulldogs,Cincinnati Bearcats,,Racz,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401906807,2026-11-26T17:00:00+00:00,Oklahoma Sooners,Purdue Boilermakers,Justin,Sam,Y,Y,N/A,N/A,N/A,Upcoming,0,0
 401920528,2026-11-26T18:00:00+00:00,San Diego State Aztecs,Maryland Terrapins,Carson,,Y,N,MD -1.5,N/A,N/A,Upcoming,0,0
