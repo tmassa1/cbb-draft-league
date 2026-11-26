@@ -17,9 +17,9 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401918960,2026-11-26T00:00:00+00:00,Norfolk State Spartans,NC State Wolfpack,,Matt,N,Y,N/A,N/A,N/A,Final,49,80
 401920847,2026-11-26T00:00:00+00:00,St. Thomas Tommies,UNC Wilmington Seahawks,,Racz,N,Y,N/A,N/A,N/A,Final,77,86
 401918971,2026-11-26T00:50:00+00:00,SMU Mustangs,Utah State Aggies,,Sam,N,Y,N/A,N/A,N/A,Final,59,93
-401924897,2026-11-26T02:00:00+00:00,Mississippi Valley State Delta Devils,New Mexico Lobos,,Joe,N,Y,N/A,N/A,N/A,Live,51,61
-401921713,2026-11-26T03:00:00+00:00,Washington Huskies,VCU Rams,,Trevor,N,Y,N/A,N/A,N/A,Live,12,14
-401921671,2026-11-26T03:30:00+00:00,Grand Canyon Lopes,Colorado Buffaloes,Racz,,Y,N,GCU -9.5,N/A,N/A,Upcoming,0,0
+401924897,2026-11-26T02:00:00+00:00,Mississippi Valley State Delta Devils,New Mexico Lobos,,Joe,N,Y,N/A,N/A,N/A,Live,57,63
+401921713,2026-11-26T03:00:00+00:00,Washington Huskies,VCU Rams,,Trevor,N,Y,N/A,N/A,N/A,Live,15,16
+401921671,2026-11-26T03:30:00+00:00,Grand Canyon Lopes,Colorado Buffaloes,Racz,,Y,N,N/A,N/A,N/A,Live,0,0
 401921672,2026-11-26T04:59:00+00:00,Stanford Cardinal,Saint Louis Billikens,,Will,N,Y,SLU -3.5,N/A,N/A,Upcoming,0,0
 401929281,2026-11-26T16:00:00+00:00,Georgia Bulldogs,Cincinnati Bearcats,,Racz,N,Y,CIN -2.5,N/A,N/A,Upcoming,0,0
 401906807,2026-11-26T17:00:00+00:00,Oklahoma Sooners,Purdue Boilermakers,Justin,Sam,Y,Y,PUR -4.5,N/A,N/A,Upcoming,0,0
@@ -33,7 +33,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401920530,2026-11-27T02:00:00+00:00,Louisville Cardinals,St. John's Red Storm,BFO,Miles,Y,Y,SJU -2.5,N/A,N/A,Upcoming,0,0
 401920539,2026-11-27T02:00:00+00:00,Alabama Crimson Tide,Kansas State Wildcats,Trevor,,Y,N,ALA -14.5,N/A,N/A,Upcoming,0,0
 401920531,2026-11-27T04:30:00+00:00,Texas Tech Red Raiders,Oregon Ducks,Matt,,Y,N,TTU -9.5,N/A,N/A,Upcoming,0,0
-401920540,2026-11-27T04:30:00+00:00,Baylor Bears,Gonzaga Bulldogs,Carson,Jack,Y,Y,GONZ -4.5,N/A,N/A,Upcoming,0,0
+401920540,2026-11-27T04:30:00+00:00,Baylor Bears,Gonzaga Bulldogs,Carson,Jack,Y,Y,GONZ -3.5,N/A,N/A,Upcoming,0,0
 401920429,2026-11-27T16:00:00+00:00,Virginia Cavaliers,Xavier Musketeers,Justin,Jack,Y,Y,N/A,N/A,N/A,Upcoming,0,0
 401920848,2026-11-27T17:00:00+00:00,Liberty Flames,St. Thomas Tommies,Will,,Y,N,N/A,N/A,N/A,Upcoming,0,0
 401924810,2026-11-27T18:00:00+00:00,Vermont Catamounts,Merrimack Warriors,Racz,,Y,N,N/A,N/A,N/A,Upcoming,0,0
