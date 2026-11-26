@@ -494,6 +494,8 @@ game_id,date,team,opponent,result,phase,source
 401928835,2026-11-24,Akron,Belmont Bruins,W,regular,espn
 401928835,2026-11-24,Belmont,Akron Zips,L,regular,espn
 401929285,2026-11-24,Yale,App State Mountaineers,W,regular,espn
+401909568,2026-11-25,Duke,UConn Huskies,W,regular,espn
+401909568,2026-11-25,UConn,Duke Blue Devils,L,regular,espn
 401909800,2026-11-25,Gonzaga,Kansas State Wildcats,W,regular,espn
 401911028,2026-11-25,Wisconsin,Northeastern Huskies,W,regular,espn
 401911029,2026-11-25,Miami (OH),Eastern Kentucky Colonels,W,regular,espn
