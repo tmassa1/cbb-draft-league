@@ -8,19 +8,19 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401924737,2026-11-25T21:00:00+00:00,Princeton Tigers,Liberty Flames,,Will,N,Y,N/A,N/A,N/A,Final,79,72
 401920809,2026-11-25T21:13:00+00:00,Texas A&M Aggies,Xavier Musketeers,,Jack,N,Y,N/A,N/A,N/A,Final,83,88
 401926065,2026-11-25T22:00:00+00:00,Southern Jaguars,Nebraska Cornhuskers,,Will,N,Y,N/A,N/A,N/A,Final,72,101
-401921670,2026-11-25T22:17:00+00:00,South Carolina Gamecocks,USC Trojans,,Max,N,Y,N/A,N/A,N/A,Live,69,66
-401921716,2026-11-25T22:30:00+00:00,BYU Cougars,Providence Friars,Miles,,Y,N,N/A,N/A,N/A,Live,68,67
+401921670,2026-11-25T22:17:00+00:00,South Carolina Gamecocks,USC Trojans,,Max,N,Y,N/A,N/A,N/A,Live,69,70
+401921716,2026-11-25T22:30:00+00:00,BYU Cougars,Providence Friars,Miles,,Y,N,N/A,N/A,N/A,Live,71,67
 401920549,2026-11-25T23:00:00+00:00,Kennesaw State Owls,Charleston Cougars,,Miles,N,Y,N/A,N/A,N/A,Live,36,46
 401909568,2026-11-26T00:00:00+00:00,Duke Blue Devils,UConn Huskies,Racz,Max,Y,Y,CONN -1.5,N/A,N/A,Upcoming,0,0
-401911028,2026-11-26T00:00:00+00:00,Northeastern Huskies,Wisconsin Badgers,,Joe,N,Y,N/A,N/A,N/A,Live,1,2
-401917182,2026-11-26T00:00:00+00:00,Memphis Tigers,Penn State Nittany Lions,Sam,,Y,N,N/A,N/A,N/A,Live,1,2
+401911028,2026-11-26T00:00:00+00:00,Northeastern Huskies,Wisconsin Badgers,,Joe,N,Y,N/A,N/A,N/A,Live,3,7
+401917182,2026-11-26T00:00:00+00:00,Memphis Tigers,Penn State Nittany Lions,Sam,,Y,N,N/A,N/A,N/A,Live,4,8
 401918960,2026-11-26T00:00:00+00:00,Norfolk State Spartans,NC State Wolfpack,,Matt,N,Y,N/A,N/A,N/A,Live,4,11
-401918971,2026-11-26T00:00:00+00:00,SMU Mustangs,Utah State Aggies,,Sam,N,Y,USU -3.5,N/A,N/A,Upcoming,0,0
-401920847,2026-11-26T00:00:00+00:00,St. Thomas Tommies,UNC Wilmington Seahawks,,Racz,N,Y,N/A,N/A,N/A,Live,0,0
+401920847,2026-11-26T00:00:00+00:00,St. Thomas Tommies,UNC Wilmington Seahawks,,Racz,N,Y,N/A,N/A,N/A,Live,5,9
+401918971,2026-11-26T00:30:00+00:00,SMU Mustangs,Utah State Aggies,,Sam,N,Y,USU -3.5,N/A,N/A,Upcoming,0,0
 401924897,2026-11-26T02:00:00+00:00,Mississippi Valley State Delta Devils,New Mexico Lobos,,Joe,N,Y,UNM -36.5,N/A,N/A,Upcoming,0,0
 401921671,2026-11-26T02:30:00+00:00,Grand Canyon Lopes,Colorado Buffaloes,Racz,,Y,N,GCU -9.5,N/A,N/A,Upcoming,0,0
 401921713,2026-11-26T03:00:00+00:00,Washington Huskies,VCU Rams,,Trevor,N,Y,VCU -3.5,N/A,N/A,Upcoming,0,0
-401921672,2026-11-26T04:59:00+00:00,Stanford Cardinal,Saint Louis Billikens,,Will,N,Y,SLU -4.5,N/A,N/A,Upcoming,0,0
+401921672,2026-11-26T04:59:00+00:00,Stanford Cardinal,Saint Louis Billikens,,Will,N,Y,SLU -3.5,N/A,N/A,Upcoming,0,0
 401929281,2026-11-26T16:00:00+00:00,Georgia Bulldogs,Cincinnati Bearcats,,Racz,N,Y,CIN -1.5,N/A,N/A,Upcoming,0,0
 401906807,2026-11-26T17:00:00+00:00,Oklahoma Sooners,Purdue Boilermakers,Justin,Sam,Y,Y,PUR -4.5,N/A,N/A,Upcoming,0,0
 401920528,2026-11-26T18:00:00+00:00,San Diego State Aztecs,Maryland Terrapins,Carson,,Y,N,MD -3.5,N/A,N/A,Upcoming,0,0
