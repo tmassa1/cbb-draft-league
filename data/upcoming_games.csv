@@ -1,26 +1,4 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
-401927399,2026-11-25T15:00:00+00:00,St. Bonaventure Bonnies,Belmont Bruins,,BFO,N,Y,N/A,N/A,N/A,Final,71,68
-401920428,2026-11-25T17:00:00+00:00,Virginia Cavaliers,Marquette Golden Eagles,Justin,Matt,Y,Y,N/A,N/A,N/A,Final,60,54
-401928831,2026-11-25T17:31:00+00:00,Yale Bulldogs,Wright State Raiders,Joe,,Y,N,N/A,N/A,N/A,Final,72,70
-401911029,2026-11-25T18:00:00+00:00,Eastern Kentucky Colonels,Miami (OH) RedHawks,,BFO,N,Y,N/A,N/A,N/A,Final,72,85
-401921715,2026-11-25T19:30:00+00:00,Ole Miss Rebels,Arizona Wildcats,,Will,N,Y,N/A,N/A,N/A,Final,73,84
-401928836,2026-11-25T20:00:00+00:00,Akron Zips,App State Mountaineers,Matt,,Y,N,N/A,N/A,N/A,Final,66,76
-401924737,2026-11-25T21:00:00+00:00,Princeton Tigers,Liberty Flames,,Will,N,Y,N/A,N/A,N/A,Final,79,72
-401920809,2026-11-25T21:13:00+00:00,Texas A&M Aggies,Xavier Musketeers,,Jack,N,Y,N/A,N/A,N/A,Final,83,88
-401926065,2026-11-25T22:00:00+00:00,Southern Jaguars,Nebraska Cornhuskers,,Will,N,Y,N/A,N/A,N/A,Final,72,101
-401921670,2026-11-25T22:17:00+00:00,South Carolina Gamecocks,USC Trojans,,Max,N,Y,N/A,N/A,N/A,Final,69,71
-401921716,2026-11-25T22:30:00+00:00,BYU Cougars,Providence Friars,Miles,,Y,N,N/A,N/A,N/A,Final,85,82
-401920549,2026-11-25T23:00:00+00:00,Kennesaw State Owls,Charleston Cougars,,Miles,N,Y,N/A,N/A,N/A,Final,77,91
-401909568,2026-11-26T00:00:00+00:00,Duke Blue Devils,UConn Huskies,Racz,Max,Y,Y,N/A,N/A,N/A,Final,77,63
-401911028,2026-11-26T00:00:00+00:00,Northeastern Huskies,Wisconsin Badgers,,Joe,N,Y,N/A,N/A,N/A,Final,54,91
-401917182,2026-11-26T00:00:00+00:00,Memphis Tigers,Penn State Nittany Lions,Sam,,Y,N,N/A,N/A,N/A,Final,83,70
-401918960,2026-11-26T00:00:00+00:00,Norfolk State Spartans,NC State Wolfpack,,Matt,N,Y,N/A,N/A,N/A,Final,49,80
-401920847,2026-11-26T00:00:00+00:00,St. Thomas Tommies,UNC Wilmington Seahawks,,Racz,N,Y,N/A,N/A,N/A,Final,77,86
-401918971,2026-11-26T00:50:00+00:00,SMU Mustangs,Utah State Aggies,,Sam,N,Y,N/A,N/A,N/A,Final,59,93
-401924897,2026-11-26T02:00:00+00:00,Mississippi Valley State Delta Devils,New Mexico Lobos,,Joe,N,Y,N/A,N/A,N/A,Final,77,100
-401921713,2026-11-26T03:00:00+00:00,Washington Huskies,VCU Rams,,Trevor,N,Y,N/A,N/A,N/A,Live,77,74
-401921671,2026-11-26T03:30:00+00:00,Grand Canyon Lopes,Colorado Buffaloes,Racz,,Y,N,N/A,N/A,N/A,Live,54,46
-401921672,2026-11-26T04:59:00+00:00,Stanford Cardinal,Saint Louis Billikens,,Will,N,Y,SLU -3.5,N/A,N/A,Upcoming,0,0
 401929281,2026-11-26T16:00:00+00:00,Georgia Bulldogs,Cincinnati Bearcats,,Racz,N,Y,CIN -2.5,N/A,N/A,Upcoming,0,0
 401906807,2026-11-26T17:00:00+00:00,Oklahoma Sooners,Purdue Boilermakers,Justin,Sam,Y,Y,PUR -4.5,N/A,N/A,Upcoming,0,0
 401920528,2026-11-26T18:00:00+00:00,San Diego State Aztecs,Maryland Terrapins,Carson,,Y,N,MD -4.5,N/A,N/A,Upcoming,0,0
@@ -134,3 +112,11 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401917556,2026-12-03T03:00:00+00:00,Fresno State Bulldogs,Santa Clara Broncos,,Miles,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401929187,2026-12-03T03:00:00+00:00,Eastern Oregon Mountaineers,Gonzaga Bulldogs,,Jack,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401921879,2026-12-03T03:30:00+00:00,Washington Huskies,USC Trojans,,Max,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401916292,2026-12-03T23:00:00+00:00,Western Illinois Leathernecks,Indiana Hoosiers,,Aaron,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401920696,2026-12-03T23:00:00+00:00,Princeton Tigers,Vermont Catamounts,,Racz,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401920203,2026-12-04T00:00:00+00:00,Coppin State Eagles,VCU Rams,,Trevor,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401911526,2026-12-04T01:00:00+00:00,UC Davis Aggies,North Dakota State Bison,,Sam,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401928391,2026-12-04T01:00:00+00:00,Grambling Tigers,Howard Bison,,Jack,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401917378,2026-12-04T02:30:00+00:00,UC Santa Barbara Gauchos,Cal State Bakersfield Roadrunners,Max,,Y,N,N/A,N/A,N/A,Upcoming,0,0
+401917376,2026-12-04T03:00:00+00:00,UC Riverside Highlanders,UC Irvine Anteaters,,Trevor,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401917377,2026-12-04T03:30:00+00:00,California Baptist Lancers,UC San Diego Tritons,,Justin,N,Y,N/A,N/A,N/A,Upcoming,0,0
