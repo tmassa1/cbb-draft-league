@@ -8,11 +8,11 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401924737,2026-11-25T21:00:00+00:00,Princeton Tigers,Liberty Flames,,Will,N,Y,N/A,N/A,N/A,Final,79,72
 401920809,2026-11-25T21:13:00+00:00,Texas A&M Aggies,Xavier Musketeers,,Jack,N,Y,N/A,N/A,N/A,Final,83,88
 401926065,2026-11-25T22:00:00+00:00,Southern Jaguars,Nebraska Cornhuskers,,Will,N,Y,N/A,N/A,N/A,Final,72,101
-401921670,2026-11-25T22:17:00+00:00,South Carolina Gamecocks,USC Trojans,,Max,N,Y,N/A,N/A,N/A,Live,62,55
-401921716,2026-11-25T22:30:00+00:00,BYU Cougars,Providence Friars,Miles,,Y,N,N/A,N/A,N/A,Live,63,58
-401920549,2026-11-25T23:00:00+00:00,Kennesaw State Owls,Charleston Cougars,,Miles,N,Y,N/A,N/A,N/A,Live,33,39
+401921670,2026-11-25T22:17:00+00:00,South Carolina Gamecocks,USC Trojans,,Max,N,Y,N/A,N/A,N/A,Live,66,61
+401921716,2026-11-25T22:30:00+00:00,BYU Cougars,Providence Friars,Miles,,Y,N,N/A,N/A,N/A,Live,63,62
+401920549,2026-11-25T23:00:00+00:00,Kennesaw State Owls,Charleston Cougars,,Miles,N,Y,N/A,N/A,N/A,Live,33,46
 401909568,2026-11-26T00:00:00+00:00,Duke Blue Devils,UConn Huskies,Racz,Max,Y,Y,CONN -1.5,N/A,N/A,Upcoming,0,0
-401911028,2026-11-26T00:00:00+00:00,Northeastern Huskies,Wisconsin Badgers,,Joe,N,Y,WIS -20.5,N/A,N/A,Upcoming,0,0
+401911028,2026-11-26T00:00:00+00:00,Northeastern Huskies,Wisconsin Badgers,,Joe,N,Y,WIS -19.5,N/A,N/A,Upcoming,0,0
 401917182,2026-11-26T00:00:00+00:00,Memphis Tigers,Penn State Nittany Lions,Sam,,Y,N,MEM -4.5,N/A,N/A,Upcoming,0,0
 401918960,2026-11-26T00:00:00+00:00,Norfolk State Spartans,NC State Wolfpack,,Matt,N,Y,NCSU -27.5,N/A,N/A,Upcoming,0,0
 401918971,2026-11-26T00:00:00+00:00,SMU Mustangs,Utah State Aggies,,Sam,N,Y,USU -3.5,N/A,N/A,Upcoming,0,0
