@@ -518,5 +518,7 @@ game_id,date,team,opponent,result,phase,source
 401927399,2026-11-25,Belmont,St. Bonaventure Bonnies,L,regular,espn
 401928831,2026-11-25,Yale,Wright State Raiders,W,regular,espn
 401928836,2026-11-25,Akron,App State Mountaineers,L,regular,espn
+401906807,2026-11-26,Oklahoma,Purdue Boilermakers,W,regular,espn
+401906807,2026-11-26,Purdue,Oklahoma Sooners,L,regular,espn
 401921672,2026-11-26,Saint Louis,Stanford Cardinal,W,regular,espn
 401929281,2026-11-26,Cincinnati,Georgia Bulldogs,W,regular,espn
