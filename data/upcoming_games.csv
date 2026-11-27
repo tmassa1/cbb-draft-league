@@ -6,6 +6,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401929288,2026-11-27T18:30:00+00:00,Wake Forest Demon Deacons,Memphis Tigers,,Sam,N,Y,MEM -2.5,N/A,N/A,Upcoming,0,0
 401921827,2026-11-27T19:00:00+00:00,Southern Jaguars,Vanderbilt Commodores,,BFO,N,Y,VAN -36.5,N/A,N/A,Upcoming,0,0
 401921717,2026-11-27T19:30:00+00:00,Georgetown Hoyas,UCLA Bruins,,Justin,N,Y,UCLA -8.5,N/A,N/A,Upcoming,0,0
+401920542,2026-11-27T20:00:00+00:00,TCU Horned Frogs,Baylor Bears,,Carson,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401924738,2026-11-27T20:00:00+00:00,Princeton Tigers,UNC Wilmington Seahawks,,Racz,N,Y,UNCW -8.5,N/A,N/A,Upcoming,0,0
 401921818,2026-11-27T21:00:00+00:00,Arkansas-Pine Bluff Golden Lions,Missouri Tigers,,Racz,N,Y,MIZ -49.5,N/A,N/A,Upcoming,0,0
 401929283,2026-11-27T21:30:00+00:00,Cincinnati Bearcats,Boston College Eagles,Racz,,Y,N,CIN -8.5,N/A,N/A,Upcoming,0,0
@@ -26,6 +27,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401920543,2026-11-28T01:30:00+00:00,Miami Hurricanes,Alabama Crimson Tide,Aaron,Trevor,Y,Y,MIA -1.5,N/A,N/A,Upcoming,0,0
 401919033,2026-11-28T02:00:00+00:00,Wichita State Shockers,Kentucky Wildcats,Will,Jack,Y,Y,UK -3.5,N/A,N/A,Upcoming,0,0
 401920534,2026-11-28T02:00:00+00:00,Tennessee Volunteers,Louisville Cardinals,Carson,BFO,Y,Y,TENN -1.5,N/A,N/A,Upcoming,0,0
+401920544,2026-11-28T04:00:00+00:00,Creighton Bluejays,Gonzaga Bulldogs,,Jack,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401920535,2026-11-28T04:30:00+00:00,TBD,San Diego State Aztecs,,Carson,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401918961,2026-11-28T17:00:00+00:00,Elon Phoenix,NC State Wolfpack,,Matt,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401920775,2026-11-28T18:00:00+00:00,Vermont Catamounts,Colgate Raiders,Racz,,Y,N,N/A,N/A,N/A,Upcoming,0,0
