@@ -5,14 +5,14 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401924810,2026-11-27T18:00:00+00:00,Merrimack Warriors,Vermont Catamounts,,Racz,N,Y,N/A,N/A,N/A,Final,75,57
 401929288,2026-11-27T18:30:00+00:00,Memphis Tigers,Wake Forest Demon Deacons,Sam,,Y,N,N/A,N/A,N/A,Final,88,85
 401921827,2026-11-27T19:00:00+00:00,Southern Jaguars,Vanderbilt Commodores,,BFO,N,Y,N/A,N/A,N/A,Final,56,111
-401921717,2026-11-27T19:30:00+00:00,Georgetown Hoyas,UCLA Bruins,,Justin,N,Y,N/A,N/A,N/A,Live,60,74
-401920542,2026-11-27T20:00:00+00:00,TCU Horned Frogs,Baylor Bears,,Carson,N,Y,N/A,N/A,N/A,Live,65,54
-401924738,2026-11-27T20:00:00+00:00,Princeton Tigers,UNC Wilmington Seahawks,,Racz,N,Y,N/A,N/A,N/A,Live,60,62
-401921818,2026-11-27T21:00:00+00:00,Arkansas-Pine Bluff Golden Lions,Missouri Tigers,,Racz,N,Y,N/A,N/A,N/A,Live,23,43
-401929283,2026-11-27T21:30:00+00:00,Cincinnati Bearcats,Boston College Eagles,Racz,,Y,N,N/A,N/A,N/A,Live,6,12
+401921717,2026-11-27T19:30:00+00:00,Georgetown Hoyas,UCLA Bruins,,Justin,N,Y,N/A,N/A,N/A,Final,63,75
+401920542,2026-11-27T20:00:00+00:00,TCU Horned Frogs,Baylor Bears,,Carson,N,Y,N/A,N/A,N/A,Live,69,56
+401924738,2026-11-27T20:00:00+00:00,Princeton Tigers,UNC Wilmington Seahawks,,Racz,N,Y,N/A,N/A,N/A,Live,63,64
+401921818,2026-11-27T21:00:00+00:00,Arkansas-Pine Bluff Golden Lions,Missouri Tigers,,Racz,N,Y,N/A,N/A,N/A,Live,28,51
+401929283,2026-11-27T21:30:00+00:00,Cincinnati Bearcats,Boston College Eagles,Racz,,Y,N,N/A,N/A,N/A,Live,8,14
 401909789,2026-11-27T22:00:00+00:00,Villanova Wildcats,Kansas Jayhawks,Joe,Miles,Y,Y,KU -10.5,N/A,N/A,Upcoming,0,0
 401920382,2026-11-27T22:00:00+00:00,Old Dominion Monarchs,Virginia Tech Hokies,,BFO,N,Y,VT -17.5,N/A,N/A,Upcoming,0,0
-401920810,2026-11-27T22:00:00+00:00,Marquette Golden Eagles,Texas A&M Aggies,Matt,,Y,N,MARQ -2.5,N/A,N/A,Upcoming,0,0
+401920810,2026-11-27T22:00:00+00:00,Marquette Golden Eagles,Texas A&M Aggies,Matt,,Y,N,MARQ -1.5,N/A,N/A,Upcoming,0,0
 401921718,2026-11-27T22:00:00+00:00,Texas Longhorns,Saint Mary's Gaels,Jack,Jack,Y,Y,TEX -7.5,N/A,N/A,Upcoming,0,0
 401920541,2026-11-27T22:30:00+00:00,Michigan Wolverines,Kansas State Wildcats,Sam,,Y,N,MICH -10.5,N/A,N/A,Upcoming,0,0
 401927366,2026-11-27T22:30:00+00:00,Drake Bulldogs,Boise State Broncos,Miles,,Y,N,BOIS -6.5,N/A,N/A,Upcoming,0,0
