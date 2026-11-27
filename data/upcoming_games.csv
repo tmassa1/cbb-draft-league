@@ -9,15 +9,15 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401920542,2026-11-27T20:00:00+00:00,TCU Horned Frogs,Baylor Bears,,Carson,N,Y,N/A,N/A,N/A,Final,88,69
 401924738,2026-11-27T20:00:00+00:00,Princeton Tigers,UNC Wilmington Seahawks,,Racz,N,Y,N/A,N/A,N/A,Final,66,68
 401921818,2026-11-27T21:00:00+00:00,Arkansas-Pine Bluff Golden Lions,Missouri Tigers,,Racz,N,Y,N/A,N/A,N/A,Live,61,97
-401929283,2026-11-27T21:30:00+00:00,Cincinnati Bearcats,Boston College Eagles,Racz,,Y,N,N/A,N/A,N/A,Live,48,39
+401929283,2026-11-27T21:30:00+00:00,Cincinnati Bearcats,Boston College Eagles,Racz,,Y,N,N/A,N/A,N/A,Live,52,45
 401909789,2026-11-27T22:00:00+00:00,Villanova Wildcats,Kansas Jayhawks,Joe,Miles,Y,Y,N/A,N/A,N/A,Live,23,29
 401920382,2026-11-27T22:00:00+00:00,Old Dominion Monarchs,Virginia Tech Hokies,,BFO,N,Y,N/A,N/A,N/A,Live,27,34
 401920810,2026-11-27T22:00:00+00:00,Marquette Golden Eagles,Texas A&M Aggies,Matt,,Y,N,N/A,N/A,N/A,Live,40,37
-401921718,2026-11-27T22:00:00+00:00,Texas Longhorns,Saint Mary's Gaels,Jack,Jack,Y,Y,N/A,N/A,N/A,Live,23,33
-401927366,2026-11-27T22:30:00+00:00,Drake Bulldogs,Boise State Broncos,Miles,,Y,N,N/A,N/A,N/A,Live,17,13
-401920541,2026-11-27T22:41:00+00:00,Michigan Wolverines,Kansas State Wildcats,Sam,,Y,N,N/A,N/A,N/A,Live,20,7
-401911030,2026-11-27T23:00:00+00:00,Bowling Green Falcons,Indiana Hoosiers,,Aaron,N,Y,IU -22.5,N/A,N/A,Upcoming,0,0
-401913531,2026-11-27T23:00:00+00:00,Western Kentucky Hilltoppers,Illinois Fighting Illini,Trevor,Aaron,Y,Y,ILL -26.5,N/A,N/A,Upcoming,0,0
+401921718,2026-11-27T22:00:00+00:00,Texas Longhorns,Saint Mary's Gaels,Jack,Jack,Y,Y,N/A,N/A,N/A,Live,24,33
+401927366,2026-11-27T22:30:00+00:00,Drake Bulldogs,Boise State Broncos,Miles,,Y,N,N/A,N/A,N/A,Live,20,14
+401920541,2026-11-27T22:41:00+00:00,Michigan Wolverines,Kansas State Wildcats,Sam,,Y,N,N/A,N/A,N/A,Live,22,10
+401911030,2026-11-27T23:00:00+00:00,Bowling Green Falcons,Indiana Hoosiers,,Aaron,N,Y,N/A,N/A,N/A,Live,3,4
+401913531,2026-11-27T23:00:00+00:00,Western Kentucky Hilltoppers,Illinois Fighting Illini,Trevor,Aaron,Y,Y,N/A,N/A,N/A,Live,5,5
 401921185,2026-11-27T23:00:00+00:00,Towson Tigers,Pennsylvania Quakers,,Aaron,N,Y,PENN -3.5,N/A,N/A,Upcoming,0,0
 401911380,2026-11-28T00:00:00+00:00,Charleston Southern Buccaneers,East Tennessee State Buccaneers,,Carson,N,Y,ETSU -9.5,N/A,N/A,Upcoming,0,0
 401912711,2026-11-28T00:00:00+00:00,West Virginia Mountaineers,North Carolina Tar Heels,,Max,N,Y,WVU -3.5,N/A,N/A,Upcoming,0,0
