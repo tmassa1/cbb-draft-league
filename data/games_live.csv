@@ -526,8 +526,11 @@ game_id,date,team,opponent,result,phase,source
 401920528,2026-11-26,San Diego State,Maryland Terrapins,W,regular,espn
 401920529,2026-11-26,Iowa State,Tennessee Volunteers,L,regular,espn
 401920529,2026-11-26,Tennessee,Iowa State Cyclones,W,regular,espn
+401920530,2026-11-26,Louisville,St. John's Red Storm,W,regular,espn
+401920530,2026-11-26,St. John's,Louisville Cardinals,L,regular,espn
 401920537,2026-11-26,Miami (FL),Michigan Wolverines,W,regular,espn
 401920537,2026-11-26,Michigan,Miami Hurricanes,L,regular,espn
+401920539,2026-11-26,Alabama,Kansas State Wildcats,W,regular,espn
 401921672,2026-11-26,Saint Louis,Stanford Cardinal,W,regular,espn
 401921673,2026-11-26,USC,Utah State Aggies,L,regular,espn
 401921673,2026-11-26,Utah State,USC Trojans,W,regular,espn
