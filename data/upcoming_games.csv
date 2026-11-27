@@ -1,11 +1,11 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
 401920429,2026-11-27T16:00:00+00:00,Virginia Cavaliers,Xavier Musketeers,Justin,Jack,Y,Y,N/A,N/A,N/A,Final,83,71
 401920848,2026-11-27T17:00:00+00:00,St. Thomas Tommies,Liberty Flames,,Will,N,Y,N/A,N/A,N/A,Final,67,76
-401920533,2026-11-27T18:00:00+00:00,Iowa State Cyclones,St. John's Red Storm,Justin,Miles,Y,Y,N/A,N/A,N/A,Live,48,52
-401924810,2026-11-27T18:00:00+00:00,Merrimack Warriors,Vermont Catamounts,,Racz,N,Y,N/A,N/A,N/A,Live,68,52
-401929288,2026-11-27T18:30:00+00:00,Memphis Tigers,Wake Forest Demon Deacons,Sam,,Y,N,N/A,N/A,N/A,Live,35,25
-401921827,2026-11-27T19:00:00+00:00,Southern Jaguars,Vanderbilt Commodores,,BFO,N,Y,N/A,N/A,N/A,Live,12,34
-401921717,2026-11-27T19:30:00+00:00,Georgetown Hoyas,UCLA Bruins,,Justin,N,Y,N/A,N/A,N/A,Live,0,2
+401920533,2026-11-27T18:00:00+00:00,Iowa State Cyclones,St. John's Red Storm,Justin,Miles,Y,Y,N/A,N/A,N/A,Live,50,59
+401924810,2026-11-27T18:00:00+00:00,Merrimack Warriors,Vermont Catamounts,,Racz,N,Y,N/A,N/A,N/A,Live,71,55
+401929288,2026-11-27T18:30:00+00:00,Memphis Tigers,Wake Forest Demon Deacons,Sam,,Y,N,N/A,N/A,N/A,Live,37,26
+401921827,2026-11-27T19:00:00+00:00,Southern Jaguars,Vanderbilt Commodores,,BFO,N,Y,N/A,N/A,N/A,Live,18,44
+401921717,2026-11-27T19:30:00+00:00,Georgetown Hoyas,UCLA Bruins,,Justin,N,Y,N/A,N/A,N/A,Live,3,7
 401920542,2026-11-27T20:00:00+00:00,TCU Horned Frogs,Baylor Bears,,Carson,N,Y,BAY -4.5,N/A,N/A,Upcoming,0,0
 401924738,2026-11-27T20:00:00+00:00,Princeton Tigers,UNC Wilmington Seahawks,,Racz,N,Y,UNCW -7.5,N/A,N/A,Upcoming,0,0
 401921818,2026-11-27T21:00:00+00:00,Arkansas-Pine Bluff Golden Lions,Missouri Tigers,,Racz,N,Y,MIZ -48.5,N/A,N/A,Upcoming,0,0
@@ -24,7 +24,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401926756,2026-11-28T00:00:00+00:00,Lehigh Mountain Hawks,UC Santa Barbara Gauchos,,Max,N,Y,UCSB -13.5,N/A,N/A,Upcoming,0,0
 401925703,2026-11-28T00:30:00+00:00,Oakland Golden Grizzlies,Houston Cougars,,Trevor,N,Y,HOU -36.5,N/A,N/A,Upcoming,0,0
 401925829,2026-11-28T01:00:00+00:00,North Dakota State Bison,North Texas Mean Green,Sam,,Y,N,UNT -5.5,N/A,N/A,Upcoming,0,0
-401920543,2026-11-28T01:30:00+00:00,Miami Hurricanes,Alabama Crimson Tide,Aaron,Trevor,Y,Y,MIA -2.5,N/A,N/A,Upcoming,0,0
+401920543,2026-11-28T01:30:00+00:00,Miami Hurricanes,Alabama Crimson Tide,Aaron,Trevor,Y,Y,MIA -1.5,N/A,N/A,Upcoming,0,0
 401919033,2026-11-28T02:00:00+00:00,Wichita State Shockers,Kentucky Wildcats,Will,Jack,Y,Y,UK -4.5,N/A,N/A,Upcoming,0,0
 401920534,2026-11-28T02:00:00+00:00,Tennessee Volunteers,Louisville Cardinals,Carson,BFO,Y,Y,LOU -3.5,N/A,N/A,Upcoming,0,0
 401920544,2026-11-28T04:00:00+00:00,Creighton Bluejays,Gonzaga Bulldogs,,Jack,N,Y,GONZ -6.5,N/A,N/A,Upcoming,0,0
