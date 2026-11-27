@@ -3,11 +3,11 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401920848,2026-11-27T17:00:00+00:00,St. Thomas Tommies,Liberty Flames,,Will,N,Y,N/A,N/A,N/A,Final,67,76
 401920533,2026-11-27T18:00:00+00:00,Iowa State Cyclones,St. John's Red Storm,Justin,Miles,Y,Y,N/A,N/A,N/A,Live,60,68
 401924810,2026-11-27T18:00:00+00:00,Merrimack Warriors,Vermont Catamounts,,Racz,N,Y,N/A,N/A,N/A,Final,75,57
-401929288,2026-11-27T18:30:00+00:00,Memphis Tigers,Wake Forest Demon Deacons,Sam,,Y,N,N/A,N/A,N/A,Live,37,29
+401929288,2026-11-27T18:30:00+00:00,Memphis Tigers,Wake Forest Demon Deacons,Sam,,Y,N,N/A,N/A,N/A,Live,46,33
 401921827,2026-11-27T19:00:00+00:00,Southern Jaguars,Vanderbilt Commodores,,BFO,N,Y,N/A,N/A,N/A,Live,28,51
-401921717,2026-11-27T19:30:00+00:00,Georgetown Hoyas,UCLA Bruins,,Justin,N,Y,N/A,N/A,N/A,Live,4,13
+401921717,2026-11-27T19:30:00+00:00,Georgetown Hoyas,UCLA Bruins,,Justin,N,Y,N/A,N/A,N/A,Live,5,17
 401920542,2026-11-27T20:00:00+00:00,TCU Horned Frogs,Baylor Bears,,Carson,N,Y,BAY -4.5,N/A,N/A,Upcoming,0,0
-401924738,2026-11-27T20:00:00+00:00,Princeton Tigers,UNC Wilmington Seahawks,,Racz,N,Y,UNCW -7.5,N/A,N/A,Upcoming,0,0
+401924738,2026-11-27T20:00:00+00:00,Princeton Tigers,UNC Wilmington Seahawks,,Racz,N,Y,N/A,N/A,N/A,Live,0,0
 401921818,2026-11-27T21:00:00+00:00,Arkansas-Pine Bluff Golden Lions,Missouri Tigers,,Racz,N,Y,MIZ -48.5,N/A,N/A,Upcoming,0,0
 401929283,2026-11-27T21:30:00+00:00,Cincinnati Bearcats,Boston College Eagles,Racz,,Y,N,CIN -8.5,N/A,N/A,Upcoming,0,0
 401909789,2026-11-27T22:00:00+00:00,Villanova Wildcats,Kansas Jayhawks,Joe,Miles,Y,Y,KU -10.5,N/A,N/A,Upcoming,0,0
@@ -17,7 +17,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401920541,2026-11-27T22:30:00+00:00,Michigan Wolverines,Kansas State Wildcats,Sam,,Y,N,MICH -9.5,N/A,N/A,Upcoming,0,0
 401927366,2026-11-27T22:30:00+00:00,Drake Bulldogs,Boise State Broncos,Miles,,Y,N,BOIS -6.5,N/A,N/A,Upcoming,0,0
 401911030,2026-11-27T23:00:00+00:00,Bowling Green Falcons,Indiana Hoosiers,,Aaron,N,Y,IU -21.5,N/A,N/A,Upcoming,0,0
-401913531,2026-11-27T23:00:00+00:00,Western Kentucky Hilltoppers,Illinois Fighting Illini,Trevor,Aaron,Y,Y,ILL -26.5,N/A,N/A,Upcoming,0,0
+401913531,2026-11-27T23:00:00+00:00,Western Kentucky Hilltoppers,Illinois Fighting Illini,Trevor,Aaron,Y,Y,ILL -27.5,N/A,N/A,Upcoming,0,0
 401921185,2026-11-27T23:00:00+00:00,Towson Tigers,Pennsylvania Quakers,,Aaron,N,Y,PENN -3.5,N/A,N/A,Upcoming,0,0
 401911380,2026-11-28T00:00:00+00:00,Charleston Southern Buccaneers,East Tennessee State Buccaneers,,Carson,N,Y,ETSU -9.5,N/A,N/A,Upcoming,0,0
 401912711,2026-11-28T00:00:00+00:00,West Virginia Mountaineers,North Carolina Tar Heels,,Max,N,Y,WVU -2.5,N/A,N/A,Upcoming,0,0
