@@ -521,6 +521,8 @@ game_id,date,team,opponent,result,phase,source
 401906807,2026-11-26,Oklahoma,Purdue Boilermakers,W,regular,espn
 401906807,2026-11-26,Purdue,Oklahoma Sooners,L,regular,espn
 401906869,2026-11-26,Texas,Georgetown Hoyas,W,regular,espn
+401917547,2026-11-26,Saint Mary's,UCLA Bruins,W,regular,espn
+401917547,2026-11-26,UCLA,Saint Mary's Gaels,L,regular,espn
 401920528,2026-11-26,San Diego State,Maryland Terrapins,W,regular,espn
 401920529,2026-11-26,Iowa State,Tennessee Volunteers,L,regular,espn
 401920529,2026-11-26,Tennessee,Iowa State Cyclones,W,regular,espn
