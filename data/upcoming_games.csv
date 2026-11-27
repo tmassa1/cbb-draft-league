@@ -3,10 +3,10 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401920848,2026-11-27T17:00:00+00:00,St. Thomas Tommies,Liberty Flames,,Will,N,Y,N/A,N/A,N/A,Final,67,76
 401920533,2026-11-27T18:00:00+00:00,Iowa State Cyclones,St. John's Red Storm,Justin,Miles,Y,Y,N/A,N/A,N/A,Final,75,80
 401924810,2026-11-27T18:00:00+00:00,Merrimack Warriors,Vermont Catamounts,,Racz,N,Y,N/A,N/A,N/A,Final,75,57
-401929288,2026-11-27T18:30:00+00:00,Memphis Tigers,Wake Forest Demon Deacons,Sam,,Y,N,N/A,N/A,N/A,Live,77,69
-401921827,2026-11-27T19:00:00+00:00,Southern Jaguars,Vanderbilt Commodores,,BFO,N,Y,N/A,N/A,N/A,Live,45,99
-401921717,2026-11-27T19:30:00+00:00,Georgetown Hoyas,UCLA Bruins,,Justin,N,Y,N/A,N/A,N/A,Live,33,44
-401920542,2026-11-27T20:00:00+00:00,TCU Horned Frogs,Baylor Bears,,Carson,N,Y,N/A,N/A,N/A,Live,29,25
+401929288,2026-11-27T18:30:00+00:00,Memphis Tigers,Wake Forest Demon Deacons,Sam,,Y,N,N/A,N/A,N/A,Live,82,77
+401921827,2026-11-27T19:00:00+00:00,Southern Jaguars,Vanderbilt Commodores,,BFO,N,Y,N/A,N/A,N/A,Live,48,106
+401921717,2026-11-27T19:30:00+00:00,Georgetown Hoyas,UCLA Bruins,,Justin,N,Y,N/A,N/A,N/A,Live,36,44
+401920542,2026-11-27T20:00:00+00:00,TCU Horned Frogs,Baylor Bears,,Carson,N,Y,N/A,N/A,N/A,Live,34,37
 401924738,2026-11-27T20:00:00+00:00,Princeton Tigers,UNC Wilmington Seahawks,,Racz,N,Y,N/A,N/A,N/A,Live,28,34
 401921818,2026-11-27T21:00:00+00:00,Arkansas-Pine Bluff Golden Lions,Missouri Tigers,,Racz,N,Y,MIZ -48.5,N/A,N/A,Upcoming,0,0
 401929283,2026-11-27T21:30:00+00:00,Cincinnati Bearcats,Boston College Eagles,Racz,,Y,N,CIN -8.5,N/A,N/A,Upcoming,0,0
@@ -34,12 +34,12 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401920415,2026-11-28T19:00:00+00:00,The Citadel Bulldogs,High Point Panthers,,Max,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401920728,2026-11-28T19:00:00+00:00,Prairie View A&M Panthers,Iowa Hawkeyes,,BFO,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401926796,2026-11-28T20:00:00+00:00,Liberty Flames,UNC Wilmington Seahawks,Will,Racz,Y,Y,UNCW -6.5,N/A,N/A,Upcoming,0,0
-401917954,2026-11-28T21:00:00+00:00,Austin Peay Governors,Furman Paladins,,Sam,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401917954,2026-11-28T21:00:00+00:00,Austin Peay Governors,Furman Paladins,,Sam,N,Y,FUR -8.5,N/A,N/A,Upcoming,0,0
 401925033,2026-11-28T21:00:00+00:00,McNeese Cowboys,Louisiana Ragin' Cajuns,Aaron,,Y,N,N/A,N/A,N/A,Upcoming,0,0
 401911459,2026-11-28T22:00:00+00:00,Cal Poly Humboldt Lumberjacks,Nevada Wolf Pack,,Justin,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401917548,2026-11-28T22:00:00+00:00,UC Irvine Anteaters,Seattle U Redhawks,Trevor,,Y,N,N/A,N/A,N/A,Upcoming,0,0
 401921186,2026-11-28T23:00:00+00:00,Bucknell Bison,Pennsylvania Quakers,,Aaron,N,Y,N/A,N/A,N/A,Upcoming,0,0
-401927367,2026-11-28T23:00:00+00:00,Drake Bulldogs,North Dakota State Bison,Miles,Sam,Y,Y,N/A,N/A,N/A,Upcoming,0,0
+401927367,2026-11-28T23:00:00+00:00,Drake Bulldogs,North Dakota State Bison,Miles,Sam,Y,Y,DRKE -5.5,N/A,N/A,Upcoming,0,0
 401917550,2026-11-29T00:00:00+00:00,Utah Tech Trailblazers,Santa Clara Broncos,,Miles,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401917551,2026-11-29T03:00:00+00:00,Loyola Marymount Lions,UC San Diego Tritons,,Justin,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401911189,2026-11-29T18:00:00+00:00,Memphis Tigers,Dayton Flyers,Sam,Max,Y,Y,N/A,N/A,N/A,Upcoming,0,0
