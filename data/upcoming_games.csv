@@ -23,7 +23,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401926756,2026-11-28T00:00:00+00:00,Lehigh Mountain Hawks,UC Santa Barbara Gauchos,,Max,N,Y,UCSB -14.5,N/A,N/A,Upcoming,0,0
 401925703,2026-11-28T00:30:00+00:00,Oakland Golden Grizzlies,Houston Cougars,,Trevor,N,Y,HOU -36.5,N/A,N/A,Upcoming,0,0
 401925829,2026-11-28T01:00:00+00:00,North Dakota State Bison,North Texas Mean Green,Sam,,Y,N,UNT -6.5,N/A,N/A,Upcoming,0,0
-401920543,2026-11-28T01:30:00+00:00,Miami Hurricanes,Alabama Crimson Tide,Aaron,Trevor,Y,Y,N/A,N/A,N/A,Upcoming,0,0
+401920543,2026-11-28T01:30:00+00:00,Miami Hurricanes,Alabama Crimson Tide,Aaron,Trevor,Y,Y,MIA -1.5,N/A,N/A,Upcoming,0,0
 401919033,2026-11-28T02:00:00+00:00,Wichita State Shockers,Kentucky Wildcats,Will,Jack,Y,Y,UK -3.5,N/A,N/A,Upcoming,0,0
 401920534,2026-11-28T02:00:00+00:00,Tennessee Volunteers,Louisville Cardinals,Carson,BFO,Y,Y,TENN -1.5,N/A,N/A,Upcoming,0,0
 401920535,2026-11-28T04:30:00+00:00,TBD,San Diego State Aztecs,,Carson,N,Y,N/A,N/A,N/A,Upcoming,0,0
