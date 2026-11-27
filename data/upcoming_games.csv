@@ -10,7 +10,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401924738,2026-11-27T20:00:00+00:00,Princeton Tigers,UNC Wilmington Seahawks,,Racz,N,Y,UNCW -7.5,N/A,N/A,Upcoming,0,0
 401921818,2026-11-27T21:00:00+00:00,Arkansas-Pine Bluff Golden Lions,Missouri Tigers,,Racz,N,Y,MIZ -48.5,N/A,N/A,Upcoming,0,0
 401929283,2026-11-27T21:30:00+00:00,Cincinnati Bearcats,Boston College Eagles,Racz,,Y,N,CIN -8.5,N/A,N/A,Upcoming,0,0
-401909789,2026-11-27T22:00:00+00:00,Villanova Wildcats,Kansas Jayhawks,Joe,Miles,Y,Y,KU -11.5,N/A,N/A,Upcoming,0,0
+401909789,2026-11-27T22:00:00+00:00,Villanova Wildcats,Kansas Jayhawks,Joe,Miles,Y,Y,KU -12.5,N/A,N/A,Upcoming,0,0
 401920382,2026-11-27T22:00:00+00:00,Old Dominion Monarchs,Virginia Tech Hokies,,BFO,N,Y,VT -18.5,N/A,N/A,Upcoming,0,0
 401920810,2026-11-27T22:00:00+00:00,Marquette Golden Eagles,Texas A&M Aggies,Matt,,Y,N,TA&M -1.5,N/A,N/A,Upcoming,0,0
 401921718,2026-11-27T22:00:00+00:00,Texas Longhorns,Saint Mary's Gaels,Jack,Jack,Y,Y,TEX -8.5,N/A,N/A,Upcoming,0,0
@@ -27,7 +27,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401920543,2026-11-28T01:30:00+00:00,Miami Hurricanes,Alabama Crimson Tide,Aaron,Trevor,Y,Y,MIA -2.5,N/A,N/A,Upcoming,0,0
 401919033,2026-11-28T02:00:00+00:00,Wichita State Shockers,Kentucky Wildcats,Will,Jack,Y,Y,UK -3.5,N/A,N/A,Upcoming,0,0
 401920534,2026-11-28T02:00:00+00:00,Tennessee Volunteers,Louisville Cardinals,Carson,BFO,Y,Y,TENN -1.5,N/A,N/A,Upcoming,0,0
-401920544,2026-11-28T04:00:00+00:00,Creighton Bluejays,Gonzaga Bulldogs,,Jack,N,Y,N/A,N/A,N/A,Upcoming,0,0
+401920544,2026-11-28T04:00:00+00:00,Creighton Bluejays,Gonzaga Bulldogs,,Jack,N,Y,GONZ -6.5,N/A,N/A,Upcoming,0,0
 401920535,2026-11-28T04:30:00+00:00,Texas Tech Red Raiders,San Diego State Aztecs,Matt,Carson,Y,Y,N/A,N/A,N/A,Upcoming,0,0
 401918961,2026-11-28T17:00:00+00:00,Elon Phoenix,NC State Wolfpack,,Matt,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401920775,2026-11-28T18:00:00+00:00,Vermont Catamounts,Colgate Raiders,Racz,,Y,N,N/A,N/A,N/A,Upcoming,0,0
