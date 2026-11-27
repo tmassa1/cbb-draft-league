@@ -1,8 +1,8 @@
 game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,home_drafted,spread,away_ml,home_ml,status,away_score,home_score
-401920429,2026-11-27T16:00:00+00:00,Virginia Cavaliers,Xavier Musketeers,Justin,Jack,Y,Y,N/A,N/A,N/A,Live,76,61
-401920848,2026-11-27T17:00:00+00:00,St. Thomas Tommies,Liberty Flames,,Will,N,Y,N/A,N/A,N/A,Live,26,41
+401920429,2026-11-27T16:00:00+00:00,Virginia Cavaliers,Xavier Musketeers,Justin,Jack,Y,Y,N/A,N/A,N/A,Live,78,65
+401920848,2026-11-27T17:00:00+00:00,St. Thomas Tommies,Liberty Flames,,Will,N,Y,N/A,N/A,N/A,Live,30,44
 401920533,2026-11-27T18:00:00+00:00,Iowa State Cyclones,St. John's Red Storm,Justin,Miles,Y,Y,SJU -1.5,N/A,N/A,Upcoming,0,0
-401924810,2026-11-27T18:00:00+00:00,Merrimack Warriors,Vermont Catamounts,,Racz,N,Y,UVM -1.5,N/A,N/A,Upcoming,0,0
+401924810,2026-11-27T18:00:00+00:00,Merrimack Warriors,Vermont Catamounts,,Racz,N,Y,N/A,N/A,N/A,Live,5,7
 401929288,2026-11-27T18:30:00+00:00,Wake Forest Demon Deacons,Memphis Tigers,,Sam,N,Y,MEM -1.5,N/A,N/A,Upcoming,0,0
 401921827,2026-11-27T19:00:00+00:00,Southern Jaguars,Vanderbilt Commodores,,BFO,N,Y,VAN -37.5,N/A,N/A,Upcoming,0,0
 401921717,2026-11-27T19:30:00+00:00,Georgetown Hoyas,UCLA Bruins,,Justin,N,Y,UCLA -7.5,N/A,N/A,Upcoming,0,0
@@ -27,7 +27,7 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401920543,2026-11-28T01:30:00+00:00,Miami Hurricanes,Alabama Crimson Tide,Aaron,Trevor,Y,Y,MIA -2.5,N/A,N/A,Upcoming,0,0
 401919033,2026-11-28T02:00:00+00:00,Wichita State Shockers,Kentucky Wildcats,Will,Jack,Y,Y,UK -4.5,N/A,N/A,Upcoming,0,0
 401920534,2026-11-28T02:00:00+00:00,Tennessee Volunteers,Louisville Cardinals,Carson,BFO,Y,Y,LOU -3.5,N/A,N/A,Upcoming,0,0
-401920544,2026-11-28T04:00:00+00:00,Creighton Bluejays,Gonzaga Bulldogs,,Jack,N,Y,GONZ -5.5,N/A,N/A,Upcoming,0,0
+401920544,2026-11-28T04:00:00+00:00,Creighton Bluejays,Gonzaga Bulldogs,,Jack,N,Y,GONZ -6.5,N/A,N/A,Upcoming,0,0
 401920535,2026-11-28T04:30:00+00:00,San Diego State Aztecs,Texas Tech Red Raiders,Carson,Matt,Y,Y,TTU -8.5,N/A,N/A,Upcoming,0,0
 401918961,2026-11-28T17:00:00+00:00,Elon Phoenix,NC State Wolfpack,,Matt,N,Y,N/A,N/A,N/A,Upcoming,0,0
 401920775,2026-11-28T18:00:00+00:00,Vermont Catamounts,Colgate Raiders,Racz,,Y,N,N/A,N/A,N/A,Upcoming,0,0
