@@ -23,10 +23,10 @@ game_id,start_utc,away_team,home_team,away_manager,home_manager,away_drafted,hom
 401912711,2026-11-28T00:00:00+00:00,West Virginia Mountaineers,North Carolina Tar Heels,,Max,N,Y,N/A,N/A,N/A,Final,72,59
 401926756,2026-11-28T00:00:00+00:00,Lehigh Mountain Hawks,UC Santa Barbara Gauchos,,Max,N,Y,N/A,N/A,N/A,Final,43,75
 401925703,2026-11-28T00:30:00+00:00,Oakland Golden Grizzlies,Houston Cougars,,Trevor,N,Y,N/A,N/A,N/A,Final,46,77
-401925829,2026-11-28T01:00:00+00:00,North Dakota State Bison,North Texas Mean Green,Sam,,Y,N,N/A,N/A,N/A,Live,68,68
+401925829,2026-11-28T01:00:00+00:00,North Dakota State Bison,North Texas Mean Green,Sam,,Y,N,N/A,N/A,N/A,Live,73,70
 401920543,2026-11-28T01:30:00+00:00,Miami Hurricanes,Alabama Crimson Tide,Aaron,Trevor,Y,Y,N/A,N/A,N/A,Live,77,73
-401919033,2026-11-28T02:00:00+00:00,Wichita State Shockers,Kentucky Wildcats,Will,Jack,Y,Y,N/A,N/A,N/A,Live,38,38
-401920534,2026-11-28T02:00:00+00:00,Tennessee Volunteers,Louisville Cardinals,Carson,BFO,Y,Y,N/A,N/A,N/A,Live,37,46
+401919033,2026-11-28T02:00:00+00:00,Wichita State Shockers,Kentucky Wildcats,Will,Jack,Y,Y,N/A,N/A,N/A,Live,42,40
+401920534,2026-11-28T02:00:00+00:00,Tennessee Volunteers,Louisville Cardinals,Carson,BFO,Y,Y,N/A,N/A,N/A,Live,38,46
 401920544,2026-11-28T04:00:00+00:00,Creighton Bluejays,Gonzaga Bulldogs,,Jack,N,Y,GONZ -6.5,N/A,N/A,Upcoming,0,0
 401920535,2026-11-28T04:30:00+00:00,San Diego State Aztecs,Texas Tech Red Raiders,Carson,Matt,Y,Y,TTU -8.5,N/A,N/A,Upcoming,0,0
 401918961,2026-11-28T17:00:00+00:00,Elon Phoenix,NC State Wolfpack,,Matt,N,Y,NCSU -20.5,N/A,N/A,Upcoming,0,0
